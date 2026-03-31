@@ -71,21 +71,44 @@ INPUT DATA
 SEED DATA (NVIDIA):
 {{INSERT_FULL_SEED_JSON_HERE}}
 
-INTERVIEW OUTPUT (from Step 2):
-{{INSERT_FULL_INTERVIEW_OUTPUT_JSON_HERE}}
+INTERVIEW TRANSCRIPT (from Step 2 — the "transcript" field):
+{{INSERT_TRANSCRIPT_JSON_HERE}}
+
+EXTRACTED PROFILE (from Step 2 — the "extracted_profile" field, including preferences, summaries, others_misc):
+{{INSERT_EXTRACTED_PROFILE_JSON_HERE}}
 
 ===============================================================================
-VERIFICATION TASK
+VERIFICATION TASK — 4 DIRECTIONS
 ===============================================================================
 
-For EACH expert, produce observations that compare the interview output against the
-seed data. Each observation should be one of:
+You must verify in ALL FOUR directions below. For each direction, each expert
+produces observations tagged with one of:
 
-- CONSISTENT: The interview faithfully reflects or enriches the seed data
-- INCONSISTENT: The interview contradicts the seed data (explain the discrepancy)
-- GAP: Something in the seed data was never mentioned in the interview (or vice versa)
+- CONSISTENT: Information aligns or is faithfully enriched
+- INCONSISTENT: Information contradicts (explain the discrepancy)
+- GAP: Information present in one source but missing from the other
 
-Each expert should produce 6-10 observations covering their full domain.
+DIRECTION 1: SEED ↔ INTERVIEW Q&A
+Does the interview transcript contradict the NVIDIA seed data?
+Each expert produces 4-6 observations comparing seed fields to interview answers.
+
+DIRECTION 2: INTERVIEW Q&A ↔ EXTRACTED PROFILE (summaries + preferences + others_misc)
+Does the extracted_profile faithfully represent the interview?
+Each expert produces 4-6 observations checking whether summaries, preferences, and
+others_misc accurately capture what was said in the transcript.
+
+DIRECTION 3: EXTRACTED PROFILE ↔ ITSELF (internal consistency)
+Are there any self-contradictions within the extracted_profile?
+Check for contradictions BETWEEN: summaries vs. preferences, preferences vs.
+others_misc, summaries vs. others_misc, and within each section.
+Each expert produces 2-4 observations from their domain.
+
+DIRECTION 4: COMPLETENESS — NO MISSING KEY INFORMATION
+Do summaries + preferences + others_misc together capture EVERYTHING important
+from the interview? Scan the full transcript and flag any substantive information
+(facts, behaviors, preferences, relationships, events) that was mentioned in the
+interview but is absent from ALL parts of the extracted_profile.
+Each expert produces 3-5 observations from their domain.
 
 ===============================================================================
 SUMMARY GENERATION TASK
@@ -135,32 +158,72 @@ Return a single JSON object:
 
   "experts": {
     "demographer": {
-      "observations": [
-        {
-          "id": 1,
-          "text": "Description of what was compared and the finding",
-          "verdict": "CONSISTENT | INCONSISTENT | GAP",
-          "seed_ref": "specific seed field or 'not in seed'",
-          "interview_ref": "Q## reference or 'not in interview'"
-        }
-      ],
-      "summary": {
-        "consistent": 0,
-        "inconsistent": 0,
-        "gaps": 0
+      "direction_1_seed_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Description of what was compared and the finding",
+            "verdict": "CONSISTENT | INCONSISTENT | GAP",
+            "source_a_ref": "specific seed field",
+            "source_b_ref": "Q## reference"
+          }
+        ],
+        "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      },
+      "direction_2_interview_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Description of what the interview says vs what the extracted_profile captures",
+            "verdict": "CONSISTENT | INCONSISTENT | GAP",
+            "source_a_ref": "Q## reference",
+            "source_b_ref": "extracted_profile field (e.g., preferences.food_and_dining, summaries.demographer, others_misc.cultural_and_linguistic)"
+          }
+        ],
+        "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      },
+      "direction_3_profile_internal_consistency": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Description of any self-contradiction within the extracted_profile",
+            "verdict": "CONSISTENT | INCONSISTENT",
+            "field_a": "extracted_profile field",
+            "field_b": "extracted_profile field"
+          }
+        ],
+        "summary": { "consistent": 0, "inconsistent": 0 }
+      },
+      "direction_4_completeness": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Information from the interview that is missing from the entire extracted_profile",
+            "verdict": "PRESENT | MISSING",
+            "interview_ref": "Q## reference",
+            "should_be_in": "suggested extracted_profile field"
+          }
+        ],
+        "summary": { "present": 0, "missing": 0 }
       }
     },
     "behavioral_economist": {
-      "observations": [],
-      "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      "direction_1_seed_vs_interview": { "observations": [], "summary": {} },
+      "direction_2_interview_vs_profile": { "observations": [], "summary": {} },
+      "direction_3_profile_internal_consistency": { "observations": [], "summary": {} },
+      "direction_4_completeness": { "observations": [], "summary": {} }
     },
     "political_scientist": {
-      "observations": [],
-      "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      "direction_1_seed_vs_interview": { "observations": [], "summary": {} },
+      "direction_2_interview_vs_profile": { "observations": [], "summary": {} },
+      "direction_3_profile_internal_consistency": { "observations": [], "summary": {} },
+      "direction_4_completeness": { "observations": [], "summary": {} }
     },
     "psychologist": {
-      "observations": [],
-      "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      "direction_1_seed_vs_interview": { "observations": [], "summary": {} },
+      "direction_2_interview_vs_profile": { "observations": [], "summary": {} },
+      "direction_3_profile_internal_consistency": { "observations": [], "summary": {} },
+      "direction_4_completeness": { "observations": [], "summary": {} }
     }
   },
 

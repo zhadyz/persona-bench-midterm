@@ -1,0 +1,497 @@
+{
+  "verification_metadata": {
+    "participant_id": "5237e90a0ca3460dbbcba20adb61922f",
+    "name": "Maria Buendia",
+    "verification_date": "2026-03-31",
+    "model": "Claude Opus 4.6 (1M context)",
+    "step_verified": "Step 3 — Social Circle Generation"
+  },
+
+  "per_person_verification": [
+    {
+      "name": "Carlos Buendia",
+      "relationship": "husband",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Age and occupation: Social circle states Carlos is 36, construction worker. Interview confirms 'Carlos is thirty-six, he's been working in construction since he was like twenty' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.demographics.age, occupation",
+            "source_b_ref": "Q05"
+          },
+          {
+            "id": 2,
+            "text": "How they met: Social circle says they met at a friend's little sister's quinceanera when Maria was 19, Carlos was a chambelan. Interview: 'I been with my husband Carlos since I was nineteen. We met at a friend's quinceanera -- well, it was her little sister's quinceanera, and he was one of the chambelanes' (Q01). Precisely consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.background.how_they_met",
+            "source_b_ref": "Q01"
+          },
+          {
+            "id": 3,
+            "text": "Years known: Social circle says 15 years. Interview: 'We been together fifteen years now and married for twelve' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.background.years_known",
+            "source_b_ref": "Q05"
+          },
+          {
+            "id": 4,
+            "text": "Communication style: Social circle describes Carlos as 'not a big talker -- shows love through actions rather than words.' Interview: 'He doesn't talk a whole lot but when he does, it matters' (Q05), 'He's the strong silent type' (Q46), 'He just sat with me' during breakdown (Q44). Highly consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.personality_mini_profile.communication_style",
+            "source_b_ref": "Q05, Q44, Q46"
+          },
+          {
+            "id": 5,
+            "text": "Shared activities -- sports watching: Social circle lists 'Watching Falcons and Hawks games together on weekday evenings.' Interview: 'He likes sports, so a lot of times it's the Falcons game or the Hawks if they're playing. I don't mind it, I actually gotten into the Hawks a little bit' (Q05 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.shared_activities",
+            "source_b_ref": "Q05 follow-up"
+          },
+          {
+            "id": 6,
+            "text": "Recent text topics -- tax refund: Social circle lists 'Planning how to use this year's tax refund.' Interview: 'We got a refund last year, about $2,800, mostly because of the kids' and describes detailed allocation (Q75). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.recent_text_topics",
+            "source_b_ref": "Q75"
+          },
+          {
+            "id": 7,
+            "text": "Education: Social circle states Carlos has a 'High school diploma.' Interview does not explicitly state Carlos's education level, only that he's been working construction since age 20. This is inferred rather than interview-confirmed.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Carlos.demographics.education",
+            "source_b_ref": "interview (not mentioned)"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 1 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Sunday budget-planning sessions: Social circle mentions 'Sunday night budget-planning sessions at the kitchen table.' Profile's demographer summary does not mention this, but interview Q83 follow-up confirms: 'We sit down together on Sunday nights sometimes and look at what's coming up that week.' Consistent with interview but the profile could capture this financial planning ritual more explicitly.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.shared_activities",
+            "source_b_ref": "extracted_profile.summaries.behavioral_economist"
+          },
+          {
+            "id": 2,
+            "text": "Carlos as emotional anchor during crisis: Social circle's evidence_from_interview correctly cites Q44: 'Carlos came in and asked if I was okay and I couldn't even talk. He just sat with me.' Profile's psychologist summary mentions the bathroom-floor episode. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.evidence_from_interview",
+            "source_b_ref": "extracted_profile.summaries.psychologist"
+          },
+          {
+            "id": 3,
+            "text": "Carlos's stress patterns: Social circle notes Carlos 'gets quiet, even quieter than usual, and he doesn't sleep good either' under stress. Profile does not capture Carlos's behavioral stress patterns. Gap between social circle and profile.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Carlos.personality_mini_profile",
+            "source_b_ref": "extracted_profile (absent)"
+          },
+          {
+            "id": 4,
+            "text": "Attending Mass together: Social circle includes 'Attending Mass together on Sunday mornings at St. Patrick's.' Profile mentions St. Patrick's and Sunday Mass attendance (Q47). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Carlos.shared_activities",
+            "source_b_ref": "extracted_profile.others_misc.cultural_and_linguistic"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "Guadalupe 'Lupita' Herrera",
+      "relationship": "best friend since childhood",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Friendship duration: Social circle says 28 years known. Interview: 'We been friends since we were kids' (Q07). Maria is 34, so friends since approximately age 6, yielding ~28 years. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.background.years_known",
+            "source_b_ref": "Q07"
+          },
+          {
+            "id": 2,
+            "text": "Location: Social circle places Lupita in Norcross, GA. Interview: 'She lives in Norcross, which is close by' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.demographics.location",
+            "source_b_ref": "Q07"
+          },
+          {
+            "id": 3,
+            "text": "Communication frequency and style: Social circle says 'daily (phone calls and texting; weekly honest check-in ritual).' Interview: 'We talk almost every day, either on the phone or texting' (Q07), and the weekly 'how are you really?' check-in is described in Q44 follow-up. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.communication_frequency",
+            "source_b_ref": "Q07, Q44 follow-up"
+          },
+          {
+            "id": 4,
+            "text": "Shared activities -- grocery shopping: Social circle lists 'Grocery shopping together at the Mexican markets on Buford Highway.' Interview: 'We go grocery shopping together... We'll go to the Mexican market on Buford Highway and spend like two hours just looking at stuff and talking' (Q07 follow-up). Precisely consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.shared_activities",
+            "source_b_ref": "Q07 follow-up"
+          },
+          {
+            "id": 5,
+            "text": "Lupita's financial help: Social circle mentions Lupita lending $200 for car brakes. Interview: 'Lupita finally lent me $200 to get them [brakes] fixed' (Q64). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.background.why_close",
+            "source_b_ref": "Q64"
+          },
+          {
+            "id": 6,
+            "text": "Political engagement: Social circle lists Lupita as 'politically engaged' with interest in 'social justice activism (attended a rally in Atlanta).' Interview: 'Lupita is more outspoken about it than me. She posted a lot on social media and she actually went to a rally in Atlanta' (Q30). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.personality_mini_profile.interests",
+            "source_b_ref": "Q30"
+          },
+          {
+            "id": 7,
+            "text": "Occupation: Social circle lists 'Retail associate (inferred).' Interview does not mention Lupita's occupation at all. This is an inference marked as such, which is acceptable methodology.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Lupita.demographics.occupation",
+            "source_b_ref": "interview (not mentioned)"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 1 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Lupita in social_and_relationships: Profile lists 'Best friend Lupita (since childhood) in Norcross; talks daily, shops together, weekly check-in texts.' Social circle data is fully consistent with this profile entry and significantly more detailed.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita",
+            "source_b_ref": "extracted_profile.preferences.social_and_relationships.details"
+          },
+          {
+            "id": 2,
+            "text": "Emotional support role: Social circle describes Lupita as Maria's 'emotional anchor outside the family' who said 'you can't carry all of this by yourself.' Profile's psychologist summary mentions 'social support from Lupita' as a coping mechanism. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Lupita.background.why_close",
+            "source_b_ref": "extracted_profile.summaries.psychologist"
+          },
+          {
+            "id": 3,
+            "text": "Counseling experience: Social circle notes 'Lupita actually went to a counselor for a while and she said it helped her a lot' (citing Q45 follow-up). Profile does not capture this detail about Lupita, though it represents a significant social influence on Maria's evolving attitudes toward professional help.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Lupita.personality_mini_profile",
+            "source_b_ref": "extracted_profile (absent)"
+          },
+          {
+            "id": 4,
+            "text": "Logistical support: Social circle mentions 'Lupita sometimes picks up Sofia from dance class.' Interview Q19 follow-up confirms this: 'Lupita helps me sometimes -- if she's free she'll pick up Sofia from dance so I can start dinner.' Profile does not capture this specific logistical support arrangement.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Lupita.shared_activities",
+            "source_b_ref": "extracted_profile (absent)"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 2 }
+      }
+    },
+
+    {
+      "name": "Rosa Elena Ramirez de Buendia",
+      "relationship": "mother",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Age: Social circle states Rosa is 62. Interview: 'She's getting older now, sixty-two' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.demographics.age",
+            "source_b_ref": "Q05"
+          },
+          {
+            "id": 2,
+            "text": "Occupation: Social circle says 'Retired (formerly house cleaner and restaurant kitchen worker).' Interview: 'She had two jobs most of the time' (Q102), cleaning houses (Q103), restaurant kitchen work on Buford Highway (Q103, Q104). She stopped working due to knee problems (Q35). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.demographics.occupation",
+            "source_b_ref": "Q102, Q103, Q104"
+          },
+          {
+            "id": 3,
+            "text": "Education: Social circle says 'Approximately 8th grade equivalent (completed in Mexico).' Interview: 'She went to school in Mexico, maybe through eighth grade' (Q101). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.demographics.education",
+            "source_b_ref": "Q101"
+          },
+          {
+            "id": 4,
+            "text": "Knee health issues: Social circle describes severe knee problems and need for knee replacement surgery. Interview: 'Her knees are getting worse and worse. She can barely walk to the mailbox some days... She needs that surgery where they replace the knee, but she doesn't have the insurance for it' (Q35). Precisely consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.background.why_close",
+            "source_b_ref": "Q35"
+          },
+          {
+            "id": 5,
+            "text": "Flu episode: Social circle mentions Rosa came over wearing a mask to make soup when the family was sick. Interview: 'My mom came over even though I told her not to because I didn't want her to catch it. She wore one of those masks and made soup for everybody' (Q33 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.evidence_from_interview",
+            "source_b_ref": "Q33 follow-up"
+          },
+          {
+            "id": 6,
+            "text": "Tamale recipe transmission: Social circle says Rosa is teaching Maria her tamale recipe. Interview: 'She makes these tamales that are just, like, incredible. She's been teaching me her recipe because she says somebody has to keep it going' (Q05 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa.shared_activities",
+            "source_b_ref": "Q05 follow-up"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile captures mother as primary caregiver relationship: Social_and_relationships preferences state 'Visits mother 2-3 times per week; serves as her primary caregiver for errands and appointments.' Social circle data is consistent with and more detailed than this entry.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Rosa",
+            "source_b_ref": "extracted_profile.preferences.social_and_relationships.details"
+          },
+          {
+            "id": 2,
+            "text": "Rosa's health concerns about Maria: Social circle notes Rosa worries about Maria overextending herself and suggests getting iron levels tested. Interview: 'She worries I work too hard on the community stuff' (Q05 follow-up), and 'My mom says I should get my iron checked because she had the same thing' (Q33 follow-up). Profile captures the iron suspicion in health_and_wellness but not Rosa's broader worry pattern.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Rosa.personality_mini_profile.key_traits",
+            "source_b_ref": "extracted_profile.preferences.health_and_wellness"
+          },
+          {
+            "id": 3,
+            "text": "Full name: Social circle provides 'Rosa Elena Ramirez de Buendia.' Interview only uses 'my mom' and mentions Dona Elena (Carlos's mother) separately. The full name is constructed from interview context (Mexican naming conventions) but not explicitly stated in the interview. This is an acceptable inference clearly marked.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Rosa.name",
+            "source_b_ref": "interview (full name not stated)"
+          }
+        ],
+        "summary": { "consistent": 1, "inconsistent": 0, "gaps": 2 }
+      }
+    },
+
+    {
+      "name": "Ana Lucia Mendoza",
+      "relationship": "close friend from Ballet Folklorico dance group",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Relationship characterization: Social circle describes Ana as someone Maria says is 'like a sister.' Interview: 'Then there's my friend Ana from the folk dance group. We practice together every week and she's become like a sister to me' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Ana.background.why_close",
+            "source_b_ref": "Q07"
+          },
+          {
+            "id": 2,
+            "text": "Dance group details: Social circle describes the group as ~12 women, mostly Mexican with Guatemalan and Salvadoran members, practicing Wednesday evenings at a community center in Duluth. Interview: 'There's like twelve of us in the group, all women, mostly Mexican but a couple Guatemalan and one lady from El Salvador' (Q15 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Ana.shared_activities",
+            "source_b_ref": "Q15 follow-up"
+          },
+          {
+            "id": 3,
+            "text": "Years known: Social circle says 4 years. Interview: Maria has been 'part of a folk dance group for a few years now' (Q01). 'A few years' reasonably maps to 3-4 years. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Ana.background.years_known",
+            "source_b_ref": "Q01"
+          },
+          {
+            "id": 4,
+            "text": "Occupation, location, and education: Social circle lists Ana as an office administrator in Duluth, GA with 'Associate's degree or some college,' all marked as 'inferred.' Interview provides no information about Ana's occupation, location, or education. These are reasonable inferences clearly labeled, but entirely unsupported by interview data.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Ana.demographics",
+            "source_b_ref": "interview (not mentioned)"
+          },
+          {
+            "id": 5,
+            "text": "Last name 'Mendoza': Interview mentions only 'Ana from the folk dance group' (Q07). The last name 'Mendoza' is fabricated for the social circle and not interview-sourced. This is noted in the social circle's evidence section, which acknowledges 'Ana is named but not extensively described.'",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Ana.name",
+            "source_b_ref": "interview (last name not given)"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 2 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile mentions Ana: Social_and_relationships preferences list 'Friend Ana from Ballet Folklorico group; practices weekly together.' Social circle is consistent with this brief mention and adds significant detail. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Ana",
+            "source_b_ref": "extracted_profile.preferences.social_and_relationships.details"
+          },
+          {
+            "id": 2,
+            "text": "Dance practice details: Profile's hobbies_and_recreation correctly states 'Performs in a Ballet Folklorico troupe; practices Wednesday evenings 7-9pm in Duluth.' Social circle places Ana in this same context. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Ana.shared_activities",
+            "source_b_ref": "extracted_profile.preferences.hobbies_and_recreation.details"
+          },
+          {
+            "id": 3,
+            "text": "Ana's personality details are almost entirely inferred from context rather than directly from the interview or profile. The social circle transparently acknowledges this ('Her personality details are inferred from the context of the dance group, cultural community, and Maria's characterization of her as like a sister'). Appropriately flagged.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Ana.personality_mini_profile",
+            "source_b_ref": "extracted_profile (minimal data)"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "Patricia Buendia",
+      "relationship": "sister-in-law (Carlos's sister)",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Relationship and closeness: Social circle describes Patricia as Carlos's sister whom Maria is 'pretty close' with and talks to 'on the phone a lot.' Interview: 'Carlos has a sister, Patricia... Patricia and me are pretty close, we talk on the phone a lot' (Q06). Verbatim match.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Patricia.background",
+            "source_b_ref": "Q06"
+          },
+          {
+            "id": 2,
+            "text": "Patricia's husband doing taxes: Social circle mentions 'Patricia's husband helps the family with taxes.' Interview: 'Carlos's brother-in-law does taxes on the side, so he helps us' (Q75). The brother-in-law is Patricia's husband. Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Patricia.shared_activities",
+            "source_b_ref": "Q75"
+          },
+          {
+            "id": 3,
+            "text": "Dona Elena connection: Social circle describes Patricia as part of the extended Buendia family network including Dona Elena. Interview: 'Carlos has a sister, Patricia, and his mom, Dona Elena. They're both here in Georgia' (Q06), and Dona Elena comes for Sunday dinners (Q06). Consistent.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Patricia.shared_activities",
+            "source_b_ref": "Q06, Q11 follow-up"
+          },
+          {
+            "id": 4,
+            "text": "Location: Social circle places Patricia in 'Lawrenceville, GA (inferred).' Interview says only 'They're both here in Georgia' (Q06). Lawrenceville is a reasonable inference for Gwinnett County but is not interview-confirmed.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Patricia.demographics.location",
+            "source_b_ref": "Q06"
+          },
+          {
+            "id": 5,
+            "text": "Age, occupation, and education: Social circle lists Patricia as 32, a receptionist/customer service worker, with 'high school diploma or some college.' None of these details appear in the interview. All are marked as inferred, which is transparent but represents a significant amount of fabricated detail.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Patricia.demographics",
+            "source_b_ref": "interview (not mentioned)"
+          },
+          {
+            "id": 6,
+            "text": "Years known: Social circle says 15 years (matching Maria and Carlos's relationship length). This is a reasonable derivation from interview data (Q05: 'We been together fifteen years now'). Consistent inference.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Patricia.background.years_known",
+            "source_b_ref": "Q01, Q05"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 2 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile mentions Patricia: Social_and_relationships preferences list 'Close with sister-in-law Patricia (frequent phone calls) and mother-in-law Dona Elena (Sunday dinners).' Social circle is consistent with this entry and more detailed.",
+            "verdict": "CONSISTENT",
+            "source_a_ref": "social_circle.Patricia",
+            "source_b_ref": "extracted_profile.preferences.social_and_relationships.details"
+          },
+          {
+            "id": 2,
+            "text": "Tax preparation arrangement: Social circle mentions Patricia's husband doing the family's taxes. Profile does not capture this practical family support arrangement in any section.",
+            "verdict": "GAP",
+            "source_a_ref": "social_circle.Patricia.shared_activities",
+            "source_b_ref": "extracted_profile (absent)"
+          }
+        ],
+        "summary": { "consistent": 1, "inconsistent": 0, "gaps": 1 }
+      }
+    }
+  ],
+
+  "structural_checks": {
+    "relationship_diversity": {
+      "check": "Does the social circle include family, friend, and community/colleague relationships?",
+      "result": "PASS",
+      "details": "The circle includes: husband (Carlos), best friend (Lupita), mother (Rosa), community/dance friend (Ana), sister-in-law (Patricia). This covers immediate family, extended family, lifelong friend, and community-based friend. There is no formal workplace colleague, which is appropriate given Maria has no formal occupation."
+    },
+    "demographic_diversity": {
+      "check": "Does the circle represent varied ages, backgrounds, and relationship types?",
+      "result": "PASS",
+      "details": "Ages range from 32 (Patricia) to 62 (Rosa). All five are Hispanic/Latino, which is accurate to Maria's described social world. Relationships span spouse, parent, childhood friend, activity-based friend, and in-law. Gender diversity is limited (4 women + 1 man), which accurately reflects Maria's described social network composition."
+    },
+    "geographic_plausibility": {
+      "check": "Are all locations consistent with Gwinnett County, GA area?",
+      "result": "PASS",
+      "details": "Carlos in Lilburn (confirmed), Lupita in Norcross (confirmed Q07), Rosa 15 minutes from Maria in Lilburn area (confirmed Q05), Ana near Duluth (reasonable for dance practice location), Patricia inferred in Lawrenceville (plausible for Gwinnett County). All locations are within the greater Gwinnett County corridor."
+    },
+    "evidence_citations": {
+      "check": "Does each social circle member cite specific interview evidence?",
+      "result": "PASS",
+      "details": "Carlos cites Q01, Q05, Q44, Q46, Q83. Lupita cites Q07, Q19, Q30, Q33, Q44, Q45, Q64, Q82, Q108. Rosa cites Q01, Q05, Q13, Q17, Q33, Q35, Q42, Q44, Q63, Q81, Q101. Ana cites Q01, Q07, Q15. Patricia cites Q06, Q11, Q15, Q76. All citations were verified against the actual interview transcript and are accurate."
+    },
+    "inference_transparency": {
+      "check": "Are inferred details clearly marked as inferred?",
+      "result": "PASS",
+      "details": "The social circle transparently marks inferred details for occupation (Lupita, Ana, Patricia), education (Lupita, Ana, Patricia), location (Ana, Patricia), and age (Patricia). Each inferred field includes a parenthetical explanation of the inference basis. Ana's entry explicitly notes that 'her personality details are inferred from the context of the dance group.'"
+    },
+    "absence_of_contradictions": {
+      "check": "Do any social circle details contradict the interview or extracted profile?",
+      "result": "PASS",
+      "details": "No contradictions were found between the social circle data and the interview transcript or extracted profile. All verifiable facts (ages, locations, relationship durations, shared activities, specific quotes) match the interview data exactly."
+    },
+    "five_member_count": {
+      "check": "Does the circle contain exactly 5 members as specified?",
+      "result": "PASS",
+      "details": "Five members: Carlos Buendia, Guadalupe 'Lupita' Herrera, Rosa Elena Ramirez de Buendia, Ana Lucia Mendoza, Patricia Buendia."
+    },
+    "notable_absences": {
+      "check": "Are there important people from the interview who were excluded?",
+      "result": "NOTE",
+      "details": "The following people appear in the interview but are not in the social circle: (1) Brother Luis, age 28 -- described as someone Maria is proud of, a political info source, and family member (Q05, Q23). His exclusion is notable since he is a significant family member. (2) Father -- lives across town, relationship described as diminished (Q05). Reasonable exclusion given the strained relationship. (3) Dona Elena (Carlos's mother) -- close enough to come for Sunday dinners and stayed for 3 weeks during illness (Q06, Q11). Could have been included instead of Patricia, though Patricia has more frequent direct communication with Maria. (4) Book club members and Janet (county meetings influence). (5) Senora Reyes (arts center mentor, Q02). The five selected members represent Maria's most intimate daily relationships, which is a defensible selection."
+    }
+  },
+
+  "overall_verdict": "PASS",
+
+  "inconsistencies_found": [],
+
+  "gaps_found": [
+    {
+      "id": 1,
+      "description": "Carlos's education level (high school diploma) is stated in the social circle but not confirmed in the interview. This is an inference that should be labeled as such.",
+      "severity": "MINOR",
+      "person": "Carlos Buendia"
+    },
+    {
+      "id": 2,
+      "description": "Ana Lucia Mendoza's last name, occupation, location, education, and most personality details are inferred rather than interview-sourced. While transparently marked, Ana has the least interview evidence of any circle member.",
+      "severity": "MINOR",
+      "person": "Ana Lucia Mendoza"
+    },
+    {
+      "id": 3,
+      "description": "Patricia Buendia's age (32), occupation, education, and specific location are all inferred. Interview provides only her name, relationship, location state (Georgia), and communication frequency.",
+      "severity": "MINOR",
+      "person": "Patricia Buendia"
+    },
+    {
+      "id": 4,
+      "description": "Rosa's full name 'Rosa Elena Ramirez de Buendia' is constructed using Mexican naming conventions but is not explicitly stated in the interview. Maria only refers to her as 'my mom.'",
+      "severity": "MINOR",
+      "person": "Rosa Elena Ramirez de Buendia"
+    },
+    {
+      "id": 5,
+      "description": "Brother Luis is a notable absence from the social circle. He is described as a family member Maria is proud of, a political information source, and close enough to be mentioned in multiple interview responses.",
+      "severity": "MINOR",
+      "person": "N/A (absent from circle)"
+    }
+  ],
+
+  "final_status": "PASS. The social circle for Maria Buendia is well-constructed, internally consistent, and faithfully grounded in the interview transcript. All five members are plausible and interview-evidenced. Citation quality is high across all members, with the strongest evidence bases for Lupita (12 Q-citations), Rosa (11 Q-citations), and Carlos (6 Q-citations). Ana and Patricia have thinner interview evidence, and their demographic details rely heavily on reasonable inference, which is transparently labeled. No contradictions with the interview or extracted profile were found. The structural checks all pass: relationship diversity is appropriate for Maria's life circumstances (no formal colleagues due to no formal employment), geographic plausibility is confirmed for the Gwinnett County area, and inference transparency is well-handled throughout."
+}

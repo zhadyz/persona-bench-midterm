@@ -1,0 +1,468 @@
+{
+  "verification_metadata": {
+    "participant_id": "e7c0574639a244c8972c92aab9501035",
+    "name": "Mary Alberti",
+    "verification_date": "2026-03-31",
+    "model": "Claude Opus 4.6 (1M context)",
+    "step_verified": "Step 3 -- Social Circle Generation"
+  },
+
+  "per_person_verification": [
+    {
+      "name": "Jessica Kowalski",
+      "relationship": "best friend (since high school)",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Jess is Mary's best friend from high school, a dental hygienist living about ten minutes away. Interview Q07 confirms: 'My best friend is Jess -- we went to high school together. She's a dental hygienist now, lives about ten minutes from me.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "relationship, demographics.occupation, demographics.location"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states they do weekly craft brewery tastings, cook dinner at Mary's apartment (Jess brings wine, Mary cooks), and visit the Dane County Farmers Market. Interview Q07 follow-up confirms: 'our go-to thing is craft brewery tastings,' 'we'll go to the farmers market on the Capitol Square,' 'I'll cook something and she brings wine.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states Jess crashes on Mary's couch about once a month after late tastings. Interview Q13 confirms: 'Jess crashes on my couch once in a while if we've been out late at a tasting, but that's maybe once a month.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q13",
+            "social_circle_ref": "shared_activities (overnight stays)"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes Jess as 'politically engaged and opinionated' who 'sends articles and news links frequently' and has 'gone to a couple of local demonstrations.' Interview Q23 follow-up confirms Jess sends articles; Q30 confirms 'She posts stuff on social media, she's gone to a couple of local demonstrations. She's the one who sends me articles.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q23 follow-up, Q30",
+            "social_circle_ref": "personality_mini_profile.key_traits, personality_mini_profile.interests"
+          },
+          {
+            "id": 5,
+            "text": "Social circle states Jess suggested therapy with sliding-scale fees. Interview Q45 follow-up confirms: 'Jess has mentioned it, actually. She's said there are people you can talk to, and some places do sliding scale fees.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q45 follow-up",
+            "social_circle_ref": "recent_text_topics (therapy suggestion)"
+          },
+          {
+            "id": 6,
+            "text": "Social circle states Jess shared marijuana gummies with Mary. Interview Q39 confirms: 'Jess had some gummies once at her place and I tried one.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q39",
+            "social_circle_ref": "evidence_from_interview (Q39)"
+          },
+          {
+            "id": 7,
+            "text": "Social circle sets Jess's age at 28 (same as Mary). Interview Q07 says they went to high school together, implying similar age. Consistent inference.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "demographics.age"
+          },
+          {
+            "id": 8,
+            "text": "Social circle gives Jess an associate's degree in dental hygiene. Interview only states she is a dental hygienist (Q07). The associate's degree is a reasonable inference for the profession but not directly stated.",
+            "verdict": "UNSOURCED",
+            "interview_ref": "Q07",
+            "social_circle_ref": "demographics.education"
+          }
+        ],
+        "summary": { "consistent": 7, "inconsistent": 0, "gaps": 0, "unsourced": 1 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Jess is Mary's primary emotional support system. Profile social_and_relationships confirms: 'Best friend Jess (dental hygienist, high school friend): weekly hangouts, craft brewery tastings, home dinners, primary emotional support.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships.details",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes shared interest in Madison's food and craft beer scene. Profile hobbies_and_recreation confirms: 'Craft brewery tastings: attends with Jess, approximately weekly when budget allows.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.hobbies_and_recreation.details",
+            "social_circle_ref": "shared_activities, personality_mini_profile.interests"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Jess as Mary's political information intermediary. Profile political_scientist summary confirms: 'relies on a politically active friend as an information intermediary.' Profile community_and_civic lists 'Processes political and social issues internally; discusses with close friends only.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "summaries.political_scientist, preferences.community_and_civic",
+            "social_circle_ref": "personality_mini_profile.interests, background.why_close"
+          },
+          {
+            "id": 4,
+            "text": "Social circle mentions Jess encouraging Mary to apply to Madison College. Profile work_and_career confirms enrollment planning but doesn't specifically cite Jess's encouragement. This is a minor gap.",
+            "verdict": "GAP",
+            "profile_ref": "preferences.work_and_career (no mention of Jess encouraging enrollment)",
+            "social_circle_ref": "recent_text_topics (Madison College enrollment logistics)"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "Linda Alberti",
+      "relationship": "mother",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Linda is 61, part-time bookkeeper at a dental practice. Interview Q05 confirms: 'My mom, Linda, she's sixty-one now. She's still working part time doing bookkeeping.' Q103-Q104 confirm the dental practice workplace.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q103, Q104",
+            "social_circle_ref": "demographics.age, demographics.occupation"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Linda has an associate's degree in accounting from community college. Interview Q101 confirms: 'She went to a community college for a little while and got an associate's degree in accounting.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q101",
+            "social_circle_ref": "demographics.education"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states they talk daily on the phone, with Linda calling on her lunch break. Interview Q05 confirms: 'We talk on the phone almost every day, even if it's just for five minutes.' Q05 follow-up: 'She calls me on her lunch break usually, or I'll call her after my shift.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q05 follow-up",
+            "social_circle_ref": "communication_frequency, personality_mini_profile.communication_style"
+          },
+          {
+            "id": 4,
+            "text": "Social circle states Linda taught Mary financial meticulousness (receipt-checking, budgeting). Interview Q05 confirms: 'She's the one who taught me to be careful with money, to check every receipt.' Q02 follow-up describes receipt-checking during family financial strain.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q02 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 5,
+            "text": "Social circle states Linda sends articles about people who opened restaurants later in life. Interview Q05 follow-up confirms: 'She'll text me articles about people who opened restaurants later in life.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up",
+            "social_circle_ref": "personality_mini_profile.interests, recent_text_topics"
+          },
+          {
+            "id": 6,
+            "text": "Social circle states Linda is 'showing signs of exhaustion from caregiving burden for husband Tony.' Interview Q46 confirms: 'She's told me she's tired, which is unlike her... I think being the one managing all the bills and the insurance stuff and working part time has worn her down.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q46",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 7,
+            "text": "Social circle states Linda brought food when Mary was sick. Interview Q33 follow-up confirms: 'My mom brought me chicken broth and crackers.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q33 follow-up",
+            "social_circle_ref": "shared_activities (referenced in evidence_from_interview)"
+          },
+          {
+            "id": 8,
+            "text": "Social circle states Linda lives on the east side of Madison. Interview Q01 mentions growing up in a 'little two-bedroom house on the east side.' Q98 confirms living with both parents at 16. Consistent with east-side location.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q01, Q98",
+            "social_circle_ref": "demographics.location"
+          }
+        ],
+        "summary": { "consistent": 8, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes daily phone calls and 2-3 visits per week. Profile social_and_relationships confirms: 'daily phone calls with mom' and 'frequent visits 2-3x/week.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships.details",
+            "social_circle_ref": "communication_frequency, shared_activities"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Linda as Mary's 'biggest cheerleader about the diner dream.' Profile work_and_career mentions the diner dream but doesn't specifically attribute Linda's cheerleading role. However, this is captured in social_and_relationships indirectly.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships, preferences.work_and_career",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 3,
+            "text": "Social circle mentions Linda has worked at the same dental practice for about 25 years. Profile does not capture the tenure length specifically, but this detail is from Q103 and is a reasonable enrichment.",
+            "verdict": "GAP",
+            "profile_ref": "extracted_profile (Linda's work tenure not captured)",
+            "social_circle_ref": "evidence_from_interview (Q103 reference)"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "Tony Alberti",
+      "relationship": "father",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Tony is 63, retired machinist with disability-related early retirement, high school diploma. Interview Q05 confirms: 'My dad, Tony, he's sixty-three. He retired from the machine shop a couple years ago because of his back.' Q100 confirms high school diploma.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q100",
+            "social_circle_ref": "demographics.age, demographics.occupation, demographics.education"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Tony and Mary watch Packers games together on Sundays during football season. Interview Q05 confirms: 'We watch Packers games together on Sundays during the season -- that's kind of our thing.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states Tony is 'quiet, stoic, and proud' and 'stubborn about accepting help.' Interview Q05 describes him as 'a quiet guy' and Q35 follow-up states 'my mom tries to get him out of the house, but he's stubborn.' Q46 confirms he is 'hard to read' and 'frustrated.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q35 follow-up, Q46",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 4,
+            "text": "Social circle states Tony's pragmatic values ('Keep your head down and work hard,' 'You can always go later, but the bills are due now') shaped Mary's worldview. Interview Q22 confirms: 'My dad always said, \"Keep your head down and work hard.\"' Q02 follow-up: 'He was like, \"You can always go later, but the bills are due now.\"'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q22, Q02 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 5,
+            "text": "Social circle states Mary helps with yard work and picks up pharmacy refills. Interview Q17 follow-up confirms: 'I'll pick up his refills at the pharmacy or help him with yard work he can't bend down for.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q17 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 6,
+            "text": "Social circle states Tony operated CNC machines and lathes, making precision metal parts. Interview Q106 confirms: 'He operated CNC machines and lathes, made precision metal parts.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q106",
+            "social_circle_ref": "evidence_from_interview (Q106 reference)"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Tony's chronic back pain as a central emotional concern for Mary and motivation for career advancement. Profile social_and_relationships confirms parents as most important people; health_and_wellness and psychologist summary discuss father's condition as motivating management aspirations.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships, summaries.psychologist",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Tony uses a heating pad, OTC pain meds, and is supposed to walk daily but doesn't always. Profile sensory_and_physical_context in others_misc does not capture Tony's health details (it focuses on Mary's physical factors). However, health_and_wellness evidence references Q35.",
+            "verdict": "GAP",
+            "profile_ref": "preferences.health_and_wellness (Tony's specifics not detailed in Mary's profile)",
+            "social_circle_ref": "personality_mini_profile.interests, shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Sunday Packers games as their primary shared activity. Profile sports_and_fitness confirms: 'Green Bay Packers fan: watches every Sunday game, often with father Tony.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.sports_and_fitness.details",
+            "social_circle_ref": "shared_activities"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "DeShawn Mitchell",
+      "relationship": "coworker at the fast food restaurant",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle names DeShawn and describes his conversation about feeling nervous when a cop car slows down while he walks home from closing shifts. Interview Q26 follow-up confirms: 'There's this guy I work with, DeShawn, and he told me once that when he walks home from a closing shift, he gets nervous if a cop car slows down near him.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q26 follow-up",
+            "social_circle_ref": "background.why_close, evidence_from_interview"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes DeShawn as the only coworker Mary names explicitly. Interview confirms: across 109 questions, DeShawn is the only coworker mentioned by name (Q26 follow-up). Q07 and Q77 mention coworkers generically but only DeShawn gets named.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07, Q26 follow-up, Q77",
+            "social_circle_ref": "evidence_from_interview (note about uniqueness)"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states Mary describes coworker relationships as 'friendly but not hanging out after work.' Interview Q07 confirms: 'at work, I'm friendly with a couple of my coworkers, but I wouldn't call them close friends. We get along fine on shift, but I don't really hang out with them outside of work.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 4,
+            "text": "Social circle gives DeShawn's age as 24, some college (did not complete degree). Interview does not provide DeShawn's age or education. These are stated as inferred in the social circle notes.",
+            "verdict": "UNSOURCED",
+            "interview_ref": "Q26 follow-up (name only)",
+            "social_circle_ref": "demographics.age, demographics.education"
+          },
+          {
+            "id": 5,
+            "text": "Social circle gives DeShawn the last name 'Mitchell' and notes: 'His last name and some demographic details are inferred to create a plausible profile.' This is transparently disclosed as generated content rather than interview-derived.",
+            "verdict": "UNSOURCED",
+            "interview_ref": "Q26 follow-up (first name only)",
+            "social_circle_ref": "demographics (last name, specific details)"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0, "unsourced": 2 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes DeShawn's conversation as producing a 'genuine internal shift in Mary's understanding of racial inequality.' Profile political_scientist summary confirms: 'direct conversations with diverse coworkers shifted her awareness.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "summaries.political_scientist",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Mary does not socialize with coworkers outside work. Profile social_and_relationships confirms: 'Work friendships are shift-only; does not socialize with coworkers outside of work.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships.details",
+            "social_circle_ref": "shared_activities (all work-based)"
+          },
+          {
+            "id": 3,
+            "text": "Social circle lists interests for DeShawn including 'music (likely hip-hop and contemporary genres)' and 'gaming or sports.' These are entirely inferred with no interview support -- noted as plausible but speculative.",
+            "verdict": "GAP",
+            "profile_ref": "N/A",
+            "social_circle_ref": "personality_mini_profile.interests (speculative)"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 1 }
+      }
+    },
+
+    {
+      "name": "Priya Venkatesh",
+      "relationship": "running club friend",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle names Priya as a running club regular who Mary runs next to on Saturday mornings. Interview Q07 confirms: 'There's this guy Dave and a woman named Priya who I always end up running next to. We chat about whatever during the run.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "relationship, background.how_they_met"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Mary found the Madison Runners Club about two years ago via a local Facebook post. Interview Q07 follow-up confirms: 'I saw a post about the Madison Runners Club on a local Facebook group. I showed up one Saturday... That was about two years ago.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up",
+            "social_circle_ref": "background.how_they_met, background.years_known"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states the running club friends don't bring up politics -- 'we talk about running, the weather, what races are coming up.' Interview Q30 confirms: 'Most of my running club friends don't bring it up -- we talk about running, the weather, what races are coming up.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q30",
+            "social_circle_ref": "shared_activities (conversations), personality_mini_profile"
+          },
+          {
+            "id": 4,
+            "text": "Social circle gives Priya's last name as 'Venkatesh,' age 32, occupation as research associate at UW-Madison with a master's in public health, and Indian-American background. Interview only provides the first name 'Priya.' All other details are transparently disclosed as inferred.",
+            "verdict": "UNSOURCED",
+            "interview_ref": "Q07 (first name only)",
+            "social_circle_ref": "demographics (all details beyond first name)"
+          },
+          {
+            "id": 5,
+            "text": "Social circle mentions recipe exchanges between Mary and Priya. Interview does not mention any recipe exchanges with running club friends. This is a plausible inference but unsupported.",
+            "verdict": "UNSOURCED",
+            "interview_ref": "N/A",
+            "social_circle_ref": "recent_text_topics (recipe exchange)"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0, "unsourced": 2 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Priya as representing Mary's 'routine social thing' outside family and Jess. Profile social_and_relationships confirms: 'Madison Runners Club: Saturday morning regulars Dave and Priya; social but not deep friendships.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships.details",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Saturday morning group runs with 3-5 mile loops around Lake Mendota. Profile sports_and_fitness confirms: 'Runs 3-5 miles regularly around Lake Mendota; member of Madison Runners Club; Saturday morning group runs are a weekly commitment.'",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.sports_and_fitness.details",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Priya as bringing 'a different perspective' from a college-educated, different cultural background. Profile psychologist summary mentions 'moderate-low openness' but doesn't specifically discuss cross-cultural social exposure through the running group.",
+            "verdict": "GAP",
+            "profile_ref": "summaries.psychologist (cross-cultural exposure not noted)",
+            "social_circle_ref": "background.why_close"
+          }
+        ],
+        "summary": { "consistent": 2, "inconsistent": 0, "gaps": 1 }
+      }
+    }
+  ],
+
+  "structural_checks": {
+    "has_family_member": true,
+    "has_non_work_friend": true,
+    "has_work_colleague": true,
+    "diversity_adequate": true,
+    "all_have_evidence_citations": true,
+    "issues": [
+      "Dave (the other named running club regular from Q07) is not included as a social circle member, though this is not required -- five members is the target and the five chosen cover more important relationships.",
+      "Brother Marco is not included as a social circle member despite being mentioned extensively in Q05. However, the five selected members represent higher-interaction relationships, and Marco's limited contact (weekly texts, holiday visits) makes him less central to Mary's daily social world."
+    ]
+  },
+
+  "overall_verdict": "PASS",
+
+  "inconsistencies_found": [],
+
+  "gaps_found": [
+    {
+      "person": "Jessica Kowalski",
+      "gap": "Associate's degree in dental hygiene attributed to Jess is a reasonable inference from her profession but not directly stated in interview.",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "DeShawn Mitchell",
+      "gap": "Last name, age (24), education (some college), and personal interests are all inferred. Only first name and general workplace role are interview-sourced. This is transparently disclosed in the evidence notes.",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "DeShawn Mitchell",
+      "gap": "Personality interests (hip-hop, gaming) are speculative and based on demographic assumptions rather than interview evidence.",
+      "disposition": "UNSUPPORTED"
+    },
+    {
+      "person": "Priya Venkatesh",
+      "gap": "Last name, age (32), occupation (UW-Madison research associate), education (MPH), and cultural background (Indian-American) are all inferred. Only first name is interview-sourced. Transparently disclosed.",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "Priya Venkatesh",
+      "gap": "Recipe exchange between Mary and Priya is mentioned in recent_text_topics but has no interview evidence. Plausible given Mary's cooking interests but unsupported.",
+      "disposition": "UNSUPPORTED"
+    }
+  ],
+
+  "final_status": "Mary Alberti's social circle of five members is well-constructed and strongly grounded in interview evidence. All three structural requirements are met: two family members (Linda and Tony Alberti), one non-work friend (Jessica Kowalski, with Priya Venkatesh as a secondary non-work connection), and one work colleague (DeShawn Mitchell). The two family members and Jessica Kowalski are exceptionally well-sourced, with nearly every detail traceable to specific interview questions. DeShawn Mitchell and Priya Venkatesh are appropriately built around the limited interview evidence available (Q26 follow-up and Q07 respectively), with inferred details transparently disclosed. No inconsistencies were found. The only concerns are minor: speculative personality interests for DeShawn (suggesting hip-hop and gaming without evidence) and an unsupported recipe exchange with Priya. Diversity is adequate across gender, age, occupation, relationship type, and cultural background. Overall verdict: PASS."
+}

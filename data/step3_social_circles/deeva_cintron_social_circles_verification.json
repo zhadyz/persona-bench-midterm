@@ -1,0 +1,527 @@
+{
+  "verification_metadata": {
+    "participant_id": "f2f5dbaf4d3d43f68adeb7f318afa3a2",
+    "name": "Deeva Cintron",
+    "verification_date": "2026-03-31",
+    "model": "Claude Opus 4.6 (1M context)",
+    "step_verified": "Step 3 — Social Circle Generation"
+  },
+
+  "per_person_verification": [
+    {
+      "name": "Harold Cintron",
+      "relationship": "husband",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Harold is 87 years old. Interview confirms: 'He's eighty-seven, moves a little slower than he used to' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "demographics.age"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Harold as retired from Ford Motor Company. Interview confirms: 'Harold got a job at the Ford plant' (Q01), 'Harold's job at the Ford plant was covered by a union' (Q66), pension from Ford (Q72). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q01, Q66, Q72",
+            "social_circle_ref": "demographics.occupation"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states marriage since 1962, met at church social in 1961. Interview confirms: 'I met Harold at a church social in 1961... We got married in 1962' (Q01), '64 years this summer' (Q84). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q01, Q84",
+            "social_circle_ref": "background.how_they_met"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes shared daily routine: meals together, Harold watches ball games in recliner while Deeva quilts. Interview confirms exact pattern: 'Harold settles into his recliner and turns on whatever game is on. He loves the Tigers... I'll sit in my chair with my quilting or knitting' (Q05 follow-up). Supper at 5 PM (Q15 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up, Q15, Q15 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 5,
+            "text": "Social circle describes Harold as 'quiet and steady,' communicating through actions rather than words. Interview confirms: 'he'll say, \"Sit down, Deeva,\" and I know he means it' (Q34 follow-up), 'We don't talk a lot during that time, but we're together in the room' (Q05 follow-up), and 'Harold doesn't say much about it, to be honest' regarding political topics (Q30). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up, Q30, Q34 follow-up",
+            "social_circle_ref": "personality_mini_profile"
+          },
+          {
+            "id": 6,
+            "text": "Social circle describes Harold's heart scare five years ago. Interview confirms: 'Harold had a scare about five years ago... they found something going on with his heart. He had to go through a procedure' (Q35). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q35",
+            "social_circle_ref": "evidence_from_interview"
+          },
+          {
+            "id": 7,
+            "text": "Social circle describes Harold's hearing loss. Interview confirms: 'His hearing isn't great -- I have to speak up or he misses half of what I say' (Q18 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q18 follow-up",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 8,
+            "text": "Social circle states Harold does not text, all communication is in-person. Interview supports: Harold is described as laconic and present in the household full-time, no mention of phone or digital communication from him. Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q11, Q48",
+            "social_circle_ref": "communication_frequency, recent_text_topics"
+          }
+        ],
+        "summary": { "consistent": 8, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Harold as a Detroit Tigers fan. Profile's sports_and_fitness correctly states 'Harold watches Tigers games in the evening; Deeva follows along.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.sports_and_fitness",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes household division: Deeva inside, Harold outside. Profile's home_and_lifestyle does not explicitly state this division but the work_and_career section mentions 'Managed household finances.' The psychologist summary references 'complementary roles.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "summaries.psychologist, preferences.work_and_career",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes 64-year marriage. Profile's social_and_relationships states 'Married to Harold for 64 years; complementary routines and roles.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "background.years_known"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes Harold doing garage workshop and small carpentry projects. Profile's work_and_career mentions 'Harold's carpentry side-business books.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.work_and_career",
+            "social_circle_ref": "personality_mini_profile.interests"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      }
+    },
+    {
+      "name": "Patricia Cintron",
+      "relationship": "daughter (youngest child)",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Patricia is 56 years old. Interview confirms: 'Patricia, she's fifty-six' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "demographics.age"
+          },
+          {
+            "id": 2,
+            "text": "Social circle states Patricia lives in Ypsilanti, MI. Interview confirms: 'lives in Ypsilanti' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "demographics.location"
+          },
+          {
+            "id": 3,
+            "text": "Social circle states Patricia has a bachelor's degree. Interview confirms: 'My daughter listened -- she got her bachelor's' (Q04 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q04 follow-up",
+            "social_circle_ref": "demographics.education"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes Patricia visiting Tuesdays and Saturdays. Interview confirms: 'Patricia usually comes by Tuesday afternoons and Saturday mornings' (Q05 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 5,
+            "text": "Social circle describes Patricia as 'organized and dependable,' taking after Deeva. Interview confirms: 'She's a good daughter. Very dependable, very organized -- she takes after me that way' (Q05 follow-up), 'Patricia is the most like me. She keeps a schedule for her family, makes lists, plans ahead' (Q19). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up, Q19",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 6,
+            "text": "Social circle describes Patricia setting up Deeva's Facebook and teaching video calls. Interview confirms: 'Patricia helped me set up video calls on the computer' (Q05 follow-up), 'I do have a Facebook account, but Patricia set it up for me' (Q48). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05 follow-up, Q48",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 7,
+            "text": "Social circle describes planned road trip to National Quilt Museum with Patricia driving. Interview confirms: 'Patricia said she'd drive me down there' (Q108). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q108",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 8,
+            "text": "Social circle describes Patricia staying during Deeva's chest illness. Interview confirms: 'Patricia came and stayed with us for a few days during the worst of it' (Q33). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q33",
+            "social_circle_ref": "evidence_from_interview"
+          },
+          {
+            "id": 9,
+            "text": "Social circle describes Patricia getting upset when Deeva postponed appointments. Interview confirms: 'Patricia got upset with me about that. She said, \"Mom, your health comes first\"' (Q36). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q36",
+            "social_circle_ref": "evidence_from_interview"
+          }
+        ],
+        "summary": { "consistent": 9, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Patricia as primary caregiver-support figure visiting twice a week. Profile's social_and_relationships lists 'Patricia (Ypsilanti, visits twice/week).' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "background.why_close, communication_frequency"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes quilting and baking as shared mother-daughter activities. Profile's hobbies_and_recreation mentions quilting and profile's food_and_dining mentions baking. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.hobbies_and_recreation, preferences.food_and_dining",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Patricia showing Deeva medication price comparisons on the computer. Profile's technology section states 'Distrusts internet for medical information; prefers in-person sources.' However, this refers to general medical information, not price comparisons. No true contradiction -- Patricia mediates the digital access. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.technology",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes the National Quilt Museum trip as a planned activity. Profile's travel section correctly includes 'Dreams of visiting the National Quilt Museum in Paducah, Kentucky' and 'Patricia would drive for longer trips.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.travel",
+            "social_circle_ref": "shared_activities"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      }
+    },
+    {
+      "name": "Dorothy Krause",
+      "relationship": "closest friend (bridge partner, neighbor, walking companion)",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Dorothy is 82 and lives three streets from Deeva. Interview confirms: 'Dorothy is my closest friend outside the family. She lives three streets over' (Q07). Age not directly stated in interview but consistent with peer group. Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "demographics.age, demographics.location"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Dorothy as a 20-year bridge partner. Interview confirms the bridge group has been meeting 'going on twenty years now' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "background.years_known"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Dorothy as the one person Deeva confides emotional vulnerability to. Interview confirms: 'Dorothy is the one friend I might say something to, like, \"I'm having a rough week,\" and she'll just nod and pour me another cup of coffee. That's enough' (Q43 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q43 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes Dorothy bringing meals during Harold's heart scare. Interview confirms: 'Dorothy noticed and brought me meals a few times' (Q35 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q35 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 5,
+            "text": "Social circle describes Dorothy calling daily during Deeva's chest illness. Interview confirms: 'Dorothy called every day to check in' (Q33 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q33 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 6,
+            "text": "Social circle describes Dorothy and Deeva walking together on the library trail. Interview confirms: 'she lives three streets over and we walk together sometimes on the path behind the library' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 7,
+            "text": "Social circle describes Dorothy and Deeva discussing race and policing 'once or twice' privately. Interview confirms: 'Dorothy and I talked about it privately once or twice, and we both agreed it's sad that people are treated differently because of how they look' (Q26 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q26 follow-up",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 8,
+            "text": "Social circle states Dorothy is an emergency emotional support contact alongside Patricia. Interview confirms: 'If I need support, I call Patricia or Dorothy' (Q49). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q49",
+            "social_circle_ref": "background.why_close"
+          }
+        ],
+        "summary": { "consistent": 8, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Dorothy as the closest non-family friend. Profile's social_and_relationships correctly states 'Dorothy is closest non-family friend, lives three streets away.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes the Thursday bridge game rotation. Profile's hobbies_and_recreation correctly states 'Bridge every Thursday at 2 PM, rotates homes; keeps running scorebook.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.hobbies_and_recreation",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Dorothy's communication style as phone-based rather than text. Profile's technology section describes Deeva's own preference for phone over text. Consistent environment.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.technology",
+            "social_circle_ref": "personality_mini_profile.communication_style"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes the bridge group's 'no politics' rule. Profile's political_scientist summary does not explicitly mention this rule, but the psychologist summary describes structured social settings. The rule is however captured in the unresolved/ambiguous section's absence. Minor gap -- the 'no politics' rule is a notable behavioral detail.",
+            "verdict": "GAP",
+            "profile_ref": "N/A (not in extracted_profile preferences)",
+            "social_circle_ref": "recent_text_topics"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 1, "unsourced": 0 }
+      }
+    },
+    {
+      "name": "Robert Cintron",
+      "relationship": "eldest son",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle states Robert is 62 and lives in Ann Arbor. Interview confirms: 'Robert, he's sixty-two. He lives over in Ann Arbor, about twenty minutes away' (Q05). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "demographics.age, demographics.location"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Robert bringing groceries and doing yard work. Interview confirms: 'He brings groceries sometimes or helps Harold with things around the house' (Q05), 'now Robert mows the lawn' (Q18 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q18 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Robert clearing the driveway in winter. Interview confirms: 'Robert comes by to clear the driveway' (Q10). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q10",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 4,
+            "text": "Social circle describes Robert and Patricia splitting Harold's unexpected medical costs. Interview confirms: 'Robert and Patricia split it between them without us asking' (Q40). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q40",
+            "social_circle_ref": "evidence_from_interview"
+          },
+          {
+            "id": 5,
+            "text": "Social circle describes Robert as 'quiet and dependable like Harold, keeps emotions to himself.' Interview confirms: 'Robert keeps things close to the chest, like his father' (Q46). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q46",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 6,
+            "text": "Social circle describes Robert doing roof repair labor for free, saving $800. Interview confirms: 'Robert helped with the labor on the roof, which saved us quite a bit' (Q58), roof cost was $800 after Robert's free labor (Q60). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q58, Q60",
+            "social_circle_ref": "shared_activities, evidence_from_interview"
+          },
+          {
+            "id": 7,
+            "text": "Social circle describes Robert as having played baseball as a kid. Interview confirms: 'Robert was in baseball' when discussing after-school sports (Q19). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q19",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 8,
+            "text": "Social circle infers Robert did not complete a four-year degree based on Deeva's comment that 'the boys each did things their own way' vs. Patricia finishing her bachelor's. Interview confirms this distinction: 'My daughter listened -- she got her bachelor's. The boys, well, they each did things their own way' (Q04 follow-up). Consistent inference.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q04 follow-up",
+            "social_circle_ref": "demographics.education"
+          }
+        ],
+        "summary": { "consistent": 8, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Robert living 20 minutes away in Ann Arbor. Profile's social_and_relationships correctly lists 'Robert (Ann Arbor, 20 min away).' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "demographics.location"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Robert's practical hands-on support (lawn mowing, snow removal, roof repair, groceries). Profile's home_and_lifestyle mentions 'Raised garden beds built by Harold' but does not specifically list Robert's maintenance contributions. The psychologist summary describes relational style but does not detail Robert's role. Minor gap.",
+            "verdict": "GAP",
+            "profile_ref": "preferences.home_and_lifestyle (Robert not mentioned as maintenance support)",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Robert as 'more relaxed' than Deeva and Patricia. Profile's social_and_relationships does not describe individual children's personalities. The interview Q19 comparison ('Robert is more relaxed') is not captured in the profile.",
+            "verdict": "GAP",
+            "profile_ref": "preferences.social_and_relationships (no personality descriptions for children)",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          }
+        ],
+        "summary": { "consistent": 1, "inconsistent": 0, "gaps": 2, "unsourced": 0 }
+      }
+    },
+    {
+      "name": "Linda Farrell",
+      "relationship": "volunteer partner and community contact (senior center finance work)",
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Linda as running the senior center finance volunteer group. Interview confirms: 'There's a woman named Linda who runs the senior center finance volunteer group' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "demographics.occupation"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Deeva and Linda working together on Friday mornings for 8 years. Interview confirms: 'I do that on Fridays, usually spend two or three hours there' (Q16), 'About eight years now' (Q16 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q16, Q16 follow-up",
+            "social_circle_ref": "background.years_known, shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes the paper ledger vs. computer system dynamic. Interview confirms: 'I still keep a paper ledger, though Linda has it on the computer too' (Q16 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q16 follow-up",
+            "social_circle_ref": "shared_activities, recent_text_topics"
+          },
+          {
+            "id": 4,
+            "text": "Social circle quotes Linda joking that Deeva is 'the strictest auditor the senior center has ever had.' Interview confirms this exact phrase: 'Linda jokes that I'm the strictest auditor the senior center has ever had' (Q16 follow-up). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q16 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 5,
+            "text": "Social circle describes Linda as 'organized like me' (Deeva's assessment). Interview confirms: 'she's organized like me' (Q07). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 6,
+            "text": "Social circle describes Linda and Deeva getting along well at the senior center. Interview confirms: 'At the senior center, Linda is my main partner and we get along wonderfully -- she appreciates my thoroughness' (Q77). Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q77",
+            "social_circle_ref": "background.why_close"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Social circle describes Linda as Deeva's main volunteer partner. Profile's work_and_career mentions 'Senior center finance volunteer for 8 years (Fridays, 2-3 hours)' but does not name Linda. Consistent data, though Linda is not named in the profile.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.work_and_career",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes the dual record-keeping system (paper ledger and computer). Profile's technology_and_tool_use correctly states 'Handwritten ledger preferred over financial software.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "others_misc.technology_and_tool_use",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle describes Linda's age as 68. This is a generated detail not directly stated in the interview (interview only mentions Linda by name and role). Reasonable inference given Linda manages computer-based records and coordinates a professional program.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "N/A (Linda's demographics not in profile)",
+            "social_circle_ref": "demographics.age"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      }
+    }
+  ],
+
+  "structural_checks": {
+    "has_family_member": true,
+    "family_members": ["Harold Cintron (husband)", "Patricia Cintron (daughter)", "Robert Cintron (son)"],
+    "has_non_work_friend": true,
+    "non_work_friends": ["Dorothy Krause (bridge partner, walking companion, closest friend)"],
+    "has_work_colleague": true,
+    "work_colleagues": ["Linda Farrell (senior center finance volunteer partner)"],
+    "diversity_adequate": true,
+    "diversity_notes": "Circle includes a range of relationship types (spouse, two adult children, a peer friendship, a volunteer colleague), multiple generations (ages 56-87), and both family and non-family bonds. Gender diversity is limited (4 of 5 are female), but this accurately reflects the interview data where Deeva's closest non-family contacts are all women. The circle appropriately represents an 85-year-old woman's documented social world.",
+    "all_have_evidence_citations": true,
+    "evidence_citation_notes": "All five social circle entries include an 'evidence_from_interview' field with specific Q## references. Harold cites Q05, Q11, Q15, Q18, Q35, Q84. Patricia cites Q04, Q05, Q19, Q33, Q36, Q44, Q108. Dorothy cites Q07, Q23, Q26, Q33, Q35, Q43, Q49. Robert cites Q05, Q10, Q18, Q19, Q40, Q46, Q58, Q60. Linda cites Q07, Q16, Q77.",
+    "issues": [
+      "James Cintron (second son, age 59, lives in Ohio) is not included in the social circle despite being mentioned in Q05, Q10, Q19, Q41. This is defensible given his geographic distance and less frequent contact (weekly calls only), but represents a notable absence.",
+      "The bridge group members Helen and Margaret are mentioned by name in the interview (Q07) but are not given social circle entries. This is defensible -- they are not described with sufficient depth for full profiles -- but could be noted as an area for future expansion if the pipeline requires more peripheral contacts."
+    ]
+  },
+
+  "overall_verdict": "PASS",
+
+  "inconsistencies_found": [],
+
+  "gaps_found": [
+    {
+      "person": "Dorothy Krause",
+      "gap": "The 'no politics at bridge' rule from Q24 is not captured in the extracted profile but is accurately represented in the social circle entry.",
+      "severity": "minor"
+    },
+    {
+      "person": "Robert Cintron",
+      "gap": "Robert's specific contributions to home maintenance (lawn mowing, snow removal, driveway clearing, roof labor) are documented in the social circle but not consolidated in the extracted profile's home_and_lifestyle section.",
+      "severity": "minor"
+    },
+    {
+      "person": "Robert Cintron",
+      "gap": "Individual children's personality descriptions (Robert as 'more relaxed,' Patricia as 'most like me') are in the interview but not in the extracted profile's social_and_relationships section.",
+      "severity": "minor"
+    },
+    {
+      "person": "N/A (structural)",
+      "gap": "James Cintron (second son) is absent from the social circle. He calls every Sunday and was mentioned in Q05, Q10, Q19, Q41. His exclusion is defensible but should be documented.",
+      "severity": "minor"
+    }
+  ],
+
+  "final_status": "PASS — All five social circle members are well-grounded in interview evidence with extensive Q## citations. No inconsistencies found between social circle entries, interview transcript, or extracted profile. Every social circle member has verifiable evidence from the interview. Structural checks pass: the circle includes family members (husband, daughter, son), a non-work friend (Dorothy), and a work/volunteer colleague (Linda). Four minor gaps identified relate to completeness rather than accuracy. The social circle is coherent, well-sourced, and ready for Step 4 app log generation."
+}

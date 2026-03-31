@@ -1,0 +1,533 @@
+{
+  "verification_metadata": {
+    "participant_id": "e7035edf5bc744c9912694a7d4b2a99c",
+    "name": "Julio Simmons",
+    "verification_date": "2026-03-31",
+    "model": "Claude Opus 4.6 (1M context)",
+    "step_verified": "Step 3 — Social Circle Generation"
+  },
+
+  "per_person_verification": [
+    {
+      "name": "Marcus Chen",
+      "relationship": "best friend (from grad school)",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "How they met: Social circle states they met in grad school at U of R in the late 1990s -- Marcus in computer science, Julio in computational science, bonded over weird music and tabletop RPGs. Interview at Q07 confirms: 'We met in grad school -- he was in the computer science program while I was in computational science, and we bonded over a shared love of weird music and tabletop RPGs.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "background.how_they_met"
+          },
+          {
+            "id": 2,
+            "text": "Occupation: Social circle states Marcus is a software engineer at Paychex. Interview at Q07 confirms 'He's a software engineer at Paychex now.' At Q16 follow-up: 'Marcus will forward me a lead from someone at Paychex.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07, Q16",
+            "social_circle_ref": "demographics.occupation"
+          },
+          {
+            "id": 3,
+            "text": "D&D campaign details: Social circle describes biweekly D&D at Marcus's house, Julio as DM, ~2 years running. Interview at Q07 follow-up confirms: 'We've been running the same campaign for about two years now -- I'm the DM actually... We meet at Marcus's house, his wife Amy makes us coffee.' Fully consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 4,
+            "text": "Emotional lifeline role: Social circle describes Marcus as Julio's 'emotional lifeline and most stable anchor,' showing up with Thai takeout during crises. Interview at Q44 confirms: 'Marcus showed up at my door with takeout from a Thai place we like, and he just sat with me... He said, That sucks, and it doesn't mean your work sucks.' Q44 follow-up: 'Marcus is my lifeline, honestly.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q44, Q44 follow-up",
+            "social_circle_ref": "background.why_close, personality_mini_profile.communication_style"
+          },
+          {
+            "id": 5,
+            "text": "Marcus's family: Social circle mentions Marcus is 'married, steady career, kids' and wife Amy. Interview at Q07 confirms 'married, two kids' and Q07 follow-up confirms 'his wife Amy makes us coffee.' Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07, Q07 follow-up",
+            "social_circle_ref": "background.why_close, demographics"
+          },
+          {
+            "id": 6,
+            "text": "Communication frequency: Social circle states 3-4x week (texts, D&D, phone calls during rough patches). Interview confirms regular D&D contact, texting, and crisis phone calls (Q07, Q44). The 3-4x frequency is plausible given the described interaction pattern. Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07, Q44, Q109",
+            "social_circle_ref": "communication_frequency"
+          },
+          {
+            "id": 7,
+            "text": "Marcus crashes on couch: Social circle mentions this under shared_activities (cited as Q13). Interview at Q13 confirms: 'Marcus crashes on my couch maybe once every couple months after a late D&D session.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q13",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 8,
+            "text": "Marcus's age (50), gender (Male), education (M.S. in Computer Science, U of R), and specific personality traits (dry humor, emotionally steady, pragmatic) are generated details not directly stated in the interview. However, age 50 is reasonable for a grad school peer of a 49-year-old. Education is a reasonable inference from 'computer science program' at Q07. Personality is inferred from behavioral descriptions: 'he'll say something deadpan that snaps me out of it' (Q07), 'He didn't try to fix it or give a pep talk' (Q44). These are reasonable inferences.",
+            "verdict": "GAP",
+            "interview_ref": "Q07, Q44",
+            "social_circle_ref": "demographics.age, demographics.education, personality_mini_profile"
+          }
+        ],
+        "summary": { "consistent": 7, "inconsistent": 0, "gaps": 1, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Marcus is listed first in the profile's social_and_relationships preferences: 'Best friend Marcus (from grad school): D&D every other Thursday, emotional lifeline.' Social circle entry fully aligns with this characterization.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "relationship, background.why_close"
+          },
+          {
+            "id": 2,
+            "text": "Profile's psychologist summary states Julio shows 'secure, deep attachment to a small inner circle (Marcus, Greta, Priya).' Marcus's role as described in the social circle -- unconditional presence, non-directive support, stable anchor -- is fully consistent with this secure attachment characterization.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "summaries.psychologist",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 3,
+            "text": "Recent text topics include D&D planning, grant progress, freelance lead from Paychex, music recommendations, and cycling teasing. All align with profile preferences: hobbies_and_recreation (D&D, cycling), work_and_career (grants, freelance), music (shared interest), social_and_relationships (Marcus forwards leads). Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.hobbies_and_recreation, preferences.work_and_career, preferences.music",
+            "social_circle_ref": "recent_text_topics"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0 }
+      }
+    },
+
+    {
+      "name": "Greta Simmons-Novak",
+      "relationship": "younger sister",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Core family data: Social circle states Greta is 44, nurse practitioner, lives in Syracuse with husband Paul and kids Milo (12) and Sophie (9). Interview at Q05 confirms: 'I have a younger sister, Greta. She's forty-four, lives in Syracuse with her husband Paul and their two kids, Milo and Sophie. Milo's twelve and Sophie's nine. Greta's a nurse practitioner.' Exact match on all details.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "demographics, background"
+          },
+          {
+            "id": 2,
+            "text": "Age gap and background: Social circle states Julio is five years older, they grew up in Brighton. Julio is 49, Greta is 44 -- five-year gap confirmed. Brighton childhood confirmed at Q97, Q98.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q97, Q98",
+            "social_circle_ref": "background.how_they_met"
+          },
+          {
+            "id": 3,
+            "text": "January intervention: Social circle describes Greta driving from Syracuse during Julio's worst stretch, stocking his fridge, staying for a weekend, texting daily for a month after. Interview at Q33 confirms: 'My sister noticed during a video call and drove up from Syracuse to check on me. She helped me get back on track -- made sure I had food in the fridge, stayed with me for a weekend.' Q33 follow-up: 'She texted me every day for a month after that.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q33, Q33 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 4,
+            "text": "Medication reframe: Social circle attributes the 'You wouldn't refuse a cast for a broken arm' line to Greta. Interview at Q39 follow-up confirms: 'My sister was actually the one who talked me off that ledge. She said something like, You wouldn't refuse a cast for a broken arm.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q39 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 5,
+            "text": "Communication style: Social circle describes Greta as asking 'How are you doing?' in a measured voice that is really asking about eating and sleeping. Interview at Q05 confirms: 'She'll call and ask how I'm doing in this very careful voice, and I know she's really asking are you eating, are you sleeping, are you okay.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "personality_mini_profile.communication_style"
+          },
+          {
+            "id": 6,
+            "text": "Cultural competency work: Social circle mentions Greta pushed for cultural competency training at her clinic. Interview at Q30 confirms: 'she works in a clinic that serves a diverse patient population and she pushed for cultural competency training for the staff.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q30",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 7,
+            "text": "Syracuse hospital job suggestion: Social circle mentions Greta floated the idea of Julio doing data management at her hospital system. Interview at Q108 follow-up confirms: 'Greta has also floated the idea of me doing data management work for the hospital system where she works in Syracuse.' Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q108 follow-up",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 8,
+            "text": "Greta's surname 'Simmons-Novak,' education (MSN), and specific personality descriptors are generated details. The surname hyphenation is a reasonable inference for a married woman who keeps her maiden name. MSN is plausible for a nurse practitioner. These are reasonable gap-fills.",
+            "verdict": "GAP",
+            "interview_ref": "Q05 (nurse practitioner confirmed, no education or surname details)",
+            "social_circle_ref": "demographics.education, name"
+          }
+        ],
+        "summary": { "consistent": 7, "inconsistent": 0, "gaps": 1, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile lists Greta in social_and_relationships and mentions video chats with nephew Milo about Arduino projects. Social circle confirms Milo's robotics interest and Julio-Milo video chat about Arduino circuits. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "recent_text_topics, shared_activities"
+          },
+          {
+            "id": 2,
+            "text": "Profile's others_misc.life_events_and_transitions lists 'Three-week functional shutdown in January-February 2026; sister intervened.' Social circle describes this intervention in detail. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "others_misc.life_events_and_transitions",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 3,
+            "text": "Profile's psychologist summary identifies Greta as part of Julio's secure inner circle. Social circle's description of the relationship dynamics -- Greta's worry balanced with Julio sometimes feeling 'like a project' -- is consistent with the summary's characterization of deep attachment with some tension around dependency.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "summaries.psychologist",
+            "social_circle_ref": "background.why_close"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0 }
+      }
+    },
+
+    {
+      "name": "Priya Nair",
+      "relationship": "close friend and creative collaborator",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "How they met: Social circle states Priya dragged Julio to an improv workshop about four years ago through the Rochester Fringe Festival. Interview at Q07 follow-up confirms: 'Priya dragged me to a workshop about four years ago.' Q07: 'Priya, who I met through the Rochester Fringe Festival.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07, Q07 follow-up",
+            "social_circle_ref": "background.how_they_met"
+          },
+          {
+            "id": 2,
+            "text": "Occupation and description: Social circle states Priya is a graphic designer and improv performer. Interview at Q07 confirms: 'She's an improv performer and a graphic designer.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "demographics.occupation"
+          },
+          {
+            "id": 3,
+            "text": "Art-science understanding: Social circle states Priya 'intuitively understands the art-science crossover.' Interview at Q07 confirms: 'Priya is one of the few people who gets the art-science thing without needing it explained.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 4,
+            "text": "Improv details: Social circle lists Monday night rehearsals at Avenue Blackbox Theatre. Interview at Q07 confirms: 'we rehearse on Monday nights at the Avenue Blackbox Theatre.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 5,
+            "text": "Stress recognition: Social circle states Priya recognizes when Julio is tightening up and pulls him aside for breathing exercises. Interview at Q45 follow-up confirms: 'Priya sees it at improv sometimes -- she's learned to recognize when I'm tightening up and she'll pull me aside for a breathing exercise before we go on.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q45 follow-up",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 6,
+            "text": "Social media activism: Social circle states Priya is 'socially vocal' and has used graphic design skills for community event flyers. Interview at Q30 confirms: 'Priya has been vocal on social media about it -- she shares a lot of content from local activists and has used her graphic design skills to make flyers for community events.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q30",
+            "social_circle_ref": "personality_mini_profile.interests, personality_mini_profile.communication_style"
+          },
+          {
+            "id": 7,
+            "text": "Social circle describes Priya as age 38, Female, B.F.A. in Graphic Design, living in Rochester. Interview states 'years known: 5' in the social circle (met ~4 years ago per interview, but known 5 years in social circle). The ~1 year discrepancy is minor -- Q07 follow-up says 'about four years ago' which is approximate. The age, education, and specific details are generated gap-fills but are reasonable for the described role.",
+            "verdict": "GAP",
+            "interview_ref": "Q07 follow-up ('about four years ago')",
+            "social_circle_ref": "demographics.age, demographics.education, background.years_known"
+          }
+        ],
+        "summary": { "consistent": 6, "inconsistent": 0, "gaps": 1, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile lists Priya in social_and_relationships: 'Close friend Priya (Fringe Festival): improv troupe, creative collaborator.' Social circle entry fully aligns. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "relationship"
+          },
+          {
+            "id": 2,
+            "text": "Profile lists improv at Avenue Blackbox Theatre in hobbies_and_recreation. Social circle's shared_activities match: 'Improv troupe rehearsals every Monday night at the Avenue Blackbox Theatre.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.hobbies_and_recreation",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Social circle's recent text topics include Julio's graphic novel project, with Priya offering design feedback. This aligns with the profile's arts_and_culture section listing the quantum-physics graphic novel series. Consistent creative collaboration.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.arts_and_culture",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 4,
+            "text": "Social circle mentions social media cutback topic. Profile captures this in others_misc.technology_and_tool_use: 'Set 30-minute daily screen time limits on social media apps.' Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "others_misc.technology_and_tool_use",
+            "social_circle_ref": "recent_text_topics"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 0 }
+      }
+    },
+
+    {
+      "name": "Eileen Simmons",
+      "relationship": "mother",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Core identity: Social circle states Eileen is 75, retired medical records clerk, lives in Brighton with husband Karl. Interview at Q05 confirms: 'My parents are both still alive, both in their mid-seventies... Mom is sharper but she worries constantly.' Q103 confirms medical records clerk at Strong Memorial. Q08 and Q97 confirm Brighton location. Age 75 is consistent with 'mid-seventies.'",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q08, Q97, Q103, Q104",
+            "social_circle_ref": "demographics"
+          },
+          {
+            "id": 2,
+            "text": "Sunday dinner ritual: Social circle describes Sunday dinners in detail (Julio drives over ~4pm, helps with dishes, leaves by 7pm). Interview at Q05 confirms: 'I try to go over for dinner every Sunday' and Q05 follow-up: 'I usually drive over around four... After dinner I help with dishes and usually head out by seven.' Exact match on timing and ritual.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05, Q05 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Wednesday phone calls: Social circle states 'Wednesday phone calls (structured ~30 minutes).' Interview at Q17 follow-up confirms: 'The Wednesday call with Mom is structured -- thirty minutes, we catch up, she tells me about her garden or what she's reading.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q17, Q17 follow-up",
+            "social_circle_ref": "shared_activities, communication_frequency"
+          },
+          {
+            "id": 4,
+            "text": "Herbal remedies: Social circle lists Eileen's interests including 'herbal remedies (echinacea, valerian root, chamomile).' Interview at Q37 confirms: 'My mom is a big believer in herbal remedies -- she keeps a shelf of tinctures and teas. Echinacea when she feels a cold coming on, valerian root for sleep.' Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q37",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 5,
+            "text": "Church candle: Social circle states 'Still lights a candle for Julio at church, which he finds both touching and guilt-inducing.' Interview at Q47 follow-up confirms: 'She still lights a candle for me, which I find both touching and slightly guilt-inducing.' Near-exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q47 follow-up",
+            "social_circle_ref": "personality_mini_profile.communication_style"
+          },
+          {
+            "id": 6,
+            "text": "Worry behavior: Social circle describes Eileen carrying worry like a second job, picking at her nails. Interview at Q46 confirms: 'Mom carries worry like a second job, and it shows in her body... she picks at her nails.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q46",
+            "social_circle_ref": "personality_mini_profile.key_traits"
+          },
+          {
+            "id": 7,
+            "text": "Education: Social circle states associate degree in Health Information Management from Monroe Community College. Interview at Q101 confirms: 'Mom got an associate degree in health information management from Monroe Community College.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q101",
+            "social_circle_ref": "demographics.education"
+          },
+          {
+            "id": 8,
+            "text": "German apple cake: Social circle lists cooking traditional family recipes including 'German apple cake' as an interest. Interview at Q05 confirms: 'Mom makes a pot roast or sometimes this German apple cake recipe that's been in the family forever.' Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q05",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 9,
+            "text": "COVID vaccination: Social circle states Eileen insisted Karl get COVID shots (referenced as Q42 follow-up evidence). Interview at Q42 follow-up confirms: 'he got his COVID shots because Mom insisted.' Consistent and accurately cited.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q42 follow-up",
+            "social_circle_ref": "evidence_from_interview"
+          }
+        ],
+        "summary": { "consistent": 9, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile's social_and_relationships lists 'Sunday dinners with parents Karl and Eileen in Brighton' and 'Wednesday phone calls with mother.' Social circle entry matches these exactly. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "shared_activities, communication_frequency"
+          },
+          {
+            "id": 2,
+            "text": "Profile's others_misc.cultural_and_linguistic mentions 'German family apple cake recipe maintained across generations' and 'Mother lights candles for him at church.' Both details are present in the social circle entry. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "others_misc.cultural_and_linguistic",
+            "social_circle_ref": "personality_mini_profile.interests, personality_mini_profile.communication_style"
+          },
+          {
+            "id": 3,
+            "text": "Profile's others_misc.sensory_and_physical_context mentions Karl's declining mobility and knee issues. Social circle's recent_text_topics include 'Karl's knee -- updates on bad days, doctor appointment scheduling.' Consistent cross-reference.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "others_misc.sensory_and_physical_context (via life_events_and_transitions: 'Father's declining mobility')",
+            "social_circle_ref": "recent_text_topics"
+          }
+        ],
+        "summary": { "consistent": 3, "inconsistent": 0, "gaps": 0 }
+      }
+    },
+
+    {
+      "name": "Theo Vasquez",
+      "relationship": "friend and D&D group member",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Name and role: Social circle states Theo is a high school physics teacher and D&D group member. Interview at Q07 follow-up confirms: 'a guy named Theo who teaches high school physics.' Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up",
+            "social_circle_ref": "demographics.occupation, name"
+          },
+          {
+            "id": 2,
+            "text": "D&D campaign membership: Social circle states Theo is a player in the biweekly D&D campaign, Julio is DM. Interview at Q07 follow-up confirms: 'It's me, Marcus, a guy named Theo who teaches high school physics, and a woman named Jess... I'm the DM actually.' Campaign described as ~2 years running. Consistent.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 3,
+            "text": "Curriculum diversity: Social circle states Theo has been 'incorporating diverse scientists into his curriculum.' Interview at Q30 confirms: 'Theo, the physics teacher, has been incorporating more diverse scientists into his curriculum, which I think is cool. Small things, but meaningful in context.' Exact match.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q30",
+            "social_circle_ref": "personality_mini_profile.interests"
+          },
+          {
+            "id": 4,
+            "text": "Social circle acknowledges in inference note that Theo's surname (Vasquez), age (45), and specific education details are generated. The interview provides only first name, occupation (physics teacher), and D&D membership. These generated details are flagged transparently. Reasonable gap-fill: age 45 is plausible for a mid-career teacher in a friend group with 49- and 50-year-olds.",
+            "verdict": "GAP",
+            "interview_ref": "Q07 follow-up, Q30",
+            "social_circle_ref": "demographics (age, education, surname)"
+          },
+          {
+            "id": 5,
+            "text": "Years known: Social circle states 3 years. The D&D campaign is described as ~2 years running, and Theo 'joined the campaign approximately two years ago.' If they met through overlapping STEM circles before the campaign, 3 years known is plausible. The interview does not specify when they first met. Reasonable inference.",
+            "verdict": "GAP",
+            "interview_ref": "Q07 follow-up ('about two years')",
+            "social_circle_ref": "background.years_known"
+          },
+          {
+            "id": 6,
+            "text": "The social circle entry cites Q07 follow-up and Q30 as evidence, both of which are accurate citations that support the claims made. No unsourced claims detected.",
+            "verdict": "CONSISTENT",
+            "interview_ref": "Q07 follow-up, Q30",
+            "social_circle_ref": "evidence_from_interview"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 2, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Profile lists D&D group in social_and_relationships: 'D&D group: Marcus, Theo (physics teacher), Jess (librarian) -- Julio is DM.' Social circle entry for Theo matches this exactly. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.social_and_relationships",
+            "social_circle_ref": "shared_activities"
+          },
+          {
+            "id": 2,
+            "text": "Social circle describes Theo's STEM education interests overlapping with Julio's teaching background and Science Center work. Profile confirms Julio's STEM outreach volunteering in community_and_civic and former adjunct teaching in work_and_career. The shared pedagogical sensibility is plausible. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.community_and_civic, preferences.work_and_career",
+            "social_circle_ref": "background.why_close"
+          },
+          {
+            "id": 3,
+            "text": "Recent text topics mention Julio's workshop at Rochester Brainery and Theo asking about it. Profile confirms workshops at Rochester Brainery in work_and_career and community_and_civic. Consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.work_and_career, preferences.community_and_civic",
+            "social_circle_ref": "recent_text_topics"
+          },
+          {
+            "id": 4,
+            "text": "Social circle positions Theo as a bridge between Julio's current identity and possible future return to education. Profile's work_and_career lists former adjunct teaching and backup plan of returning to adjunct work (from Q108 follow-up). This thematic connection is consistent.",
+            "verdict": "CONSISTENT",
+            "profile_ref": "preferences.work_and_career",
+            "social_circle_ref": "background.why_close"
+          }
+        ],
+        "summary": { "consistent": 4, "inconsistent": 0, "gaps": 0 }
+      }
+    }
+  ],
+
+  "structural_checks": {
+    "has_family_member": true,
+    "family_members_detail": "Two family members: Greta Simmons-Novak (younger sister) and Eileen Simmons (mother). Both have extensive interview evidence.",
+    "has_non_work_friend": true,
+    "non_work_friends_detail": "Marcus Chen (best friend from grad school) and Priya Nair (friend and creative collaborator). Both are non-work friendships with deep interview grounding.",
+    "has_work_colleague": true,
+    "work_colleague_detail": "Theo Vasquez fills the professional/creative contact role. As Julio is not in the traditional workforce, Theo functions as a professional peer through shared STEM education interests and the D&D social structure. This is an appropriate adaptation for a non-working persona.",
+    "diversity_adequate": true,
+    "diversity_detail": "Age range: 38 (Priya) to 75 (Eileen). Gender: 3 male (Marcus, Theo, implied Karl through Eileen's entry), 3 female (Greta, Priya, Eileen). Ethnic diversity: Chen (East Asian surname), Nair (South Asian surname), Vasquez (Hispanic surname), Simmons (Anglo). Education range: associate degree (Eileen) to M.S. (Marcus). Occupations: software engineer, nurse practitioner, graphic designer, physics teacher, retired clerk. Adequate diversity across multiple dimensions.",
+    "all_have_evidence_citations": true,
+    "evidence_citations_detail": "All five entries include detailed evidence_from_interview fields with specific Q## citations. All cited references were verified against the actual interview transcript and found to be accurate.",
+    "issues": [
+      "The social circle includes two family members (Greta, Eileen) and no representation of Julio's frisbee group (Derek, Lena) or the D&D member Jess, who are mentioned in the interview. This is an acceptable selection given the 5-person limit, but it skews slightly toward family.",
+      "Theo's demographic details (surname, age, education) are generated and transparently flagged as inferences. This is appropriate for a persona mentioned by first name only in the interview.",
+      "The cycling group friends, Uncle Frank, and cousin Heinrich are interview-mentioned contacts not represented in the social circle. Again acceptable given the 5-person limit, as the selected five represent the most significant relationships."
+    ]
+  },
+
+  "overall_verdict": "PASS",
+
+  "inconsistencies_found": [],
+
+  "gaps_found": [
+    {
+      "person": "Marcus Chen",
+      "gap": "Age (50), education (M.S. in Computer Science, U of R), and specific personality traits are generated details not directly stated in the interview",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "Greta Simmons-Novak",
+      "gap": "Surname hyphenation (Simmons-Novak) and specific education (MSN) are generated details",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "Priya Nair",
+      "gap": "Age (38), education (B.F.A. in Graphic Design), and exact years known (5 vs interview's 'about four years') are generated or approximate",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "Theo Vasquez",
+      "gap": "Surname (Vasquez), age (45), education (B.S. in Physics Education, M.Ed.), and years known (3) are generated details. The social circle entry transparently acknowledges this in its inference note.",
+      "disposition": "REASONABLE_INFERENCE"
+    },
+    {
+      "person": "Eileen Simmons",
+      "gap": "No significant gaps. Almost all details are directly supported by interview evidence. This is the most thoroughly grounded entry in the social circle.",
+      "disposition": "REASONABLE_INFERENCE"
+    }
+  ],
+
+  "final_status": "PASS. All five social circle members are well-grounded in interview evidence across both verification directions. Zero inconsistencies were found between the social circle entries and the interview transcript or extracted profile. The evidence_from_interview citations are accurate and comprehensive for all five entries. Generated demographic details (surnames, ages, education levels for Marcus, Priya, and Theo) are transparently flagged and represent reasonable inferences consistent with the interview context. Structural requirements are met: two family members (mother, sister), two non-work friends (Marcus, Priya), one professional contact (Theo), with adequate diversity across age, gender, ethnicity, education, and occupation. The social circle accurately reflects Julio's interview-described social world and is ready for downstream use in app log generation."
+}

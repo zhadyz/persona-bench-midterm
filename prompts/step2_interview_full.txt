@@ -357,32 +357,66 @@ Return a JSON object with two sections: the interview transcript and the extract
     },
 
     "others_misc": {
+      "description": "Catch-all for interview information that does NOT fit into the 15 preference categories or the 4 expert summaries. Each subcategory below has explicit inclusion criteria. If a piece of information fits a preference category or an expert summary, put it there instead — others_misc is the LAST resort, not a parallel structure.",
+
       "cultural_and_linguistic": {
-        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "description": "Languages spoken, code-switching patterns, cultural practices/rituals, religious/spiritual observance BEHAVIORS (not beliefs — beliefs go in summaries), heritage markers, immigration/generational identity markers.",
+        "inclusion_criteria": "Include ONLY if the item describes a cultural practice, language behavior, or heritage marker that is not already captured in preferences (e.g., community_and_civic) or summaries (e.g., demographer). Religious attendance frequency goes here; religious identity interpretation goes in the psychologist or political_scientist summary.",
         "items": []
       },
       "life_events_and_transitions": {
-        "description": "Significant past or anticipated events that shape current behavior",
+        "description": "Past or anticipated events that shape current behavior but are not ongoing preferences: moves, deaths, divorces, career changes, graduations, health crises of others.",
+        "inclusion_criteria": "Include ONLY events that (a) the persona explicitly described in the interview AND (b) are not already captured in a preference category. A past health crisis goes here; ongoing health behaviors go in health_and_wellness preference.",
         "items": []
       },
       "sensory_and_physical_context": {
-        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "description": "Non-clinical physical factors that affect daily life: chronic pain, mobility limitations, sleep patterns, sensory sensitivities, dietary restrictions driven by physical needs (not taste preference).",
+        "inclusion_criteria": "Include ONLY if the factor is physical/sensory AND not already in health_and_wellness preference. A bad back limiting activities goes here; choosing to run for fitness goes in sports_and_fitness preference.",
         "items": []
       },
       "media_and_information_diet": {
-        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "description": "News sources, social media platforms used, podcast/YouTube habits, information-seeking behavior, trusted information sources.",
+        "inclusion_criteria": "Include ONLY media consumption habits that describe HOW the persona gets information, not WHAT they enjoy for entertainment. Netflix binging goes in entertainment preference; checking NPR every morning goes here.",
         "items": []
       },
       "technology_and_tool_use": {
-        "description": "Device preferences, app usage, digital communication norms",
+        "description": "Device preferences, specific apps used for daily tasks, digital communication norms (texting style, emoji use), relationship with technology.",
+        "inclusion_criteria": "Include ONLY if the item describes a specific tool/device/app habit that is not already in the technology preference category. General tech comfort goes in technology preference; 'uses a bullet journal app instead of paper' goes here.",
         "items": []
       },
       "unresolved_or_ambiguous": {
-        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "description": "Information from the interview that could not be confidently assigned to any preference category, expert summary, or other others_misc subcategory.",
+        "inclusion_criteria": "Use this ONLY as a true last resort. Each item must explain WHY it could not be placed elsewhere.",
         "items": [
-          {"content": "...", "candidate_owner": "demographer|behavioral_economist|political_scientist|psychologist|drop", "reason_unresolved": "..."}
+          {"content": "...", "candidate_owner": "demographer|behavioral_economist|political_scientist|psychologist|preference_category_name|drop", "reason_unresolved": "..."}
         ]
       }
+    },
+
+    "hidden_facts": {
+      "description": "Internal answer key for Steps 4-7. These are ground-truth facts about the persona that will be embedded IMPLICITLY in app logs (messenger + calendar). The LLM evaluator will only see the app logs and must INFER these facts from behavioral evidence. This field is NEVER shown to the evaluator.",
+
+      "items": [
+        {
+          "fact_id": "HF01",
+          "category": "health | religion | politics | finance | relationship | personality | career | other",
+          "ground_truth_label": "The clinical/categorical label (e.g., 'Type 2 diabetes', 'Catholic', 'moderate Democrat')",
+          "behavioral_evidence_from_interview": [
+            "Q## — specific behavioral quote that reveals this fact without naming it"
+          ],
+          "embedding_strategy": {
+            "description": "How this fact should be distributed across app logs in Steps 4-5",
+            "calendar_signals": ["recurring events that imply this fact (e.g., '6:30 AM — Morning check')"],
+            "chat_signals": {
+              "source_1": "who they'd discuss this with + example message",
+              "source_2": "who else + example message"
+            },
+            "never_state_directly": true
+          },
+          "test_case_type": "Type 1 (single source) | Type 2 (cross-log) | Type 3 (dynamic) | Type 4 (reasoning)",
+          "difficulty": "easy | medium | hard"
+        }
+      ]
     }
   }
 }
@@ -401,3 +435,15 @@ IMPORTANT NOTES
 - All preferences must cite evidence from the transcript (Q## references).
 - If the persona's seed data contains information that never surfaced in the interview,
   note it in others_misc.unresolved_or_ambiguous.
+- The "others_misc" section is a CATCH-ALL, not a parallel structure. Before placing
+  any item in others_misc, confirm it does not belong in one of the 15 preference
+  categories or the 4 expert summaries. Each others_misc subcategory has explicit
+  inclusion_criteria — follow them strictly. The goal is reproducibility: a different
+  operator using this prompt should place the same information in the same location.
+- The "hidden_facts" section is an INTERNAL ANSWER KEY for Steps 4-7. It lists
+  ground-truth facts (health conditions, religion, politics, etc.) that the persona
+  revealed through BEHAVIORS in the interview. Each hidden fact includes an embedding
+  strategy describing how to distribute evidence across app logs. The evaluator LLM
+  will never see this field — it only sees the app logs and must infer the facts.
+  Include 5-15 hidden facts per persona, covering health, religion, politics,
+  finances, relationships, and personality at minimum.

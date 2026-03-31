@@ -130,7 +130,8 @@ One JSON file per persona in `data/step2_interview/`, containing:
   - Demographics header (participant_id, name, age, gender, marital_status, location, education, occupation)
   - `preferences` — 15 broad life domains (health, food, travel, social, home, entertainment, hobbies, work, arts, sports, nature, technology, community, music, fashion)
   - `summaries` — free-text paragraphs from 4 expert perspectives (demographer, behavioral_economist, political_scientist, psychologist)
-  - `others_misc` — 6 typed subcategories for information not captured elsewhere
+  - `others_misc` — 6 typed subcategories with explicit inclusion criteria (catch-all for info not in preferences or summaries: cultural/linguistic, life events, sensory/physical, media diet, tech/tools, unresolved)
+  - `hidden_facts` — internal answer key for Steps 4-7: ground-truth facts (health, religion, politics, etc.) with embedding strategies for distributing behavioral evidence across app logs. Never shown to the evaluator LLM.
 
 ### Verification
 - Valid JSON
@@ -142,7 +143,7 @@ One JSON file per persona in `data/step2_interview/`, containing:
 
 ---
 
-## Step 2b: Expert Verification
+## Step 2b: Expert Verification (4-Direction)
 
 ### Source
 4-expert panel adapted from Park et al. 2024. Each expert has a broad disciplinary mandate.
@@ -161,17 +162,22 @@ One JSON file per persona in `data/step2_interview/`, containing:
 
 **For each persona**, open a new Claude conversation and paste the full prompt from `prompts/step2b_expert_verification.txt`, replacing:
 - `{{INSERT_FULL_SEED_JSON_HERE}}` → paste the entire contents of that persona's seed JSON
-- `{{INSERT_FULL_INTERVIEW_OUTPUT_JSON_HERE}}` → paste the entire contents of that persona's Step 2 interview output JSON
+- `{{INSERT_TRANSCRIPT_JSON_HERE}}` → paste the `transcript` field from that persona's Step 2 interview output
+- `{{INSERT_EXTRACTED_PROFILE_JSON_HERE}}` → paste the `extracted_profile` field from that persona's Step 2 interview output
 - `{{participant_id}}` and `{{name}}` → from the seed data
 
-### Dual purpose
-The verification step does TWO things:
-1. **Verifies** the interview against the seed data (CONSISTENT / INCONSISTENT / GAP)
-2. **Generates** expert summaries that become part of the persona's profile
+### 4-direction verification
+The verification checks ALL of these:
+1. **Seed ↔ Interview Q&A** — does the interview contradict the NVIDIA seed data?
+2. **Interview Q&A ↔ Extracted Profile** — does the extracted_profile faithfully represent the interview?
+3. **Extracted Profile ↔ Itself** — are there self-contradictions within summaries, preferences, or others_misc?
+4. **Completeness** — is anything from the interview missing from the entire extracted_profile?
+
+Each expert produces observations for all 4 directions, plus a free-text summary.
 
 ### Expected output
 One JSON file per persona in `data/step2b_verification/`, containing:
-- 4 expert sections with 6-10 observations each (30-40 total)
+- 4 expert sections, each with 4 direction sub-sections (50-70 total observations)
 - Overall verdict: PASS, PASS_WITH_REVISIONS, or FAIL
 - Inconsistency resolutions (if any)
 - Gap dispositions (CARRY_FORWARD, DROP, or NEEDS_ENRICHMENT)
@@ -179,8 +185,8 @@ One JSON file per persona in `data/step2b_verification/`, containing:
 
 ### Verification
 - Valid JSON
-- All 4 experts present with observations
-- Each observation has verdict, seed_ref, and interview_ref
+- All 4 experts present, each with all 4 directions
+- Each observation has verdict and source references
 - Expert summaries are non-empty free text
 - Zero or few inconsistencies (NVIDIA seed data is well-formed)
 
@@ -228,43 +234,70 @@ One JSON file per persona in `data/step3_social_circles/`, containing:
 
 ---
 
+## Step 3b: Social Circle Verification
+
+### Source
+Custom 2-direction verification prompt checking social circles against both the interview and extracted profile.
+
+### How to run
+
+**For each persona**, open a new Claude conversation and paste the full prompt from `prompts/step3_social_circles_verification.txt`, replacing:
+- `{{INSERT_TRANSCRIPT_JSON_HERE}}` → the `transcript` field from Step 2 output
+- `{{INSERT_EXTRACTED_PROFILE_JSON_HERE}}` → the `extracted_profile` field from Step 2 output
+- `{{INSERT_SOCIAL_CIRCLES_JSON_HERE}}` → the entire Step 3 social circles output
+- `{{participant_id}}` and `{{name}}` → from the seed data
+
+### 2-direction verification
+1. **Social Circles ↔ Interview Q&A** — do generated people contradict interview evidence?
+2. **Social Circles ↔ Extracted Profile** — are shared activities and topics consistent with stated preferences?
+
+Plus structural checks (family/friend/colleague diversity, evidence citations).
+
+### Expected output
+One JSON file per persona in `data/step3_social_circles/`, named `{name}_social_circles_verification.json`, containing:
+- Per-person verification with observations for both directions
+- Structural checks (family, friend, colleague, diversity, evidence)
+- Overall verdict: PASS, PASS_WITH_REVISIONS, or FAIL
+- Lists of inconsistencies and gaps found
+
+### Verification
+- Valid JSON
+- All 5 social circle members verified
+- Each has observations for both directions
+- Structural checks section present
+
+---
+
 ## Summary of Files Produced
 
 ```
 data/
   interview_questions_table7.json          # 109 questions from Park et al. Table 7
   step1_seed/
-    mary_alberti_seed.json                 # NVIDIA seed data
-    alicia_gonzalez_seed.json
-    deeva_cintron_seed.json
-    maria_buendia_seed.json
-    julio_simmons_seed.json
+    {name}_seed.json                       # NVIDIA seed data (5 files)
   step2_interview/
-    mary_alberti_interview.json            # Full 109-Q interview + extracted_profile
-    alicia_gonzalez_interview.json
-    deeva_cintron_interview.json
-    maria_buendia_interview.json
-    julio_simmons_interview.json
+    {name}_interview.json                  # Full 109-Q interview + extracted_profile (5 files)
   step2b_verification/
-    mary_alberti_verification.json         # 4-expert verification + summaries
-    alicia_gonzalez_verification.json
-    deeva_cintron_verification.json
-    maria_buendia_verification.json
-    julio_simmons_verification.json
+    {name}_verification.json               # 4-direction expert verification (5 files)
   step3_social_circles/
-    mary_alberti_social_circles.json       # 5 closest people
-    alicia_gonzalez_social_circles.json
-    deeva_cintron_social_circles.json
-    maria_buendia_social_circles.json
-    julio_simmons_social_circles.json
+    {name}_social_circles.json             # 5 closest people (5 files)
+    {name}_social_circles_verification.json # Social circle verification (5 files)
 
 prompts/
+  step2_interview.txt                      # Abbreviated interview prompt (12 Q, for reference)
   step2_interview_full.txt                 # Self-contained interview prompt (109 Q)
-  step2b_expert_verification.txt           # Self-contained verification prompt
-  step3_social_circles.txt                 # Self-contained social circles prompt
+  step2b_expert_verification.txt           # 4-direction verification prompt
+  step3_social_circles.txt                 # Social circles generation prompt
+  step3_social_circles_verification.txt    # Social circles verification prompt
+  step4_messenger_snippets.txt             # Messenger log prompt (Steps 4-7, for future use)
+  step4_messenger_verification.txt         # Messenger verification prompt (future)
+  step5_calendar.txt                       # Calendar log prompt (future)
+  step5_calendar_verification.txt          # Calendar verification prompt (future)
+  step6_evaluation.txt                     # Evaluation prompt (future)
+  step7_test_cases.txt                     # Test case generation prompt (future)
 ```
 
-**Total: 21 data files + 3 prompt templates**
+**Total: 26 data files + 11 prompt templates (4 active for Steps 1-3b, 7 for future Steps 4-7)**
 
 ---
 

@@ -1,0 +1,139 @@
+SYSTEM:
+
+You are verifying the social circle output from Step 3 against the interview transcript
+and extracted profile from Step 2. Your task is to ensure the 5 generated social circle
+members are consistent with the persona's life as revealed in the interview.
+
+This prompt is self-contained. All required data is included below.
+Model used: Claude Opus 4.6 (1M context)
+Protocol: PersonaHub Persona-to-Persona (Ge et al., 2024) + Park et al. 2024 verification
+Seed source: NVIDIA Nemotron-Personas-USA (https://huggingface.co/datasets/nvidia/Nemotron-Personas-USA)
+
+===============================================================================
+INPUT DATA
+===============================================================================
+
+INTERVIEW TRANSCRIPT (from Step 2 — the "transcript" field):
+{{INSERT_TRANSCRIPT_JSON_HERE}}
+
+EXTRACTED PROFILE (from Step 2 — the "extracted_profile" field):
+{{INSERT_EXTRACTED_PROFILE_JSON_HERE}}
+
+SOCIAL CIRCLE OUTPUT (from Step 3):
+{{INSERT_SOCIAL_CIRCLES_JSON_HERE}}
+
+===============================================================================
+VERIFICATION TASK — 2 DIRECTIONS
+===============================================================================
+
+DIRECTION 1: SOCIAL CIRCLES ↔ INTERVIEW Q&A
+For each of the 5 social circle members, check whether their details (name,
+relationship, demographics, personality, shared activities, recent topics)
+are consistent with what was said in the interview transcript.
+
+For each person, produce observations:
+- CONSISTENT: The social circle member aligns with interview evidence
+- INCONSISTENT: The social circle member contradicts something in the interview
+- GAP: The social circle member introduces information not supported by the interview
+  (flag whether the inference is reasonable or unsupported)
+- UNSOURCED: The evidence_from_interview field cites a Q## reference that does not
+  actually support the claim
+
+DIRECTION 2: SOCIAL CIRCLES ↔ EXTRACTED PROFILE
+For each of the 5 social circle members, check whether their details are
+consistent with the extracted_profile (preferences, summaries, others_misc).
+
+Focus on:
+- Do shared activities match the persona's stated preferences and hobbies?
+- Do recent text topics align with the persona's known interests and concerns?
+- Do the demographics and locations make sense given the persona's life context?
+- Are relationship dynamics consistent with the psychologist's summary?
+
+===============================================================================
+STRUCTURAL CHECKS
+===============================================================================
+
+Also verify these structural requirements from the Step 3 prompt:
+1. At least 1 family member
+2. At least 1 friend outside of work
+3. At least 1 work colleague or professional contact (adjust for retired/non-working personas)
+4. Diversity: not all same age/gender/background
+5. Each person has a cited evidence_from_interview field with Q## references
+6. Communication frequency and shared activities are plausible
+
+===============================================================================
+OUTPUT FORMAT
+===============================================================================
+
+{
+  "verification_metadata": {
+    "participant_id": "{{participant_id}}",
+    "name": "{{name}}",
+    "verification_date": "YYYY-MM-DD",
+    "model": "Claude Opus 4.6 (1M context)",
+    "step_verified": "Step 3 — Social Circle Generation"
+  },
+
+  "per_person_verification": [
+    {
+      "name": "social circle member name",
+      "relationship": "their relationship to the participant",
+
+      "direction_1_vs_interview": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Description of what was checked",
+            "verdict": "CONSISTENT | INCONSISTENT | GAP | UNSOURCED",
+            "interview_ref": "Q## reference",
+            "social_circle_ref": "field in the social circle entry"
+          }
+        ],
+        "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0, "unsourced": 0 }
+      },
+
+      "direction_2_vs_profile": {
+        "observations": [
+          {
+            "id": 1,
+            "text": "Description of what was checked",
+            "verdict": "CONSISTENT | INCONSISTENT | GAP",
+            "profile_ref": "extracted_profile field",
+            "social_circle_ref": "field in the social circle entry"
+          }
+        ],
+        "summary": { "consistent": 0, "inconsistent": 0, "gaps": 0 }
+      }
+    }
+  ],
+
+  "structural_checks": {
+    "has_family_member": true,
+    "has_non_work_friend": true,
+    "has_work_colleague": true,
+    "diversity_adequate": true,
+    "all_have_evidence_citations": true,
+    "issues": ["list any structural issues found"]
+  },
+
+  "overall_verdict": "PASS | PASS_WITH_REVISIONS | FAIL",
+
+  "inconsistencies_found": [
+    {
+      "person": "name",
+      "issue": "brief description",
+      "severity": "Minor | Moderate | Major",
+      "suggestion": "how to fix"
+    }
+  ],
+
+  "gaps_found": [
+    {
+      "person": "name",
+      "gap": "brief description",
+      "disposition": "REASONABLE_INFERENCE | UNSUPPORTED | NEEDS_ENRICHMENT"
+    }
+  ],
+
+  "final_status": "Summary statement of verification result"
+}
