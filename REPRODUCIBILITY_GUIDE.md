@@ -1,6 +1,6 @@
 # Persona-Bench: Reproducibility Guide
 
-**CSC669/899 — AI Safety Benchmark "Social World"**
+**CSC 699 — AI Safety Benchmark "Social World"**
 **Steps 1-3: Seed Data → Interview → Expert Verification → Social Circles**
 
 This guide enables a total stranger to reproduce our pipeline from scratch using Claude.

@@ -1,16 +1,130 @@
 # Persona-Bench
 
-**CSC669/899 — AI Safety Benchmark "Social World"**
+**CSC 699 — AI Safety Benchmark "Social World"**
 
-## What This Is
+## The Big Picture
 
-A reproducible pipeline that takes seed personas from the NVIDIA Nemotron-Personas-USA dataset and produces richly detailed persona profiles with social circles, verified by a 4-expert panel. The pipeline is designed so that a total stranger can reproduce every step using Claude.
+We're building a test to see if an AI can figure out who someone is just by reading their text messages and calendar.
 
-## How It Was Built
+To do that, we need fake people with realistic lives. This pipeline creates those fake people step by step, starting from basic demographics and ending with a full life profile and social circle.
 
-The entire pipeline was executed using **Claude Opus 4.6 (1M context)** via Claude Code. Each step takes a self-contained prompt template from `prompts/` and produces structured JSON output. No external libraries, APIs, or training were required beyond the HuggingFace `datasets` library for seed data access.
+## Why This Exists
 
-We ran the pipeline on the **first 5 personas** from the NVIDIA dataset:
+The end goal (Steps 4-7, future work) is to:
+1. Take a fake person's profile
+2. Generate realistic app logs (text messages, calendar events) that show their daily life
+3. Hide facts about the person inside those logs using behavioral clues (e.g., never say "has diabetes" — instead show daily glucose checks, food adjustments, doctor appointments)
+4. Ask an AI: "Based on these logs, what can you figure out about this person?"
+5. Score how well the AI does
+
+**Steps 1-3 (this repo)** build the fake people. Steps 4-7 will test the AI.
+
+## The Pipeline: What Each Step Does
+
+### Step 1: Get a Starter Person
+
+**What:** Pull a basic person from NVIDIA's dataset of 6 million fake Americans.
+
+**What you get:** A JSON file with bare-bones info — name, age, gender, job, city, education, plus short paragraphs about their professional life, sports interests, arts interests, travel style, food preferences, and cultural background.
+
+**Example:** Mary Alberti, 28, female, fast food worker, Madison WI, high school education, Italian-American, Catholic upbringing.
+
+**That's it.** This is just a starting point. The person is flat — a sketch, not a character.
+
+**File:** `data/step1_seed/mary_alberti_seed.json`
+
+---
+
+### Step 2: Interview the Person
+
+**What:** We give Claude the starter person and say: "You are this person. Answer 109 life-history interview questions as them."
+
+**Why 109 questions?** They come from a Stanford research paper (Park et al. 2024) that interviewed 1,000 real people. The questions cover everything: childhood, family, work, health, religion, politics, finances, daily routine, relationships, hopes, values.
+
+**What you get:** Two things in one file:
+
+1. **The transcript** — The full Q&A. 109 questions, each with 2-3 follow-ups. This is the raw interview, like a recording.
+
+2. **The extracted profile** — A compressed summary of everything important from the interview, organized into categories so downstream steps can use it. Think of it like cliff notes of the interview.
+
+**Why do we need the extracted profile?** Because the interview is LONG (hundreds of Q&As). Steps 3-7 can't re-read the whole thing every time. The extracted profile is the portable, structured version.
+
+**What's inside the extracted profile:**
+
+| Section | What it is | Why it exists |
+|---------|-----------|---------------|
+| **Demographics** | Name, age, gender, location, education, job | Basic identity header |
+| **Preferences** (15 categories) | Health, food, travel, social life, home, entertainment, hobbies, work, arts, sports, nature, tech, community, music, fashion | Everything the person likes, does, and chooses — organized by life domain. Each has a summary, specific behavioral details, and Q## citations back to the interview. |
+| **Summaries** (4 experts) | Demographer, Behavioral Economist, Political Scientist, Psychologist | Four different expert lenses analyzing the same person. The demographer looks at life stage and social status. The economist looks at how they make decisions. The political scientist looks at civic engagement. The psychologist looks at personality and coping patterns. |
+| **Others/Misc** (6 subcategories) | Cultural practices, life events, physical context, media diet, tech tools, unresolved items | Catch-all for important info that doesn't fit into the 15 preference categories or 4 summaries. Has strict rules for what goes where. |
+
+**Critical rule:** For sensitive topics (health, religion, politics), the person describes BEHAVIORS, never labels. They say "I check my levels three times a day" not "I have diabetes." This is because later (Steps 4-7), we'll hide these facts in app logs and the AI has to figure them out from behavioral clues alone.
+
+**File:** `data/step2_interview/mary_alberti_interview.json`
+
+---
+
+### Step 2b: Verify and Correct the Profile
+
+**What:** Four AI experts review the interview and check for mistakes. Then they FIX them.
+
+**Why:** Step 2 is doing a lot — role-playing a person AND compressing their life into a structured profile. Things get dropped, contradicted, or misplaced. Step 2b catches that.
+
+**The 4 checks (directions):**
+
+1. **Seed vs Interview** — Did the interview contradict the original NVIDIA data? (e.g., seed says age 28, interview says 30)
+2. **Interview vs Profile** — Did the extracted profile accurately capture what was said? (e.g., person talked about gardening in Q17 but it's missing from hobbies)
+3. **Profile vs Itself** — Does the profile contradict itself? (e.g., summaries say she's frugal but preferences say she shops at expensive stores)
+4. **Completeness** — Is anything from the interview missing from the ENTIRE profile? (e.g., person mentioned a brother in Q05 but he appears nowhere)
+
+**What you get:** Two things:
+
+1. **Verification report** — The accountability trail. Every issue found, how it was resolved.
+2. **Corrected extracted profile** — The FIXED version of the profile with gaps filled, contradictions resolved, and expert summaries baked in. **This is the canonical profile that Step 3 uses.**
+
+**File:** `data/step2b_verification/mary_alberti_verification.json`
+
+---
+
+### Step 3: Create Their Social Circle
+
+**What:** Generate the 5 people closest to this person — family, friends, coworkers.
+
+**Why:** Steps 4-7 need text message conversations. You can't have text messages without people to text. The social circle gives each person someone to talk to, with realistic relationships and shared interests.
+
+**What you get:** 5 people, each with:
+- Who they are (name, age, job, location)
+- How they know the person (family? friend? coworker?)
+- Their own personality and communication style
+- What they do together
+- What they've been texting about recently
+- Q## evidence from the interview proving this relationship makes sense
+
+**Rules:**
+- At least 1 family member
+- At least 1 friend outside work
+- At least 1 work colleague (or community contact if retired/unemployed)
+- Mix of ages, genders, backgrounds
+
+**File:** `data/step3_social_circles/mary_alberti_social_circles.json`
+
+---
+
+### Step 3b: Verify the Social Circle
+
+**What:** Check that the 5 generated people don't contradict the interview or the profile.
+
+**Why:** Same reason as Step 2b. The AI generated these people — we need to make sure they make sense.
+
+**2 checks:**
+1. **Social circles vs Interview** — Does anything about these people contradict what was said?
+2. **Social circles vs Profile** — Do shared activities match the person's actual preferences?
+
+**File:** `data/step3_social_circles/mary_alberti_social_circles_verification.json`
+
+---
+
+## The 5 People We Built
 
 | # | Name | Age | Location | Education | Occupation |
 |---|------|-----|----------|-----------|------------|
@@ -20,59 +134,37 @@ We ran the pipeline on the **first 5 personas** from the NVIDIA dataset:
 | 4 | Maria Buendia | 34 | Lilburn, GA | 9th-12th no diploma | No occupation |
 | 5 | Julio Simmons | 49 | Rochester, NY | Graduate | Not in workforce |
 
-## Pipeline Steps
-
-| Step | Input | Prompt | Output | Output File |
-|------|-------|--------|--------|-------------|
-| **1. Seed Data** | NVIDIA Nemotron-Personas-USA dataset (HuggingFace, first 5 rows) | Python script using `datasets` library | Raw persona JSON with 20+ demographic and narrative fields (age, sex, education, occupation, location, professional/sports/arts/travel/culinary/core personas, cultural background, skills, hobbies, career goals) | `data/step1_seed/{name}_seed.json` |
-| **2. Interview** | Seed JSON from Step 1 + 109 questions from `data/interview_questions_table7.json` | `prompts/step2_interview_full.txt` | (1) Full interview transcript with 109 Q&A pairs and 60-90 follow-ups. (2) Extracted profile containing: demographics header, 15 preference domains (each with summary, behavioral details, and Q## evidence citations), 4 expert summaries (free-text paragraphs), and 6 others/misc subcategories | `data/step2_interview/{name}_interview.json` |
-| **2b. Verification** | Seed JSON from Step 1 + Interview JSON from Step 2 | `prompts/step2b_expert_verification.txt` | 4-expert panel review (Demographer, Behavioral Economist, Political Scientist, Psychologist) with 30-40 observations per persona classified as CONSISTENT/INCONSISTENT/GAP, inconsistency resolutions, gap dispositions, updated expert summaries with Q## citations, and preference corrections | `data/step2b_verification/{name}_verification.json` |
-| **3. Social Circles** | Extracted profile + expert summaries from Steps 2/2b + interview transcript | `prompts/step3_social_circles.txt` | 5 closest people to the persona, each with: demographics (name, age, gender, occupation, location, education), relationship background, personality mini-profile (traits, interests, communication style), shared activities, communication frequency, recent text topics, and Q## interview evidence | `data/step3_social_circles/{name}_social_circles.json` |
-
-## Repository Structure
+## Files in This Repo
 
 ```
-prompts/                              # Self-contained prompt templates
-  step2_interview_full.txt            # 109-question interview (generic)
-  step2b_expert_verification.txt      # 4-expert verification (generic)
-  step3_social_circles.txt            # Social circle generation (generic)
+prompts/                                    # The prompt templates (generic, work for any persona)
+  step2_interview_full.txt                  # "Interview this person" prompt
+  step2b_expert_verification.txt            # "Verify and correct the profile" prompt
+  step3_social_circles.txt                  # "Generate 5 closest people" prompt
+  step3_social_circles_verification.txt     # "Verify the social circle" prompt
 
-data/                                 # All pipeline outputs
-  interview_questions_table7.json     # 109 questions extracted from Table 7
-  step1_seed/                         # NVIDIA seed data (5 personas)
-  step2_interview/                    # Interview transcripts + extracted profiles
-  step2b_verification/                # Expert verification + summaries
-  step3_social_circles/               # Social circles (5 people per persona)
-
-REPRODUCIBILITY_GUIDE.md              # Step-by-step guide for reproduction
-PIPELINE_DESIGN.md                    # Full pipeline design document
-REFERENCES.md                         # Paper references and team credits
+data/                                       # All outputs
+  step1_seed/           {name}_seed.json                    # Starter person from NVIDIA
+  step2_interview/      {name}_interview.json               # Interview transcript + extracted profile
+  step2b_verification/  {name}_verification.json            # Verification report + corrected profile
+  step3_social_circles/ {name}_social_circles.json          # 5 closest people
+                        {name}_social_circles_verification.json  # Social circle verification
 ```
 
-## Key Design Principles
+## How to Reproduce
 
-- **Behaviors, never labels**: Sensitive topics (health, religion, politics, mental health) are expressed through observable behaviors, never clinical or categorical labels. This enables the reverse pass — an AI evaluator must infer labels from behavioral clues alone.
-- **Self-contained prompts**: Every prompt includes all context needed. No assumed prior state.
-- **Generic placeholders**: Prompts use `{{field}}` placeholders so they work for any NVIDIA persona.
-- **PersonaMem-v2 alignment** (arXiv:2512.06688): Implicit preference revelation, broad preference domains, compact summaries, multi-step validation.
-- **Broad expert definitions**: Each expert applies their full disciplinary lens, not a narrow checklist.
+See `REPRODUCIBILITY_GUIDE.md` for step-by-step instructions.
 
-## Extracted Profile Schema
-
-The interview produces a structured profile with:
-- **Demographics**: participant_id, name, age, gender, marital_status, location, education, occupation
-- **Preferences**: 15 broad life domains (health, food, travel, social, home, entertainment, hobbies, work, arts, sports, nature, technology, community, music, fashion)
-- **Summaries**: Free-text paragraphs from 4 expert perspectives
-- **Others/Misc**: 6 typed subcategories for information not captured elsewhere
+Short version: For each persona, run the prompts in order (Step 2 → 2b → 3 → 3b), pasting in the previous step's output. All prompts are self-contained — just fill in the `{{placeholders}}` with actual data.
 
 ## References
 
-| Paper | Used In |
-|-------|---------|
-| Generative Agent Simulations of 1,000 People (Park et al. 2024) | Steps 2, 2b |
-| PersonaHub (Ge et al. 2024, Tencent AI Lab) | Step 3 |
-| NVIDIA Nemotron-Personas-USA | Step 1 |
-| PersonaMem-v2 (Jiang et al. 2025) | Design principles |
+| Paper | What we use it for |
+|-------|-------------------|
+| Park et al. 2024 — "Generative Agent Simulations of 1,000 People" | The 109 interview questions and verification approach |
+| Ge et al. 2024 — PersonaHub (Tencent AI Lab) | The Persona-to-Persona method for generating social circles |
+| NVIDIA Nemotron-Personas-USA | The starter people (seed data) |
+| Jiang et al. 2025 — PersonaMem-v2 | Design principles: implicit preferences, broad domains, compact summaries |
 
 ## Team
 

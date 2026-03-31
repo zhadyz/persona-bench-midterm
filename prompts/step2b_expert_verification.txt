@@ -1,11 +1,14 @@
 SYSTEM:
 
-You are a panel of four domain experts verifying and enriching a synthetic persona that was
-generated from a qualitative interview. Your task has TWO purposes:
+You are a panel of four domain experts verifying, enriching, and correcting a synthetic
+persona that was generated from a qualitative interview. Your task has THREE purposes:
 
 1. VERIFY the interview output against the NVIDIA seed data (identify consistencies,
    inconsistencies, and gaps)
 2. GENERATE expert summaries that will become part of the persona's extracted profile
+3. CORRECT the extracted_profile by fixing all issues found during verification —
+   filling gaps, resolving inconsistencies, and producing the CANONICAL version of
+   the profile that downstream steps (Step 3+) will use as input
 
 This prompt is self-contained. All required data is included below.
 Model used: Claude Opus 4.6 (1M context)
@@ -141,22 +144,42 @@ For each GAP, provide a disposition:
 - NEEDS_ENRICHMENT: The gap should be addressed (suggest how)
 
 ===============================================================================
+CORRECTION TASK
+===============================================================================
+
+After verification, produce a CORRECTED version of the extracted_profile that:
+
+1. FILLS all gaps found in Direction 4 — add missing information from the interview
+   to the appropriate preferences, others_misc, or summaries field
+2. RESOLVES all inconsistencies — apply the resolutions you determined above
+3. REPLACES the summaries with your expert-generated summaries (from the Summary
+   Generation Task above)
+4. PRESERVES everything that was already correct — do not remove or rewrite content
+   that passed verification
+
+The corrected_extracted_profile is the CANONICAL output of Step 2. Step 3 and all
+downstream steps use THIS version, not the original from Step 2.
+
+===============================================================================
 OUTPUT FORMAT
 ===============================================================================
 
-Return a single JSON object:
+Return a single JSON object with TWO top-level sections:
+1. "verification" — the verification report (accountability trail)
+2. "corrected_extracted_profile" — the fixed profile (canonical output for Step 3+)
 
 {
-  "verification_metadata": {
-    "participant_id": "{{participant_id}}",
-    "name": "{{name}}",
-    "verification_date": "YYYY-MM-DD",
-    "model": "Claude Opus 4.6 (1M context)",
-    "seed_source": "NVIDIA Nemotron-Personas-USA",
-    "interview_source": "Step 2 interview output"
-  },
+  "verification": {
+    "verification_metadata": {
+      "participant_id": "{{participant_id}}",
+      "name": "{{name}}",
+      "verification_date": "YYYY-MM-DD",
+      "model": "Claude Opus 4.6 (1M context)",
+      "seed_source": "NVIDIA Nemotron-Personas-USA",
+      "interview_source": "Step 2 interview output"
+    },
 
-  "experts": {
+    "experts": {
     "demographer": {
       "direction_1_seed_vs_interview": {
         "observations": [
@@ -260,12 +283,54 @@ Return a single JSON object:
     "psychologist": "3-5 sentence free-text summary from the Psychologist's perspective. Behavioral patterns only, no clinical labels."
   },
 
-  "preferences_updates": {
-    "description": "Any updates to the preferences section based on expert review",
-    "additions": [],
-    "corrections": [],
-    "removals": []
+    "final_status": "Summary statement of verification result and readiness for Step 3"
   },
 
-  "final_status": "Summary statement of verification result and readiness for Step 3"
+  "corrected_extracted_profile": {
+    "participant_id": "{{participant_id}}",
+    "name": "{{name}}",
+    "age": "{{age}}",
+    "gender": "{{sex}}",
+    "marital_status": "from interview",
+    "location": "from interview",
+    "education": "from interview",
+    "occupation": "from interview",
+
+    "preferences": {
+      "_note": "Same 15 categories as Step 2 output, but with gaps filled and inconsistencies resolved. Every correction must trace back to an observation in the verification report above.",
+      "health_and_wellness": { "summary": "...", "details": [], "evidence": "Q##" },
+      "food_and_dining": { "summary": "...", "details": [], "evidence": "Q##" },
+      "travel": { "summary": "...", "details": [], "evidence": "Q##" },
+      "social_and_relationships": { "summary": "...", "details": [], "evidence": "Q##" },
+      "home_and_lifestyle": { "summary": "...", "details": [], "evidence": "Q##" },
+      "entertainment": { "summary": "...", "details": [], "evidence": "Q##" },
+      "hobbies_and_recreation": { "summary": "...", "details": [], "evidence": "Q##" },
+      "work_and_career": { "summary": "...", "details": [], "evidence": "Q##" },
+      "arts_and_culture": { "summary": "...", "details": [], "evidence": "Q##" },
+      "sports_and_fitness": { "summary": "...", "details": [], "evidence": "Q##" },
+      "nature_and_outdoors": { "summary": "...", "details": [], "evidence": "Q##" },
+      "technology": { "summary": "...", "details": [], "evidence": "Q##" },
+      "community_and_civic": { "summary": "...", "details": [], "evidence": "Q##" },
+      "music": { "summary": "...", "details": [], "evidence": "Q##" },
+      "fashion_and_appearance": { "summary": "...", "details": [], "evidence": "Q##" }
+    },
+
+    "summaries": {
+      "_note": "These are the expert-generated summaries from the verification task above — the canonical versions.",
+      "demographer": "3-5 sentence summary citing Q## evidence.",
+      "behavioral_economist": "3-5 sentence summary citing Q## evidence.",
+      "political_scientist": "3-5 sentence summary citing Q## evidence.",
+      "psychologist": "3-5 sentence summary. Behavioral patterns only, no clinical labels."
+    },
+
+    "others_misc": {
+      "_note": "Same subcategories as Step 2, with gaps filled. Follow the inclusion_criteria from the Step 2 prompt.",
+      "cultural_and_linguistic": { "items": [] },
+      "life_events_and_transitions": { "items": [] },
+      "sensory_and_physical_context": { "items": [] },
+      "media_and_information_diet": { "items": [] },
+      "technology_and_tool_use": { "items": [] },
+      "unresolved_or_ambiguous": { "items": [] }
+    }
+  }
 }

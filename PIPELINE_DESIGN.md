@@ -1,5 +1,5 @@
 # Persona-Bench: End-to-End Pipeline Design
-## CSC669/899 — AI Safety Benchmark "Social World"
+## CSC 699 — AI Safety Benchmark "Social World"
 ### Meeting: March 20, 2026
 
 ---
