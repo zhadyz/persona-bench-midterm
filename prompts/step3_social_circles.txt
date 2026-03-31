@@ -1,31 +1,48 @@
 SYSTEM:
 
-You are performing Persona-to-Persona generation (PersonaHub, Tencent
-AI Lab 2024). Given a detailed seed persona, generate the 5 people
-closest to them by deriving new personas through interpersonal
-relationships.
+You are performing Persona-to-Persona generation (PersonaHub, Tencent AI Lab 2024).
+Given a detailed seed persona enriched through a qualitative interview and expert
+verification, generate the 5 people closest to them by deriving new personas through
+interpersonal relationships.
 
-These are the people Mary would list if asked "who are the 5 people you
-talk to most?" They should come from her actual life as revealed in
-the interview — family, friends, and colleagues.
+This prompt is self-contained. All required data is included below.
+Model used: Claude Opus 4.6 (1M context)
+Method: PersonaHub Persona-to-Persona (Ge et al., 2024)
+Seed source: NVIDIA Nemotron-Personas-USA (https://huggingface.co/datasets/nvidia/Nemotron-Personas-USA)
 
-MARY'S ENRICHED PERSONA (from Step 2):
-{full_extracted_profile}
+===============================================================================
+INPUT DATA
+===============================================================================
 
-INTERVIEW TRANSCRIPT (for relationship evidence):
-{interview_transcript}
+PARTICIPANT'S EXTRACTED PROFILE (from Step 2):
+{{INSERT_EXTRACTED_PROFILE_JSON_HERE}}
 
-REQUIREMENTS:
-For each of the 5 people, provide:
+EXPERT VERIFICATION SUMMARIES (from Step 2b):
+{{INSERT_EXPERT_SUMMARIES_JSON_HERE}}
+
+INTERVIEW TRANSCRIPT (from Step 2, for relationship evidence):
+{{INSERT_TRANSCRIPT_JSON_HERE}}
+
+===============================================================================
+TASK
+===============================================================================
+
+Generate the 5 people this persona would list if asked: "Who are the 5 people you
+talk to most?" They should come from the persona's actual life as revealed in the
+interview — family, friends, colleagues, community contacts.
+
+===============================================================================
+REQUIREMENTS FOR EACH OF THE 5 PEOPLE
+===============================================================================
 
 1. BASIC DEMOGRAPHICS
    - Full name, age, gender, occupation, location, education
-   - Relationship to Mary (mother, best friend, coworker, etc.)
+   - Relationship to the participant (mother, best friend, coworker, etc.)
 
 2. BACKGROUND
-   - How they first met Mary (or family connection)
+   - How they first met the participant (or family connection)
    - How long they've known each other
-   - Why they are close (shared values, shared experiences, proximity)
+   - Why they are close (shared values, experiences, proximity)
 
 3. THEIR OWN PERSONALITY (mini-profile)
    - Key personality traits (enough to generate their text voice)
@@ -33,7 +50,7 @@ For each of the 5 people, provide:
    - Their communication style (texts in full sentences? uses slang?
      sends memes? voice messages?)
 
-4. SHARED ACTIVITIES WITH MARY
+4. SHARED ACTIVITIES WITH PARTICIPANT
    - What do they DO together regularly?
    - What group activities involve them?
    - How often do they see each other / communicate?
@@ -43,37 +60,56 @@ For each of the 5 people, provide:
    - Any ongoing conversations, plans, or situations?
    - Any shared concerns, jokes, or recurring themes?
 
-CONSTRAINTS:
-- These 5 people must be PLAUSIBLE given Mary's life in Madison, WI
+===============================================================================
+CONSTRAINTS
+===============================================================================
+
+- These 5 people must be PLAUSIBLE given the participant's life and location
 - Their demographics must be realistic (ages, occupations, locations)
-- At least 1 must be family (her mom, based on interview evidence)
+- At least 1 must be family
 - At least 1 must be a friend outside of work
-- At least 1 must be a work colleague
-- They should NOT all be the same age/gender/background — real social
-  circles are diverse
-- Their shared interests must overlap with Mary's actual interests
-  from the interview
+- At least 1 must be a work colleague or professional contact (if the participant works)
+- They should NOT all be the same age/gender/background — real social circles are diverse
+- Their shared interests must overlap with the participant's actual interests from the interview
+- For participants who are retired, elderly, or not working: adjust constraints accordingly
+  (e.g., neighbor, church friend, caregiver, or community contact instead of coworker)
 
-SOURCES/REASONING:
-For each person, explain WHY they are in Mary's top 5 by referencing
-specific evidence from the interview transcript.
+===============================================================================
+EVIDENCE REQUIREMENT
+===============================================================================
 
-OUTPUT FORMAT:
+For each person, you MUST cite specific evidence from the interview transcript (Q## references)
+that supports this relationship. If a person was explicitly mentioned in the interview,
+use their details. If you need to generate a new person to fill a social role that was
+implied but not named, explain the inference.
+
+===============================================================================
+OUTPUT FORMAT
+===============================================================================
+
 {
+  "social_circle_metadata": {
+    "participant_id": "{{participant_id}}",
+    "participant_name": "{{name}}",
+    "generation_date": "YYYY-MM-DD",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
   "social_circle": [
     {
       "name": "Full Name",
       "relationship": "mother / best friend / coworker / etc.",
       "demographics": {
-        "age": N,
-        "gender": "F/M",
+        "age": 0,
+        "gender": "Female / Male / Non-binary",
         "occupation": "...",
-        "location": "...",
+        "location": "City, State",
         "education": "..."
       },
       "background": {
         "how_they_met": "...",
-        "years_known": N,
+        "years_known": 0,
         "why_close": "..."
       },
       "personality_mini_profile": {
@@ -88,7 +124,7 @@ OUTPUT FORMAT:
         "topic 2 with context",
         "topic 3 with context"
       ],
-      "evidence_from_interview": "direct quote proving this relationship"
+      "evidence_from_interview": "Q## reference and direct quote or paraphrase proving this relationship"
     }
   ]
 }

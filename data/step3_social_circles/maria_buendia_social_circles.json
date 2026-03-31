@@ -1,0 +1,205 @@
+{
+  "social_circle_metadata": {
+    "participant_id": "5237e90a0ca3460dbbcba20adb61922f",
+    "participant_name": "Maria Buendia",
+    "generation_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
+  "social_circle": [
+    {
+      "name": "Carlos Buendia",
+      "relationship": "husband",
+      "demographics": {
+        "age": 36,
+        "gender": "Male",
+        "occupation": "Construction worker",
+        "location": "Lilburn, GA",
+        "education": "High school diploma"
+      },
+      "background": {
+        "how_they_met": "Met at a friend's little sister's quinceañera when Maria was 19; Carlos was one of the chambelanes. They started dating and married when Maria was 22.",
+        "years_known": 15,
+        "why_close": "Carlos is Maria's anchor and co-parent. He is dependable, physically present, and shares her commitment to family and hard work. They have built their household and raised two children together through financial hardship, relying on each other as a team. Maria describes him as 'my rock.'"
+      },
+      "personality_mini_profile": {
+        "key_traits": ["quiet and reserved", "dependable and hardworking", "stoic under stress", "physically affectionate rather than verbally expressive"],
+        "interests": ["Atlanta Falcons football", "Atlanta Hawks basketball", "working with his hands", "dreams of homeownership"],
+        "communication_style": "Not a big talker -- shows love through actions rather than words. Texts in short, practical messages. Rarely initiates emotional conversations but will sit with Maria when she needs him. Uses simple, direct language. Sends occasional sports score updates or job-related texts."
+      },
+      "shared_activities": [
+        "Watching Falcons and Hawks games together on weekday evenings",
+        "Sunday family meals (sometimes with Doña Elena)",
+        "Weekend family outings to parks or restaurants along Buford Highway",
+        "Sunday night budget-planning sessions at the kitchen table",
+        "Attending Mass together on Sunday mornings at St. Patrick's",
+        "Co-managing children's after-school activity logistics"
+      ],
+      "communication_frequency": "daily (live together; text during the day when Carlos is at job sites)",
+      "recent_text_topics": [
+        "Coordinating kids' pickup and activity schedules -- who is getting Diego from soccer vs. Sofia from dance",
+        "Carlos's work hours and upcoming Saturday overtime opportunities to make up for last fall's reduced hours",
+        "Planning how to use this year's tax refund (catching up on credit card debt vs. car maintenance vs. kids' needs)",
+        "Diego's school situation -- updates on how the bullying issue resolved and his latest math test results",
+        "Quick check-ins during the workday ('what's for dinner,' 'I'll be home by 6:30')"
+      ],
+      "evidence_from_interview": "Q01: 'I been with my husband Carlos since I was nineteen. We met at a friend's quinceañera... He's a good man, works hard.' Q05: 'Carlos is thirty-six, he's been working in construction since he was like twenty. He's a hard worker, real dependable. He doesn't talk a whole lot but when he does, it matters. We been together fifteen years now and married for twelve. He's my rock.' Q05 follow-up: describes typical evenings watching sports, talking about their day, weekend family outings. Q44: During Maria's emotional breakdown, 'Carlos came in and asked if I was okay and I couldn't even talk. He just sat with me.' Q83 follow-up: 'We sit down together on Sunday nights sometimes and look at what's coming up that week.' Q46: 'Carlos keeps a lot inside. He's the strong silent type.'"
+    },
+    {
+      "name": "Guadalupe 'Lupita' Herrera",
+      "relationship": "best friend since childhood",
+      "demographics": {
+        "age": 34,
+        "gender": "Female",
+        "occupation": "Retail associate (inferred from proximity, similar background, and availability to help with errands during weekdays)",
+        "location": "Norcross, GA",
+        "education": "High school diploma (inferred; Lupita completed school while Maria did not, based on Maria's narrative that her own dropout was unusual in her peer group)"
+      },
+      "background": {
+        "how_they_met": "They have been friends since childhood, growing up in the same Mexican-American community in the Gwinnett County area. Their lifelong bond predates Maria's marriage and family formation.",
+        "years_known": 28,
+        "why_close": "Lupita is Maria's emotional anchor outside the family. She is the person Maria can 'tell anything to.' They share deep cultural roots, similar life stages (both mothers), and a mutual accountability system built after Maria's emotional crisis in fall 2025. Lupita has also provided concrete financial help (lending $200 for car brakes), showing the relationship operates on both emotional and material reciprocity."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["outspoken and direct", "politically engaged", "emotionally perceptive", "loyal and generous"],
+        "interests": ["social justice activism (attended a rally in Atlanta)", "social media engagement", "cooking and grocery shopping at Mexican markets", "raising her children"],
+        "communication_style": "Texts frequently throughout the day in a warm, direct style. Uses a mix of Spanish and English. Not afraid to say hard truths -- she told Maria 'you can't carry all of this by yourself.' Likely uses voice messages and phone calls as well as texting. Initiates emotional check-ins. Has gone to counseling herself, so is comfortable discussing mental health openly."
+      },
+      "shared_activities": [
+        "Grocery shopping together at the Mexican markets on Buford Highway (spending hours browsing and talking)",
+        "Cooking together at each other's homes on Saturdays",
+        "Taking their kids to the park together",
+        "Occasional dinners out (Applebee's or the taqueria on Pleasant Hill) when husbands can watch the kids",
+        "Weekly 'how are you really?' check-in texts (emotional accountability ritual)",
+        "Lupita sometimes picks up Sofia from dance class to help Maria's schedule"
+      ],
+      "communication_frequency": "daily (phone calls and texting; weekly honest check-in ritual)",
+      "recent_text_topics": [
+        "Weekly 'how are you really?' honest check-ins -- ongoing emotional accountability pact started after Maria's rough fall 2025",
+        "Maria's GED study progress and plans to call Gwinnett Tech about enrollment; Lupita encouraging her to follow through",
+        "Coordinating kids' schedules and pickup logistics (Lupita covering Sofia's dance pickup on busy days)",
+        "Discussing the latest book club read (Americanah by Chimamanda Ngozi Adichie) and themes of immigration and identity",
+        "Sharing cooking experiments and recipe ideas found on Instagram",
+        "Maria's catering business growth -- Lupita helps spread the word and may have referred recent baby shower client"
+      ],
+      "evidence_from_interview": "Q07: 'My best friend is Lupita -- we been friends since we were kids. She lives in Norcross, which is close by. We talk almost every day, either on the phone or texting. She's the one I can tell anything to.' Q07 follow-up: detailed description of shared activities (grocery shopping on Buford Highway, cooking together, park with kids, dinners out). 'She's my person.' Q19 follow-up: 'Lupita helps me sometimes -- if she's free she'll pick up Sofia from dance so I can start dinner.' Q30: 'My friend Lupita is more outspoken about it than me. She posted a lot on social media and she actually went to a rally in Atlanta.' Q33 follow-up: 'Lupita dropped off medicine from the store' during the family flu. Q44 follow-up: 'Lupita called me the next day and I told her everything and she said, Maria, you can't carry all of this by yourself.' Q44 follow-up 2: 'Lupita and I have this thing now where we text each other how are you really once a week and we have to answer honestly.' Q45 follow-up: 'Lupita actually went to a counselor for a while and she said it helped her a lot.' Q64: 'Lupita finally lent me $200 to get them [brakes] fixed.' Q82: 'I'd probably ask my mom or Lupita for help.' Q108 follow-up: Maria plans to 'ask Lupita or somebody to help with the kids' when she starts GED classes."
+    },
+    {
+      "name": "Rosa Elena Ramirez de Buendia",
+      "relationship": "mother",
+      "demographics": {
+        "age": 62,
+        "gender": "Female",
+        "occupation": "Retired (formerly house cleaner and restaurant kitchen worker)",
+        "location": "Lilburn, GA (approximately 15 minutes from Maria's home)",
+        "education": "Approximately 8th grade equivalent (completed in Mexico)"
+      },
+      "background": {
+        "how_they_met": "Mother and daughter. Rosa immigrated from Mexico before Maria was born. Maria grew up in a full household with Rosa, her father, grandmother, and brother Luis.",
+        "years_known": 34,
+        "why_close": "Rosa is Maria's 'best friend in a lot of ways' and the woman who taught her everything she knows in the kitchen. Their bond deepened as Maria took on a caregiving role -- Rosa now has severe knee problems and depends on Maria for groceries, doctor's appointments, and household help 2-3 times per week. Despite the role reversal, Rosa still worries about Maria ('Mija, you need to rest') and provides childcare and emotional support in return. She came over wearing a mask to make soup when the whole family had the flu. Their relationship is defined by reciprocal caregiving and deep cultural transmission."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["hardworking and self-sacrificing", "warm and nurturing", "stubborn about independence ('I'm fine, mija, go home')", "traditional and faith-centered", "worried about Maria overextending herself"],
+        "interests": ["cooking traditional Mexican recipes (tamales, soups, holiday foods)", "church activities at St. Patrick's", "watching over grandchildren Diego and Sofia", "Catholic faith and prayer"],
+        "communication_style": "Primarily speaks Spanish with some English. Likely communicates through WhatsApp voice messages and phone calls rather than typed texts. Expressive and emotional -- she cried when Maria told her she was dropping out of school. Uses terms of endearment (mija). May send religious images and prayer messages via WhatsApp. Calls when she is in pain or needs help, though she resists asking."
+      },
+      "shared_activities": [
+        "Cooking together 2-3 times per week at Rosa's house -- Rosa is teaching Maria her tamale recipe ('somebody has to keep it going')",
+        "Maria drives Rosa to doctor's appointments and grocery shopping",
+        "Rosa watches the grandchildren when Maria needs help (one afternoon per week since fall 2025, plus occasional overnights)",
+        "Attending Mass together at St. Patrick's on Sundays",
+        "Sunday family lunches (either at Rosa's house or Maria's)",
+        "Preparing holiday celebrations together (Dia de los Muertos altars, Las Posadas, Christmas)"
+      ],
+      "communication_frequency": "daily (phone calls/WhatsApp) plus in-person visits 2-3 times per week",
+      "recent_text_topics": [
+        "Rosa's knee pain and upcoming doctor appointment -- whether the heating pad and joint supplements are helping",
+        "Coordinating which days Rosa will watch Diego and Sofia so Maria can study for her GED or handle catering jobs",
+        "Recipe exchanges and cooking plans -- Rosa passing down family recipes and Maria sharing new experiments",
+        "Concerns about Maria's health (Rosa telling her to get a checkup and to get her iron levels tested, since Rosa had the same fatigue issue)",
+        "Church events and upcoming saints' feast days at St. Patrick's",
+        "Family updates about Luis, Carlos, and the grandchildren's school activities"
+      ],
+      "evidence_from_interview": "Q01: 'My mom was always cooking, always had music going... My mom was working a lot and somebody had to watch my little brother.' Q01 follow-up: 'She actually cried when I told her [about dropping out].' Q05: 'My mom is still around, she lives about fifteen minutes from us. I see her a couple times a week. She's getting older now, sixty-two, and she's slowed down a lot. Her knees bother her.' Q05 follow-up: 'We're real close. She's my best friend in a lot of ways. I go over to her house maybe two, three times a week... We cook together a lot -- she's the one who taught me everything I know in the kitchen.' Q13: 'My mom comes over and stays the night once in a while.' Q17: 'checking in on my mom... take her groceries or drive her to an appointment.' Q33 follow-up: 'My mom came over even though I told her not to because I didn't want her to catch it. She wore one of those masks and made soup for everybody.' Q35: 'Her knees are getting worse and worse... She needs that surgery where they replace the knee.' Q35 follow-up: 'I go over there and do the stuff she can't do.' Q42 follow-up: Maria convinced Rosa to get vaccinated. Q44 follow-up: 'I let my mom know I needed help back, and she started watching the kids one afternoon a week.' Q63: 'I owe my mom about $200 from when she helped us out a couple months ago.' Q81: 'My mom lent us $200.' Q101: 'She went to school in Mexico, maybe through eighth grade.'"
+    },
+    {
+      "name": "Ana Lucia Mendoza",
+      "relationship": "close friend from Ballet Folklorico dance group / community contact",
+      "demographics": {
+        "age": 38,
+        "gender": "Female",
+        "occupation": "Office administrator at a dental practice (inferred: a working Latina woman in Gwinnett County with Wednesday evenings free for dance practice, stable enough employment to maintain weekly commitment)",
+        "location": "Duluth, GA (near the community center where they practice)",
+        "education": "Associate's degree or some college (inferred from occupation and community engagement level)"
+      },
+      "background": {
+        "how_they_met": "Met through the Ballet Folklorico dance troupe that practices Wednesday evenings at a community center in Duluth. The group has about 12 women, mostly Mexican with a few Guatemalan and Salvadoran members. Maria has been in the group 'a few years' (Q01), so they likely met 3-4 years ago.",
+        "years_known": 4,
+        "why_close": "Ana has become 'like a sister' to Maria through their weekly dance practice and performances together. The dance group is one of Maria's primary sources of joy and cultural connection. Ana likely shares Maria's passion for preserving Mexican cultural traditions and performing at community events. Their bond is built on shared physical activity, cultural pride, and the intimacy of weekly in-person time doing something they both love."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["warm and sisterly", "culturally grounded", "disciplined and committed (maintains weekly dance practice)", "supportive and encouraging"],
+        "interests": ["Ballet Folklorico and traditional Mexican dance", "Mexican cultural preservation", "community performances at schools and festivals", "fitness and physical activity"],
+        "communication_style": "Texts in a mix of Spanish and English, probably heavy on Spanish given the cultural context of their friendship. Sends voice messages via WhatsApp about dance practice logistics, costume coordination, and performance schedules. Likely shares dance videos, music clips, and cultural content. Warm and encouraging tone."
+      },
+      "shared_activities": [
+        "Weekly Ballet Folklorico practice every Wednesday evening (7-9pm) at the community center in Duluth",
+        "Performing together at community events, festivals, and school cultural presentations",
+        "Coordinating costumes (trajes) and choreography for upcoming performances",
+        "Attending Dia de los Muertos and other cultural celebrations together",
+        "Supporting each other's families -- likely overlapping social networks in the Gwinnett County Mexican-American community"
+      ],
+      "communication_frequency": "3-4 times per week (weekly in-person at dance practice plus WhatsApp group chat and direct messages)",
+      "recent_text_topics": [
+        "Upcoming spring performance schedule -- which festivals and schools they will perform at",
+        "Choreography details and practice reminders for Wednesday evenings",
+        "Costume coordination and whether anyone needs alterations to their trajes before the next event",
+        "Maria's catering -- Ana may refer clients or share Maria's tamale posts in her own networks",
+        "Community arts center spring art walk planning (overlapping community event circles)",
+        "Personal updates -- kids, family, week's stresses shared in the group chat or one-on-one"
+      ],
+      "evidence_from_interview": "Q07: 'Then there's my friend Ana from the folk dance group. We practice together every week and she's become like a sister to me.' Q15: Maria describes Wednesday evening folk dance practice (7-9pm) at a community center in Duluth with about 12 women. 'It's my favorite thing I do all week. I come home sweaty and tired but happy.' Q01: Maria mentions being 'part of a folk dance group for a few years now.' Psychologist verification observation 9: 'Ana from dance group (weekly practice, like a sister)' is identified as part of Maria's close relational network. The psychologist notes Maria's 'warm, reciprocal relational style with deep attachments to a small network' including Ana. Note: Ana is named but not extensively described in the interview; her personality details are inferred from the context of the dance group, cultural community, and Maria's characterization of her as 'like a sister.'"
+    },
+    {
+      "name": "Patricia Buendia",
+      "relationship": "sister-in-law (Carlos's sister)",
+      "demographics": {
+        "age": 32,
+        "gender": "Female",
+        "occupation": "Receptionist or customer service worker (inferred: lives in Georgia, close in age to Carlos, has a husband who does taxes on the side, suggesting a working-class but employed household)",
+        "location": "Lawrenceville, GA (inferred: 'both here in Georgia' per Q06, close enough for regular Sunday dinners and frequent contact; Lawrenceville is adjacent to Lilburn in Gwinnett County)",
+        "education": "High school diploma or some college (inferred from employment and community context)"
+      },
+      "background": {
+        "how_they_met": "Through Carlos. Patricia is Carlos's sister, making her Maria's cuñada (sister-in-law) since Maria and Carlos married 12 years ago. The families are close, with Carlos's mother Doña Elena also living nearby and joining for Sunday dinners.",
+        "years_known": 15,
+        "why_close": "Patricia bridges the gap between friend and family for Maria. They are 'pretty close' and 'talk on the phone a lot.' As another young Latina woman raising a family in Gwinnett County, Patricia shares Maria's cultural context and many daily concerns. Patricia's husband helps the family with taxes, indicating a practical, reciprocal family relationship. Maria likely confides in Patricia about things related to Carlos and the Buendia family that she might not share with Lupita."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["sociable and talkative", "family-oriented", "practical and helpful", "warm and connected to extended family traditions"],
+        "interests": ["family gatherings and Sunday dinners", "keeping the Buendia extended family connected", "cooking (participates in family meals)", "following local community happenings"],
+        "communication_style": "Talks on the phone frequently -- likely longer conversations rather than quick texts. Communicates in a mix of Spanish and English. Keeps the family loop going by sharing news about Doña Elena, family events, and coordinating gatherings. Probably a warm, chatty phone presence. Texts about practical things (Sunday dinner plans, kids' activities, family logistics)."
+      },
+      "shared_activities": [
+        "Sunday family dinners (sometimes at Maria's, sometimes at Doña Elena's)",
+        "Phone conversations multiple times per week",
+        "Coordinating family events and holiday celebrations (Las Posadas, Christmas, birthdays)",
+        "Patricia's husband does the family's taxes each year",
+        "Helping care for Doña Elena when she had stomach health issues (Patricia likely coordinated with Maria)",
+        "Kids' birthday parties and family gatherings with cousins"
+      ],
+      "communication_frequency": "3-4 times per week (frequent phone calls plus in-person at Sunday family gatherings)",
+      "recent_text_topics": [
+        "Doña Elena's health updates and recovery from her stomach issues -- coordinating who checks on her this week",
+        "Planning upcoming family gatherings and Sunday dinner menus (who is bringing what)",
+        "Tax season -- Patricia's husband helping Maria and Carlos file their return and discussing the expected refund",
+        "Kids' milestones and school updates (sharing photos and stories about the children)",
+        "Maria's catering work -- Patricia may order from Maria for family events or refer friends",
+        "Discussing Carlos's work situation and family finances in the way sisters-in-law share concerns about their shared family"
+      ],
+      "evidence_from_interview": "Q06: 'Carlos has a sister, Patricia, and his mom, Doña Elena. They're both here in Georgia. Patricia and me are pretty close, we talk on the phone a lot. Doña Elena is a sweetheart, she comes over for Sunday dinner sometimes.' Q11 follow-up: Maria describes Doña Elena's 3-week stay during health problems, indicating close extended family caregiving that would involve coordinating with Patricia. Q15 follow-up: Sunday family time 'maybe my mom comes over or we go to her place' implies a rotation of extended family gatherings. Q76 (taxes): 'Carlos's brother-in-law does taxes on the side, so he helps us' -- this is Patricia's husband, confirming the practical reciprocity of the relationship. Note: Patricia is explicitly named in the interview but described briefly. Her demographics and personality are inferred from the family context, her relationship to Carlos and Doña Elena, and the description of frequent phone contact."
+    }
+  ]
+}

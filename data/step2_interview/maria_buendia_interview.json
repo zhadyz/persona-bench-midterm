@@ -1,0 +1,1537 @@
+{
+  "interview_metadata": {
+    "participant_id": "5237e90a0ca3460dbbcba20adb61922f",
+    "name": "Maria Buendia",
+    "interview_date": "2026-03-30",
+    "protocol": "American Voices Project (Park et al. 2024, Table 7) \u2014 Full 109 questions",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA (HuggingFace)"
+  },
+
+  "transcript": [
+    {
+      "question_id": "Q01",
+      "block": "LIFE STORY",
+      "question_text": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "time_limit_seconds": 625,
+      "response": "Okay, wow, that's a big one. So I grew up here in Georgia, in Lilburn actually, same area I'm in now. My parents came from Mexico before I was born -- my dad first, then my mom a couple years later. We always had a full house. My grandma lived with us for a while, and cousins would come and go. It was loud and it was good, you know? My mom was always cooking, always had music going. We spoke Spanish at home, and I didn't really learn English good until I started school. Even then I was kind of behind the other kids because of that. School was hard for me. I liked the social part, I liked art class and lunch, but the reading and the math -- I just couldn't keep up. I made it to high school but I dropped out my junior year. I was sixteen, almost seventeen. I just felt like I wasn't getting nowhere, and my family needed help at home. My mom was working a lot and somebody had to watch my little brother and help around the house. I been with my husband Carlos since I was nineteen. We met at a friend's quincea\u00f1era -- well, it was her little sister's quincea\u00f1era, and he was one of the chambelanes. He's a good man, works hard. We got married when I was twenty-two, had our first kid a year after that. We got two kids now. My son Diego is ten and my daughter Sofia is seven. Being a mom is the biggest thing that ever happened to me. Like, everything I do is for them. I want them to have what I didn't, you know? I want them to stay in school, go to college, all of that. In between all that, I been doing a lot of stuff in my community. I help plan events at the church, I organize potlucks in the neighborhood, I been part of a folk dance group for a few years now. I'm trying to figure out how to turn all that into something more official, like a real job. I been looking into getting my GED and maybe doing some kind of certificate program. That's kind of where I'm at right now -- trying to build something for myself while making sure my kids are good.",
+      "follow_ups": [
+        {
+          "question": "You mentioned dropping out of high school. Can you walk me through what that time was like day to day -- what finally pushed you to leave?",
+          "response": "It wasn't like one big thing. It was more like a bunch of little things piling up. I was already missing a lot of days because I had to help my mom. She was working two jobs and my little brother was only like five or six. So I'd stay home with him. Then when I did go to school, I was lost because I missed so much. The teachers were nice but they couldn't just stop everything for me. I remember sitting in my English class one day and they were talking about some book I never even got to start reading, and I just felt so behind. And then at home, my mom needed me. She never said 'drop out,' she actually cried when I told her, but she also couldn't say no because she needed the help. So I just stopped going. I told myself I'd go back but I never did. Not yet anyway."
+        },
+        {
+          "question": "What was the transition like after you left school -- what did your daily life look like then?",
+          "response": "I basically became like a second mom in the house. I'd get up, make breakfast for my little brother, take him to school or watch him if he was too young for school that year. Then I'd clean, do laundry, start cooking. My mom would come home exhausted and at least there was food and the house was together. I also started helping at the church more because that was something I could do that felt like it was mine, you know? Like I was good at organizing stuff even if I wasn't good at school stuff. I helped with the Christmas posada that year and people were like, 'Maria, you're really good at this.' That meant a lot to me."
+        },
+        {
+          "question": "How did meeting Carlos change things for you?",
+          "response": "Carlos gave me something to look forward to. Before him, I was just kind of going through the motions -- helping at home, helping at church, but I didn't really have my own life. When we started dating, he'd take me out, we'd go to the park, get food, just drive around. He treated me good from the start. He's not a big talker but he shows up, you know? He works, he comes home, he's there. When we got married it was small, just family and close friends at the church. His mom helped with the food. It wasn't fancy but it was ours. And then when Diego came, that's when everything really changed. I wasn't just Maria anymore, I was somebody's mom. That hit different."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "time_limit_seconds": 235,
+      "response": "Yeah, for sure. The biggest crossroads was when I was thinking about whether to try to get a job at a factory or something after my brother started school, or whether to keep doing community stuff. There was a lady at our church, Se\u00f1ora Reyes, and she ran this little arts center type thing out of the community building. She asked me to help her plan a D\u00eda de los Muertos festival. I was maybe twenty-four, twenty-five. And I put my whole heart into it. I did the budget, I got donations from local businesses, I organized the performers, I set up the altar with all the ofrendas. And it turned out really beautiful. Like, people from all over Gwinnett County came. After that, Se\u00f1ora Reyes told me I should think about doing this for real, like getting into community development. That was the first time somebody told me I could have a career doing something I actually love. Before that I just figured my options were like, cleaning houses or working at a restaurant or something. Nothing wrong with that, but it opened my eyes that there might be another path. So I started looking into what it would take -- and that's when I found out about GED programs and community development certificates. I haven't done it yet, but I'm working on it. That was the fork in the road for me.",
+      "follow_ups": [
+        {
+          "question": "What specifically did you do to plan that festival -- walk me through the logistics?",
+          "response": "Oh man, it was a lot. So first I made a list of everything we needed -- the food, the decorations, the music. I went to like fifteen different businesses in the area, Mexican shops, the bakery, even the dollar store, and I asked them to donate stuff or give us a discount. I kept track of everything in a notebook, how much we spent, what came in free. I found a mariachi group that agreed to play for a lower price because it was for the community. I organized volunteers from the church to help set up. The altar was my favorite part -- I collected photos from families in the neighborhood, their loved ones who passed, and we built this big beautiful ofrenda with marigolds and candles and pan de muerto. It was a whole production but I loved every minute of it."
+        },
+        {
+          "question": "How did that experience change how you see yourself?",
+          "response": "It changed everything. Before that, I always thought of myself as just like, a helper. Like, I help my mom, I help at church, I help whoever needs it. But after that festival, I was like, wait, I actually ran this whole thing. I did the budget, I did the planning, I made decisions. People came to me with questions and I had answers. That was the first time I felt like maybe I'm not just a helper, maybe I'm actually good at leading stuff. It gave me confidence I didn't have before. My husband noticed too, he said I was different after that, like more sure of myself."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Honestly, it was a little bit of both. Dropping out of school, that kind of just happened -- like, life pushed me that direction and I went with it. But choosing to do the community stuff and thinking about getting my GED, that was more of a conscious thing. After that festival, I sat down and really thought about what I wanted. I even wrote some stuff down, like goals. I don't usually do that but I was serious about it. So the crossroads part was a choice, but a lot of what led up to it was just life happening.",
+      "follow_ups": [
+        {
+          "question": "When you wrote down those goals, what specifically did you write?",
+          "response": "I wrote down three things: get my GED by the time I'm thirty-five, find a job at a community center or something like that, and start a little catering thing on the side with my cooking. I'm thirty-four now so that GED thing is getting real close. I haven't done it yet but I been studying a little here and there. The catering I actually been doing informally -- like people pay me to cook for parties and stuff. So two out of three I'm working on."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "block": "LIFE STORY",
+      "question_text": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "time_limit_seconds": 40,
+      "response": "For sure. When I was in high school, if there had been like a program for kids who were falling behind, or somebody who spoke Spanish that could help me understand the homework, I might have stayed. My parents didn't know how to help me with school stuff because they didn't go to school here. And now, with the career stuff, I wish there was like a free program for people like me who want to get into community work but don't have a degree. I know there's stuff out there but it's hard to find, and a lot of it costs money we don't have. The church helps some, but they can only do so much.",
+      "follow_ups": [
+        {
+          "question": "Have you looked into any specific programs or organizations recently?",
+          "response": "I been looking online at Gwinnett Technical College. They got a GED program and some certificate things. There's also this place called the Latin American Association in Atlanta that does workforce stuff for the community. My friend told me about it. I just haven't had the time to really sit down and figure out how to sign up and how to pay for it and also like, who watches my kids while I'm in class. It's a lot of moving pieces."
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "time_limit_seconds": 310,
+      "response": "Yeah, so my husband Carlos is the most important person in my life along with my kids. Carlos is thirty-six, he's been working in construction since he was like twenty. He's a hard worker, real dependable. He doesn't talk a whole lot but when he does, it matters. We been together fifteen years now and married for twelve. He's my rock, honestly. We don't always agree on everything but we figure it out. Then there's Diego, he's ten. He's my little man. He's smart -- like, actually smart at school, which makes me so happy because I wasn't. He likes soccer, he plays on a little league team. And he's into drawing, which I think he got from me because I love art. Sofia is seven, she's my baby girl. She's more outgoing than Diego, always talking, always got something to say. She does dance after school -- not folk dance like me, she does like hip-hop dance. She loves it. My mom is still around, she lives about fifteen minutes from us. I see her a couple times a week. She's getting older now, sixty-two, and she's slowed down a lot. Her knees bother her, so she can't be on her feet like she used to. My dad is still around too but he and my mom split up when I was in my twenties. He lives on the other side of town. We talk but it's not like it was. My younger brother Luis, he's twenty-eight now. He actually finished school and went to community college. He works at a car dealership. I'm real proud of him.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about your relationship with Carlos -- what's a typical evening like for you two?",
+          "response": "So Carlos usually gets home around six, six-thirty, depending on the job site. He's tired, you know, because construction is hard on your body. He comes in, takes a shower, and we eat together as a family. After dinner, the kids do homework or watch TV, and me and Carlos usually sit on the couch and watch something. He likes sports, so a lot of times it's the Falcons game or the Hawks if they're playing. I don't mind it, I actually gotten into the Hawks a little bit. Sometimes we just talk about our day, or about stuff with the kids. It's not exciting but it's nice. On weekends, if he's not working Saturday, we'll sometimes go to the park or take the kids to get food somewhere."
+        },
+        {
+          "question": "What's your relationship like with your mom these days?",
+          "response": "We're real close. She's my best friend in a lot of ways. I go over to her house maybe two, three times a week. Sometimes I bring the kids, sometimes it's just me. We cook together a lot -- she's the one who taught me everything I know in the kitchen. She makes these tamales that are just, like, incredible. She's been teaching me her recipe because she says somebody has to keep it going. She worries about me, though. She worries I work too hard on the community stuff and don't take care of myself. She's always saying, 'Mija, you need to rest.' But she's the same way, she never stopped working her whole life until her knees got bad."
+        },
+        {
+          "question": "How do your kids get along with each other?",
+          "response": "Oh, they fight like all siblings, but they're tight. Diego is protective of Sofia, like if somebody at school messes with her, he's ready to go. Sofia looks up to Diego a lot, she's always trying to do what he does. They play together still, which is nice. They'll be out in the backyard kicking a soccer ball or playing with the dog. We got a little dog, a chihuahua mix named Canela. The kids love her. At night they'll both be on the couch with the dog between them watching their shows. It's sweet."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "time_limit_seconds": 25,
+      "response": "Carlos has a sister, Patricia, and his mom, Do\u00f1a Elena. They're both here in Georgia. Patricia and me are pretty close, we talk on the phone a lot. Do\u00f1a Elena is a sweetheart, she comes over for Sunday dinner sometimes. I also got a couple cousins in the area but we mostly just see each other at family events.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q07",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "time_limit_seconds": 80,
+      "response": "Yeah, I got a few good friends. My best friend is Lupita -- we been friends since we were kids. She lives in Norcross, which is close by. We talk almost every day, either on the phone or texting. She's the one I can tell anything to. Then there's my friend Ana from the folk dance group. We practice together every week and she's become like a sister to me. There's also the ladies from the book club I run -- we meet once a month at the library or somebody's house. That's like five or six women, some Mexican, some not. We read books together and just talk about life. And then at church, there's Father Morales and a few of the other ladies who volunteer with me. They're not like close friends but they're important to me, like my community.",
+      "follow_ups": [
+        {
+          "question": "What kinds of things do you and Lupita do together?",
+          "response": "We do everything together when we can. We go grocery shopping together, which sounds boring but we make it fun. We'll go to the Mexican market on Buford Highway and spend like two hours just looking at stuff and talking. Sometimes on a Saturday she'll come over and we'll cook together, or I'll go to her place. We take our kids to the park together. And once in a while, when our husbands can watch the kids, we'll go out for dinner just the two of us. Nothing fancy, like Applebee's or the taqueria on Pleasant Hill. She's my person."
+        },
+        {
+          "question": "Tell me more about the book club -- what are you reading now?",
+          "response": "Right now we're reading this book by an author from Nigeria -- Chimamanda something. It's called Americanah. It's about immigration and identity and all that. I like it because even though it's about a different culture, I relate to a lot of it, like feeling between two worlds. Before that we read a Toni Morrison book, Beloved. That one was heavy. We had a real deep talk after that one. The book club is special to me because it's one of the few things I do that's just for my mind, you know? Not for my kids, not for the house, just for me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "time_limit_seconds": 105,
+      "response": "We live in Lilburn, which is in Gwinnett County. It's a suburb, I guess, east of Atlanta. It's got a lot of diversity, which I love. There's Mexican families, Korean families, Indian families, Black families, white families -- everybody's kind of mixed together. Our street is pretty quiet, it's a subdivision with regular houses, nothing fancy. We got a little yard, the kids can play outside. There's a park down the street that we go to a lot. There's a bunch of Mexican stores and restaurants on Buford Highway, which is like a fifteen-minute drive. That's where we go for groceries and stuff. The schools are okay, not the best but not the worst. The church is close, maybe ten minutes. Downtown Lilburn has this cute little area with shops and a farmers market sometimes. Overall it's a good place to raise kids. It's not perfect but it feels like home.",
+      "follow_ups": [
+        {
+          "question": "What do you like most about the diversity of your neighborhood?",
+          "response": "I like that my kids get to grow up around people who are different from them. Like, Diego's best friend at school is this kid whose parents are from Korea. They go to each other's houses and eat each other's food. I think that's beautiful. And for me, doing community events, I get to bring different people together. Like at the neighborhood potlucks I organize, everybody brings a dish from their culture. We had Korean BBQ next to tamales next to samosas one time. That's what I love about living here."
+        },
+        {
+          "question": "Are there things about the neighborhood you wish were different?",
+          "response": "I wish there was more stuff for kids to do that doesn't cost money. Like, the parks are free but if you want your kid to do sports or classes, it adds up quick. And I wish there was more public transportation. I drive everywhere but some of my neighbors don't have cars and they struggle to get around. Also, Buford Highway can be kind of dangerous to walk on, there's been some accidents. They need better sidewalks and crosswalks out there."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "I feel pretty safe, honestly. Our street is quiet, people look out for each other. I let my kids play in the front yard and I'm not worried. Now, there's been some car break-ins in the area, so we make sure to lock everything up at night. And I wouldn't walk around alone real late at night, but during the day it's fine. I think the fact that people know each other on our street helps. Like, my neighbor Miss Kim, if she sees something weird she'll text me and I'll text her. We got like a little neighborhood watch going without calling it that.",
+      "follow_ups": [
+        {
+          "question": "Has there ever been a time when you felt unsafe in your neighborhood?",
+          "response": "One time there was a break-in at a house a few streets over and that scared me for a while. Carlos put extra locks on the doors after that. And there was a time a few years ago when there were some guys hanging around the park at night and people were nervous about it. But the police came and talked to them and it stopped. Other than that, it's been okay."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "time_limit_seconds": 40,
+      "response": "The biggest up is the community. I feel like I belong here. I know my neighbors, I know the people at church, I know the ladies at the Mexican market. It feels like a village in a way. The down side is that things are getting more expensive. Rent keeps going up, groceries cost more, gas costs more. It's hard to keep up sometimes. And traffic is terrible if you have to go into Atlanta. Carlos's commute can be over an hour sometimes. But overall, I love living here. I can't imagine being anywhere else right now.",
+      "follow_ups": [
+        {
+          "question": "How has the cost of living affected your family specifically?",
+          "response": "When we first moved into our place, the rent was like $1,100. Now it's $1,450. That's a big jump for us. We had to cut back on some things. We don't eat out as much, I shop sales more carefully, I look for coupons. Carlos picks up extra hours when he can. We make it work but it's tight. Some months it's like, okay, we paid the rent and the bills and there's not a whole lot left over. But we manage."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "time_limit_seconds": 80,
+      "response": "It's me, Carlos, Diego who's ten, and Sofia who's seven. That's it right now. Just the four of us. And Canela, the dog, if she counts. We got a three-bedroom place, so the kids each got their own room. It's small but it works. Carlos's mom was staying with us for a few weeks last year when she had some health stuff going on, but she's back at her own place now. Other than that, it's been just us for a while.",
+      "follow_ups": [
+        {
+          "question": "How does the space in your home work for your family?",
+          "response": "It's a little tight. The kitchen is small which is tough because I cook a lot. I'd love a bigger kitchen. The living room is where we all hang out, and the kids' rooms are small but they're happy with them. Diego has his soccer stuff and his drawings all over his walls. Sofia has her dance stuff and her stuffed animals everywhere. Carlos and me, our room is just for sleeping basically. We don't have like a home office or anything. When I need to plan events, I work at the kitchen table with my notebook and my phone."
+        },
+        {
+          "question": "Tell me about when Carlos's mom stayed with you -- what was that like?",
+          "response": "It was a lot but also nice in some ways. She was having some stomach issues and needed help getting to her appointments and stuff. So she stayed with us for about three weeks. The kids loved having her around, she'd tell them stories and play cards with them. But the house felt really full. She slept in Sofia's room and Sofia moved in with Diego, and those two were at each other's throats after about four days. Carlos was stressed because he was worried about his mom but also trying to work. I was cooking for one more person and driving her to the doctor. But that's what family does, you know? You show up when people need you."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "block": "HOUSEHOLD",
+      "question_text": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "time_limit_seconds": 10,
+      "response": "Everyone's permanent. It's just the four of us, all permanent.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q13",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about anyone else who stays here from time to time, if there is anyone like that",
+      "time_limit_seconds": 10,
+      "response": "My mom comes over and stays the night once in a while, like if we have a family thing that goes late or if I need her to watch the kids early in the morning. But it's not regular, maybe once a month or so.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q14",
+      "block": "HOUSEHOLD",
+      "question_text": "Is there anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, everybody who lives here is here.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q15",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Right now, across a typical week, how do your days vary?",
+      "time_limit_seconds": 105,
+      "response": "So weekdays are pretty structured because of the kids' school. I get up around six-thirty, make breakfast -- usually eggs and tortillas or oatmeal, something quick. Carlos is usually already up or leaving for work by then. I get the kids ready and drive them to school by seven-forty-five. Then I come home and that's my time to get stuff done -- cleaning, laundry, meal prep, planning for whatever community thing is coming up. I might go to the grocery store or run errands. Around noon I'll eat something and maybe do some studying for my GED if I have the energy. Tuesday and Thursday afternoons I help out at the church, setting up for events or doing whatever they need. Wednesday evening is folk dance practice, that's from seven to nine. I pick the kids up at three and then it's homework, snacks, activities. Diego has soccer practice on Mondays and Wednesdays. Sofia has dance on Tuesdays and Thursdays. Weekends are more relaxed. Saturday morning I usually go to the farmers market or the Mexican market. Saturday afternoon the kids play outside or we do something as a family. Sundays we go to Mass in the morning, then it's family time -- a big lunch, maybe my mom comes over or we go to her place.",
+      "follow_ups": [
+        {
+          "question": "What does your meal prep look like during the week?",
+          "response": "I usually cook a big batch of something on Sunday or Monday that we can eat for a couple days. Like, I'll make a big pot of chicken soup or a bunch of rice and beans with meat. Then during the week I'll make fresh stuff too -- quesadillas, tacos, pasta for the kids. I try to cook every night but some nights I'm tired and we just do leftovers or something simple. I been experimenting more lately, trying new recipes. Like last week I did this herb-crusted chicken with a citrus glaze that I found online, and the kids actually liked it. I also make a lot of cilantro-lime rice, that's my go-to side dish."
+        },
+        {
+          "question": "How do you fit in the folk dance practice around everything else?",
+          "response": "Wednesday nights are kind of my thing. Carlos watches the kids after dinner and I go to practice. It's at a community center in Duluth, about twenty minutes away. There's like twelve of us in the group, all women, mostly Mexican but a couple Guatemalan and one lady from El Salvador. We practice our choreography for performances -- we do Ballet Folkl\u00f3rico, which is traditional Mexican dance. We perform at community events, festivals, sometimes at schools for cultural presentations. It's my favorite thing I do all week. I come home sweaty and tired but happy."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "At what kind of job or jobs do you work, and when do you work?",
+      "time_limit_seconds": 105,
+      "response": "I don't have a regular job right now. I'm at home with the kids mostly. But I do make money on the side doing a few things. I cook for people's parties and events -- like, somebody needs tamales for a birthday party, or a friend of a friend wants me to cater a baby shower. That's not every week but it's pretty regular, maybe two or three times a month. I also help plan events at the local arts center, but that's volunteer right now. They give me a little money sometimes, like a stipend, but it's not a salary. And I moderate a couple community groups on Facebook, which obviously doesn't pay but takes up time. So I'm busy, just not in a way that shows up on a paycheck.",
+      "follow_ups": [
+        {
+          "question": "How much do you typically make from the catering work?",
+          "response": "It depends on the event. For a small thing, like making tamales for a party of twenty people, I might charge like $150 to $200. For a bigger event, like a baby shower or a quincea\u00f1era where I'm doing a full spread, it could be $400 to $600. But then I got to buy all the ingredients and spend a whole day or two cooking. So the profit isn't as much as it sounds. In a good month I might bring in $500 to $800 from cooking. Some months it's less. It's not steady income but it helps."
+        },
+        {
+          "question": "What does the arts center volunteer work look like for you?",
+          "response": "So there's this little community arts center here in Gwinnett, and they do exhibitions and workshops and stuff. I help them plan the cultural events -- like the D\u00eda de los Muertos celebration, a spring art walk, things like that. I handle the budgeting, getting sponsors, coordinating volunteers. It's basically event planning but I'm not on staff. They give me like $100 or $150 sometimes after a big event as a thank-you. I wish it was a real job because I love doing it. That's kind of what I'm working toward."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Do you have other routines or responsibilities that you did not already share?",
+      "time_limit_seconds": 80,
+      "response": "I got my little garden out back that I try to keep up with. I grow tomatoes, cilantro, jalape\u00f1os, some herbs. It's not big but I like going out there in the morning when it's quiet. I water everything and just have a minute to myself. I also do photography sometimes -- just with my phone, nothing professional. I take pictures of food I make, of the kids, of flowers, stuff around the neighborhood. I post them on Instagram and people seem to like them. And then there's checking in on my mom. I go over there a couple times a week to make sure she's okay, help her with stuff around the house. She's having a harder time getting around so I'll take her groceries or drive her to an appointment.",
+      "follow_ups": [
+        {
+          "question": "What do you grow in your garden and how do you use it?",
+          "response": "Mostly stuff I cook with. Tomatoes, cilantro, jalape\u00f1os, mint, and I got some sweet bell peppers this year. The heirloom tomatoes are my favorite, they taste so much better than store-bought. I use the cilantro in everything -- salsa, rice, soups. The jalape\u00f1os I use fresh or I pickle them. Sometimes I forget to water everything when I'm really busy with event planning and stuff comes back kind of sad looking, but mostly it does okay. I been thinking about expanding it, maybe doing some squash and corn, but I'd need a bigger space."
+        },
+        {
+          "question": "Tell me more about your photography -- what do you enjoy capturing?",
+          "response": "I love taking pictures of food, like when I make a really nice plate I'll take a picture before anybody touches it. And I like taking pictures of everyday life stuff -- my kids playing, the sky at sunset, flowers in the garden. At community events I always take a bunch of photos and then I post them in the Facebook group so people can see. Nothing fancy, just my phone camera, but I got a good eye for it. People at church are always asking me to take photos at events. I think I'd like to learn more about it someday, maybe take a class."
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Tell me about any recent changes to your daily routine.",
+      "time_limit_seconds": 80,
+      "response": "The biggest thing is that I started studying for my GED more seriously. I got a workbook from the library and I try to do at least thirty minutes a day, usually during that window after I drop the kids off. It's hard because I've been out of school for so long and some of the math stuff is like a foreign language to me. But I'm pushing through it. Also, Sofia started her hip-hop dance class about three months ago, so that added another after-school run to my week. And I been cooking for more events lately -- word of mouth is spreading and more people are asking me to cater stuff. So my weeks have gotten busier. I had to start using a calendar app on my phone to keep track of everything because I was forgetting stuff.",
+      "follow_ups": [
+        {
+          "question": "How's the GED studying going -- what subjects are hardest for you?",
+          "response": "Math is the worst for me. I can do basic stuff, like the kind of math I use for budgeting events, but the algebra and geometry, that's where I get lost. The reading and writing part I'm actually okay at. I read a lot with my book club so that helps. Science is in the middle, some of it makes sense and some of it doesn't. I wish I could take a class but right now I'm just doing it on my own with the workbook and some YouTube videos. There's this one guy on YouTube who explains math in a way I can actually understand. I watch his videos a lot."
+        },
+        {
+          "question": "How has the increased catering work changed things at home?",
+          "response": "It's good and bad. Good because the extra money helps a lot. Bad because when I'm prepping for a big event, the kitchen is a mess for like two days and nobody can use it. Carlos is patient about it but the kids get annoyed. And I get stressed out trying to do everything -- cook for a party, keep the house running, help with homework, go to practice. Last month I had two events in one weekend and by Sunday night I was so tired I fell asleep on the couch at like eight o'clock. But I love doing it and the money matters, so I keep going."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "time_limit_seconds": 80,
+      "response": "So Diego and Sofia both go to Lilburn Elementary. They wake up around six-forty-five, get dressed, eat breakfast. I drive them to school and they start at eight. Diego is in fourth grade and Sofia is in second. After school I pick them up at three. Diego has soccer practice on Mondays and Wednesdays -- that's through the rec league, runs from four to five-thirty. Sofia has hip-hop dance on Tuesdays and Thursdays, four to five. The other days they come home and do homework, play outside, or watch TV. Diego's into drawing, he'll sit at the kitchen table and draw for an hour. Sofia likes playing with Canela and making up dance routines. Bedtime is eight-thirty on school nights. They brush their teeth, I read to Sofia or she reads to me since she's learning. Diego reads on his own now. Lights out by nine.",
+      "follow_ups": [
+        {
+          "question": "How are they doing in school?",
+          "response": "Diego's doing really well. He gets good grades, especially in math and art. His teacher says he's one of the top students. That makes me so proud because I want him to have the opportunities I didn't have. Sofia is still catching up with reading -- she's a little behind but she's getting there. She's better at the social stuff, she has a ton of friends. Her teacher says she's a leader in the classroom, always helping other kids. She's just not as into the book stuff yet. We're working on it."
+        },
+        {
+          "question": "How do you manage the different after-school activity schedules?",
+          "response": "It's like a puzzle every week. Mondays and Wednesdays, I pick them both up, drop Sofia at home or at my mom's, then take Diego to soccer. Tuesdays and Thursdays, Diego goes home and Sofia goes to dance. Sometimes I'm driving back and forth three times in an afternoon. Lupita helps me sometimes -- if she's free she'll pick up Sofia from dance so I can start dinner. And on the days I have to be at the church, my mom watches whoever doesn't have an activity. It takes a village, for real."
+        }
+      ]
+    },
+    {
+      "question_id": "Q20",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I haven't had too many experiences personally. Carlos got pulled over once for a broken taillight and they gave him a hard time, asked him a bunch of questions. That made me nervous because you hear stories, you know? But nothing happened, he got a ticket and that was it. I think as a Mexican family in the South, there's always that little bit of worry in the back of your mind. Like, I make sure we always got our documents together, all our paperwork is right. I tell Carlos to always be polite and just cooperate. It's not like I've had a big bad experience, but there's always that awareness.",
+      "follow_ups": [
+        {
+          "question": "What do you mean by 'that awareness' -- can you describe what that feels like day to day?",
+          "response": "It's like, I don't walk around scared, but I'm always kind of aware of it. Like if I see a police car behind me when I'm driving, my heart goes a little faster even if I'm not doing anything wrong. And I make sure the kids have their school IDs and stuff. It's just this background thing where you know that some people might look at you different because of your last name or your accent. I don't let it run my life but it's there."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "What other experiences with law enforcement stand out in your mind?",
+      "time_limit_seconds": 40,
+      "response": "There was one time the police came to our neighborhood because somebody reported a loud party. It was actually a birthday party at our neighbor's house and the music was loud but it wasn't that late. The cops came and they were okay about it, they just asked them to turn it down. But my neighbor was upset because she felt like somebody called just because it was a Mexican party with Mexican music. I don't know if that's true but it felt that way. Other than that and Carlos's traffic stop, I haven't had much direct experience.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q22",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people tell us about experiences of arrest -- of loved ones, family members, friends, or themselves. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "Nobody in my immediate family, no. I had a cousin a few years back who got in trouble, something with driving without a license. He had to go to court and pay some fines. That was stressful for the whole family because we were worried about what could happen. But he took care of it. Other than that, no, we've been lucky in that way.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q23",
+      "block": "POLITICS",
+      "question_text": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I try to vote when I can. I didn't used to care about it much when I was younger -- like, I didn't even register until I was maybe twenty-six or twenty-seven. But then I started paying attention more, especially to stuff that affects my community. Like, the school board elections matter because that's my kids' schools. And the stuff about who gets health care and who doesn't -- that matters to me because we've struggled with that. I voted in the last presidential election and the one before that. The smaller ones I sometimes miss if I don't know who's running. I try to look stuff up before I go but I don't always have time.",
+      "follow_ups": [
+        {
+          "question": "What made you start paying attention to politics?",
+          "response": "Honestly, it was when the kids started school and I saw how underfunded everything was. Like, Diego's teacher was buying supplies out of her own pocket. And I was like, why is this happening? Who decides where the money goes? That got me thinking about voting and paying attention to what's going on. Also, there was stuff on the news about families being separated and about who gets to stay in the country and who doesn't. That hit close to home for a lot of people I know. I started feeling like if I don't pay attention and I don't vote, I can't complain about what happens."
+        },
+        {
+          "question": "How do you typically decide who to vote for?",
+          "response": "I talk to people I trust -- Lupita, my brother Luis, some of the ladies at church. I look stuff up on my phone, like what the candidates are saying about schools and health care and the things that matter to me. I don't really follow one party all the way, I just try to figure out who's going to help people like me. I watch the news sometimes but it's confusing because everybody says different things. I mostly go with my gut and what people in my community are saying."
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "block": "POLITICS",
+      "question_text": "How would you describe your political views?",
+      "time_limit_seconds": 310,
+      "response": "I don't really think of myself as one thing or another, you know? I care about people being able to take care of their families. I think everybody should be able to go to the doctor without going broke. I think kids should have good schools. I think people who work hard should be able to live decent, not just barely surviving. I think families should be able to stay together. Some of that stuff people say is one party and some is another, but to me it's just common sense. I don't like when politics gets mean and people start yelling at each other. That turns me off. I just want leaders who actually care about regular people, not just rich people or big companies. On some stuff I'm probably more -- what do they call it -- like, I think people should be able to live their lives however they want as long as they're not hurting nobody. But on other stuff, like with my faith and my family values, I'm more old-school. So I don't fit neatly into a box.",
+      "follow_ups": [
+        {
+          "question": "When you say 'old-school family values,' what does that look like for you in practice?",
+          "response": "I mean like, family comes first. You take care of your parents when they get old. You raise your kids right. You go to church, you have faith. Marriage is important. I'm not judging nobody else, but for me, those are the things that matter. I think kids need structure and discipline and love. I think communities are stronger when families are strong. That's how I was raised and that's how I'm raising my kids."
+        },
+        {
+          "question": "What issues are you most passionate about right now?",
+          "response": "Health care is a big one. We pay so much and it feels like we barely get anything. Like, one time Sofia had an ear infection and the bill was crazy even with the little bit of coverage we have. Education is another one -- I want my kids' schools to have what they need. And the cost of everything going up, rent and food and gas, that's a huge issue for me. People are working and still can't make it. That's not right. Those are the things I think about the most."
+        },
+        {
+          "question": "Do you and Carlos agree on political stuff?",
+          "response": "Mostly, yeah. Carlos doesn't talk about politics a lot -- he's more of a 'just let me work and take care of my family' kind of guy. But when it comes to the big stuff, like wanting the kids to have good schools and wanting to be able to afford health care, we're on the same page. Sometimes he'll see something on the news and get fired up about it, like if it's about construction workers or immigration stuff. But we don't argue about politics. We got bigger things to worry about."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "block": "POLITICS",
+      "question_text": "Tell me about any recent changes in your political views.",
+      "time_limit_seconds": 115,
+      "response": "I think I've gotten more involved in the last few years. Like I said, I didn't used to care, and now I do. I pay more attention to local stuff especially -- like who's on the county commission, what's happening with zoning and development. Because that stuff directly affects my neighborhood. There's been talk about building more apartments near us and some people are against it and some are for it, and I been going to the meetings to listen. I guess my views haven't changed so much as I've started actually having views, if that makes sense. Before I was just surviving, now I'm trying to understand how things work so I can have a say.",
+      "follow_ups": [
+        {
+          "question": "What got you going to those local meetings?",
+          "response": "A lady from my book club, her name is Janet, she's been going to county meetings for years. She told me about it and I was like, I didn't even know regular people could go. So she took me to one and I sat there and listened and it was eye-opening. Like, these decisions affect my rent, my kids' schools, the roads I drive on. And most of the people at those meetings don't look like me or live like me. So I felt like we need to be there too, people from our community. I've been to maybe four or five meetings now."
+        }
+      ]
+    },
+    {
+      "question_id": "Q26",
+      "block": "POLITICS",
+      "question_text": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "time_limit_seconds": 105,
+      "response": "It's affected me somewhat, I'd say. As a Mexican woman, I know what it's like to feel like people judge you before they know you. And I got Black friends and neighbors who deal with stuff that's even worse. When all that was happening on the news, with the protests and everything, it made me think a lot about how things work in this country. My kids asked me about it -- Diego saw something on TV and he asked me why the people were marching. I had to explain it in a way a kid could understand, which was hard. I support people standing up for what's right. But I also worry about things getting violent because that scares me. It's complicated.",
+      "follow_ups": [
+        {
+          "question": "How did you explain it to Diego?",
+          "response": "I told him that some people are treated unfairly because of what they look like, and that the people marching are trying to make things fair for everybody. He asked if that happens to us too and I said yeah, sometimes people treat us different because we're Mexican. And he said, 'That's not nice,' and I said, 'No, it's not, and that's why people are marching.' He's a smart kid. He understood more than I thought he would."
+        },
+        {
+          "question": "Has this affected how you think about your own community's relationship with policing?",
+          "response": "Yeah. I mean, in the Mexican community there's always been this nervousness around police, especially for people who are worried about their status. Like, some of my neighbors won't even call the police if something bad happens because they're scared. That's not good. People should be able to ask for help when they need it. So when I see all the conversation about policing, I think about my community too. It's not just a Black and white thing, it affects all of us who are seen as 'other.'"
+        }
+      ]
+    },
+    {
+      "question_id": "Q27",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about the issues Black Lives Matter raises?",
+      "time_limit_seconds": 105,
+      "response": "I think the core issue, that people should be treated equally no matter what they look like, that's something I believe in a hundred percent. I see it in my own life -- like, I've been followed around in stores, Carlos has been treated rough by cops for no reason. So when Black folks say the same thing happens to them but worse, I believe it. I think communities of color need to stick together because we face a lot of the same problems. At the same time, I'm not somebody who goes out and protests. That's just not my personality. But I support the message and I talk about it with my family and friends.",
+      "follow_ups": [
+        {
+          "question": "Have you had conversations about these issues with people in your community?",
+          "response": "Yeah, at the book club we talked about it a lot, especially when we read the Toni Morrison book. And at church, some of the younger people brought it up. It's something people care about but a lot of the older folks in the Mexican community don't talk about it as much. My mom, for example, she'll say 'that's their business' about the protests, but I try to explain that it's our business too. In my neighborhood, the Mexican families and the Black families get along good, so it's more of a 'we're in this together' feeling around here."
+        }
+      ]
+    },
+    {
+      "question_id": "Q28",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about race in the U.S. recently?",
+      "time_limit_seconds": 105,
+      "response": "I think about it more than I used to. When I was younger, I was just focused on getting by. But now, with my kids growing up in this country, I think about what kind of world they're going to live in. Diego already gets comments sometimes -- kids at school making jokes about tacos or whatever. It seems small but it adds up. I want my kids to be proud of who they are. I teach them about our culture, our food, our language, so they don't feel less than anybody else. I think race in this country is complicated and messy, and I don't have all the answers, but I know that things need to be more fair for everybody.",
+      "follow_ups": [
+        {
+          "question": "How do you handle it when Diego comes home with those kinds of comments?",
+          "response": "I tell him that people say dumb stuff when they don't know any better, and that it doesn't make him less than anyone. I tell him to be proud of being Mexican. And I tell him that the best thing he can do is be a good student and a good person, and let his actions speak. It hurts though, as a mom, to hear that your kid is getting picked on. But I don't want him to get in fights over it either. We've talked about it a few times with his teacher and she's been good about it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q29",
+      "block": "POLITICS",
+      "question_text": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm more of a talker than a marcher. I talk to my friends, my family, the ladies at book club. I've shared some posts on Facebook about it. And at the community events I plan, I try to make everything inclusive, you know? Like, I want everybody to feel welcome, not just Mexican people. That's my way of responding -- building bridges through food and art and bringing people together. I haven't been to a protest, that's just not my thing, but I respect people who do that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q30",
+      "block": "POLITICS",
+      "question_text": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "time_limit_seconds": 80,
+      "response": "My friend Lupita is more outspoken about it than me. She posted a lot on social media and she actually went to a rally in Atlanta. My brother Luis is aware of it but he keeps things to himself more. Carlos doesn't really engage with it much -- he's focused on work and the family. At church, it's kind of split. Some people talk about it and some people think the church isn't the place for politics. The younger people in our community are more vocal about it for sure. My neighbor's daughter, she's in college, and she's very passionate about social justice stuff. She's taught me some things actually.",
+      "follow_ups": [
+        {
+          "question": "What has your neighbor's daughter taught you?",
+          "response": "She explained to me about how different communities are connected in their struggles. Like, she talked about how Mexican families and Black families in Georgia have some of the same problems with how the system treats them. She showed me some articles and videos. She uses words I don't always know, like 'solidarity' and 'intersectionality,' but when she explains what they mean, it makes sense. She's really smart. I told her she should run for office someday."
+        }
+      ]
+    },
+    {
+      "question_id": "Q31",
+      "block": "HEALTH",
+      "question_text": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "time_limit_seconds": 80,
+      "response": "Overall I'd say I'm okay. I got some things I deal with but nothing too serious. I carry extra weight, especially since having the kids. I try to be active with the dancing and walking and playing with the kids, but I could do better. I go to yoga once a week at a studio near downtown, which helps with my back and my stress. My back has been bothering me for like a year now, especially in the mornings. I think it's from being on my feet cooking for so long and carrying stuff. I also get headaches sometimes, like tension headaches when I'm stressed. I try to eat good -- I cook at home mostly so I know what's going into our food. But I got a sweet tooth and I don't always make the best choices. I haven't had a real checkup in a while, which I know is bad. But finding the time and the money for that is tough.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the back pain -- what does that look like day to day?",
+          "response": "It's mostly in my lower back. When I wake up it's stiff and sore, takes me a while to get moving. If I've been standing for a long time, like cooking for a big event, it gets worse. Sometimes it's just a dull ache, other times it's sharper. The yoga helps a lot -- after class my back feels better for a couple days. I've been taking ibuprofen when it gets bad, just the regular kind from the store. Carlos rubs my back sometimes at night. I know I should probably see somebody about it but I keep putting it off."
+        },
+        {
+          "question": "How often do you do yoga, and what does a typical session look like?",
+          "response": "I go once a week, usually Saturday mornings when Carlos is home with the kids. The studio is in downtown Lilburn, it's small and chill. It's not the fancy kind, it's more like gentle yoga. The teacher is really nice, she adjusts for people who have pain or whatever. I do a lot of stretching and breathing. An hour of that and I feel like a new person. I wish I could go more but one class is like fifteen bucks and that adds up."
+        }
+      ]
+    },
+    {
+      "question_id": "Q32",
+      "block": "HEALTH",
+      "question_text": "For you, what makes it easy or hard to stay healthy?",
+      "time_limit_seconds": 65,
+      "response": "What makes it easy is that I cook at home and I can control what we eat. I use fresh stuff from my garden, real ingredients, not a lot of processed stuff. And I stay pretty active just from my lifestyle -- dancing, chasing kids, being on my feet. What makes it hard is time and money. I don't have time to go to the gym or do a big workout. The yoga class costs money. Eating healthy can be expensive -- like, fresh produce isn't cheap. And I'm so busy taking care of everybody else that I put myself last. I'll make sure the kids eat good and then I'll eat whatever's left or grab something quick. Stress doesn't help either. When I'm stressed I eat more and sleep less.",
+      "follow_ups": [
+        {
+          "question": "What does your diet typically look like in a day?",
+          "response": "Breakfast is usually something quick -- eggs with tortillas and salsa, or oatmeal if I'm rushing. Lunch I might have leftover soup or make a quesadilla. Dinner is the big meal -- that's when I actually cook. Rice and beans with some kind of meat, or chicken with vegetables, tacos, enchiladas. I try to have a salad or vegetables with it but not always. My weakness is bread and sweet stuff. I love pan dulce from the bakery and I'll have a piece after dinner. I also drink a lot of coffee with sugar during the day. I know that's not great but it keeps me going."
+        }
+      ]
+    },
+    {
+      "question_id": "Q33",
+      "block": "HEALTH",
+      "question_text": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain -- anything like that.",
+      "time_limit_seconds": 80,
+      "response": "The back thing has been the biggest issue. It started maybe a year and a half ago and it's gotten worse. I haven't been to a doctor about it because of the cost, but I know I should. Other than that, I got a bad flu last winter that knocked me out for about a week. I couldn't cook, couldn't take the kids to school, couldn't do nothing. Carlos had to miss work to take care of stuff and that stressed us out because we needed that money. The flu hit the whole house actually -- the kids got it too but they bounced back faster than me. And then about six months ago, I noticed I been getting more tired than usual, like really dragging by the afternoon. I don't know if that's just being a busy mom or if something else is going on. I been meaning to get blood work done but again, the time and money thing.",
+      "follow_ups": [
+        {
+          "question": "What do you do when the tiredness hits in the afternoon?",
+          "response": "I drink more coffee, honestly. Or I'll eat something sweet for a quick boost, like a piece of chocolate or some pan dulce. If the kids aren't home yet, sometimes I'll sit down for twenty minutes and close my eyes. But once they're home it's go-go-go and I just push through it. By bedtime I'm wiped out. I usually fall asleep as soon as I lay down. My mom says I should get my iron checked because she had the same thing and it turned out she wasn't getting enough iron. I been trying to eat more spinach and meat because of that but I haven't gotten the actual test done."
+        },
+        {
+          "question": "How did you manage the household when everyone was sick with the flu?",
+          "response": "It was rough. Carlos missed two days of work to handle things, and his boss wasn't happy about it. My mom came over even though I told her not to because I didn't want her to catch it. She wore one of those masks and made soup for everybody. Lupita dropped off medicine from the store. It was one of those times where you really see who shows up for you. I was in bed for almost five days straight, which never happens. I felt so guilty that everybody had to pick up my slack. But it also made me realize I can't keep running on empty or my body is going to shut down."
+        }
+      ]
+    },
+    {
+      "question_id": "Q34",
+      "block": "HEALTH",
+      "question_text": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "time_limit_seconds": 50,
+      "response": "The back pain slows me down for sure. On bad days, I can't stand at the stove for long or pick up heavy pots. That's a problem when I'm cooking for an event. I've had to turn down a couple catering jobs because my back was acting up and I knew I couldn't do it. And the tiredness -- there are days when I just don't have the energy to be the mom I want to be. Like, the kids want to go to the park and I'm sitting there thinking, I just can't today. I feel bad about that. It doesn't affect me every day but when it hits, it hits hard.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q35",
+      "block": "HEALTH",
+      "question_text": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "time_limit_seconds": 80,
+      "response": "Yeah, my mom's health worries me a lot. Her knees are getting worse and worse. She can barely walk to the mailbox some days. She used to be so active, always doing stuff, and now she's stuck at home a lot. She needs that surgery where they replace the knee, but she doesn't have the insurance for it and it costs a fortune. So she just lives with the pain. She takes pills for it and uses a heating pad. It breaks my heart to see her like that because she's only sixty-two. And then Carlos's mom had that stomach thing I mentioned. She was losing weight and couldn't keep food down. They eventually figured out what was going on and she's doing better now, but for a while there it was scary. You never know how much worrying about somebody else's health takes out of you until you're in it.",
+      "follow_ups": [
+        {
+          "question": "How do you help your mom manage her knee issues day to day?",
+          "response": "I go over there and do the stuff she can't do -- carry the heavy laundry basket, clean the floors, go up and down stairs for her. I take her grocery shopping because she can't walk around the store like she used to. I drive her to her doctor appointments. She doesn't want to be a burden, she'll say 'I'm fine, mija, go home,' but I can see she's hurting. I got her one of those cushion things for her chair and some of those joint supplement pills from the store. I don't know if they help but she takes them every day. I wish I could do more."
+        }
+      ]
+    },
+    {
+      "question_id": "Q36",
+      "block": "HEALTH",
+      "question_text": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "time_limit_seconds": 80,
+      "response": "It's been hard, honestly. Carlos has some coverage through his job but it doesn't cover much. The deductible is high so we end up paying a lot out of pocket. For me and the kids, we got the basic stuff, but anything extra is hard to afford. I skipped my own checkups for the last two years because I'd rather use that money for the kids' appointments. When Sofia had that ear infection, the bill was like $400 after insurance and I was like, how? We've definitely put off things. I need to get my back looked at, I should get blood work, I need to go to the dentist. But every time I think about it, I think about the cost and I just don't go. One time I had a really bad headache that lasted three days and Carlos wanted me to go to the ER and I said no because I knew how much that would cost. It went away eventually but looking back, that was probably dumb. You shouldn't have to choose between your health and your rent but that's where we're at.",
+      "follow_ups": [
+        {
+          "question": "Have you looked into any lower-cost health care options?",
+          "response": "There's a community health center in Lawrenceville that does sliding scale based on what you make. I've been there once for Sofia and it was cheaper. I should go there more but it's a drive and the wait times are long. Like, you might wait two or three hours. When you got kids to pick up from school, you can't be sitting in a waiting room all afternoon. There's also a free clinic that comes around sometimes but I haven't been able to line it up with my schedule. I keep telling myself I'll figure it out but I haven't yet."
+        }
+      ]
+    },
+    {
+      "question_id": "Q37",
+      "block": "HEALTH",
+      "question_text": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "time_limit_seconds": 80,
+      "response": "Oh yeah, for sure. My mom is all about the remedies, the remedios. Growing up, if you had a cold, she'd make you a tea with lime and honey and cinnamon. If you had a stomachache, it was manzanilla tea -- chamomile. She believes in sobadas, which is like a massage technique for when your stomach is messed up. She'd do it on us as kids and honestly it worked. I still make a lot of those teas for my family. If the kids are getting sick, the first thing I do is make them a hot tea with honey and lemon. I also use my garden herbs for stuff -- mint tea for headaches, chamomile for sleeping. My mom has this thing she does with an egg, like she'll pass a raw egg over you if she thinks you got bad energy. I don't know if I believe in all of that but I let her do it because it makes her feel better. It's part of our culture.",
+      "follow_ups": [
+        {
+          "question": "Do you rely on these remedies instead of going to the doctor, or in addition to?",
+          "response": "Both, I guess. For small stuff -- a cold, a headache, a stomachache -- I'll try the home remedies first because they're free and they usually work. If something is more serious or doesn't go away, then I'll think about going to a doctor. It's not like I'm against doctors, it's just that the home stuff is the first line. And honestly, for everyday things, it works. The chamomile tea puts my kids right to sleep when they're restless. The ginger tea settles my stomach better than any pill I've tried. It's what my mom taught me and what her mom taught her."
+        }
+      ]
+    },
+    {
+      "question_id": "Q38",
+      "block": "HEALTH",
+      "question_text": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I don't smoke at all, never have. Drinking, I'm not really a drinker. Like, at a party or a family thing, I'll have a beer or maybe a glass of wine. But it's not something I turn to when things get hard. Maybe once every couple months I'll have something. Carlos drinks a beer after work sometimes, like one or two, but he's not a heavy drinker either. My way of dealing with stress is more like, I cook. When I'm stressed or upset, I go in the kitchen and make something. It's like therapy for me. I'll make a big batch of tamales or try a new recipe. By the time I'm done, I feel better. Or I'll go out in the garden and just pull weeds and be by myself for a while.",
+      "follow_ups": [
+        {
+          "question": "What was the last time you were really stressed and cooked your way through it?",
+          "response": "Last month, actually. Carlos's hours got cut for a couple weeks because of rain delays on the construction site, and I was panicking about money. I couldn't sleep, I was snapping at the kids. So one night I just went into the kitchen at like nine o'clock and started making tamales. I made like sixty tamales. It took me until midnight. The house smelled amazing and I felt so much better by the time I was done. I gave some to my mom, some to the neighbors, and we ate tamales for a week. Carlos was like, 'Babe, you made enough for an army,' but he knows that's how I deal."
+        }
+      ]
+    },
+    {
+      "question_id": "Q39",
+      "block": "HEALTH",
+      "question_text": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "time_limit_seconds": 80,
+      "response": "No, I don't do any of that. The most I take is ibuprofen for my back or for headaches. I buy the big bottle from the store and I probably take it two or three times a week, which I know is a lot but it's what I got. I've never done anything with marijuana or anything heavier than that. It's just not my thing. My mom raised us to stay away from that stuff and it stuck. The only prescription I take is birth control pills, and that's it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q40",
+      "block": "HEALTH",
+      "question_text": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "time_limit_seconds": 80,
+      "response": "We're kind of just getting by. Carlos's job gives him some health coverage but the plan isn't great. The deductible is like $3,000 before it kicks in for the good stuff. The kids are on PeachCare, which is the Georgia program for kids. That covers their doctor visits and stuff pretty well, thank God. For me, I don't really have much coverage. I use the community health center when I have to, and otherwise I just don't go. We pay for things as they come up, which means if there's a big medical bill, it's a crisis. We've done payment plans before for bills we couldn't pay all at once. Right now we owe about $600 still from Sofia's ear infection thing. We're paying like $50 a month on it. It's stressful, always having that hanging over you.",
+      "follow_ups": [
+        {
+          "question": "How did you find out about PeachCare for the kids?",
+          "response": "A lady at the school told me about it. I think it was the school counselor or the front office lady. She saw that we didn't have insurance listed for the kids and she gave me the paperwork. I was kind of embarrassed at first but she was real nice about it. It's been a lifesaver honestly. The kids can go to the doctor, get their shots, all that, without us going broke. I'm grateful for it. I just wish there was something like that for adults too."
+        }
+      ]
+    },
+    {
+      "question_id": "Q41",
+      "block": "HEALTH",
+      "question_text": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm for it. My kids got all their shots on schedule. I grew up getting vaccinated so it's just normal to me. When the whole thing was going on, I got mine as soon as I could. Carlos was more hesitant, he waited a few months, but he eventually got it. My mom took some convincing too. In the Mexican community, there was a lot of mixed feelings about it. But I trust the doctors on that stuff. I'd rather be safe than sorry, especially with my kids.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q42",
+      "block": "HEALTH",
+      "question_text": "What are your trusted sources of information about the vaccine?",
+      "time_limit_seconds": 80,
+      "response": "The kids' doctor, for sure. When I have questions about anything medical for the kids, I ask their pediatrician. She's great, she explains things in a way I can understand. For general stuff, I look things up on my phone -- I usually go to like the official health websites, the government ones. My brother Luis looked into it a lot and he sent me some articles from reliable places. At church, Father Morales talked about it and encouraged people to get it, which I think helped a lot of the older folks in the community decide. I stay away from the crazy stuff on social media, like the conspiracy stuff. I've seen enough of that shared in the Facebook groups and it just scares people for no reason.",
+      "follow_ups": [
+        {
+          "question": "How did you help convince your mom to get vaccinated?",
+          "response": "It took a while. She was scared because she heard stuff from her friends at church about side effects. I showed her what the doctor said, I told her the kids' pediatrician recommended it. And then Father Morales gave a talk about it at Mass and said it was the responsible thing to do. After that, she was like, okay, I'll do it. I took her to the pharmacy and held her hand. She was fine, just had a sore arm for a day. But I had to be patient with her and not push too hard."
+        }
+      ]
+    },
+    {
+      "question_id": "Q43",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "time_limit_seconds": 115,
+      "response": "It's been a roller coaster, honestly. There have been really good moments -- like when Diego got a perfect score on a math test, or when our D\u00eda de los Muertos event turned out amazing, or when Sofia did her first dance recital and she was so proud. Those moments make everything worth it. But there have been hard times too. Money stress is always in the background, you know? Like, even on a good day, there's that little voice in my head saying, can we afford this, what if something breaks, what if Carlos gets hurt at work. I've been feeling pulled in a lot of directions -- trying to be a good mom, a good wife, a good daughter, keep the house running, do my community stuff, study for my GED. Some days I feel like I'm doing okay and some days I feel like I'm dropping the ball on everything. I don't sleep great. I lie awake thinking about stuff. But overall I'd say I'm in an okay place. I got a lot to be thankful for even when it's hard.",
+      "follow_ups": [
+        {
+          "question": "When you lie awake at night, what kinds of things go through your mind?",
+          "response": "Money mostly. Like, did I pay that bill, how are we going to cover that expense, what if the car breaks down. And then I think about the kids -- am I doing enough for them, are they happy, is Diego going to get into a good middle school. And sometimes I think about my mom and worry about her health. It's like my brain just starts going through a checklist of everything that could go wrong. Carlos is asleep next to me snoring and I'm just laying there with my eyes open. I've tried breathing exercises and stuff from yoga but sometimes my mind just won't stop."
+        },
+        {
+          "question": "What gives you the most joy right now?",
+          "response": "My kids, without a doubt. Watching them grow and learn, seeing Diego draw these amazing pictures, watching Sofia light up on stage when she's dancing. And cooking -- when I make a meal and everybody's sitting around the table eating and talking, that's my happy place. The dance group makes me happy too. When we're all dancing together in our trajes, the music is playing, I feel connected to something bigger than myself. And my garden, honestly. When I'm out there early in the morning with my coffee, watering my plants, it's like the world is quiet for a second and everything is okay."
+        }
+      ]
+    },
+    {
+      "question_id": "Q44",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "time_limit_seconds": 80,
+      "response": "Last fall was really hard. Carlos's hours got cut and we were already behind on some bills. At the same time, Diego started having trouble with some kids at school who were making fun of him. He came home one day crying and it just broke me. I'm supposed to protect him and I couldn't fix it. That same week, my mom had a bad day with her knees and called me crying, saying she couldn't get out of bed. So I'm running over to her house, running to the school to talk to the teacher, trying to figure out how to pay bills with less money, and I just hit a wall. I remember one night after the kids went to bed, I sat on the bathroom floor and just cried. Like, ugly crying. I felt overwhelmed and alone even though I have people around me. Carlos came in and asked if I was okay and I couldn't even talk. He just sat with me. That was a low point for sure.",
+      "follow_ups": [
+        {
+          "question": "What helped you get through that rough patch?",
+          "response": "Honestly, time and the people in my life. Lupita called me the next day and I told her everything and she said, 'Maria, you can't carry all of this by yourself.' She was right. I let my mom know I needed help back, and she started watching the kids one afternoon a week so I could have a break. Carlos picked up some side work on Saturdays to help with the money. I talked to Diego's teacher and she handled the situation at school. Things didn't get fixed overnight but they got a little better each week. And I went to Mass that Sunday and just sat there and cried a little, and it felt like a release. I came out feeling lighter."
+        },
+        {
+          "question": "Has anything like that happened since then?",
+          "response": "Not that bad, no. I've had stressful weeks but nothing like that. I think I learned from it that I need to ask for help before I get to that breaking point. I'm not great at it -- I'm used to being the one who helps everybody else. But I'm trying to check in with myself more. Lupita and I have this thing now where we text each other 'how are you really?' once a week and we have to answer honestly. That helps."
+        }
+      ]
+    },
+    {
+      "question_id": "Q45",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I wouldn't put a name on it but I know I go through times where everything feels heavier than it should. Like, getting out of bed feels hard, or I don't want to cook even though I love cooking. And the worrying at night, that's been going on for a while. Sometimes my chest gets tight when I'm really stressed, like before a big event or when money is tight. I notice it and I try to deal with it -- the yoga helps, talking to Lupita helps, my garden helps. I've never talked to a professional about it. I think in my culture, especially with the older generation, you just don't do that. You're supposed to be strong, pray about it, keep going. I'm starting to think differently about that though. If it got bad enough, I think I'd try to find somebody to talk to. But for now I manage it on my own.",
+      "follow_ups": [
+        {
+          "question": "What does it feel like when your chest gets tight?",
+          "response": "It's like something is pressing on my chest and I can't get a full breath. It usually happens when I'm really worked up about something. Like, if I'm doing the numbers for an event and the budget isn't adding up, or if I get a bill in the mail that I wasn't expecting. It lasts maybe ten or fifteen minutes and then it passes. I've learned to stop what I'm doing, sit down, and breathe slow. That helps. The yoga teacher taught me a breathing thing where you breathe in for four counts and out for four counts. I use that a lot."
+        },
+        {
+          "question": "You mentioned your culture's attitude toward getting help -- has that changed for you?",
+          "response": "Yeah, a little. My mom's generation, they think if you talk to a therapist it means you're crazy, like really crazy. But I know that's not true. Lupita actually went to a counselor for a while and she said it helped her a lot. And some of the younger moms I know talk about it openly. I think for me, the barrier is more about money and time than shame at this point. Like, where would I find a therapist I can afford who speaks Spanish and has hours that work with my schedule? That's a lot of boxes to check. But the idea of it doesn't scare me like it would have ten years ago."
+        }
+      ]
+    },
+    {
+      "question_id": "Q46",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "How has it been for your family?",
+      "time_limit_seconds": 50,
+      "response": "Carlos keeps a lot inside. He's the strong silent type. But I can tell when he's stressed because he gets quiet, even quieter than usual, and he doesn't sleep good either. He worries about money and providing for us. The kids are pretty resilient but they pick up on our stress. Diego gets more withdrawn when things are tense at home -- he'll go to his room and draw for hours. Sofia gets clingy, she'll want to be right next to me all the time. I try to keep things calm and normal for them but kids know, you know? They feel it even if you don't say anything.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q47",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "time_limit_seconds": 155,
+      "response": "It's real important to me. I grew up going to Mass every Sunday and that hasn't changed. We go to St. Patrick's here in Lilburn -- it's got a big Spanish-speaking community which is nice. Going on Sunday morning is like, it's my time to be still. The rest of the week I'm running around nonstop, but at Mass I just sit there and listen and pray. It centers me. Father Morales is great, he gives homilies that actually relate to real life, not just abstract stuff. I also help with the church's activities -- we do festivals, holiday celebrations, youth programs. At Christmas we do a posada, which is a reenactment of Mary and Joseph looking for a place to stay. That's my favorite time of year. We also set up altars for D\u00eda de los Muertos at the church, with photos and flowers and candles for the people who have passed. My grandmother, my abuelo, my cousin who passed young -- their pictures are up there. It's spiritual but it's also cultural, it's how we remember our people. My faith is something I lean on when things get hard. I'll light a candle and just talk, you know, ask for strength. It's not like I think everything's going to be magically fixed, but it gives me peace.",
+      "follow_ups": [
+        {
+          "question": "How does your faith show up in your daily life, not just on Sundays?",
+          "response": "We say grace before dinner every night, that's a non-negotiable in our house. I have a little altar in my bedroom with a picture of the Virgen de Guadalupe and some candles and photos of my grandparents. I light a candle there when I need to, sometimes in the morning before the day starts, sometimes at night. I pray with the kids before bed. It's not super formal, just a quick prayer for the family. And the values from my faith are in everything I do -- helping my neighbors, being generous, treating people with kindness. That's what it's about for me, more than the rules and the rituals. It's about being a good person."
+        },
+        {
+          "question": "How have you passed your faith on to your kids?",
+          "response": "They come to Mass with us every Sunday. Diego did his First Communion two years ago and Sofia's going to do hers next year. I teach them the prayers in Spanish first, then in English. We celebrate all the religious holidays -- not just Christmas and Easter but also D\u00eda de los Muertos, Las Posadas, and the feast days for the saints. I want them to know where they come from. Diego sometimes asks questions like, 'Why do we do this?' and I try to explain it in a way that makes sense to him. I don't force it, but I make sure it's part of their life."
+        }
+      ]
+    },
+    {
+      "question_id": "Q48",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "time_limit_seconds": 115,
+      "response": "Oh, I'm on social media a lot, mostly Facebook and Instagram. Facebook is where I do a lot of my community stuff. I help moderate three different local groups -- one for the Lilburn neighborhood, one for Mexican families in Gwinnett, and one for the arts center events. I post updates, share resources, answer questions. Like if somebody's looking for a Spanish-speaking doctor or a good mechanic, I'll help them out in the group. On Instagram, I post my food pictures and garden pictures and photos from events. It's more like my personal thing. I got a decent following, maybe a few hundred people, mostly local folks. I also use WhatsApp a lot to talk to family and friends. That's how all the Mexican moms communicate -- we got like five different group chats going at any time. School stuff, church stuff, the dance group, my family. My phone is always buzzing. I try not to get sucked into the negative stuff on social media, like the arguments and the drama. I keep my pages positive.",
+      "follow_ups": [
+        {
+          "question": "How much time do you spend on social media in a typical day?",
+          "response": "Probably more than I should. If I'm being honest, maybe two or three hours total throughout the day. But a lot of that is the community group stuff, answering messages and posts. The Instagram scrolling is maybe thirty minutes before bed, which I know is bad for sleep but I do it anyway. Sometimes I'll get on Facebook to check one thing and then an hour has gone by. Carlos teases me about it, he says I'm addicted to my phone. He might be a little right."
+        },
+        {
+          "question": "What kind of content do you engage with the most?",
+          "response": "Cooking videos for sure. I follow a bunch of Mexican cooking accounts and food bloggers. I get a lot of my recipe ideas from Instagram. Community stuff obviously -- what's happening in the neighborhood, events coming up, deals at local stores. I also follow some art accounts, like watercolor artists and pottery people, because I do that stuff too. And I follow the Falcons and the Hawks on there to keep up with the games. I try to stay away from political arguments and drama. If I see that stuff in my feed I just scroll past."
+        }
+      ]
+    },
+    {
+      "question_id": "Q49",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Not really for myself, no. I'm not the type to post my problems online. If I need help, I'll reach out to Lupita or my mom or somebody I know personally. But I've seen other people in the community use the Facebook groups for support and I always try to help. Like, somebody will post that they need help with their electric bill or they need a ride to the doctor, and I'll either help directly or connect them with somebody who can. The Mexican community group especially -- people share resources, like where to get free food or how to apply for programs. I think that's one of the best things about social media, when people actually help each other.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q50",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "time_limit_seconds": 50,
+      "response": "I think my stress has gone down a little compared to last fall. Carlos's hours are back to normal, the kids are in a good routine, and I've been better about asking for help. The yoga has made a big difference too -- I notice that on weeks I miss it, I'm more on edge. The check-in texts with Lupita help. And I've been making more time for my garden and cooking just for fun, not just for events or the family. Like, trying a new recipe just because I want to, not because I have to. That's been good for me. I still worry a lot, especially at night, but I feel like I have better tools now than I did a year ago.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q51",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "time_limit_seconds": 25,
+      "response": "It's me, my husband Carlos, and our two kids -- Diego who's ten and Sofia who's seven. Just the four of us.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q52",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any babies or small children?",
+      "time_limit_seconds": 10,
+      "response": "No babies. Sofia is the youngest at seven.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q53",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, everybody's here.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q54",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any lodgers, boarders, or employees who live here?",
+      "time_limit_seconds": 10,
+      "response": "No, nobody like that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q55",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "time_limit_seconds": 5,
+      "response": "Me and Carlos. His paycheck covers most of it and my catering money fills in the gaps.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q56",
+      "block": "FINANCES",
+      "question_text": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "time_limit_seconds": 50,
+      "response": "Rent is always the biggest one, that's $1,450. Then the car payment, that's like $320. Utilities -- electric, water, gas -- probably around $250 total, maybe more because it was still cold and the heat was on. Groceries, I'd say around $500 to $600 for the month. And we still paying that $50 a month on the medical bill. Plus gas for the cars, Carlos's truck eats gas like crazy. Insurance on the vehicles. It adds up fast.",
+      "follow_ups": [
+        {
+          "question": "How do you manage the grocery budget?",
+          "response": "I'm real careful about it. I plan our meals for the week and make a list before I go shopping. I buy in bulk when I can -- rice, beans, flour, those things I get in big bags. I go to the Mexican market for produce because it's cheaper than the regular grocery store. I look for sales and I clip coupons from the circular. Meat is the expensive one, so I try to stretch it -- like, I'll make a big pot of chicken soup that feeds us for three days from one chicken. I grow some of my own herbs and tomatoes which saves a little. I'm good at making a lot of food from not a lot of money. That's something my mom taught me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q57",
+      "block": "FINANCES",
+      "question_text": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "time_limit_seconds": 50,
+      "response": "If I add everything up, it's probably around $3,200 to $3,500 in a regular month. Last month was a little higher because Diego needed new soccer cleats and we had to get the car inspected. So maybe closer to $3,800. It's pretty tight. On a normal month, there's not a whole lot of cushion. If everything goes smooth and there's no surprises, we're okay. But it seems like there's always some surprise.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q58",
+      "block": "FINANCES",
+      "question_text": "Does your household own or rent your home?",
+      "time_limit_seconds": 50,
+      "response": "We rent. It's a three-bedroom house in a subdivision. We been there for about five years. I'd love to own someday but the way things are, that feels far away. You need a down payment and good credit and all that. We're working on it but it's going to take time. For now, renting is what we can do.",
+      "follow_ups": [
+        {
+          "question": "How has the rent changed over the five years you've been there?",
+          "response": "When we first moved in it was $1,100. Now it's $1,450. So it's gone up $350 in five years. Every year the landlord bumps it up a little. Last year it went up $75 and I almost had a heart attack. I called the landlord and asked if there was anything we could do and he said it's the market rate. What are you going to do? Moving costs money too, and the kids are settled in their school. So we just pay it and figure it out."
+        }
+      ]
+    },
+    {
+      "question_id": "Q59",
+      "block": "FINANCES",
+      "question_text": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "time_limit_seconds": 50,
+      "response": "The electric bill is the one that changes the most. In the summer it goes way up because of the AC -- like maybe $180 or $200. In the winter it's a little less but still high because of the heat. Spring and fall are better, maybe $100 to $120. Christmas is expensive because we do gifts for the kids and food for the holiday celebrations. That month I probably spend an extra $300 to $400. Back-to-school in August is another hit -- new clothes, school supplies, activity fees for soccer and dance. And when the car needs something, like new tires or an oil change, that always seems to come at the worst time.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q60",
+      "block": "FINANCES",
+      "question_text": "Tell me all about how you coped with any extra expenses in the past months.",
+      "time_limit_seconds": 40,
+      "response": "I take on more catering jobs when I can. If I know a big expense is coming, I'll put the word out that I'm available for cooking. That helps bring in some extra. We also cut back on non-essentials. Like, we won't eat out at all that month, I'll put off buying anything for myself, Carlos might skip his lunch out and bring food from home. I've borrowed small amounts from my mom before, like $100 here and there, and paid her back. And we use a credit card for some things, which I don't love because of the interest, but sometimes you don't have a choice.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q61",
+      "block": "FINANCES",
+      "question_text": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "time_limit_seconds": 80,
+      "response": "We have a savings account but there's not much in it. I try to put something away every month, even if it's just twenty or thirty dollars. But then something comes up and I have to take it back out. It feels like two steps forward, one step back. Right now I think there's maybe $400 in there. I also keep a little bit of cash at home, hidden away, for emergencies. My mom taught me to always have some cash where you can get to it. It's not a lot, maybe $100 or $150. I wish I could save more but it's just not realistic right now with what we make.",
+      "follow_ups": [
+        {
+          "question": "How do you decide when to dip into savings versus finding another way?",
+          "response": "If it's something I absolutely have to pay right now, like the rent or a bill that's about to be late, I'll take it from savings. If it's something that can wait, I'll try to find another way -- pick up a catering job, sell some tamales, borrow from my mom. I hate touching the savings because it took so long to build up. Every time I take money out I feel like we're going backwards. Carlos and I have a rule that we try not to go below $200 in the account. We don't always manage it but that's the goal."
+        }
+      ]
+    },
+    {
+      "question_id": "Q62",
+      "block": "FINANCES",
+      "question_text": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "time_limit_seconds": 80,
+      "response": "Mostly rainy day. I'd love to say we're saving for a house or for the kids' college but honestly, the savings we have is just for when something goes wrong -- the car breaks, somebody gets sick, that kind of thing. In my dream world, I'd be putting money away for Diego and Sofia's future. But right now we're just trying to keep our heads above water. I think about it a lot though. Like, when I'm lying awake at night, one of the things I think about is how are we going to pay for college for two kids. That's years away but it still scares me.",
+      "follow_ups": [
+        {
+          "question": "Do you and Carlos ever talk about long-term financial goals?",
+          "response": "Sometimes. He wants to buy a house -- that's his dream. He sees the houses he helps build at work and he says, 'Someday that'll be ours.' I want that too but I'm more focused on the short-term, like getting through this month. We've talked about me getting a real job once Sofia's a little older, like a salaried position at a community center or something. That would change our whole situation. Two steady incomes would make a huge difference. But we're not there yet. For now, we just take it month by month."
+        }
+      ]
+    },
+    {
+      "question_id": "Q63",
+      "block": "FINANCES",
+      "question_text": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "time_limit_seconds": 50,
+      "response": "We got the car payment, which is $320 a month, still got about two years on that. The medical bill from Sofia's ear infection, that's about $600 still, we're paying $50 a month. We got some credit card debt -- probably around $1,800 right now. That's from various things, like when the washing machine broke and we had to buy a new one, and some of it is from Christmas. We're paying the minimum on that most months, which I know isn't great because of the interest. No student loans because neither of us went to college. I owe my mom about $200 from when she helped us out a couple months ago. That's it, I think. It could be worse but it weighs on me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q64",
+      "block": "FINANCES",
+      "question_text": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "time_limit_seconds": 65,
+      "response": "Yeah, it's happened. Last summer the electric bill came in at like $200 and I didn't have it. We were short. I had to call the electric company and ask for an extension, which they gave us but it was embarrassing. And then Diego needed new shoes for school and I had to wait two weeks until Carlos got paid before I could buy them. He wore shoes that were too small for two weeks and he didn't complain but I felt terrible. There was also a time when my car needed new brakes and I couldn't afford it. I drove around for a month with bad brakes, which was scary. Lupita finally lent me $200 to get them fixed. Those are the moments that really get to you, when you can't take care of basic stuff.",
+      "follow_ups": [
+        {
+          "question": "How did those moments make you feel?",
+          "response": "Awful. Like I'm failing. I know logically it's not my fault, like we work hard and we do our best. But when your kid needs shoes and you can't buy them? That hurts in a place that's hard to explain. It's like, I'm their mom, I'm supposed to provide for them. And Carlos feels it too, he takes it real personally. I try not to let the kids see me upset about money because I don't want them to worry. But some nights I just sit there and think, there has to be a better way."
+        }
+      ]
+    },
+    {
+      "question_id": "Q65",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "time_limit_seconds": 155,
+      "response": "I don't have a regular occupation right now, not in the official sense. I'm at home with the kids. But I stay busy doing things that feel like work even if they don't come with a paycheck. The biggest thing is the catering, the cooking for events. When I got a job booked, I plan the menu with the client, figure out the budget, buy all the ingredients, spend one or two days cooking, transport everything, set it up. For a big event like a quincea\u00f1era, that's a full week of work. I also do the event planning for the community arts center. That involves budgeting, getting sponsors, coordinating volunteers, handling logistics, promoting the event on social media. Like, for the D\u00eda de los Muertos celebration, I managed a budget of about $2,000, coordinated twenty volunteers, and got five local businesses to donate. And then there's the Facebook groups I moderate -- that takes more time than you'd think, answering questions, posting resources, dealing with drama. I also help at the church with their events. If you added it all up, I probably do thirty or forty hours a week of work between all these things. It's just that most of it doesn't pay or pays very little.",
+      "follow_ups": [
+        {
+          "question": "What skills have you developed from doing all this unpaid and informal work?",
+          "response": "A lot, honestly. Budgeting -- I can make a dollar stretch like nobody's business. Organizing -- I can plan an event for 200 people with a notebook and a phone. Communication -- I deal with all kinds of people, business owners, volunteers, families. I'm bilingual, so I switch between Spanish and English all day. I've learned basic photography for documenting events. I've learned how to work with social media to promote stuff. I know how to negotiate with vendors and get donations. These are real skills but nobody sees them on a resume because I don't have a degree or a job title."
+        },
+        {
+          "question": "If you could turn this into a paid position tomorrow, what would the ideal job look like?",
+          "response": "Community outreach coordinator, that's the dream. Working at a community center or the arts center or the county parks department, planning cultural events, connecting people with resources, building bridges between different communities. I'd want it to be in Gwinnett County because this is my home. Something with a steady paycheck, maybe some benefits. Nothing crazy, just enough to feel stable. And I'd want to be able to use my Spanish and my connections in the community. I think I'd be really good at it. I just need somebody to give me a shot."
+        }
+      ]
+    },
+    {
+      "question_id": "Q66",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Was your occupation covered by a union or employee association contract?",
+      "time_limit_seconds": 40,
+      "response": "No, nothing like that. Since I don't have a formal job, there's no union or anything. I'm just on my own. Carlos's construction job isn't union either. Around here, in Georgia, most of the construction work isn't unionized. He just works for the company and that's it. No real protections if something goes wrong.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q67",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "time_limit_seconds": 40,
+      "response": "If you count the catering work and the volunteer stuff, I probably did something every week. But for actual paid work, the catering, I'd say maybe thirty to thirty-five weeks out of the year I had at least one paying job. The other weeks I was still working but just not getting paid for it -- volunteering, moderating the Facebook groups, planning events. There's no paid vacation or sick leave when you're doing what I do.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q68",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How many hours each week did you usually work?",
+      "time_limit_seconds": 15,
+      "response": "If I count everything, paid and unpaid, probably thirty to forty hours. Just the paid catering work, maybe ten to fifteen hours in a week when I have a job.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q69",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "time_limit_seconds": 15,
+      "response": "Yeah, I made a batch of tamales for a lady's baby shower this weekend. That was maybe eight hours of work total, cooking and delivering.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q70",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "It's all kind of the same thing, the cooking and event stuff. I don't have separate jobs, it's more like different things I do that sometimes pay. The catering is the main one that brings in money. The arts center gives me a little sometimes but it's not really a job.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q71",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "This past month I did three catering jobs and I got a small stipend from the arts center for helping plan the spring art walk. So I guess four things that paid me something.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q72",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "For your job or occupations, how much money did you receive in the past month?",
+      "time_limit_seconds": 50,
+      "response": "Let me think. The three catering jobs brought in about $650 total. The arts center gave me $100 for the spring event planning. So about $750 this month. That's actually a good month for me. Some months it's more like $400 or $500.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q73",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How often do you get paid?",
+      "time_limit_seconds": 25,
+      "response": "It's not regular like a paycheck. For the catering, I get paid when the job is done, so it's whenever I finish an event. The arts center pays me after the event is over, so that's a few times a year. There's no set pay schedule, it just comes in when it comes in.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q74",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In total, how much did your household make in the past month?",
+      "time_limit_seconds": 50,
+      "response": "Carlos brings home about $3,200 a month after taxes. With my $750 this month, we're at about $3,950 total. Some months when his hours get cut or my catering is slow, it's less. On a bad month, maybe $3,000. On a good month like this one, almost $4,000. It depends.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q75",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "time_limit_seconds": 40,
+      "response": "Yeah, we filed together. Carlos's brother-in-law does taxes on the side, so he helps us. It's not complicated because we don't have a lot of investments or anything like that. It's just Carlos's W-2 and I report what I made from the catering as best I can. We got a refund last year, about $2,800, mostly because of the kids. That refund money is like Christmas for us, that's when we catch up on stuff we've been putting off.",
+      "follow_ups": [
+        {
+          "question": "What did you do with the tax refund?",
+          "response": "We paid off some of the credit card, put some in savings, and used the rest for stuff we needed. Carlos got new work boots, I got the kids spring clothes. We also fixed the back porch screen that had been ripped for months. And we took the kids to Six Flags, which was a splurge but they'd been asking forever. That was a good day. The rest went to bills. It went fast."
+        }
+      ]
+    },
+    {
+      "question_id": "Q76",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "time_limit_seconds": 15,
+      "response": "I don't have a formal workplace. The catering I do from my kitchen, and the arts center stuff I do wherever they need me. No benefits, no paid time off, nothing like that. If I'm sick, I just don't work and don't get paid.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q77",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "time_limit_seconds": 15,
+      "response": "Since I don't have a traditional job, it's different. The lady who runs the arts center, Rosa, she's great. She's kind of like a mentor to me. And the people I volunteer with at church are like family. My catering clients are usually friends of friends, so it's all friendly. I don't have a boss or coworkers in the usual sense.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q78",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "time_limit_seconds": 80,
+      "response": "It's totally flexible because I make my own schedule, which is the good part. If Diego has a school event, I can be there. If my mom needs me, I can go. But the bad part is that the income isn't predictable at all. Some weeks I got three catering requests and some weeks I got none. I can't plan for next month because I don't know what's coming. And when a big job comes in, I can't say no even if the timing is bad, because we need the money. Like, last month I had a catering job the same day as Sofia's dance show, and I had to cook all morning and rush to make it to her show on time. That flexibility is really just another way of saying nothing is guaranteed.",
+      "follow_ups": [
+        {
+          "question": "Would you prefer a more structured work schedule?",
+          "response": "Part of me would, yeah. Like, knowing that every Friday I get a paycheck, knowing I have holidays off, knowing I can call in sick and it's okay. That sounds nice. But I also love that I can build my day around my kids and my community stuff. Ideally, I'd find something that's like a part-time structured thing and I could still do catering on the side. That would be the best of both worlds. But that's hard to find, especially without a diploma."
+        }
+      ]
+    },
+    {
+      "question_id": "Q79",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "time_limit_seconds": 15,
+      "response": "That's a big reason I haven't gotten a regular job. The kids are in school during the day but there's pickup at three, activities after, sick days, school breaks. Daycare or after-school care costs money we don't have. If I worked a nine-to-five, who picks up the kids? Who stays home when they're sick? That's why I do what I do from home.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q80",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "time_limit_seconds": 25,
+      "response": "The kids are on PeachCare for their health coverage. Other than that, no, we don't get SNAP or housing vouchers or anything. We looked into it once but we were over the income limit by a little bit. Like, Carlos makes just enough that we don't qualify but not enough that we're comfortable. It's frustrating being in that middle zone.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q81",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "time_limit_seconds": 50,
+      "response": "Last fall when Carlos's hours got cut was the worst. For about three weeks he was only working three days a week instead of five. That's a big chunk of our income gone. I scrambled to pick up extra catering work. I made tamales and sold them through the Facebook group, like $10 a dozen. I sold maybe thirty dozen that month, which helped. My mom lent us $200. We skipped everything non-essential -- no eating out, no activities that cost money, I even cancelled my yoga class for a month. We made it through but it was really tight. I learned that you have to have a plan for when things get thin, because they will get thin.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q82",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "time_limit_seconds": 50,
+      "response": "I could probably do it but it would hurt. We got about $400 in savings and my cash stash at home. So technically yes, but then our savings would be at zero and that scares me. If I couldn't use savings, I'd probably ask my mom or Lupita for help and pay them back over a few weeks. Or I'd put it on the credit card, which is what usually ends up happening. A $400 emergency is the kind of thing that can throw us off for months. One unexpected expense and we're playing catch-up for a long time.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q83",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Overall, how do you feel about your financial situation?",
+      "time_limit_seconds": 105,
+      "response": "Stressed. I feel stressed about it most of the time. Like, we're not homeless, we're not starving, and I know some people have it worse. But it's this constant background noise of 'is it going to be enough this month.' I'm tired of just surviving. I want to be comfortable. Not rich, just comfortable. Like, I want to be able to take my kids to the dentist without doing math in my head about whether we can afford it. I want to be able to save for their college. I want to not panic when the car makes a weird noise. I believe things can get better, especially if I can get my GED and find a real job. But right now, in this moment, it's hard. Carlos works so hard, I work in my own way, and we're still always one bad month away from trouble. That's the reality for a lot of families like ours. You don't see it because we keep smiling and keep going, but it's there.",
+      "follow_ups": [
+        {
+          "question": "What would need to change for you to feel more financially secure?",
+          "response": "Two incomes would be the biggest thing. If I was bringing in even $1,500 or $2,000 a month steady, that would change everything. We could actually save, we could pay off the credit card, we could put money away for the kids. And if Carlos could find a job with better benefits, so we're not paying so much for health care, that would help too. Long term, owning our own place instead of renting would be huge because rent just goes into somebody else's pocket. But the first step is me getting my GED and getting a real job. Everything builds from there."
+        },
+        {
+          "question": "How do you and Carlos handle the financial stress together?",
+          "response": "We try to be a team about it. We sit down together on Sunday nights sometimes and look at what's coming up that week -- what bills are due, what we need to buy. He doesn't love talking about money, it stresses him out, but he knows we have to. We don't fight about money usually, we more just get quiet about it, which might be worse actually. Like, we're both carrying the weight and not always talking about it. But when it gets really bad, we do talk, and we make a plan, and we work together. We've never let it break us."
+        }
+      ]
+    },
+    {
+      "question_id": "Q84",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "time_limit_seconds": 40,
+      "response": "I'm married. Been married for twelve years to my husband Carlos. We live together with our two kids.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q85",
+      "block": "DEMOGRAPHICS",
+      "question_text": "For our records, we also need your date of birth. Could you please provide that?",
+      "time_limit_seconds": 25,
+      "response": "August 14th, 1991.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q86",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "time_limit_seconds": 25,
+      "response": "Yeah, I was born here in the U.S. My parents came from Mexico but I was born here in Georgia.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q87",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What city and state were you born in?",
+      "time_limit_seconds": 25,
+      "response": "Lilburn, Georgia. Well, I was born at the hospital in Lawrenceville but we lived in Lilburn.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q88",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "time_limit_seconds": 15,
+      "response": "Yes, Mexican-American. My parents are both from Mexico.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q89",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What race or races do you identify with?",
+      "time_limit_seconds": 15,
+      "response": "I usually say Hispanic or Latina. Some forms have me check 'white' but I just consider myself Mexican-American.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q90",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What is the highest degree or grade you've completed?",
+      "time_limit_seconds": 15,
+      "response": "I made it to eleventh grade but I didn't finish. So, some high school, no diploma.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q91",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you enrolled in school?",
+      "time_limit_seconds": 15,
+      "response": "Not officially. I'm studying for my GED on my own with workbooks and YouTube, but I'm not enrolled in a program right now.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q92",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you been enrolled in school during the past 3 months?",
+      "time_limit_seconds": 15,
+      "response": "No, I haven't been enrolled anywhere.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q93",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "time_limit_seconds": 15,
+      "response": "No, never.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q94",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What religion do you identify with, if any?",
+      "time_limit_seconds": 15,
+      "response": "I go to Mass every Sunday and the kids are going through their sacraments. It's been my family's tradition since before I was born. The church is a big part of my life.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q95",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "time_limit_seconds": 80,
+      "response": "I don't really think of myself as strongly one thing. I usually end up going with the folks who seem to care more about working families, health care, and schools. But I don't go around saying I'm this or that party. I think about the issues more than the party label. Some things I agree with one side on, some things the other. If I had to pick, I'd say I lean toward the side that talks about helping people who are struggling, because that's what I see every day in my community. But I'm not out there campaigning or anything.",
+      "follow_ups": [
+        {
+          "question": "Are there issues where you disagree with the party you lean toward?",
+          "response": "Yeah, for sure. Some of the social stuff, I'm more traditional. Like, my faith and my family values don't always line up with everything one side says. And I don't like when any politician talks down to people or acts like they know what's best for us. Both sides do that. I just want people to be real and to actually do what they say they're going to do. That's more important to me than what party they belong to."
+        }
+      ]
+    },
+    {
+      "question_id": "Q96",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "time_limit_seconds": 50,
+      "response": "Probably closer to the one that talks more about helping working families and making health care affordable. The issues that matter to me -- schools, health care, keeping rent manageable, a fair path for families like mine -- I hear more of that from one side. But like I said, I'm not locked in. I could see voting different depending on the person and what they're actually doing for my community.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q97",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was the city and state that you lived in when you were 16 years old?",
+      "time_limit_seconds": 25,
+      "response": "Right here in Lilburn, Georgia. Same as now. I've been here my whole life.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q98",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did you live with both your own mother and father when you were 16?",
+      "time_limit_seconds": 25,
+      "response": "Yeah, both of them. They were still together when I was sixteen. They didn't split up until I was in my twenties.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q99",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Who else did you live with?",
+      "time_limit_seconds": 25,
+      "response": "My little brother Luis, he would have been like ten at the time. And my grandma -- my mom's mom -- was living with us then. She stayed with us for a few years before she passed. Sometimes a cousin would stay for a while too, but mostly it was the five of us.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q100",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your dad completed?",
+      "time_limit_seconds": 15,
+      "response": "He went to school in Mexico but didn't finish. I think he made it to like the equivalent of sixth or seventh grade. He can read and write in Spanish but his English isn't great.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q101",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your mom completed?",
+      "time_limit_seconds": 15,
+      "response": "Same kind of thing. She went to school in Mexico, maybe through eighth grade. She reads and writes in Spanish. Her English is better than my dad's but still not great.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q102",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your mom work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Oh yeah, she worked all the time. She had two jobs most of the time when I was growing up.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q103",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "Her main job was cleaning houses. She cleaned for families in the nicer neighborhoods around Lawrenceville and Suwanee. She'd do like three or four houses a day -- vacuuming, mopping, bathrooms, kitchens, the whole thing. She was fast and thorough, people loved her. Her second job was at a restaurant, a Mexican place on Buford Highway. She worked in the kitchen there a couple nights a week, prepping food and washing dishes. That's where she got some of the recipes she taught me. She worked like that for years until her knees got bad.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q104",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "time_limit_seconds": 50,
+      "response": "The cleaning was mostly for private families, rich families who wanted somebody to come clean their houses. She found clients through word of mouth -- one family would recommend her to another. The restaurant was a family-owned Mexican restaurant, real authentic food. They made everything from scratch -- tacos, enchiladas, tamales, the whole menu. It's still there actually, on Buford Highway. It's been there forever. She worked in the back, in the kitchen, not serving tables.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q105",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your dad work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yeah, my dad always worked. He was in construction and landscaping, always doing something physical.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q106",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "He did landscaping mostly -- mowing lawns, trimming bushes, planting flowers, that kind of thing. He worked for a landscaping company that did commercial properties and some residential. He also did construction work on and off, like Carlos does now. Framing, drywall, painting. He was strong and he could do anything with his hands. He'd come home covered in dirt and sweat but he never complained. He did that work for as long as I can remember.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q107",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "time_limit_seconds": 50,
+      "response": "The landscaping company was a small local business owned by a guy from the neighborhood. They did lawn care and landscaping for businesses, like office parks and shopping centers, and also for some rich people's houses. The construction stuff was different companies over the years -- whatever was hiring. They'd build houses, renovate buildings, that kind of thing. It was always day labor or hourly, no salary or benefits. That's just how it is for a lot of guys in that line of work around here.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q108",
+      "block": "HOPES & VALUES",
+      "question_text": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "time_limit_seconds": 155,
+      "response": "I got a lot of hopes. First and biggest -- I want to get my GED. That's happening, it has to. I'm not going to be thirty-five without that checked off my list. After that, I want to get some kind of certification, community development or hospitality management, something that opens doors for me. I want a real job, a title, a paycheck. Community outreach coordinator, cultural programming assistant, something like that at the county or at an arts center. I want to feel like my work is valued and that I'm building something, not just volunteering. For my family, I hope we can buy a house. Even a small one. I want my kids to have a yard that's theirs, rooms that are theirs. I want Diego to go to college and study art or whatever he's passionate about. I want Sofia to keep dancing and find her thing. I want Carlos to not work so hard, to not come home so tired and sore every day. Long term, I dream about starting a real catering business, not just cooking out of my kitchen. Like a little business with a name, maybe a food truck or a small kitchen space where I teach cooking classes too. I want to bring people together through food and art and culture. That's my vision -- a multicultural community hub where people can come eat, learn to dance, look at art, and just be together. It sounds big but I think I could do it if I had the right support.",
+      "follow_ups": [
+        {
+          "question": "What's the first concrete step you're going to take toward that vision?",
+          "response": "The GED. Everything starts there. I been saying it and now I need to do it. I'm going to call Gwinnett Tech this week and find out about their program. What it costs, when the classes are, all of that. And I'm going to ask my mom or Lupita or somebody to help with the kids on the days I need to study or go to class. That's step one. Step two is the certificate program. Step three is the job. I'm giving myself two years. By the time I'm thirty-six, I want to be working a real job. That's the plan."
+        },
+        {
+          "question": "What would the multicultural community hub look like in your mind?",
+          "response": "Oh, I've thought about this a lot. It would be a space, maybe a converted warehouse or a big storefront, where we have a kitchen for cooking classes, a room for dance practice, a gallery for local artists, and a gathering area for community events. It would be open to everybody, not just Mexican families. I'd have nights for different cultures -- Korean cooking night, Ethiopian food night, Mexican dance workshop, West African drumming. And I'd hire people from the community, give them opportunities. I know it's a big dream and it would take a lot of money and work. But that's what gets me excited when I think about the future."
+        }
+      ]
+    },
+    {
+      "question_id": "Q109",
+      "block": "HOPES & VALUES",
+      "question_text": "What do you value the most in your life?",
+      "time_limit_seconds": 80,
+      "response": "Family, first and always. My kids, my husband, my mom, my brother -- they're everything. Everything I do is for them. After family, community. I believe that we're all responsible for each other, especially the people around us. If my neighbor needs help, I help. If the church needs somebody to organize something, I step up. That's how my mom raised me and that's how I'm raising my kids. I value hard work. Nobody in my family ever got anything handed to them. We work for what we have. And I value culture -- keeping our traditions alive, passing them down to my kids, sharing them with our neighbors. The food, the music, the dancing, the celebrations -- that's who we are. Without that, we're just going through the motions. And I value faith. Not in a preachy way, but in a 'this is what keeps me grounded' way. When everything else is shaky, I know I can go to Mass and light a candle and feel connected to something bigger. Those are my pillars -- family, community, hard work, culture, and faith.",
+      "follow_ups": [
+        {
+          "question": "If you could pass one piece of wisdom to Diego and Sofia, what would it be?",
+          "response": "Never forget where you come from. Be proud of your roots, your language, your culture. But also dream big. Don't let anybody tell you what you can't do. I didn't finish school and that's made my life harder, and I tell them that. I tell them, 'Mama didn't finish but you're going to, and then some.' I want them to know that they matter, that their voice matters, that they can do anything if they work hard and stay true to who they are. And be kind. Always be kind. The world has enough mean people."
+        },
+        {
+          "question": "What makes you most proud right now?",
+          "response": "My kids make me the most proud. They're good people, they're smart, they're kind. Diego helping his little sister with homework, Sofia sharing her snacks with a kid at school who didn't have one -- those moments make me feel like I'm doing something right. I'm also proud of the community stuff I've built, even without a degree or a title. People know me, they come to me for help, they trust me. I built that from nothing, just by showing up and caring. That's something nobody can take away from me."
+        }
+      ]
+    }
+  ],
+
+  "extracted_profile": {
+    "participant_id": "5237e90a0ca3460dbbcba20adb61922f",
+    "name": "Maria Buendia",
+    "age": 34,
+    "gender": "Female",
+    "marital_status": "married_present",
+    "location": "Lilburn, GA 30047",
+    "education": "Some high school (11th grade), no diploma; self-studying for GED",
+    "occupation": "No formal occupation; informal caterer and community event planner/volunteer",
+
+    "preferences": {
+      "health_and_wellness": {
+        "summary": "Relies on weekly yoga, home herbal remedies, and an active lifestyle rather than formal medical care, largely due to cost barriers.",
+        "details": [
+          "Attends gentle yoga class once a week on Saturday mornings ($15/class) at a studio in downtown Lilburn",
+          "Takes ibuprofen 2-3 times per week for chronic lower back pain",
+          "Uses traditional Mexican herbal remedies: chamomile tea for sleep, mint tea for headaches, ginger tea for stomach issues",
+          "Grows herbs (cilantro, mint) in home garden partly for medicinal use",
+          "Has not had a checkup in over two years due to cost and time",
+          "Suspects low iron based on mother's similar experience; tries to eat more spinach and meat",
+          "Uses 4-count breathing technique from yoga to manage chest tightness during stress"
+        ],
+        "evidence": "Q31, Q32, Q33, Q34, Q37, Q39, Q45"
+      },
+      "food_and_dining": {
+        "summary": "Passionate home cook blending traditional Mexican recipes with contemporary experiments; stretches grocery budget skillfully through meal planning and bulk buying.",
+        "details": [
+          "Cooks dinner from scratch most nights: rice and beans, tacos, enchiladas, chicken dishes",
+          "Experiments with fusion recipes like herb-crusted chicken with citrus glaze and cilantro-lime rice",
+          "Makes tamales in large batches (up to 60 at a time) for stress relief and income",
+          "Hosts themed dinner nights for friends and neighbors",
+          "Shops at Mexican markets on Buford Highway for produce (cheaper than chain stores)",
+          "Grows tomatoes, cilantro, jalapenos, sweet bell peppers, mint, and heirloom tomatoes",
+          "Weakness for pan dulce and sweet bread from the bakery",
+          "Drinks coffee with sugar throughout the day",
+          "Plans weekly meals and uses coupons; buys rice, beans, and flour in bulk"
+        ],
+        "evidence": "Q01, Q05, Q15, Q16, Q17, Q32, Q37, Q38, Q56"
+      },
+      "travel": {
+        "summary": "Prefers budget-conscious weekend road trips and local outings; dreams of cultural trips but cost is a barrier.",
+        "details": [
+          "Family outings to local parks, Six Flags (special occasion using tax refund), and neighborhood areas",
+          "Shops and socializes along Buford Highway corridor (Mexican markets, restaurants)",
+          "Interest in Appalachian foothill road trips, Savannah historic district, and European travel (Barcelona, Lisbon) per seed data, though not surfaced in interview due to budget constraints"
+        ],
+        "evidence": "Q10, Q75"
+      },
+      "social_and_relationships": {
+        "summary": "Deeply embedded in family and community networks; maintains close friendships, church ties, and organized social groups.",
+        "details": [
+          "Best friend Lupita (since childhood) in Norcross; talks daily, shops together, weekly check-in texts",
+          "Friend Ana from Ballet Folklorico group; practices weekly together",
+          "Leads a multicultural book club (5-6 women) meeting monthly at library or homes",
+          "Active in church community: volunteers, organizes events, knows Father Morales well",
+          "Close with sister-in-law Patricia (frequent phone calls) and mother-in-law Dona Elena (Sunday dinners)",
+          "Visits mother 2-3 times per week; serves as her primary caregiver for errands and appointments",
+          "Organizes neighborhood potlucks bringing diverse cultural dishes together",
+          "Moderates three Facebook community groups"
+        ],
+        "evidence": "Q05, Q06, Q07, Q08, Q47, Q48"
+      },
+      "home_and_lifestyle": {
+        "summary": "Manages a tight three-bedroom rental household on a constrained budget; keeps detailed financial records and stretches resources creatively.",
+        "details": [
+          "Rents a three-bedroom house in Lilburn subdivision ($1,450/month, up from $1,100 five years ago)",
+          "Plans and budgets meticulously using notebook and phone calendar app",
+          "Maintains a small backyard vegetable and herb garden",
+          "Has a chihuahua mix named Canela",
+          "Small altar in bedroom with Virgen de Guadalupe image, candles, and family photos",
+          "Kitchen table doubles as workspace for event planning and GED studying"
+        ],
+        "evidence": "Q08, Q10, Q11, Q17, Q47, Q56, Q58"
+      },
+      "entertainment": {
+        "summary": "Follows Atlanta sports teams casually with her husband; engages with cooking and art content on social media.",
+        "details": [
+          "Watches Atlanta Falcons and Atlanta Hawks games with Carlos in the evening",
+          "Follows cooking videos and food bloggers on Instagram",
+          "Follows art accounts (watercolor, pottery) on social media",
+          "Reads multicultural literature through book club: Toni Morrison, Chimamanda Ngozi Adichie, Haruki Murakami",
+          "Currently reading 'Americanah' by Chimamanda Ngozi Adichie"
+        ],
+        "evidence": "Q05, Q07, Q48"
+      },
+      "hobbies_and_recreation": {
+        "summary": "Balances creative pursuits (dance, art, photography, gardening) with community service as primary leisure activities.",
+        "details": [
+          "Performs in a Ballet Folklorico troupe; practices Wednesday evenings 7-9pm in Duluth",
+          "Takes watercolor and pottery workshops at the School of the Arts",
+          "Photographs everyday life and food with phone camera; posts to Instagram",
+          "Tends a home vegetable and herb garden (tomatoes, cilantro, jalapenos, bell peppers, mint, heirloom tomatoes)",
+          "Leads monthly multicultural book club",
+          "Experiments with new recipes as a creative outlet and stress relief"
+        ],
+        "evidence": "Q07, Q15, Q17, Q38"
+      },
+      "work_and_career": {
+        "summary": "Aspires to formalize her informal community event planning and catering into a salaried career, starting with earning her GED.",
+        "details": [
+          "Studying for GED independently with workbooks and YouTube",
+          "Looking into Gwinnett Technical College and Latin American Association workforce programs",
+          "Dreams of becoming a community outreach coordinator at a county arts/recreation center",
+          "Wants to start a home-based catering business or food truck with cooking classes",
+          "Long-term vision: multicultural community hub combining food, art, and dance",
+          "Currently earns $400-$800/month from informal catering",
+          "Receives small stipends ($100-$150) from local arts center for event planning"
+        ],
+        "evidence": "Q02, Q03, Q16, Q65, Q72, Q108"
+      },
+      "arts_and_culture": {
+        "summary": "Deeply invested in Mexican cultural preservation through dance, cooking, holiday celebrations, and cross-cultural community building.",
+        "details": [
+          "Performs traditional Ballet Folklorico with a 12-woman troupe at community events and schools",
+          "Plans and organizes Dia de los Muertos celebrations with ofrendas, marigolds, pan de muerto",
+          "Organizes Las Posadas reenactment at church each Christmas",
+          "Attends monthly exhibitions at the School of the Arts",
+          "Takes watercolor painting and pottery workshops",
+          "Inspired by Georgia O'Keeffe, Claude Monet, Jackson Pollock",
+          "Leads book club exploring multicultural literature (Toni Morrison, Haruki Murakami, Chimamanda Ngozi Adichie)"
+        ],
+        "evidence": "Q02, Q07, Q15, Q47, Q65"
+      },
+      "sports_and_fitness": {
+        "summary": "Stays active through dance and yoga; follows Atlanta sports teams as a family activity.",
+        "details": [
+          "Weekly Ballet Folklorico practice (2 hours, Wednesday evenings)",
+          "Weekly gentle yoga class (1 hour, Saturday mornings)",
+          "Follows Atlanta Falcons (NFL) and Atlanta Hawks (NBA)",
+          "Son Diego plays in a co-ed recreational soccer league",
+          "Active lifestyle from daily housework, cooking, gardening, and chasing kids"
+        ],
+        "evidence": "Q05, Q15, Q31"
+      },
+      "nature_and_outdoors": {
+        "summary": "Finds peace and solitude in her backyard garden; enjoys local parks with the family.",
+        "details": [
+          "Tends a small vegetable and herb garden as a daily morning ritual with coffee",
+          "Takes family to the neighborhood park regularly",
+          "Interest in Appalachian foothill road trips (from seed data)"
+        ],
+        "evidence": "Q17, Q43"
+      },
+      "technology": {
+        "summary": "Heavy smartphone user for social media community management, communication, and self-directed learning.",
+        "details": [
+          "Manages three Facebook community groups (Lilburn neighborhood, Mexican families in Gwinnett, arts center events)",
+          "Uses Instagram for food and event photography",
+          "Communicates via WhatsApp with multiple group chats (school, church, dance, family)",
+          "Uses phone calendar app to organize schedule",
+          "Studies for GED using YouTube tutorials",
+          "Spends approximately 2-3 hours daily on social media"
+        ],
+        "evidence": "Q18, Q48, Q49"
+      },
+      "community_and_civic": {
+        "summary": "Deeply rooted community organizer who bridges cultural groups through events, food, and social media resource-sharing.",
+        "details": [
+          "Volunteers at church organizing festivals, youth programs, and holiday celebrations",
+          "Plans cultural events at local arts center (Dia de los Muertos, spring art walk)",
+          "Organizes neighborhood potlucks that bring together diverse cultural groups",
+          "Moderates Facebook groups where she connects community members with resources",
+          "Mentors teens interested in culinary arts",
+          "Recently started attending Gwinnett County commission meetings",
+          "Registered voter; votes in presidential and some local elections"
+        ],
+        "evidence": "Q07, Q08, Q16, Q23, Q25, Q29, Q48, Q65"
+      },
+      "music": {
+        "summary": "Engages with music primarily through cultural dance and church services.",
+        "details": [
+          "Dances to traditional Mexican folk music through Ballet Folklorico",
+          "Grew up with music always playing in the house",
+          "Mariachi music at community events she organizes"
+        ],
+        "evidence": "Q01, Q02, Q15"
+      },
+      "fashion_and_appearance": {
+        "summary": "No strong fashion preferences surfaced in the interview beyond traditional dance costumes.",
+        "details": [
+          "Wears traditional trajes (folk dance costumes) for Ballet Folklorico performances"
+        ],
+        "evidence": "Q15"
+      }
+    },
+
+    "summaries": {
+      "demographer": "Maria Buendia is a 34-year-old US-born Mexican-American woman living in Lilburn, Georgia (Gwinnett County), a diverse suburban community east of Atlanta. She is married with two school-age children (10 and 7) in a four-person household renting a three-bedroom home. Her education stopped at 11th grade with no diploma, placing her in the lower-education demographic, though she is actively self-studying for a GED. She has no formal occupation and relies on informal catering income ($400-$800/month) supplementing her husband's construction wages (~$3,200/month after taxes). The household income places them near the lower-middle income threshold for a family of four in the Atlanta metro area. She is a second-generation immigrant with strong ties to the local Mexican-American community, bilingual in Spanish and English, and deeply embedded in her church and neighborhood social networks. Her life-course trajectory reflects common patterns for women with interrupted education and early family formation who maintain strong community social capital despite limited economic mobility.",
+
+      "behavioral_economist": "Maria's economic behavior is characterized by extreme present-orientation driven by necessity rather than preference -- she would save more if she could. She exhibits strong loss aversion around her small savings buffer ($400) and describes acute psychological distress at the prospect of depleting it. Her informal catering business demonstrates entrepreneurial resourcefulness and price-sensitivity: she scales work based on need, uses social networks for client acquisition, and meticulously manages food costs through bulk buying, garden cultivation, and strategic shopping at ethnic markets. Her decision to forgo personal health care (skipping checkups for 2+ years) while maintaining children's coverage reveals a systematic self-sacrifice pattern in household resource allocation. She responds to income shocks (husband's reduced hours) with immediate behavioral adjustments: increasing informal labor supply (selling tamales through Facebook), cutting discretionary spending, and activating family lending networks. Her GED pursuit represents a calculated human capital investment despite high opportunity cost, suggesting future-oriented thinking that competes with daily survival demands. Social influence strongly shapes her choices -- from voting decisions guided by trusted community members to health behaviors informed by her mother's experience. She shows low risk tolerance with finances but willingness to invest time in uncertain community-building activities that could yield future career returns.",
+
+      "political_scientist": "Maria exhibits a civic engagement trajectory moving from disengagement to increasing participation, driven by parental stakes in public institutions (schools, health care). She is a registered voter who participates in presidential elections but inconsistently in lower-ballot races, reflecting an information-cost barrier rather than apathy. Her political orientation is issue-driven rather than party-identified, clustering around bread-and-butter concerns: affordable health care, adequately funded public schools, cost of living, and fair treatment of immigrant-origin families. She has recently expanded her civic repertoire to include attending county commission meetings, prompted by social network influence (book club member). Her community organizing work -- moderating Facebook groups, planning multicultural events, bridging ethnic groups -- functions as informal civic infrastructure even though she does not frame it politically. Her trust in institutions is moderate and conditional: she trusts her children's pediatrician and her parish priest but is skeptical of politicians across parties. Her response to racial justice movements is empathetic and solidarity-oriented but behaviorally cautious -- she discusses issues privately and promotes inclusion through her event work rather than engaging in protest. Her political identity reflects the complexity of many working-class Latina voters: economically progressive, culturally traditional, institutionally pragmatic.",
+
+      "psychologist": "Maria displays high Conscientiousness through meticulous event budgeting, meal planning, and household management, paired with high Agreeableness evident in her relentless caregiving across family and community spheres. Her Extraversion is moderate-to-high -- she thrives in social and community contexts but also values solitary garden time and quiet morning rituals. Openness to Experience is notable in her artistic pursuits (dance, watercolor, pottery, multicultural reading) and willingness to experiment with fusion cooking, though constrained by economic realities. Neuroticism manifests as nighttime rumination, chest tightness under financial stress, and periodic emotional overwhelm, though she has developed functional coping mechanisms (cooking as emotional regulation, yoga breathing, social support from Lupita). Her self-concept centers on identity as a mother, community builder, and cultural bridge -- she derives meaning from being needed and being useful. A tension exists between her caretaker identity (always helping others) and her emerging recognition that she must invest in herself (GED, career). The bathroom-floor crying episode reveals that her emotional regulation system can be overwhelmed when multiple role demands converge simultaneously. Her relational style is warm, reciprocal, and trust-based, with clear attachment to a small number of deep relationships (Lupita, mother, Ana) rather than broad shallow networks. Her motivational architecture is driven by family obligation and cultural pride, with achievement motivation increasingly activated by her community development aspirations."
+    },
+
+    "others_misc": {
+      "cultural_and_linguistic": {
+        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "items": [
+          "Bilingual Spanish-English; spoke Spanish first, learned English in school",
+          "Maintains home altar with Virgen de Guadalupe image, candles, and family photos",
+          "Celebrates Dia de los Muertos with community ofrenda including marigolds, candles, pan de muerto, and photos of deceased relatives",
+          "Participates in Las Posadas reenactment at church each Christmas",
+          "Celebrates Mexican Independence Day",
+          "Says grace before dinner every night as a family",
+          "Prays with children before bedtime",
+          "Teaches children prayers in Spanish first, then English",
+          "Attends Spanish-language Mass at St. Patrick's in Lilburn every Sunday",
+          "Son Diego completed First Communion; daughter Sofia preparing for hers",
+          "Uses traditional Mexican remedies (sobadas, egg limpia) passed down from mother and grandmother",
+          "Communicates with family and friends primarily via WhatsApp"
+        ]
+      },
+      "life_events_and_transitions": {
+        "description": "Significant past or anticipated events that shape current behavior",
+        "items": [
+          "Dropped out of high school in 11th grade to help care for younger brother while mother worked two jobs",
+          "Met husband Carlos at a quinceanera at age 19; married at 22",
+          "Dia de los Muertos festival organization (around age 24-25) was a pivotal turning point toward community development aspirations",
+          "Parents separated when Maria was in her twenties",
+          "Emotional breakdown last fall due to converging financial stress, son's bullying, and mother's health crisis",
+          "Plans to earn GED by age 35 and obtain community development certificate within two years",
+          "Aspires to launch a home-based catering business and eventually a multicultural community hub"
+        ]
+      },
+      "sensory_and_physical_context": {
+        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "items": [
+          "Chronic lower back pain for ~18 months, worse in mornings and after prolonged standing; manages with ibuprofen and yoga",
+          "Persistent afternoon fatigue; suspects iron deficiency based on mother's history",
+          "Poor sleep quality: lies awake ruminating about finances and family concerns",
+          "Carries extra weight since pregnancies; acknowledges need for more activity",
+          "Experiences tension headaches during stress periods",
+          "Chest tightness episodes during acute financial or planning stress (10-15 minute duration)",
+          "High coffee consumption with sugar throughout the day"
+        ]
+      },
+      "media_and_information_diet": {
+        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "items": [
+          "Facebook (primary platform): manages 3 community groups, shares posts, browses 1-2 hours daily",
+          "Instagram: posts food and garden photos, follows cooking and art accounts, ~30 min before bed",
+          "WhatsApp: multiple group chats for school, church, dance group, family",
+          "YouTube: watches GED math tutorials and cooking videos",
+          "Follows Atlanta Falcons and Hawks on social media",
+          "Gets health information from children's pediatrician and government health websites",
+          "Gets political information through personal network (Lupita, brother Luis, church ladies) and phone research",
+          "Avoids conspiracy content and political arguments on social media",
+          "Reads multicultural literary fiction through book club"
+        ]
+      },
+      "technology_and_tool_use": {
+        "description": "Device preferences, app usage, digital communication norms",
+        "items": [
+          "Smartphone is primary device for social media, photography, communication, and learning",
+          "Uses phone calendar app to manage family and event schedules",
+          "Uses phone camera for food photography and event documentation",
+          "Plans events with physical notebook supplemented by phone",
+          "No computer or home office mentioned; works from kitchen table"
+        ]
+      },
+      "unresolved_or_ambiguous": {
+        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "items": [
+          {
+            "content": "Seed data mentions interest in artists Georgia O'Keeffe, Claude Monet, and Jackson Pollock, but these specific names did not surface in the interview",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Artistic influences from seed data not directly expressed in interview responses; referenced only in extracted arts_and_culture preferences from seed"
+          },
+          {
+            "content": "Seed data mentions weekend road trips to Appalachian foothills, annual cultural escapes to Savannah, and occasional European travel to Barcelona and Lisbon",
+            "candidate_owner": "behavioral_economist",
+            "reason_unresolved": "Travel aspirations from seed data did not surface in interview, likely suppressed by financial constraints; only local outings mentioned"
+          },
+          {
+            "content": "Seed data mentions co-ed recreational soccer league participation each spring",
+            "candidate_owner": "drop",
+            "reason_unresolved": "Personal soccer participation not mentioned in interview; only son Diego's soccer league discussed. May be aspirational in seed data or a past activity."
+          },
+          {
+            "content": "Seed data describes Maria as occasionally hoarding seldom-used kitchen gadgets",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Quirky behavioral detail from seed persona narrative did not naturally surface during interview questioning"
+          },
+          {
+            "content": "Specific nature of Carlos's mother's stomach health issue (mentioned as resolved but details vague)",
+            "candidate_owner": "demographer",
+            "reason_unresolved": "Deliberately kept vague in interview per behaviors-never-labels rule; no clinical detail provided"
+          }
+        ]
+      }
+    }
+  }
+}

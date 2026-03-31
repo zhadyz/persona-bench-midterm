@@ -1,0 +1,381 @@
+{
+  "verification_metadata": {
+    "participant_id": "e7c0574639a244c8972c92aab9501035",
+    "name": "Mary Alberti",
+    "verification_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA",
+    "interview_source": "Step 2 interview output"
+  },
+
+  "experts": {
+    "demographer": {
+      "observations": [
+        {
+          "id": 1,
+          "text": "Seed states age 28, female, never married. Interview confirms DOB July 14, 1997 (age 28), female, never married, no children, living alone. Fully aligned.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "age, sex, marital_status",
+          "interview_ref": "Q05, Q84, Q85"
+        },
+        {
+          "id": 2,
+          "text": "Seed states city=Madison, state=WI, zipcode=53717. Interview confirms west side of Madison near the 53717 zip code, renting a one-bedroom apartment. Location fully consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "city, state, zipcode",
+          "interview_ref": "Q08, Q51"
+        },
+        {
+          "id": 3,
+          "text": "Seed states education_level=high_school. Interview confirms high school diploma from East High (class of 2015), no college completed, planning to enroll at Madison College. Fully consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "education_level",
+          "interview_ref": "Q90, Q91"
+        },
+        {
+          "id": 4,
+          "text": "Seed states occupation=fast_food_or_counter_worker. Interview confirms crew member at a fast food restaurant, performing shift-lead duties informally. Fully consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "occupation",
+          "interview_ref": "Q16, Q65"
+        },
+        {
+          "id": 5,
+          "text": "Seed cultural_background describes second-generation Italian-American, Catholic, Midwestern upbringing with Sunday family meals and Wisconsin cheese traditions. Interview richly elaborates this: paternal grandparents from southern Italy (town south of Naples), nonna making pasta from scratch, Sunday dinners, Catholic church attendance at St. Maria Goretti, and connection to Italian cooking traditions. Highly consistent with detailed enrichment.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background",
+          "interview_ref": "Q01, Q28, Q47, Q94"
+        },
+        {
+          "id": 6,
+          "text": "Seed states mother did bookkeeping for a local dentist's office and father worked at a machine shop. Interview confirms: mother Linda (61) does part-time bookkeeping at a dental practice, father Tony (63) retired from machine shop due to chronic back injury. Interview adds a brother Marco (25, HVAC tech in Milwaukee) not mentioned in seed. Consistent with enrichment.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background (parents' occupations)",
+          "interview_ref": "Q05, Q100-Q107"
+        },
+        {
+          "id": 7,
+          "text": "Seed describes a two-bedroom house on the east side growing up. Interview confirms two-bedroom house on the east side with four family members (parents, Mary, Marco). Consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background",
+          "interview_ref": "Q01, Q99"
+        },
+        {
+          "id": 8,
+          "text": "Seed does not mention a sibling. Interview reveals brother Marco (25), three years younger, living in Milwaukee, working in HVAC. This is new information not present in seed but is demographically plausible for a working-class Midwestern family.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q05, Q99"
+        },
+        {
+          "id": 9,
+          "text": "Seed mentions race/ethnicity only through cultural_background (Italian-American). Interview confirms white, Italian-American identity, not Hispanic. The seed's lack of an explicit race field is filled by the interview's self-identification (Q89). Consistent with the cultural_background description.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background",
+          "interview_ref": "Q88, Q89"
+        }
+      ],
+      "summary": {
+        "consistent": 8,
+        "inconsistent": 0,
+        "gaps": 1
+      }
+    },
+    "behavioral_economist": {
+      "observations": [
+        {
+          "id": 1,
+          "text": "Seed persona describes Mary as 'routine-obsessed, bullet-journal aficionado who balances disciplined work ambition with a competitive edge, occasional craft-brew indulgence, and a habit of double-checking every receipt for hidden costs.' Interview extensively confirms all of these: detailed bullet-journal system (Q03, Q17), receipt-checking habit traced to father's injury period (Q02 follow-up), craft brew tastings with Jess (Q07, Q38), and competitive Sudoku solving (Q15). Fully consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona",
+          "interview_ref": "Q03, Q17, Q38, Q56"
+        },
+        {
+          "id": 2,
+          "text": "Seed career_goals_and_ambitions states aim for shift supervisor within the next year, then restaurant manager, then own a small family-style diner, with plans for community college hospitality program and ServSafe certification. Interview confirms all elements in rich detail: shift supervisor pursuit (Q16 follow-up), Madison College hospitality plans (Q18, Q91), ServSafe certification (Q01 follow-up), and diner vision with specific menu items and seat count (Q108). Fully consistent with vivid elaboration.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "career_goals_and_ambitions",
+          "interview_ref": "Q01, Q16, Q18, Q108"
+        },
+        {
+          "id": 3,
+          "text": "Seed travel_persona describes meticulously planned weekend getaways blending lakeside relaxation in Door County with culinary adventures in Napa Valley and dreams of Kyoto, always balancing travel costs with the need to save for the diner. Interview reveals extremely tight budget ($100-200/month discretionary), no evidence of any actual travel beyond Madison, and explicit statements about not being able to afford basic healthcare. The aspirational travel in the seed is plausible as a dream but interview shows no concrete travel activity or spending.",
+          "verdict": "GAP",
+          "seed_ref": "travel_persona",
+          "interview_ref": "Q10, Q56, Q57, Q83"
+        },
+        {
+          "id": 4,
+          "text": "Seed describes culinary persona with intermediate talent perfecting Midwestern classics (cheddar-crusted bratwurst, cheese-curd poutine, spiced apple crumble) using garden produce and hosting low-key dinner gatherings. Interview confirms: cheddar bratwurst as a Tuesday dinner (Q15 follow-up), cheese curds and poutine references (Q01 follow-up, Q07 follow-up), garden produce in cooking (Q08 follow-up, Q17), and hosting dinner gatherings with Jess (Q07). Fully consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "culinary_persona",
+          "interview_ref": "Q01, Q07, Q08, Q15, Q17"
+        },
+        {
+          "id": 5,
+          "text": "Interview reveals detailed financial picture: ~$1,900 take-home monthly, $900 rent, $600 emergency fund, $1,200 diner fund, $800 credit card debt, high-deductible health insurance, no paid leave. This financial detail is not in the seed but is entirely consistent with a fast food worker in Madison, WI. The interview adds critical behavioral economics data: loss aversion around emergency fund depletion (Q82), present-bias mitigation via bullet journal (Q56), resistance to government assistance despite likely eligibility (Q80), and identity-based spending on craft beer and running shoes as controlled indulgences (Q38, Q60).",
+          "verdict": "CONSISTENT",
+          "seed_ref": "occupation, persona",
+          "interview_ref": "Q56, Q57, Q61, Q63, Q80, Q82, Q83"
+        },
+        {
+          "id": 6,
+          "text": "Seed states Mary is 'eyeing a promotion to shift supervisor' as part of her professional persona. Interview reveals she is actively doing shift-lead work without the title or pay, has raised it with her manager multiple times, and is tracking her contributions in her journal as evidence for her review. This enriches the seed's brief mention into a concrete, documented pursuit. Consistent with nuanced elaboration.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "professional_persona",
+          "interview_ref": "Q16, Q65"
+        },
+        {
+          "id": 7,
+          "text": "Seed skills_and_expertise mentions 'razor-sharp cash handling' and 'disciplined, routine-driven work ethic.' Interview traces the receipt-checking discipline to a specific origin: the period when her father was injured and money was tight (Q02 follow-up). This provides a behavioral origin story for a trait the seed simply asserts. Consistent with enrichment.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "skills_and_expertise, persona",
+          "interview_ref": "Q02 follow-up, Q56"
+        },
+        {
+          "id": 8,
+          "text": "Seed does not describe any debt or specific financial challenges. Interview reveals $800 credit card balance from brake repair, deferred dental and medical care, and inability to absorb a $400 emergency without significant stress. These details enrich the financial picture and are consistent with the occupation and location but are not present in the seed data.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q63, Q64, Q82"
+        }
+      ],
+      "summary": {
+        "consistent": 6,
+        "inconsistent": 0,
+        "gaps": 2
+      }
+    },
+    "political_scientist": {
+      "observations": [
+        {
+          "id": 1,
+          "text": "Seed does not include any explicit political views, party affiliation, or civic engagement data. Interview reveals a detailed political profile: leans center-left on economic issues (minimum wage, healthcare affordability), avoids partisan labels, votes in presidential elections, occasionally misses local elections due to work schedule, does not attend protests or rallies. This is entirely new data from the interview with no seed to contradict.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q23, Q24, Q25, Q95, Q96"
+        },
+        {
+          "id": 2,
+          "text": "Seed cultural_background mentions Catholic, Midwestern upbringing. Interview confirms Catholic church attendance at St. Maria Goretti most Sundays but shows no faith-based political alignment. The church is described as a personal/family tradition and a source of calm, not a political institution. This is consistent with the seed's description of values-based faith.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background",
+          "interview_ref": "Q47, Q94"
+        },
+        {
+          "id": 3,
+          "text": "Interview reveals Mary's response to racial justice issues: she was somewhat affected by BLM, gained awareness through conversations with a Black coworker (DeShawn), processes these issues privately, and has made internal but not public shifts. She does not protest or post about these issues. No seed data exists on this topic.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q26, Q27, Q28, Q29, Q30"
+        },
+        {
+          "id": 4,
+          "text": "Interview shows low institutional trust regarding healthcare system (fights with insurance companies, high deductibles despite coverage, deferred care). Moderate trust in electoral system (believes her vote matters in Wisconsin). Low awareness of but not hostility toward government assistance programs (Q80). No seed data for comparison.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q36, Q23, Q80"
+        },
+        {
+          "id": 5,
+          "text": "Seed does not mention media consumption patterns. Interview reveals NPR as occasional news source, local news accounts online, friend Jess as primary political information intermediary, no cable news consumption, and avoidance of online political discussions. Consistent with seed's overall profile of a practical, low-engagement person but this is new data.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q23, Q48"
+        },
+        {
+          "id": 6,
+          "text": "Interview reveals minimal direct interaction with law enforcement: one traffic warning for a taillight, no arrests in family, positive but cautious feelings during the stop. Her father's emphasis on 'keep your head down and work hard' is consistent with the seed's description of practical, Midwestern values.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "cultural_background",
+          "interview_ref": "Q20, Q21, Q22"
+        },
+        {
+          "id": 7,
+          "text": "Interview reveals strong community attachment to Madison as a civic anchor: refused Milwaukee transfer to preserve local social capital (running club, garden, parents), identifies with Madison's food scene and culture, plans to open her diner in Madison specifically. This deep localism is consistent with the seed's placement of her in Madison but adds significant civic-identity depth.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "city, state, cultural_background",
+          "interview_ref": "Q02, Q10, Q108"
+        },
+        {
+          "id": 8,
+          "text": "Interview reveals Mary does not receive SNAP, housing vouchers, or other government benefits despite likely qualifying based on income. She expresses internalized stigma ('those programs are for people who are worse off than me') mixed with practical awareness. This reveals an important civic orientation not captured in the seed.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q80"
+        }
+      ],
+      "summary": {
+        "consistent": 3,
+        "inconsistent": 0,
+        "gaps": 5
+      }
+    },
+    "psychologist": {
+      "observations": [
+        {
+          "id": 1,
+          "text": "Seed persona describes 'routine-obsessed, bullet-journal aficionado' with 'disciplined work ambition.' Interview demonstrates extremely high conscientiousness across multiple domains: color-coded daily/weekly/monthly journal planning (Q17 follow-up), every-purchase tracking (Q56 follow-up), alphabetized spice rack (Q11 follow-up), two-version daily routines for different shift types (Q78 follow-up), meal prep Sundays (Q17), and systematic decision-making via pros-and-cons lists (Q03). This constitutes a pervasive behavioral signature of high conscientiousness, consistent with and far exceeding the seed's description.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona, hobbies_and_interests",
+          "interview_ref": "Q03, Q11, Q15, Q17, Q56, Q78"
+        },
+        {
+          "id": 2,
+          "text": "Seed hobbies mention 'listening to classic rock music' as one of eight listed hobbies. Interview mentions John Prine and Bon Iver by name (from arts_persona in seed) but classic rock is not specifically discussed in the interview. This is a minor gap -- the hobby likely exists but was not explored.",
+          "verdict": "GAP",
+          "seed_ref": "hobbies_and_interests_list",
+          "interview_ref": "not in interview"
+        },
+        {
+          "id": 3,
+          "text": "Seed arts_persona describes 'often attending local art walks and museum exhibits to unwind after a shift.' Interview does not mention art walks or museum visits at any point. The extracted profile carries this forward as seed-sourced data. This is a gap between the seed's assertion and interview evidence.",
+          "verdict": "GAP",
+          "seed_ref": "arts_persona",
+          "interview_ref": "not in interview"
+        },
+        {
+          "id": 4,
+          "text": "Interview reveals significant emotional regulation patterns not in the seed: anticipatory rumination before big decisions causing insomnia 1-2 times per month (Q31, Q45), seasonal mood dips in late January-early February with reduced motivation and flattened affect lasting 2-3 weeks (Q43), and a 'hamster wheel' cognitive pattern of scenario-running (Q45). She manages these through running, journaling, cooking, and social contact (calling Jess or mom), not through professional help. This is important new psychological data.",
+          "verdict": "GAP",
+          "seed_ref": "not in seed",
+          "interview_ref": "Q31, Q43, Q45"
+        },
+        {
+          "id": 5,
+          "text": "Seed describes 'competitive edge' as part of the persona and 'solving Sudoku puzzles' in hobbies. Interview confirms competitive Sudoku (Q15) and competitive spirit in maintaining running discipline (Q07 follow-up: accountability from others expecting her to show up). The competitive dimension is channeled into personal benchmarking rather than interpersonal competition. Consistent with nuance.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona, hobbies_and_interests_list",
+          "interview_ref": "Q15, Q07"
+        },
+        {
+          "id": 6,
+          "text": "Seed sports_persona describes running with Madison Runners Club, Badgers basketball, Brewers, and Packers fandom. Interview confirms all four: running club Saturday mornings around Lake Mendota (Q07), Packers Sundays with dad (Q05), Brewers pitching debates with brother Marco (Q05 follow-up), and Badgers mentioned in passing (Q21). Consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "sports_persona",
+          "interview_ref": "Q05, Q07, Q21"
+        },
+        {
+          "id": 7,
+          "text": "Interview reveals a self-concept organized around competence and self-reliance. She resists being seen as needing help: avoids government assistance (Q80), defers therapy despite friend's suggestion (Q45 follow-up), pushes through headaches at work rather than complaining (Q34 follow-up), and traces this to family values ('came from nothing and built something,' Q28 follow-up). The seed's description of 'disciplined work ambition' captures the surface but not the deep identity architecture behind it.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona, cultural_background",
+          "interview_ref": "Q28, Q34, Q45, Q80"
+        },
+        {
+          "id": 8,
+          "text": "Interview reveals coping mechanisms after the breakup: nighttime run (4 miles), crying while cooking pasta, throwing herself into work and batch cooking (Q44). This active-behavioral coping style (movement + manual activity) is consistent with the seed's portrayal of a routine-driven, physically active person, but adds depth about how she processes emotional distress.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona, hobbies_and_interests",
+          "interview_ref": "Q44"
+        },
+        {
+          "id": 9,
+          "text": "Seed describes 'occasional craft-brew indulgence.' Interview reveals moderate, controlled alcohol use: 2-3 drinks per week maximum, tracked in journal, identified as 'a want, not a need' (Q38). Brief increase post-breakup was self-corrected within days. No smoking history, minimal substance use (tried marijuana gummies once). Consistent with seed's framing of 'occasional indulgence.'",
+          "verdict": "CONSISTENT",
+          "seed_ref": "persona",
+          "interview_ref": "Q38, Q39"
+        },
+        {
+          "id": 10,
+          "text": "Seed hobbies mention 'reading self-help books.' Interview confirms this and adds specificity: books about habits and productivity (Q50 follow-up), where she picked up the 'one good thing' journaling practice. This reflects a cognitive style oriented toward practical self-improvement through structured approaches. Consistent.",
+          "verdict": "CONSISTENT",
+          "seed_ref": "hobbies_and_interests_list",
+          "interview_ref": "Q50"
+        }
+      ],
+      "summary": {
+        "consistent": 7,
+        "inconsistent": 0,
+        "gaps": 3
+      }
+    }
+  },
+
+  "overall_verdict": "PASS",
+
+  "inconsistencies_found": [],
+
+  "resolutions": [],
+
+  "gaps_addressed": [
+    {
+      "gap": "Seed does not mention a sibling; interview reveals brother Marco (25, HVAC tech, Milwaukee) with amicable but distant relationship",
+      "resolution": "Marco enriches the family picture without contradicting anything in the seed. His existence is demographically plausible and provides useful relational contrast (spontaneous vs. disciplined). Carry forward as interview-derived enrichment.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed travel_persona describes Door County, Napa Valley, and Kyoto aspirations, but interview shows no actual travel activity and severe budget constraints preventing discretionary spending",
+      "resolution": "The travel persona should be understood as aspirational rather than behavioral. Mary's interview clearly demonstrates she cannot currently afford travel beyond her immediate Madison area. The seed's travel descriptions are plausible as dreams she might articulate, but downstream steps should mark these as aspirational and not yet enacted. Carry forward with 'aspirational-only' notation.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed arts_persona describes 'often attending local art walks and museum exhibits,' but interview contains no mention of this activity",
+      "resolution": "The word 'often' in the seed may overstate the frequency, given her tight budget and highly structured schedule already filled with running, gardening, cooking, journaling, work, and family obligations. The activity is plausible but was not mentioned across 109 interview questions. Carry forward with 'seed-only, unconfirmed frequency' notation rather than dropping it entirely.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed lists 'listening to classic rock music' as a hobby; interview mentions John Prine and Bon Iver (from arts_persona) but does not specifically discuss classic rock",
+      "resolution": "Classic rock is a minor entertainment detail that could easily be true without rising to the level of discussion in a 109-question interview. It is neither contradicted nor confirmed. Drop as a non-meaningful gap.",
+      "action": "DROP"
+    },
+    {
+      "gap": "Seed contains no political, civic, or voting information; interview reveals detailed political orientation (center-left on pocketbook issues, low engagement, avoids partisan labels, votes in presidential elections)",
+      "resolution": "This is expected -- the NVIDIA seed data does not include political fields. The interview provided rich civic data that should be carried forward as interview-derived enrichment.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed contains no information about racial justice attitudes; interview reveals empathy-from-exposure pattern through workplace interactions with diverse coworkers",
+      "resolution": "As with political data, this is expected to be absent from the seed. The interview data enriches the persona's civic orientation and should be carried forward.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed contains no information about institutional trust, media consumption, or government assistance attitudes; interview reveals low trust in healthcare system, moderate electoral trust, NPR/local news consumption, and internalized stigma around benefit eligibility",
+      "resolution": "These are core behavioral economics and political science data points that enrich the persona substantially. Carry forward as interview-derived enrichment.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed contains no information about emotional regulation patterns, seasonal mood, or sleep disruption; interview reveals anticipatory rumination (insomnia 1-2x/month), seasonal energy dips (late January-February), and active-behavioral coping mechanisms",
+      "resolution": "These are critical psychological data that shape downstream behavioral prediction. Carry forward as interview-derived enrichment. Note that the persona avoids professional help for these patterns, which may need flagging if downstream steps involve health or wellness scenarios.",
+      "action": "CARRY_FORWARD"
+    },
+    {
+      "gap": "Seed does not mention debt or specific financial hardship details; interview reveals $800 credit card balance, deferred medical/dental care, $600 emergency fund, and paycheck-to-paycheck reality",
+      "resolution": "Financial granularity from the interview is critical for behavioral economics modeling. It is consistent with the seed's occupation and location. Carry forward as interview-derived enrichment.",
+      "action": "CARRY_FORWARD"
+    }
+  ],
+
+  "expert_summaries": {
+    "demographer": "Mary Alberti is a 28-year-old never-married white female of second-generation Italian-American descent, born and raised in Madison, Wisconsin (53717). She holds a high school diploma from East High (2015) and works as a fast food crew member, placing her in the service-sector working class with an estimated gross annual income of $23,000-$25,000. Her household consists of herself alone in a rented one-bedroom apartment on Madison's west side. Her family of origin -- parents Tony (63, retired machinist with chronic back injury) and Linda (61, part-time bookkeeper), and younger brother Marco (25, HVAC technician in Milwaukee) -- reflects a stable, modest, working-class Midwestern Catholic family (Q01, Q05, Q99-Q107). Mary is at a pivotal life-course juncture: still geographically proximate to and emotionally embedded in her family of origin, pre-partnered, and in the early stages of credentialing (planned Madison College enrollment) that could shift her from service labor to small-business ownership (Q02, Q91, Q108). Her father's trajectory from skilled manufacturing into disability-related early retirement is a demographically representative case of deindustrialization's impact on blue-collar Midwestern families, and it directly shapes Mary's own occupational aspirations and health behaviors (Q35, Q106).",
+
+    "behavioral_economist": "Mary displays strong present-bias mitigation through a paper bullet-journal system that functions as a commitment device across budgeting, scheduling, and goal-tracking, with color-coded categories and every-purchase logging (Q03, Q17, Q56). She exhibits pronounced loss aversion around her emergency fund and diner savings, experiencing visible distress at depletion events such as brake repair and sick-day wage loss (Q40, Q63, Q64). Her time preferences are consistently future-oriented: she defers gratification by skipping social outings, eating rice-and-beans meals, and delaying running-shoe purchases to protect savings targets (Q57, Q60, Q62). Her identity utility is heavily anchored in competence and self-reliance, producing resistance to government assistance programs despite likely SNAP eligibility, and avoidance of professional help for health and emotional concerns (Q80, Q45). Risk aversion is moderate and socially calibrated: she declined a higher-paying Milwaukee transfer, weighting local social capital (parents, Jess, running club, garden) over income gains, a rational choice when relocation costs and the loss of unpaid caregiving support from her mother are factored in (Q02). Her small identity-affirming expenditures -- craft beer tastings and running gear -- are carefully budgeted and framed as controlled indulgences rather than spontaneous consumption (Q38, Q60).",
+
+    "political_scientist": "Mary is a low-engagement, economically motivated civic participant who votes in presidential elections and occasionally in local ones, preferring early voting to avoid shift conflicts (Q23). She leans center-left on pocketbook issues -- minimum wage, healthcare affordability, worker protections -- but resists partisan labels and expresses frustration with polarization from both parties (Q24, Q95, Q96). Her political information diet is thin and socially mediated: NPR occasionally, local news accounts, and primarily her politically active friend Jess as an information intermediary (Q23 follow-up). She avoids all online political discussion and has never attended a protest, rally, or donated to a party (Q29, Q48 follow-up). Her response to racial justice movements follows an empathy-from-exposure trajectory: direct conversations with a Black coworker (DeShawn) about differential policing experiences produced genuine perspective-taking, but this has remained an internal shift rather than public action (Q26, Q27). Institutional trust is stratified -- low regarding the healthcare system (insurance fights, unaffordable care), moderate regarding elections (believes Wisconsin votes matter), and ambivalent regarding government assistance programs where eligibility stigma overrides rational self-interest (Q36, Q80). Her deep attachment to Madison as civic home -- she chose lower income over geographic mobility twice -- functions as both identity anchor and constraint (Q02, Q10).",
+
+    "psychologist": "Mary exhibits pervasively high conscientiousness expressed through meticulous planning systems (color-coded bullet journal maintained for 4+ years), environmental organization (alphabetized spice rack, designated places for all objects), and systematic decision-making (written pros-and-cons for every significant choice since high school) (Q03, Q11, Q17). Her introversion is moderate: she maintains a small, deep social circle (best friend Jess, parents, running acquaintances), processes emotions internally before sharing selectively, dislikes public self-expression, and explicitly values solitude for maintaining her organizational systems (Q07, Q11, Q29, Q49). Neuroticism manifests primarily as anticipatory rumination -- lying awake running through decision scenarios on a 'hamster wheel' 1-2 times per month -- and seasonal flattening of affect during deep Wisconsin winters (late January through early February), with a 2-3 week episode this past winter characterized by minimal journaling, reduced cooking and running, and described as 'gray and pointless' (Q31, Q43, Q45). She self-regulates effectively through behavioral channels: running as emotional reset, cooking as hands-on processing (notably, she cried while making pasta after her breakup), journaling as cognitive reframing, and gardening as calming (Q37, Q44, Q50). Her self-concept is organized around a narrative linking her grandmother's immigrant work ethic ('a poco a poco') to her own long-term diner aspiration, with competence and self-reliance as core identity pillars that produce mild avoidance of help-seeking -- she declines therapy despite a friend's suggestion, defers medical visits beyond financial necessity, and resists government benefits despite eligibility, framing independence as both value and identity (Q28, Q45 follow-up, Q80, Q109)."
+  },
+
+  "preferences_updates": {
+    "description": "Updates to the preferences section based on expert review of seed-interview alignment",
+    "additions": [
+      {
+        "field": "travel",
+        "note": "Add explicit 'aspirational_only: true' flag to all travel preferences (Door County, Napa Valley, Kyoto). Interview evidence demonstrates severe budget constraints preventing any non-local travel. These remain valid as aspirations but should not be modeled as enacted behavior."
+      },
+      {
+        "field": "community_and_civic",
+        "note": "Add detail on government assistance attitudes: likely eligible for SNAP and other programs but does not apply due to internalized stigma and identity-based resistance to being seen as someone who needs help (Q80)."
+      }
+    ],
+    "corrections": [
+      {
+        "field": "arts_and_culture",
+        "note": "Reduce confidence in 'attends local art walks and museum exhibits' from seed's 'often' to 'occasionally, if at all' based on absence from 109-question interview. Mark as seed-only with unconfirmed frequency."
+      }
+    ],
+    "removals": []
+  },
+
+  "final_status": "PASS. All four experts found zero inconsistencies between the NVIDIA seed data and the Step 2 interview output. The interview faithfully reflects and substantially enriches every major dimension of the seed: demographic attributes (age, gender, location, education, occupation, marital status), cultural background (Italian-American, Catholic, Midwestern working class), personality traits (routine-driven, disciplined, competitive, receipt-checking), professional trajectory (fast food to shift supervisor to diner owner), hobbies and interests (running, gardening, cooking, bullet journaling, craft beer, Sudoku), and sports fandom (Packers, Badgers, Brewers). Nine gaps were identified, all of which are either expected absences in the NVIDIA seed format (political views, emotional patterns, financial granularity) or minor unconfirmed details (art walks, classic rock). All gaps were resolved as CARRY_FORWARD or DROP. The persona is ready for Step 3 extraction with high confidence in seed-interview alignment."
+}

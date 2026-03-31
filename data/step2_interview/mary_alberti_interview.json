@@ -1,0 +1,1569 @@
+{
+  "interview_metadata": {
+    "participant_id": "e7c0574639a244c8972c92aab9501035",
+    "name": "Mary Alberti",
+    "interview_date": "2026-03-30",
+    "protocol": "American Voices Project (Park et al. 2024, Table 7) — Full 109 questions",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA (HuggingFace)"
+  },
+
+  "transcript": [
+    {
+      "question_id": "Q01",
+      "block": "LIFE STORY",
+      "question_text": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "time_limit_seconds": 625,
+      "response": "Okay, wow, big question. So I grew up right here in Madison, Wisconsin. My dad's side is Italian -- his parents came over from a little town south of Naples, and my mom's family has been in Wisconsin forever, like, since the cheese factories opened, basically. We lived in a little two-bedroom house on the east side, nothing fancy. My dad worked at a machine shop and my mom did bookkeeping for a local dentist's office. It was a pretty simple life. We'd do Sunday dinners every week -- my nonna would come over and make pasta from scratch, and we'd have Wisconsin cheese with everything because, I mean, that's just what you do here. I went to East High, and I was an okay student. Not the best, not the worst. I liked the structure of school more than the actual schoolwork, if that makes sense. I was really into running -- I did cross country for a couple years, and I liked being outside. After I graduated I thought about community college, but honestly we didn't have the money and I wasn't sure what I wanted to study. So I got a job at a fast food place, and I've been in food service ever since. I'm twenty-eight now and I've been doing this for about ten years. I've gotten really good at it -- I can run a register, manage inventory, handle the difficult customers without losing my cool. I'm hoping to move up to shift supervisor soon. I don't have kids, never been married. I've dated here and there but nothing serious enough to, you know, settle down. I live alone in a small apartment now, which I actually like. I'm a pretty routine-driven person -- I keep a bullet journal, I plan everything out. My life isn't glamorous but it's mine, and I'm working toward something bigger. I want to own my own little diner someday.",
+      "follow_ups": [
+        {
+          "question": "You mentioned your nonna making pasta from scratch on Sundays -- are those family dinners still happening?",
+          "response": "Not like they used to. My nonna passed when I was nineteen, and after that things kind of fell apart for a while. My mom still does Sunday dinner sometimes, but it's more like she'll make a lasagna or something and my dad and I will come over. It's quieter now. I actually taught myself some of nonna's recipes -- her red sauce, her braciole -- because I didn't want to lose that. I use a lot of tomatoes and herbs from my little garden for it. It's one of the things that keeps me connected to that part of my family."
+        },
+        {
+          "question": "You said you've been in food service for about ten years. What has that journey been like for you?",
+          "response": "Honestly, it's been a grind. I started at a burger chain right out of high school, just doing the basic stuff -- taking orders, cleaning tables. Then I moved to another place that was a little more fast-casual, and I got trained on the POS system and started doing cash handling. I've bounced around a few spots, but I've been at my current place for about three years now. The thing is, I actually like the work. I like having a system, a routine. I know exactly what needs to happen when I walk in -- check the inventory, make sure the prep is done, hit my numbers. Some people look down on it, but I'm good at it, and I take pride in that."
+        },
+        {
+          "question": "Tell me more about this dream of owning a diner. How long have you been thinking about that?",
+          "response": "Oh gosh, probably since I was like twenty-two or twenty-three. I was working a really bad shift one night and I just thought, if this were my place, I'd do it totally different. I'd make it feel like a community spot, not a corporate chain. Like, Midwestern comfort food -- bratwurst, cheese curds, good pie -- but done with real ingredients, you know? I've been saving up little by little, and I'm planning to take some classes at Madison College for hospitality management. I also want to get my ServSafe manager certification, because you need that to run your own kitchen. It's a long road, but I've got it mapped out in my bullet journal, every step."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "time_limit_seconds": 235,
+      "response": "Yeah, definitely. Right after high school was the big one. A lot of my friends were going off to UW or Madison College, and I had this window where I could have tried to go too. My guidance counselor even helped me fill out a FAFSA. But my dad had just had some health stuff come up -- he was having a lot of trouble with his back from the machine shop, and my mom was stressed about the bills. I looked at the numbers and I just couldn't justify taking on loans when my family needed help right then. So I decided to go straight to work. I got the fast food job, started contributing to the household, and honestly it felt like the right thing at the time. But there are definitely moments where I wonder what would have happened if I'd gone to college right away. Would I already have my own restaurant by now? Would I be in a totally different career? I try not to dwell on it because I think I can still get there, it's just gonna take longer. The other crossroads was about two years ago when I had the chance to transfer to a location in Milwaukee for more hours and slightly better pay. I almost did it, but I love Madison. My running routes, my garden, my parents are here. I stayed, and I think that was the right call too.",
+      "follow_ups": [
+        {
+          "question": "When you decided not to go to college, how did your parents react to that?",
+          "response": "My mom was upset, honestly. She wanted me to go. She kept saying, 'You're smart enough, Mary, just figure out the money.' But my dad understood. He's practical like that. He was like, 'You can always go later, but the bills are due now.' And he was right. I think my mom has come around to it, especially since I told her about my plan to enroll at Madison College. She got kind of excited about that."
+        },
+        {
+          "question": "You mentioned your dad's back issues -- how did that affect the family during that time?",
+          "response": "It was rough. He had to take a bunch of time off work, and when you're working at a machine shop, you don't have great leave options. He was doing physical therapy a couple times a week, and my mom was driving him because it hurt too much for him to sit in the car and drive himself. Money was tight. I remember checking every receipt and cutting coupons -- that's actually where I got the habit of double-checking everything. We made it through, but it taught me a lot about how one person's health stuff can affect the whole family's budget."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "time_limit_seconds": 50,
+      "response": "It was definitely a conscious choice. I sat down with a piece of paper -- this was before I got into bullet journaling -- and I literally wrote out the pros and cons. College meant debt, time away from work, and my family needing me. Working meant money now, stability, and being there for my dad. I chose the practical option. I'm not the kind of person who lets things just happen to me. I like to weigh everything out.",
+      "follow_ups": [
+        {
+          "question": "That sounds like a very deliberate process. Do you still approach big decisions that way?",
+          "response": "Oh, a hundred percent. Now it all goes in the bullet journal. If I'm deciding anything -- whether to pick up an extra shift, whether to spend money on something, whether to sign up for a class -- I write it down, list out what could happen either way, and then decide. My friends think it's kind of intense, but it works for me. I don't like surprises when it comes to important stuff."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "block": "LIFE STORY",
+      "question_text": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "time_limit_seconds": 40,
+      "response": "I mean, yeah. If there had been more financial aid options or if my high school had had better career counseling, I might have found a way to do both -- work part time and go to school. Or if my dad's workplace had offered better leave when he got hurt, we wouldn't have been so strapped. I think a lot of working families fall through the cracks like that. Nobody shows up and says, 'Here's a plan for you.' You just have to figure it out yourself.",
+      "follow_ups": [
+        {
+          "question": "Have you ever looked into programs that might help now, like workforce development or adult education grants?",
+          "response": "A little. I've looked at what Madison College offers, and they have some financial aid stuff. I'm planning to apply when I'm ready to enroll. But honestly, navigating all that paperwork is a whole job in itself. I'll figure it out though -- I'm pretty organized."
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "time_limit_seconds": 310,
+      "response": "No partner right now, no kids. It's just me. I've dated a few guys over the years but nothing that stuck. The last person I was seeing, we broke up about eight months ago -- it just wasn't going anywhere. He didn't really get why I was so focused on my work goals, thought I was too rigid about my schedule. Whatever. My parents are the most important people in my life, honestly. My mom, Linda, she's sixty-one now. She's still working part time doing bookkeeping. She's the one who taught me to be careful with money, to check every receipt. We talk on the phone almost every day, even if it's just for five minutes. My dad, Tony, he's sixty-three. He retired from the machine shop a couple years ago because of his back. He's home a lot now, tends to the yard, watches a lot of TV. He's a quiet guy, but we're close in our own way. We watch Packers games together on Sundays during the season -- that's kind of our thing. I've got one younger brother, Marco. He's twenty-five, lives in Milwaukee. He went to trade school for HVAC, so he's doing pretty well for himself. We're not super close -- we text maybe once a week -- but there's no bad blood or anything. He comes home for holidays.",
+      "follow_ups": [
+        {
+          "question": "You mentioned your last relationship ended about eight months ago. How did you handle that?",
+          "response": "Honestly, it wasn't that dramatic. We'd only been together about six months. I was kind of relieved, because I'd been stressed trying to fit dates into my schedule on top of everything else. I went on a few really long runs that week, cooked a big batch of comfort food -- made nonna's red sauce and ate pasta for like three days. That's kind of how I process things. I keep busy and I move on."
+        },
+        {
+          "question": "Tell me about your relationship with your mom. You said you talk almost every day?",
+          "response": "Yeah, she calls me on her lunch break usually, or I'll call her after my shift. We talk about normal stuff -- what we're cooking, what's on sale at the grocery store, how dad's doing. She worries about me being alone, keeps asking if I'm dating anyone. But she's also my biggest cheerleader about the diner idea. She'll text me articles about people who opened restaurants later in life. She's good like that."
+        },
+        {
+          "question": "And your brother Marco -- what's the dynamic there?",
+          "response": "Marco's the opposite of me in a lot of ways. He's more spontaneous, more social. He went off to Milwaukee and made a whole life there pretty fast. I think he sees me as, like, the responsible older sister who's kind of boring. And maybe I see him as a little reckless sometimes. But when we do get together it's fine. We'll argue about the Brewers' pitching staff and eat too much, and then we don't talk for another week. It's a pretty normal sibling thing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "time_limit_seconds": 25,
+      "response": "Not really. Both my grandparents on my dad's side have passed. My mom's parents are still around but they live up in Wausau. We see them at Thanksgiving and Christmas usually. I've got a couple aunts and uncles and some cousins, but we're not super close. We'll do a big family thing maybe once or twice a year.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q07",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "time_limit_seconds": 80,
+      "response": "Yeah, I've got a few close friends. My best friend is Jess -- we went to high school together. She's a dental hygienist now, lives about ten minutes from me. We try to get together at least once a week, usually on my day off. We'll go to a craft brewery tasting or just hang out and cook dinner at my place. She's the one person I can totally be myself with. Then there's a group I run with -- the Madison Runners Club. I don't know everyone super well, but there are a few regulars I see on Saturday mornings when we do the Lake Mendota loop. There's this guy Dave and a woman named Priya who I always end up running next to. We chat about whatever during the run. It's nice having that routine social thing. And then at work, I'm friendly with a couple of my coworkers, but I wouldn't call them close friends. We get along fine on shift, but I don't really hang out with them outside of work.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about what you and Jess do when you get together.",
+          "response": "So our go-to thing is craft brewery tastings -- Madison has a ton of good ones. We'll try a flight somewhere new, maybe split some cheese curds or a pretzel. Sometimes we'll go to the farmers market on the Capitol Square if it's a Saturday. In the winter when there's not as much to do outside, we'll do dinner at my place. I'll cook something and she brings wine. We've been doing that since we were like twenty-one. She's also the person I call when I need to vent about work or when I'm stressing about my diner plans."
+        },
+        {
+          "question": "How about your running group -- how did you get involved with that?",
+          "response": "I found them online, actually. I was already running on my own around the lake, and I saw a post about the Madison Runners Club on a local Facebook group. I showed up one Saturday and just kind of fell in with the group. That was about two years ago. I'm not the fastest, but I hold my own. I usually do three to five miles. It's good for my head, and it keeps me accountable because other people are expecting me to show up."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "time_limit_seconds": 105,
+      "response": "I live on the west side of Madison, out near the 53717 zip code area -- kind of between Midvale and the beltline. It's a pretty typical Madison neighborhood. There's a mix of apartment complexes and smaller houses, some older, some newer. It's not fancy but it's clean and decent. I'm in a second-floor apartment in a two-story building. There's a Hy-Vee and a Pick 'n Save nearby for groceries, and a strip mall with a Walgreens and a few restaurants. The Dane County Farmers Market on the Capitol Square is about a fifteen-minute drive, which I love. I'm also pretty close to the UW Arboretum, which is great for when I want to run somewhere different or just go for a walk. The neighborhood is quiet -- mostly young professionals and some families. There's a community garden about a block from my building, which is where I have my raised-bed plot.",
+      "follow_ups": [
+        {
+          "question": "Tell me about the community garden -- how does that work?",
+          "response": "You rent a raised bed for the season, it's pretty cheap, like forty bucks. I've had mine for three years now. I grow tomatoes, basil, green beans, a few herbs. It's honestly one of my favorite things. I go over there after my shift a lot of evenings just to water and check on stuff. There are other regulars there too -- a couple retired people, a young couple with a toddler. We chat sometimes but mostly everyone just does their own thing. It's peaceful."
+        },
+        {
+          "question": "How walkable is your neighborhood? Do you drive to most things?",
+          "response": "I have a car, a beat-up 2015 Honda Civic that gets the job done. I need it for work because my shifts aren't always on the bus route times. But for the grocery store and the garden, I can walk. In the summer I walk a lot more. Winter, forget it -- this is Wisconsin. You're scraping ice off your car at six a.m."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "I feel pretty safe, yeah. It's a quiet area. I've never had any problems. I'm careful though -- I lock my car, I lock my apartment, I don't leave stuff out on the porch. But that's just common sense, not because I feel threatened. The worst thing that's happened is someone went through car glove compartments one night a couple years ago. Didn't take anything from mine because there was nothing to take. Overall it's a good neighborhood.",
+      "follow_ups": [
+        {
+          "question": "Do you feel safe running alone in the area?",
+          "response": "Yeah, mostly. During the day, totally fine. I wouldn't go running alone at night, but I don't really want to anyway. When I run it's usually Saturday mornings with the group, or after work when it's still light out in the summer. I stick to the paths around the lake or the Arboretum where there are always other people around."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "time_limit_seconds": 40,
+      "response": "The big upside is that Madison is just a great city. It's big enough to have stuff to do but small enough that you know your way around. I love the lakes, the farmers market, the food scene. The downside is rent keeps going up. When I first moved into my apartment it was like seven-fifty a month, now it's pushing nine hundred. That's a big chunk of what I make. Winters are brutal too -- I'm used to it, but man, January and February are just survival mode. Heating bills go way up and you're basically stuck inside.",
+      "follow_ups": [
+        {
+          "question": "Have you ever thought about moving somewhere with a lower cost of living?",
+          "response": "I've thought about it, but everything I care about is here. My parents, Jess, my running club, my garden plot. And if I want to open a diner someday, I want it to be in Madison. I know this city, I know what people here like to eat. So I'm sticking it out."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "time_limit_seconds": 80,
+      "response": "It's just me. I live alone. I've got a one-bedroom apartment. I had a roommate for a couple years after high school -- a girl from work -- but once I could afford the place on my own, I went solo. I like having my own space. I can keep everything organized the way I want, do my meal prep without someone else's stuff all over the kitchen. It's small but it's mine.",
+      "follow_ups": [
+        {
+          "question": "How do you like living alone? Some people love it, others find it lonely.",
+          "response": "I love it, honestly. I'm a routine person and living alone means nobody messes up my system. My bullet journal is on the kitchen table, my running shoes are by the door, my spice rack is organized alphabetically. If someone else was in here moving stuff around I'd lose it. I do get a little lonely sometimes in the winter when I'm not getting out as much, but I'll call my mom or Jess and that usually fixes it."
+        },
+        {
+          "question": "Do you have any pets?",
+          "response": "No, I've thought about getting a cat, but my lease says no pets. And honestly, I work weird hours, so I'm not sure it'd be fair to an animal. Maybe someday when I have a house."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "block": "HOUSEHOLD",
+      "question_text": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "time_limit_seconds": 10,
+      "response": "Nope, just me. Permanent resident, party of one.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q13",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about anyone else who stays here from time to time, if there is anyone like that",
+      "time_limit_seconds": 10,
+      "response": "Jess crashes on my couch once in a while if we've been out late at a tasting, but that's maybe once a month. Otherwise, nobody.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q14",
+      "block": "HOUSEHOLD",
+      "question_text": "Is there anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, it's just me. Nobody else.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q15",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Right now, across a typical week, how do your days vary?",
+      "time_limit_seconds": 105,
+      "response": "My schedule depends on my shifts, but I've got a pretty solid routine built around that. I usually work five days a week. If I'm on the morning shift, I'm up at five-thirty, out the door by six-fifteen. I'll eat something quick -- toast, banana, maybe yogurt. I work the morning rush, usually till about two or three. Then I come home, change, and either go for a run or go check on my garden. In the evening I'll cook dinner, do my bullet journal planning for the next day, maybe watch something or read. If I'm on a closing shift, I sleep in till about nine, have a bigger breakfast, run some errands or do a run in the morning, then head to work around three and get off at eleven. Those nights I just come home and crash. Saturdays are my running club mornings -- I try to keep that sacred. Sundays I either go to my parents' house for dinner or I have a quiet day at home doing meal prep and laundry. I also try to attend the morning service at St. Maria Goretti on most Sundays before going to my parents' -- my family's been going there since my grandparents' time.",
+      "follow_ups": [
+        {
+          "question": "Walk me through a specific recent weekday morning for me -- like, what did you do last Tuesday?",
+          "response": "Okay, let me think. Last Tuesday I had the opening shift. Alarm went off at five-thirty, I got up, brushed my teeth, put on my work uniform. I ate a bowl of oatmeal with a banana while I looked at my bullet journal for the day. Drove to work, got there at six-forty-five, clocked in at seven. Did the opening checklist -- turned on the equipment, checked the inventory count from last night, made sure the prep was set. Morning rush hit around seven-thirty and didn't let up until about ten. After that I restocked, cleaned the front counter, took my fifteen-minute break around ten-thirty. I ate a granola bar and scrolled my phone in the break room. Finished up at two, drove home, changed into running clothes, and did a three-mile loop around the lake. Got home around four, showered, started cooking -- I made a cheddar bratwurst with roasted veggies. Ate, cleaned up, did some Sudoku, wrote in my journal, and was in bed by ten."
+        },
+        {
+          "question": "How about weekends -- do you ever just have a lazy day?",
+          "response": "Not really. Even on my days off I like to be doing something. Saturday morning is the run, then I usually hit the farmers market if it's in season. I might go to a craft brew tasting with Jess in the afternoon. Sunday is the service at the church, then family dinner or meal prep. I don't really do lazy well. I get antsy if I'm just sitting around. The closest I get to lazy is a Sunday evening when I'll put on a Wes Anderson movie and zone out on the couch."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "At what kind of job or jobs do you work, and when do you work?",
+      "time_limit_seconds": 105,
+      "response": "I work at a fast food restaurant here in Madison. I don't want to name the chain, but it's one of the bigger ones. I'm a crew member, but I'm basically doing the work of a shift lead already -- running the register, managing the line during rush, handling inventory counts, training new people. My shifts rotate. Some weeks I'm mostly mornings, like seven to three. Other weeks I'm doing closes, three to eleven. Occasionally I'll do a split if they're short-staffed. I work five days a week, sometimes six if they need me and I can use the extra money. It's physical work -- you're on your feet the whole time, moving fast, dealing with heat from the kitchen. But I'm used to it.",
+      "follow_ups": [
+        {
+          "question": "You mentioned you're basically doing shift lead work already. How does that feel?",
+          "response": "It's frustrating, honestly. I'm doing the work but not getting the pay or the title. My manager knows I'm reliable and that I can handle it, so she leans on me. I've brought it up a couple times -- like, if I'm doing this job, can I get the promotion? She says it's coming, but there's paperwork and district approval and whatever. I'm trying to be patient but I keep track of everything I do in my journal so when it's time for my review, I've got receipts."
+        },
+        {
+          "question": "How do you handle the tougher aspects of the job -- difficult customers, long shifts?",
+          "response": "I stay calm. That's my thing. When a customer's yelling about their order being wrong, I just take a breath and fix it. Getting upset doesn't help anything. The long shifts are harder physically. My feet hurt by the end, and I'm usually starving because I didn't eat enough on break. But I just keep my head down and power through. I'll stretch when I get home, eat a good meal, and reset."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Do you have other routines or responsibilities that you did not already share?",
+      "time_limit_seconds": 80,
+      "response": "The garden takes up a decent amount of time in the growing season, like April through October. I'm out there almost every evening watering, weeding, checking for pests. I also do all my own cooking and meal prep, which is kind of a responsibility in itself -- I spend a couple hours on Sundays chopping vegetables, making sauces, portioning stuff out for the week. And my bullet journal planning is a daily thing. Every night before bed I spend about twenty minutes reviewing the day and setting up the next one. It's like my version of meditation, I guess. Oh, and I check in on my parents regularly. If my dad needs a ride to the pharmacy or my mom needs help with something around the house, I'll swing by.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the bullet journaling. What does a typical entry look like?",
+          "response": "So I've got a monthly spread with big goals and upcoming stuff, and then daily pages. Each day has a to-do list, a schedule block, and a little section for notes or things I want to remember. I track my running miles, my spending, my garden tasks. I also do a weekly meal plan. It's all color-coded -- blue for work, green for personal, red for money stuff. I've been doing it for about four years now and I've got a whole shelf of filled journals. It keeps me sane."
+        },
+        {
+          "question": "How often do you help your parents with things?",
+          "response": "Probably two or three times a week I'll at least swing by or do something for them. My dad doesn't get around great with his back, so I'll pick up his refills at the pharmacy or help him with yard work he can't bend down for. My mom's more independent, but she likes the company. I'll stop by after a shift and we'll have coffee. It's not a burden -- I like being there for them."
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Tell me about any recent changes to your daily routine.",
+      "time_limit_seconds": 80,
+      "response": "The biggest recent change is I started looking into classes at Madison College. I've been spending some evenings after work going through the course catalog online, figuring out which hospitality and business classes I want to take. That's eating into my reading and Sudoku time, but it feels productive. I also started stretching more seriously after my runs because my knees have been getting a little sore. I do about fifteen minutes of stretches now, which I never used to bother with. And I switched from coffee to tea in the mornings about a month ago -- I was getting kind of jittery with the coffee, especially on early shifts. The tea takes the edge off but still wakes me up.",
+      "follow_ups": [
+        {
+          "question": "The knee soreness -- when did that start?",
+          "response": "Probably about three or four months ago. It's not bad, just a little achy after runs, especially if I push past four miles. I think it's because I've been running on pavement more instead of the softer paths. I haven't gone to a doctor for it or anything. The stretching seems to help, and I ice them sometimes after a longer run. I'm keeping an eye on it."
+        },
+        {
+          "question": "What kind of tea did you switch to?",
+          "response": "Just green tea, nothing fancy. I get the big box of Bigelow from Pick 'n Save. It's like three bucks. I miss the coffee honestly, but the jittery feeling was messing with my focus at work, and when you're handling cash and running a register, you can't be shaky. So it was a practical decision."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "time_limit_seconds": 80,
+      "response": "I don't have any kids, so this one doesn't really apply to me. Maybe someday, but definitely not anytime soon. I've got too much I want to do first.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q20",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "Nothing major. I got pulled over once for a burned-out taillight on my Civic a couple years ago. The officer was fine -- just told me to get it fixed and let me go with a warning. That's really the only direct interaction I've had. Oh, and one time at work, the police came in because someone had left without paying and my manager called them. That was kind of awkward but it wasn't about me. Honestly, I try to stay out of trouble. I don't speed, I don't cause problems. Madison's a pretty chill city for that kind of stuff.",
+      "follow_ups": [
+        {
+          "question": "How did you feel during that traffic stop?",
+          "response": "A little nervous, just because you don't know what to expect. But the officer was polite, it was quick, and I got the taillight fixed the next day. It wasn't a big deal. I think being a young woman driving alone at night, there's always that moment of like, okay, just be calm, be polite, keep your hands visible. But it was fine."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "What other experiences with law enforcement stand out in your mind?",
+      "time_limit_seconds": 40,
+      "response": "Honestly, nothing comes to mind. I've been fortunate. I see the campus police around sometimes when I'm running near the UW area, and there's usually a pretty heavy police presence during Badgers game days, but I've never had any issues. It's just not a big part of my life.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q22",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people tell us about experiences of arrest -- of loved ones, family members, friends, or themselves. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "Nobody in my immediate family, no. A guy I went to high school with got a DUI a few years back, and I remember thinking how scary that must have been. But nobody close to me, no. My family's pretty low-key. My dad always said, 'Keep your head down and work hard,' and that's what we do.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q23",
+      "block": "POLITICS",
+      "question_text": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I try to vote. I've voted in the last two presidential elections for sure. Local elections I'm not as good about -- sometimes the timing is weird with my work schedule and I don't make it. But I think it's important, especially living in Wisconsin where things are always really close. I do feel like my vote matters here more than it might in some other states. I usually early vote when I can, so I don't have to worry about getting off work in time.",
+      "follow_ups": [
+        {
+          "question": "What motivates you to vote when you do?",
+          "response": "Mostly practical stuff. I care about minimum wage, healthcare costs, things that actually affect my daily life. When I hear candidates talking about raising the minimum wage or making health insurance more affordable, that gets my attention. I'm not super political, but I know what matters to me and I try to show up for it."
+        },
+        {
+          "question": "How do you decide who to vote for? Where do you get your information?",
+          "response": "I'll read some stuff online -- I follow a few local news accounts and I'll check NPR sometimes. Jess is more into politics than I am, so she'll send me articles or tell me what's going on. I don't watch cable news or anything. I mostly just try to figure out which candidate is going to help regular people like me who are working hard and still struggling to get ahead."
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "block": "POLITICS",
+      "question_text": "How would you describe your political views?",
+      "time_limit_seconds": 310,
+      "response": "I don't really love labels for this stuff. I guess if I had to say, I care a lot about working people getting a fair deal. I think minimum wage should be higher -- I'm living proof that you can work forty-plus hours a week and still barely get by. I think healthcare shouldn't cost so much. When my dad was hurt, the bills were insane, and he had insurance. I think college should be more affordable. But I also believe in personal responsibility. I don't want handouts, I want fair opportunities. I grew up in a family that worked for everything, and I respect that. On social stuff, I try to be open-minded. I have friends who are different from me and I treat everybody the same. I'm not out there marching for causes or posting stuff online, but I believe people should be able to live their lives. I get frustrated when politicians on either side are just yelling at each other and nothing gets done. Like, can somebody just fix the potholes and make sure I can afford to go to the doctor?",
+      "follow_ups": [
+        {
+          "question": "When you think about economic issues, what comes to mind first?",
+          "response": "The cost of everything. Rent goes up every year. Groceries are more expensive than they were even two years ago. My pay hasn't kept up. I budget down to the penny and I still feel like I'm treading water. That's what I think about -- not tax policy or trade deals or whatever. Just, can I afford my life this month?"
+        },
+        {
+          "question": "Are there any issues where you feel differently from your parents or your friends?",
+          "response": "My dad's more of an old-school guy. He thinks people should just tough it out and not complain. He's not big on any kind of government programs. My mom is a little more understanding about how hard things are now compared to when they were young. Jess is more outspoken about politics than I am -- she goes to rallies and stuff. I'm more in the middle. I just want things to work."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "block": "POLITICS",
+      "question_text": "Tell me about any recent changes in your political views.",
+      "time_limit_seconds": 115,
+      "response": "I wouldn't say my views have changed so much as I've started paying more attention. When I was younger I didn't care at all. Like, in my early twenties, I barely knew what was going on. But the older I get and the more I deal with real-life stuff -- rent, bills, healthcare costs, trying to save for the future -- the more I realize this stuff affects me directly. I've started reading more local news, following what the city council does, paying attention to ballot measures. I wouldn't say I've shifted left or right, I've just woken up to the fact that politics isn't some abstract thing. It's my electricity bill and whether I can afford to go to the dentist.",
+      "follow_ups": [
+        {
+          "question": "Has anything specific in the news recently caught your attention?",
+          "response": "The stuff about tipped wages and fast food worker protections. There's been some talk in Wisconsin about that, and it hits really close to home. Also, the healthcare debate never goes away. Every time I hear about premiums going up, I think about my dad and what his situation cost us. I don't get into online arguments about it or anything, but I pay attention."
+        }
+      ]
+    },
+    {
+      "question_id": "Q26",
+      "block": "POLITICS",
+      "question_text": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "time_limit_seconds": 105,
+      "response": "I'd say somewhat. Madison is a pretty progressive city, but it's also pretty white, especially the neighborhoods I've been in. At work, I've got coworkers from all different backgrounds, and some of them have told me about experiences that are way different from mine -- getting followed around in stores, getting stopped for no reason. That opened my eyes. I'm not someone who's been directly affected, but hearing those stories made me think about it more. I think everybody should be treated fair by the police, period.",
+      "follow_ups": [
+        {
+          "question": "You mentioned coworkers sharing their experiences. Can you tell me more about one of those conversations?",
+          "response": "Yeah, there's this guy I work with, DeShawn, and he told me once that when he walks home from a closing shift, he gets nervous if a cop car slows down near him. And I was like, I've never once felt that way walking to my car. That really stuck with me. It's not that I didn't know stuff like that happened, but hearing it from someone I work with every day made it real, you know?"
+        }
+      ]
+    },
+    {
+      "question_id": "Q27",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about the issues Black Lives Matter raises?",
+      "time_limit_seconds": 105,
+      "response": "I think it raised important issues about how different people have really different experiences with law enforcement and with the system in general. I try to listen more than I talk about it, because I know my experience isn't universal. I grew up in a pretty sheltered bubble, honestly. Madison's diverse in some ways but the west side where I live is pretty homogeneous. Working in food service has actually exposed me to more diversity than I ever had growing up, and I think that's been good for me. I try to keep an open mind and treat people how I want to be treated.",
+      "follow_ups": [
+        {
+          "question": "Have you done anything differently in your life as a result of thinking about these issues?",
+          "response": "Small things, I guess. I try to be more aware of how I interact with people. I listen more. I read a couple articles Jess sent me about the history of policing in Wisconsin, which I didn't know much about. I haven't gone to protests or joined any organizations or anything. It's more of an internal shift. I'm paying attention where I wasn't before."
+        }
+      ]
+    },
+    {
+      "question_id": "Q28",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about race in the U.S. recently?",
+      "time_limit_seconds": 105,
+      "response": "Honestly, I think it's complicated and I don't pretend to have all the answers. Growing up Italian-American in Wisconsin, I always felt like my family was kind of in between things. We're white, but my grandparents dealt with discrimination when they first came over. My nonna used to tell stories about being called names when she was little. So I understand what it's like to feel like an outsider, even if it's not the same thing. I think race is one of those things where everybody's experience is different and you have to be willing to listen. I try to do that.",
+      "follow_ups": [
+        {
+          "question": "Has the Italian-American identity been an important part of how you see yourself?",
+          "response": "Yeah, for sure. The food, the family stuff, the values. My nonna always said we came from nothing and built something. That work ethic is in my bones. I'm proud of it. I keep her recipes, I make her sauce. It's my connection to where we came from. But I also know that being Italian-American today is very different from what my grandparents went through. I've got privileges they didn't have."
+        }
+      ]
+    },
+    {
+      "question_id": "Q29",
+      "block": "POLITICS",
+      "question_text": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm mostly in the keep-it-to-myself camp, but I've talked to Jess about it and I've listened to what my coworkers have to say. I haven't gone to protests or anything. It's not that I don't care, it's more that I process things internally. I'm a listener, not a megaphone. But if someone at work says something ignorant, I'll push back on it. Not loudly, but I'll say something.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q30",
+      "block": "POLITICS",
+      "question_text": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "time_limit_seconds": 80,
+      "response": "Jess is really active about it. She posts stuff on social media, she's gone to a couple of local demonstrations. She's the one who sends me articles and gets me thinking about it. My parents are more quiet about it. My dad doesn't really talk about politics or social issues -- he just does his thing. My mom will watch the news and shake her head and say, 'That's awful,' but she doesn't really engage beyond that. Marco, my brother, I actually don't know where he stands. We've never really talked about it. Most of my running club friends don't bring it up -- we talk about running, the weather, what races are coming up. So it's really just Jess and my work friends where these conversations happen.",
+      "follow_ups": [
+        {
+          "question": "Has Jess's activism ever caused any friction between you two?",
+          "response": "Not really. She knows I'm not as vocal as she is and she respects that. Sometimes she'll try to get me to come to something and I'll say no, and she gets it. She knows I'm not disagreeing with her, I'm just not built for that kind of public stuff. We're good."
+        }
+      ]
+    },
+    {
+      "question_id": "Q31",
+      "block": "HEALTH",
+      "question_text": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "time_limit_seconds": 80,
+      "response": "Overall, I'd say I'm doing alright. I'm twenty-eight, I'm active, I run a few times a week. I eat pretty well because I cook most of my own meals. I try to get vegetables in every day -- helps that I grow some of my own. I've got some things that bug me though. My knees have been a little achy from running, like I mentioned. And I get these tension headaches when I'm stressed, like if I've had a really long week at work. They're mostly in my temples and the back of my neck. I'll take some Advil and try to relax, and they go away. I also notice I get kind of wound up before big decisions or changes -- I'll lie awake at night running through every possible outcome in my head. That can mess with my sleep for a few nights at a time. But I manage. I'm on my feet all day at work, so I stay pretty active even outside of running.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the sleep issues. How often does that happen?",
+          "response": "Maybe once or twice a month, usually tied to something specific. Like when I was thinking about whether to transfer to Milwaukee, I barely slept for a week. Or when my review at work is coming up and I'm going over everything in my head. It's not every night, but when it hits, it's annoying. I'll be exhausted but my brain just won't shut off. I've tried drinking chamomile tea before bed, which helps a little. Mostly I just have to wait it out."
+        },
+        {
+          "question": "How about your diet overall? You mentioned cooking a lot.",
+          "response": "I eat pretty balanced, I think. Lots of vegetables from the garden in the summer -- tomatoes, green beans, basil. I do a lot of chicken and pasta. I love Midwestern comfort food -- bratwurst, cheese curds, things like that -- but I try not to go overboard. I meal prep on Sundays to keep things consistent during the work week. The downside is I've got a sensitivity to dairy that I've been dealing with. If I eat too much cheese or cream, I get kind of bloated and uncomfortable. I still eat it because, come on, this is Wisconsin, but I try to watch how much."
+        }
+      ]
+    },
+    {
+      "question_id": "Q32",
+      "block": "HEALTH",
+      "question_text": "For you, what makes it easy or hard to stay healthy?",
+      "time_limit_seconds": 65,
+      "response": "The easy part is that I like routine, and health routines are just another system I can build. I plan my meals, I schedule my runs, I track it all in my journal. That structure keeps me on track. The hard parts are money and time. Healthy food is more expensive than junk food, and when you're working long shifts, sometimes you just grab whatever's quickest. At work there's always free food around -- fries, soda, stuff I shouldn't be eating -- and it's hard to resist when you've been on your feet for eight hours and you're starving. Also, I don't have great health coverage through my job, so going to the doctor is expensive. I'll put stuff off because I don't want the bill.",
+      "follow_ups": [
+        {
+          "question": "What kinds of health appointments have you been putting off?",
+          "response": "I haven't been to the dentist in over a year. And I should probably get my knees looked at, but a doctor visit with imaging would probably cost me a couple hundred dollars I don't really have. I keep telling myself if it gets worse I'll go, but for now the stretching and icing is managing it. It's frustrating, because I know I should be more proactive."
+        }
+      ]
+    },
+    {
+      "question_id": "Q33",
+      "block": "HEALTH",
+      "question_text": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain -- anything like that.",
+      "time_limit_seconds": 80,
+      "response": "Nothing huge, thankfully. The knee stuff started maybe three or four months ago, and the dairy sensitivity has been going on for about a year -- where I'll eat something with a lot of cheese and my stomach just isn't happy for the rest of the day. I didn't go to a doctor for that, I just figured it out on my own by paying attention to what I ate and how I felt after. I cut back and it got better. The tension headaches have been a thing since my early twenties, but they've gotten a little more frequent in the past year, I think because I've been stressed about money and work stuff. Nothing that's put me in the hospital or anything close to that. I did have a bad cold last winter that knocked me out for about five days -- I lost shifts over that, which hurt financially.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about that cold and how it affected your work.",
+          "response": "It was in January, right in the thick of winter. I could barely get out of bed. I called in sick for three shifts, and since I don't get paid sick days, that was three days of lost wages. That's like two hundred and fifty bucks I didn't earn, plus I had to buy cold medicine and soup. My mom brought me chicken broth and crackers, which was sweet. But it reminded me how fragile everything is when you're living paycheck to paycheck. One bad cold can throw off your whole month."
+        }
+      ]
+    },
+    {
+      "question_id": "Q34",
+      "block": "HEALTH",
+      "question_text": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "time_limit_seconds": 50,
+      "response": "The cold thing was the biggest example. I couldn't work and I couldn't afford not to. The headaches sometimes slow me down too -- when I've got a bad one at work, I'm not at my best, but I push through because I can't just go home. The knee soreness hasn't affected my work yet, but I worry about it. My job requires me to be on my feet all day. If my knees got really bad, that could be a real problem. That's partly why I'm trying to move into management -- less time on my feet, more time coordinating.",
+      "follow_ups": [
+        {
+          "question": "Has anyone at work noticed when you're not feeling well?",
+          "response": "My manager has asked me a couple times if I'm okay when I've got a headache. I just say I'm fine and keep going. I don't want to be the person who complains. In food service, everybody's dealing with something -- sore feet, tired, hungry. You just push through."
+        }
+      ]
+    },
+    {
+      "question_id": "Q35",
+      "block": "HEALTH",
+      "question_text": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "time_limit_seconds": 80,
+      "response": "Yeah, my dad's back has been the big one. He worked at the machine shop for over thirty years and it just wrecked his body. He had to do physical therapy for months, and even now he can't do a lot of the things he used to. He can't mow the lawn, can't lift heavy stuff. He's in discomfort a lot of the time, I can see it on his face even when he doesn't say anything. That was really hard when it first happened because he's such a proud guy -- he hated needing help. It affected the whole family financially too, like I talked about before. And it weighs on me emotionally. I worry about him getting worse. Sometimes when I go over there and I see him struggling to get out of his chair, it just... it stays with me.",
+      "follow_ups": [
+        {
+          "question": "How does your dad manage his back issues day to day?",
+          "response": "He takes over-the-counter pain stuff -- Tylenol, Advil, that kind of thing. He's got a heating pad he uses a lot. He does some light stretching that the physical therapist taught him. He's supposed to walk every day but he doesn't always do it. My mom tries to get him out of the house, but he's stubborn. He's more of a sit-in-his-recliner-and-watch-the-game type now, and that worries me because I don't think sitting all day helps."
+        },
+        {
+          "question": "How has your dad's situation influenced how you think about your own health?",
+          "response": "A lot, actually. Seeing what happened to him from doing physical work for decades makes me think about my own body. That's part of why I run and try to stay in shape. And it's part of why I want to get into management or own my own place -- so I'm not wearing out my body on the line when I'm fifty. He's a cautionary tale, and I don't mean that in a bad way. I love him. I just don't want to end up where he is."
+        }
+      ]
+    },
+    {
+      "question_id": "Q36",
+      "block": "HEALTH",
+      "question_text": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "time_limit_seconds": 80,
+      "response": "It's been a struggle, honestly. My job offers insurance, but the premiums are high for what I make, and the deductible is like two thousand dollars. So even with insurance, I'm paying a lot out of pocket before it really kicks in. I've definitely put off going to the doctor because of cost. The dentist thing, the knee thing, even just a regular checkup -- I haven't had one in about two years. I just can't justify spending the money when I feel basically okay. My dad's situation was worse. His physical therapy was partially covered but we still had hundreds of dollars in copays. My mom was on the phone with the insurance company all the time fighting about what was covered. It's exhausting. You spend more time dealing with the paperwork than you do actually getting care.",
+      "follow_ups": [
+        {
+          "question": "Have you ever considered looking into more affordable coverage options, like through the marketplace?",
+          "response": "I've looked at it a little, but the last time I checked, the marketplace plans weren't much cheaper than what my job offers, and some of them had really narrow networks. I'd rather keep what I have and just be careful about when I use it. It feels like no matter what plan you pick, you're going to get squeezed. I just try to stay healthy so I don't have to deal with it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q37",
+      "block": "HEALTH",
+      "question_text": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "time_limit_seconds": 80,
+      "response": "Kind of, in a homemade way. My nonna had all these old Italian remedies. Garlic and honey for a sore throat. A hot compress with herbs for muscle aches. My mom still does some of that. When I had that bad cold, she made me drink this garlic broth thing that was honestly pretty gross but I think it helped. I also use peppermint oil on my temples when I get headaches -- I read about that online and it actually works better than I expected. I wouldn't say I use alternative medicine in a formal way, but I definitely use home remedies before I reach for pills. It's partly cultural and partly practical -- home remedies are free.",
+      "follow_ups": [
+        {
+          "question": "Is there anything else you do for wellness that might be considered non-traditional?",
+          "response": "I mean, the gardening is kind of therapeutic for me. Getting my hands in the dirt, watching things grow -- it calms me down when I'm stressed. I don't call it therapy or meditation or whatever, but it does something for my head. And running too. When I'm wound up about something, a good run resets me. Those are my go-to coping things."
+        }
+      ]
+    },
+    {
+      "question_id": "Q38",
+      "block": "HEALTH",
+      "question_text": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I'll have a craft beer here and there. Like, when Jess and I go to a tasting, I'll have a flight -- that's usually four small pours. Or I'll have one beer at home after a really long shift. But I'm not a big drinker. I've never been one to go out and get wasted. I've seen people at work who deal with stress that way and it just makes everything worse. I've never smoked. My dad smoked when I was a kid and I hated the smell. He quit when I was about twelve, which was good. That's one thing I've never been tempted by.",
+      "follow_ups": [
+        {
+          "question": "How often would you say you drink in a typical week?",
+          "response": "Maybe two or three drinks total in a week, and some weeks none at all. It really depends on what's going on. If I'm out with Jess on Saturday, I'll have a couple of beers. If it's a quiet week, I might not drink at all. I like trying different craft brews, but it's more about the taste and the social thing than about, you know, needing a drink. I keep track of what I spend on it in my journal, actually. It's a want, not a need."
+        },
+        {
+          "question": "Have there ever been times where you leaned on drinking more than usual?",
+          "response": "After my breakup earlier this year, I had a few nights where I had more than usual. Like, a couple beers on the couch watching a movie. But it wasn't out of control or anything. I caught myself after a couple days and thought, okay, this isn't helping, go for a run instead. And that's what I did. I'm too disciplined to let that become a pattern. Plus, beer is expensive."
+        }
+      ]
+    },
+    {
+      "question_id": "Q39",
+      "block": "HEALTH",
+      "question_text": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "time_limit_seconds": 80,
+      "response": "Not really my thing. The most I take is Advil for headaches or knee soreness, and that's like a couple times a week. I don't have any prescriptions. I've tried marijuana a couple times -- Jess had some gummies once at her place and I tried one. It was fine, I just felt kind of relaxed and sleepy. But it's not something I seek out or buy myself. I'd rather go for a run or do some gardening if I need to destress. I'm pretty cautious about putting stuff in my body, to be honest. I see what pills did to some people I went to high school with, and it scares me.",
+      "follow_ups": [
+        {
+          "question": "You mentioned seeing what happened to people you went to high school with. Can you tell me more about that?",
+          "response": "A couple people I knew got into painkillers after high school. One girl I was friends with in sophomore year ended up in a really bad place -- she dropped off social media and I heard through the grapevine she went to a treatment facility. It's one of those things where you look at your own choices and feel grateful you didn't go down that road. It made me really cautious about anything beyond basic over-the-counter stuff."
+        }
+      ]
+    },
+    {
+      "question_id": "Q40",
+      "block": "HEALTH",
+      "question_text": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "time_limit_seconds": 80,
+      "response": "It's tight. I have my employer insurance, which covers the basics but the deductible is really high. I mostly just avoid going to the doctor unless it's absolutely necessary. My parents are on my dad's old employer plan, which is better than mine, but they still have copays that add up. My mom handles most of their medical bills and she's good at negotiating payment plans with the hospital. She taught me to always ask if there's a cash discount or a payment plan option. We're not in medical debt right now, but it's always in the back of my mind that one big emergency could wreck us. I set aside a little bit each month into what I call my 'oh no' fund, which is basically for unexpected medical stuff, car repairs, that kind of thing.",
+      "follow_ups": [
+        {
+          "question": "How much is in the 'oh no' fund right now?",
+          "response": "About six hundred dollars. I try to keep it above five hundred, but it gets dipped into pretty regularly. Last time was when I needed new tires on the Civic. I'm building it back up now. It's not much, but it's something. Better than zero."
+        }
+      ]
+    },
+    {
+      "question_id": "Q41",
+      "block": "HEALTH",
+      "question_text": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm fine with vaccines. I got all my shots growing up, and I get a flu shot most years because I work with the public and I can't afford to be sick. I got the other ones that were recommended too. My parents are the same way -- my mom's very pro-vaccine. She always says, 'Your nonna came from a time when people got sick and died from things we don't even think about anymore.' So in our family it's just a common sense thing. You do it to protect yourself and the people around you.",
+      "follow_ups": [
+        {
+          "question": "Where do you usually get your flu shot?",
+          "response": "Walgreens, usually. It's right near my apartment and they take my insurance. I just walk in, no appointment needed. Easy."
+        }
+      ]
+    },
+    {
+      "question_id": "Q42",
+      "block": "HEALTH",
+      "question_text": "What are your trusted sources of information about the vaccine?",
+      "time_limit_seconds": 80,
+      "response": "Mostly my doctor -- well, the nurse practitioner I see when I do go in, because I don't have a regular doctor. And the stuff that comes from the pharmacy when I get the shot. I also trust what I read on NPR and the CDC website. I don't trust random stuff on social media. There's so much junk out there. My mom told me early on to only listen to doctors and nurses, not Facebook, and I've stuck with that. Jess and I have talked about it too -- she works in dental, so she's got a medical background and she's pretty sensible about it.",
+      "follow_ups": [
+        {
+          "question": "Have you encountered people who have strong anti-vaccine views?",
+          "response": "A few people at work have said stuff about not trusting vaccines. I just kind of nod and change the subject. I'm not going to argue about it. Everybody makes their own choices. But I think the science is pretty clear, and I'll keep getting mine."
+        }
+      ]
+    },
+    {
+      "question_id": "Q43",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "time_limit_seconds": 115,
+      "response": "Honestly, it's been a mixed bag. On one hand, I feel like I'm making progress. I've got my plan for the future, I'm saving a little, I'm starting to look at classes. That feels good. On the other hand, there's this constant low-level stress that never fully goes away. Money is always tight. Work is repetitive and I feel stuck waiting for this promotion. The breakup earlier this year was a bummer, even though it was the right call. And the winter was long -- Wisconsin winters just wear you down after a while. I had some stretches where I felt really low energy, didn't want to cook, didn't feel like running, just wanted to sit on the couch and do nothing. That's not like me and it kind of scared me. But the spring is coming and I can already feel myself perking up. I've been back in the garden, back running regularly, and that makes a big difference.",
+      "follow_ups": [
+        {
+          "question": "Those low-energy stretches in winter -- how long did they last?",
+          "response": "The worst one was in late January, early February. Probably two or three weeks where I just felt flat. I was still going to work, still doing the basics, but I wasn't doing my usual stuff. My journal entries from that time are basically just checkmarks -- no notes, no planning, just getting through the day. I think it's a combination of the cold, the dark, not getting outside much, and the post-breakup funk hitting me all at once. Once we got a couple nice days in March, I started to bounce back."
+        },
+        {
+          "question": "Did you talk to anyone about how you were feeling during that time?",
+          "response": "I called Jess one night and kind of unloaded. She was great about it -- she came over and we just watched a movie and ate popcorn. She didn't try to fix it, she just listened. I also told my mom I was feeling kind of blah, and she said, 'It's February, everybody feels like that,' which is honestly pretty accurate for Wisconsin. I didn't talk to a professional or anything. I figured it would pass, and it did."
+        }
+      ]
+    },
+    {
+      "question_id": "Q44",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "time_limit_seconds": 80,
+      "response": "The roughest was right around the breakup in August. It was a Friday and he came over after I got off work and basically said he didn't see this going anywhere. Part of me knew it was coming, but it still hit me. I sat on my couch for a while after he left, just kind of numb. Then I got up and went for a run, even though it was like nine at night. I ran about four miles, came back, showered, and then cried in the kitchen while I made pasta. It sounds funny now, but that's how I process. I need to move and then I need to do something with my hands. The next few days I threw myself into work and cooking. I made a huge batch of red sauce, froze like ten portions of it. By the next week I was okay. But that Friday night was rough.",
+      "follow_ups": [
+        {
+          "question": "Was there a point where you felt like the sadness might not lift?",
+          "response": "Honestly, no. I knew it would pass because I've been through stuff before and I know myself. I'm a 'feel it and keep moving' kind of person. I let myself be sad for a few days, then I made a plan to get back on track. I think if it had been a longer relationship or if I'd been more invested, it might have hit harder. But six months isn't that long. I was sad, but I wasn't devastated."
+        }
+      ]
+    },
+    {
+      "question_id": "Q45",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I wouldn't use big words for it, but I definitely get wound up sometimes. Like I said, before big decisions or changes, I'll lie awake at night going through every scenario in my head. My heart races and I can't shut my brain off. It's like a hamster wheel. It's been that way since high school, honestly. Before tests, before job interviews, before my review at work. And then in winter I get those flat periods where everything feels kind of gray and pointless. I pull out of it once the weather changes and I can get outside again. I've never talked to anyone professional about it. I just use my routines to manage it -- running, journaling, cooking, staying busy. When I'm occupied, I feel fine. It's when I'm idle that my brain goes to dark places.",
+      "follow_ups": [
+        {
+          "question": "What do you mean by 'dark places'?",
+          "response": "Not like, dangerous dark. More like, what's the point dark. Like, what am I doing, I'm twenty-eight working fast food, am I ever going to get anywhere. That kind of spiral. I'll start comparing myself to people from high school who went to college and have real careers. Then I have to snap out of it and remind myself I've got a plan and I'm working it. It passes. It's just my brain being mean to me when I'm tired and bored."
+        },
+        {
+          "question": "Has anyone ever suggested you talk to someone about these patterns?",
+          "response": "Jess has mentioned it, actually. She's said there are people you can talk to, and some places do sliding scale fees. I know she's right, but I keep thinking I can handle it on my own. And honestly, the idea of sitting in a room and talking about my feelings to a stranger sounds exhausting. Maybe someday I'll change my mind. For now, running is my therapy."
+        }
+      ]
+    },
+    {
+      "question_id": "Q46",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "How has it been for your family?",
+      "time_limit_seconds": 50,
+      "response": "My mom's been a little stressed about my dad. She worries about him being home all day with his back issues and not doing much. She's told me she's tired, which is unlike her -- she's usually the energizer bunny. I think being the one managing all the bills and the insurance stuff and working part time has worn her down. My dad, he's hard to read, but I think he's frustrated. He was a guy who worked his whole life and now he's sitting around. That can't feel good. Marco seems fine, but we don't talk about feelings. He's a guy's guy -- he just says everything's good even if it's not.",
+      "follow_ups": [
+        {
+          "question": "Do you worry about your parents' emotional well-being?",
+          "response": "Yeah, more than I let on. My mom especially. She's always been the strong one, and seeing her tired worries me. I try to take stuff off her plate when I can -- bringing food over, handling errands. I think she'd benefit from talking to someone too, but she's old school. She'd say she's fine. It runs in the family, I guess."
+        }
+      ]
+    },
+    {
+      "question_id": "Q47",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "time_limit_seconds": 155,
+      "response": "I'd say it's part of my life, but not in a super intense way. I still go to the morning service at St. Maria Goretti most Sundays -- that's the church my family has gone to since my grandparents' time. My nonna was very devout, and my mom still goes every week. For me it's partly about keeping that connection. I like the routine of it, the quiet, the familiarity. The same hymns, the same people. It calms me down. I light a candle for my nonna most times I go. I'm not someone who prays every day or reads scripture or anything. I don't really think about it during the week. But Sunday morning at that church feels like a reset button. It's an hour where I'm not thinking about work or money or my to-do list. I think the values I got from it matter more to me than the specific beliefs -- like, be a good person, help your community, don't be selfish. Those are things I try to live by regardless of whether I'm in a pew or not.",
+      "follow_ups": [
+        {
+          "question": "Do you feel a sense of community at the church?",
+          "response": "A little. There are people there who've known my family for years -- the Morettis, the Petersons, old Mrs. Gustafson. They'll ask how my parents are doing, how work is. It's a small congregation. I'm usually one of the youngest people there, honestly. But I don't go to any of the social events or small groups or anything. I go for the service and then I leave. It's more of a personal thing for me."
+        },
+        {
+          "question": "Has your relationship with the church changed over time?",
+          "response": "When I was a teenager I didn't want to go at all. I thought it was boring and I'd complain every Sunday. After my nonna passed, I started going back on my own, I think as a way to feel close to her. It became my thing instead of something my parents made me do. I wouldn't say I agree with everything the church teaches, but I've made peace with taking what works for me and leaving the rest."
+        }
+      ]
+    },
+    {
+      "question_id": "Q48",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "time_limit_seconds": 115,
+      "response": "I'm on Facebook and Instagram, but I'm not super active. On Facebook, I mostly use it for local groups -- the Madison Runners Club has a Facebook group where people post about meetups and routes. There's a Madison gardening group I'm in where people share tips about what to plant and when. I check those a few times a week. I rarely post anything myself -- maybe a photo of my garden or something I cooked, like once a month. Instagram, I scroll through it more. I follow some food accounts, some running accounts, and a couple local Madison pages. I like looking at what other people are cooking. I also follow Bon Iver's page because I'm a big fan. I don't really use Twitter or TikTok. I tried TikTok once and it just sucked me in for like two hours and I felt terrible after, so I deleted it. I use my phone to text and call people, mostly. I'm not one of those people who's glued to their phone all day.",
+      "follow_ups": [
+        {
+          "question": "Do you ever get into discussions or debates on social media?",
+          "response": "Never. That's like my number one rule. I see people going back and forth in comments and I think, what a waste of time. If I disagree with something, I scroll past it. I'm not going to change anyone's mind in a Facebook comment, and they're not going to change mine. I use it for practical stuff -- group info, recipes, event announcements -- and that's it."
+        },
+        {
+          "question": "How much time would you say you spend on social media in a typical day?",
+          "response": "Maybe twenty or thirty minutes total? I'll check it on my break at work, scroll through Instagram while I'm eating dinner. It's not a huge part of my day. I'm more intentional about it than a lot of people. If I catch myself just scrolling mindlessly, I put the phone down and do something else. My time is too valuable for that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q49",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "time_limit_seconds": 50,
+      "response": "No, definitely not. I would never post about personal problems online. If I need support, I call Jess or my mom. That's it. I've seen people post vague, sad things on Facebook and it just seems like it makes things worse because then everybody's in your business. I'm very private. The only things I put online are garden photos and maybe a picture of food I'm proud of. Nobody needs to know when I'm having a bad day.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q50",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "time_limit_seconds": 50,
+      "response": "My stress has been going down a bit as spring kicks in. Winter was the peak. Now that I can run outside again and the garden is starting up, I feel more like myself. I've been more disciplined about my journaling too -- I added a little section each night where I write down one thing that went well that day. It sounds cheesy but it forces me to focus on the positive. I also started doing those stretches after my runs, and honestly, taking that fifteen minutes to slow down and breathe has been good for my head, not just my knees.",
+      "follow_ups": [
+        {
+          "question": "Where did you get the idea for the 'one good thing' journal entry?",
+          "response": "A self-help book I read -- I can't remember the title, something about habits. I read a lot of those. Not all of them are useful, but every now and then I pick up a trick that actually works. That one stuck."
+        }
+      ]
+    },
+    {
+      "question_id": "Q51",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "time_limit_seconds": 25,
+      "response": "Just me. I live alone in a one-bedroom apartment on the west side of Madison.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q52",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any babies or small children?",
+      "time_limit_seconds": 10,
+      "response": "Nope. No kids.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q53",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, it's just me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q54",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any lodgers, boarders, or employees who live here?",
+      "time_limit_seconds": 10,
+      "response": "No, nobody like that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q55",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "time_limit_seconds": 5,
+      "response": "Just me. I cover everything myself.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q56",
+      "block": "FINANCES",
+      "question_text": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "time_limit_seconds": 50,
+      "response": "Rent is always the biggest one -- that's about nine hundred a month. Then car insurance and gas, probably two hundred total. Groceries, I spend about two-fifty to three hundred, depending on the month. My health insurance premium is about a hundred and twenty out of my check. Utilities are maybe seventy or eighty right now -- it goes up a lot in winter for heat. Then there's the phone bill, about fifty bucks. After all that, there's not a whole lot left.",
+      "follow_ups": [
+        {
+          "question": "How do you keep track of all these expenses?",
+          "response": "The bullet journal. I have a monthly budget page where I list every fixed expense and then track my variable spending -- groceries, gas, anything extra. I write down every purchase. Every single one. If I buy a bag of chips at the gas station, it goes in the journal. I know exactly where my money goes, which is both empowering and kind of depressing because it shows me just how tight things are."
+        },
+        {
+          "question": "Was last month's spending typical or were there any unusual costs?",
+          "response": "Pretty typical. The only unusual thing was I bought new running shoes because mine were falling apart. That was about eighty bucks at the outlet. I felt guilty about it for like a week, but you can't run in worn-out shoes -- that's how you get hurt."
+        }
+      ]
+    },
+    {
+      "question_id": "Q57",
+      "block": "FINANCES",
+      "question_text": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "time_limit_seconds": 50,
+      "response": "With the shoes, probably around eighteen hundred total last month. Usually it's more like seventeen hundred without any extra purchases. My take-home is about nineteen to two thousand depending on hours, so that leaves me maybe a hundred to two hundred for savings and anything unexpected. It's tight, but I make it work.",
+      "follow_ups": [
+        {
+          "question": "What happens in the months when it doesn't quite work out?",
+          "response": "I dip into the oh-no fund, or I cut back on something. I'll skip the craft brew tasting, cook extra cheap that week -- like rice and beans, pasta with garlic and oil. I've gotten really creative with cheap meals. Italian food is good for that, actually. A lot of the classic dishes were invented by poor people trying to make something out of nothing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q58",
+      "block": "FINANCES",
+      "question_text": "Does your household own or rent your home?",
+      "time_limit_seconds": 50,
+      "response": "I rent. It's a one-bedroom apartment in a two-story building. I've been here about four years. The landlord is decent -- he fixes things when they break, doesn't bother me. But the rent has gone up every year. Started at seven-fifty, now it's nine hundred. I know I could find something cheaper if I moved further out, but then I'd be spending more on gas to get to work, so it kind of evens out.",
+      "follow_ups": [
+        {
+          "question": "Do you ever think about buying a place?",
+          "response": "I think about it, but it's a fantasy right now. Houses in Madison are way out of my price range. A condo might be possible someday, but I'd need a real down payment and better income first. That's another reason the diner dream matters -- if I could own a successful business, eventually I could own a home. One step at a time."
+        }
+      ]
+    },
+    {
+      "question_id": "Q59",
+      "block": "FINANCES",
+      "question_text": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "time_limit_seconds": 50,
+      "response": "Winter is killer. My heating bill goes from maybe thirty bucks in summer to a hundred fifty or more in January and February. That's a huge swing. And then in December there's holiday expenses -- gifts for my parents and Marco, ingredients for holiday cooking, maybe a bottle of wine to bring to Christmas dinner. That month I usually run a deficit and it takes me until February to catch up. Summer is cheaper overall except that I spend a little more on the garden -- soil, seeds, plant food. But that's like fifty bucks for the season, so it's nothing. Fall is usually my best time financially because the weather is mild and there are no holidays to spend on.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q60",
+      "block": "FINANCES",
+      "question_text": "Tell me all about how you coped with any extra expenses in the past months.",
+      "time_limit_seconds": 40,
+      "response": "The running shoes were the big one recently. I put off buying them for a month because I didn't want to spend the money, but my knees were getting worse and I knew the old shoes were part of the problem. So I budgeted it in, cut back on groceries that week -- more rice, more beans, less meat -- and I skipped going out with Jess one weekend. It worked out, but it's always a juggling act. I also picked up an extra shift that month which helped offset it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q61",
+      "block": "FINANCES",
+      "question_text": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I have a savings account at the same credit union where I have my checking. It's not much -- right now it's the 'oh no' fund with about six hundred bucks. I also have a separate little stash that I think of as my diner fund. That one's at about twelve hundred dollars. I add to it whenever I can -- sometimes it's twenty bucks a month, sometimes fifty if I had a good stretch at work. It's slow going, but it's something. I'm a saver by nature. Even when I was a kid, I'd save my birthday money. My mom taught me that.",
+      "follow_ups": [
+        {
+          "question": "What would you need the diner fund to reach before you could actually move forward with that plan?",
+          "response": "Honestly, I'd need way more than I have. To open even a small place you're probably looking at fifty to a hundred thousand dollars minimum for equipment, lease, permits, all that. I know I can't save my way there on my current income. That's why the education piece is important -- if I get a hospitality degree and management experience, I could potentially get a business loan or find a partner. It's a ten-year plan, realistically. But every dollar counts."
+        }
+      ]
+    },
+    {
+      "question_id": "Q62",
+      "block": "FINANCES",
+      "question_text": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "time_limit_seconds": 80,
+      "response": "Both, in a small way. The 'oh no' fund is my rainy day money, and the diner fund is my big dream money. In the last year I've managed to grow the diner fund by about four hundred dollars, which isn't a lot but I'm proud of it. I also had to dip into the emergency fund twice -- once for the tires, once for the cold when I lost those shifts. Each time I built it back up within a couple months. I wish I could save more, but when you're making what I make, there's just not much left over. I do everything I can.",
+      "follow_ups": [
+        {
+          "question": "Have you thought about any other ways to increase your savings rate?",
+          "response": "I've thought about picking up a second job, like weekend hosting at a sit-down restaurant, but I'm already tired from my current hours and I don't want to burn out. I've also thought about selling some of my garden produce at the farmers market, but the vendor fees and permits make it not really worth it for the small amount I grow. Right now the best path is the promotion. If I get shift supervisor, that's a decent raise, and it all goes to savings."
+        }
+      ]
+    },
+    {
+      "question_id": "Q63",
+      "block": "FINANCES",
+      "question_text": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "time_limit_seconds": 50,
+      "response": "I've got one credit card with about eight hundred dollars on it. It's from a couple months ago when my car needed brake work and I didn't have enough in the emergency fund to cover it all. I'm paying it down -- I put about fifty bucks a month toward it. The interest rate is kind of brutal, so I'm trying to knock it out as fast as I can. No student loans since I didn't go to college. I've never borrowed money from my parents -- I'd feel too guilty. They don't have extra either.",
+      "follow_ups": [
+        {
+          "question": "How does carrying that credit card balance make you feel?",
+          "response": "It stresses me out. I hate owing money. Every month I look at the interest charges and think, that's money I'm just throwing away. I want it gone. I've got a payoff target in my journal -- I want it at zero by August. If I can pick up a few extra shifts this summer, I think I can do it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q64",
+      "block": "FINANCES",
+      "question_text": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "time_limit_seconds": 65,
+      "response": "The brake repair was the big one. That was about five hundred dollars, and I only had about three hundred in the emergency fund. I put the rest on the credit card, which I hated doing. There was also a month where my heating bill was way higher than I expected -- like, a hundred seventy instead of the usual hundred fifty -- and that extra twenty bucks meant I had to eat super cheap for the last week of the month. Like, ramen and eggs cheap. And the dentist thing -- I need to go, I know I need to go, but I keep pushing it because I don't have the money for whatever they'll find. Those are the moments where I feel the squeeze the most.",
+      "follow_ups": [
+        {
+          "question": "How does it feel to have to make those kinds of trade-offs?",
+          "response": "Frustrating. Sometimes embarrassing, even though it shouldn't be. I work hard, I'm responsible, I do everything right, and I still can't comfortably afford to go to the dentist. That's not a personal failing, that's a system problem. But it's hard not to take it personally sometimes. I just have to keep reminding myself that I'm building toward something better."
+        }
+      ]
+    },
+    {
+      "question_id": "Q65",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "time_limit_seconds": 155,
+      "response": "I work at a fast food restaurant as a crew member, but like I said, I basically do the job of a shift lead. My main duties are running the POS register, which means taking orders, handling cash, processing cards, and making sure the drawer balances at the end of my shift. I'm also responsible for inventory tracking -- counting what we've got, noting what we need to order, making sure nothing expires. During rush hours, I coordinate the line, which means making sure orders go out in the right order, that the kitchen is keeping up, and that customers aren't waiting too long. I train new employees on the register and on food safety protocols. I make sure the front of the restaurant is clean and presentable. If there's a complaint, I'm usually the one who handles it because I stay calm. The most important thing in my role is consistency. Show up on time, follow the procedures, keep things running smooth. That's what I'm good at.",
+      "follow_ups": [
+        {
+          "question": "What's the most challenging part of the job?",
+          "response": "The rush. Between like eleven-thirty and one-thirty, it's nonstop. You've got a line out the door, the kitchen is backed up, the drive-through is beeping, and someone's complaining that their order is wrong. You have to stay cool and prioritize. I've gotten really good at it, but it's exhausting. Your brain is going a hundred miles an hour for two hours straight, and then suddenly it's quiet and you're like, okay, I need to sit down for five minutes."
+        },
+        {
+          "question": "What do you find most rewarding about the work?",
+          "response": "When everything runs perfectly. When I've got the register balanced, the inventory matches, the line moved fast, and nobody complained -- that's a good day. I know that sounds small, but there's a satisfaction in running a tight operation. It's the same feeling I get from my bullet journal when everything is checked off. Also, training new people. When a new kid comes in and they're nervous, and I show them the ropes and they start getting it -- that feels good. I like being someone people can count on."
+        }
+      ]
+    },
+    {
+      "question_id": "Q66",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Was your occupation covered by a union or employee association contract?",
+      "time_limit_seconds": 40,
+      "response": "No, no union. Fast food doesn't really have that. We don't have any employee association either. It's just you and the company, and whatever they decide to offer you. There's been some talk nationally about fast food workers organizing, but I haven't seen any of that here in Madison. I think a union would be nice for things like guaranteed hours and better benefits, but I'm not holding my breath.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q67",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "time_limit_seconds": 40,
+      "response": "I'd say about forty-nine or fifty weeks. I took a week off when I was sick in January, and maybe a couple days here and there. I don't get paid vacation, so any time off is time without pay. I basically work every week because I can't afford not to.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q68",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How many hours each week did you usually work?",
+      "time_limit_seconds": 15,
+      "response": "Usually about thirty-five to forty hours. Some weeks more if I pick up extra shifts.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q69",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "time_limit_seconds": 15,
+      "response": "Yes, I worked five shifts last week.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q70",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "No, just the one job. I've thought about a second one but I'm managing with what I have for now.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q71",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "Just the one.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q72",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "For your job or occupations, how much money did you receive in the past month?",
+      "time_limit_seconds": 50,
+      "response": "My take-home last month was about nineteen hundred after taxes and my insurance premium. Before deductions it's more like twenty-two, twenty-three hundred. It depends on the hours. Some months when I get more shifts it's a little better, some months it's a little worse.",
+      "follow_ups": [
+        {
+          "question": "Does that amount feel adequate for your needs?",
+          "response": "Barely. It covers the basics, but there's no cushion. One unexpected expense and I'm scrambling. That's why the promotion matters so much. Even an extra two or three dollars an hour would make a real difference. It's the difference between barely making it and actually being able to breathe."
+        }
+      ]
+    },
+    {
+      "question_id": "Q73",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How often do you get paid?",
+      "time_limit_seconds": 25,
+      "response": "Every two weeks. Direct deposit. I've got it set up so a little bit automatically goes into savings when it hits.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q74",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In total, how much did your household make in the past month?",
+      "time_limit_seconds": 50,
+      "response": "Since it's just me, it's the same as what I make. About nineteen hundred take-home last month. That's it. No other income, no side hustle, no support from anyone else.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q75",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "time_limit_seconds": 40,
+      "response": "Yeah, I filed. I used one of those free filing websites. My taxes are pretty straightforward -- W-2, standard deduction, that's about it. I usually get a small refund, like three or four hundred dollars. That goes straight into the diner fund. Tax time is actually one of the things I look forward to because of that little windfall.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q76",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "time_limit_seconds": 15,
+      "response": "I've been at my current place about three years. Benefits are minimal. I have health insurance through them, but the premiums and deductible are high. No paid vacation. No paid sick days. I get a small employee meal discount -- like, fifty percent off during my shift. That's basically it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q77",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "time_limit_seconds": 15,
+      "response": "My manager, Teresa, is alright. She knows I'm reliable and she leans on me, which is both a compliment and annoying because I'm doing extra work without extra pay. My coworkers are fine -- there's a good mix of people. I get along with most of them. We're not hanging out after work, but we've got good teamwork on shift.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q78",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "time_limit_seconds": 80,
+      "response": "The schedule comes out about a week in advance, which is not great for planning. It varies -- some weeks I'm mostly mornings, some weeks I'm closing. I've asked Teresa to try to give me consistent shifts and she tries, but if someone calls out, the schedule gets shuffled. Flexibility goes both ways. If I need a specific day off, I can usually get it if I ask two weeks ahead. But they can also change my shift with pretty short notice. That's the nature of food service. It makes it hard to plan things like classes or appointments because I don't always know when I'll be free. That's one of the things that's been holding me back from enrolling at Madison College -- I need to figure out how to make school fit around an unpredictable schedule.",
+      "follow_ups": [
+        {
+          "question": "How does the unpredictable schedule affect your daily routines?",
+          "response": "It means I have two versions of everything -- an opening-shift routine and a closing-shift routine. I've mapped both out in my journal so I don't lose time figuring out what to do. The hard part is switching between them. If I close on Monday and open on Tuesday, I'm getting maybe five hours of sleep. That happens more than I'd like. It's one of the things I'd change if I were running my own place -- I'd give people consistent schedules."
+        }
+      ]
+    },
+    {
+      "question_id": "Q79",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "time_limit_seconds": 15,
+      "response": "That's not an issue for me since I don't have kids. But I see coworkers deal with that all the time. One of the women I work with is constantly trying to figure out who's watching her kids when she gets called in for an extra shift. It seems really stressful.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q80",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "time_limit_seconds": 25,
+      "response": "No, I don't. I've thought about looking into it, honestly. I know I might qualify for some things based on my income. But there's a part of me that feels like those programs are for people who are worse off than me. I know that's probably not the right way to think about it. My mom has mentioned it a couple times, saying there's no shame in getting help. Maybe I'll look into it eventually.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q81",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "time_limit_seconds": 50,
+      "response": "January was the worst. Between the cold keeping me out of work and the high heating bill, I was in a real squeeze. I ate cheap -- rice, pasta, canned soup. I stopped buying coffee out completely. I picked up extra shifts as soon as I was healthy enough. I also didn't go out at all that month -- no craft breweries, no restaurants, nothing. Just work and home. It was kind of depressing, but I got through it. My mom brought me food a couple times, which helped. I also delayed my car insurance payment by a couple days, which I don't love doing but sometimes you have to juggle.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q82",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "time_limit_seconds": 50,
+      "response": "I could cover it, but barely. I've got about six hundred in the emergency fund. So four hundred would wipe most of it out, and then I'd be really nervous about the next emergency. If it was more than six hundred, I'd have to put it on the credit card, which I really don't want to do. I could probably ask my brother for a hundred bucks if I was desperate, and he'd give it to me. But I'd hate doing that. The honest truth is that a four-hundred-dollar emergency is manageable but stressful. Anything bigger and I'd be in trouble.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q83",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Overall, how do you feel about your financial situation?",
+      "time_limit_seconds": 105,
+      "response": "It's frustrating. I work hard, I'm careful with money, I budget down to the dollar. And I'm still just barely getting by. I'm not in crisis, but I have zero margin. One bad month can set me back for three. I feel like I'm always running just to stay in place. The thing that keeps me going is the plan. I know where I want to be, and I know the steps to get there. The promotion, the classes, the diner fund -- it's all moving in the right direction, just slowly. I try not to compare myself to other people because that makes it worse. Like, I know some of my high school classmates have real careers, houses, savings accounts with actual money in them. But they also went to college, and that was a path I couldn't take at the time. I'm doing my best with what I have, and I'm proud of that, even when it doesn't feel like enough.",
+      "follow_ups": [
+        {
+          "question": "If you could change one thing about your financial situation right now, what would it be?",
+          "response": "My hourly wage. Straight up. If I was making even three or four dollars more an hour, everything would be different. I could save more, I could go to the dentist, I could stop worrying every time an unexpected expense comes up. That's why the shift supervisor promotion matters so much. It's not just a title. It's the difference between surviving and starting to build something."
+        },
+        {
+          "question": "How do you cope with the stress of living on such a tight budget?",
+          "response": "The journal helps. When I write it all down, I feel more in control, even when the numbers are tight. Running helps too -- you can't think about money when you're trying to finish a hill. And cooking. Making a really good meal out of cheap ingredients feels like winning. Like, I can make a pot of pasta e fagioli for about four bucks and it tastes amazing and feeds me for three days. That's a victory. I focus on the small wins."
+        }
+      ]
+    },
+    {
+      "question_id": "Q84",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "time_limit_seconds": 40,
+      "response": "Never been married, not living with anyone. I'm single right now. Haven't been in a serious enough relationship for marriage to even come up. I'm focused on my career goals at the moment.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q85",
+      "block": "DEMOGRAPHICS",
+      "question_text": "For our records, we also need your date of birth. Could you please provide that?",
+      "time_limit_seconds": 25,
+      "response": "July 14th, 1997.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q86",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "time_limit_seconds": 25,
+      "response": "Yes, born and raised in the U.S. My family's been here since my grandparents came over from Italy.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q87",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What city and state were you born in?",
+      "time_limit_seconds": 25,
+      "response": "Madison, Wisconsin. Born at St. Mary's Hospital.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q88",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "time_limit_seconds": 15,
+      "response": "No, I'm not.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q89",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What race or races do you identify with?",
+      "time_limit_seconds": 15,
+      "response": "White. Italian-American, specifically, but white on the forms.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q90",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What is the highest degree or grade you've completed?",
+      "time_limit_seconds": 15,
+      "response": "High school diploma. Graduated from East High in 2015.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q91",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you enrolled in school?",
+      "time_limit_seconds": 15,
+      "response": "Not currently, but I'm planning to enroll at Madison College for their hospitality program. Hopefully in the next year or so.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q92",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you been enrolled in school during the past 3 months?",
+      "time_limit_seconds": 15,
+      "response": "No.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q93",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "time_limit_seconds": 15,
+      "response": "No, never.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q94",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What religion do you identify with, if any?",
+      "time_limit_seconds": 15,
+      "response": "I go to the same church my family's always gone to -- St. Maria Goretti. I was raised in that tradition and I still attend most Sundays.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q95",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "time_limit_seconds": 80,
+      "response": "I don't really think of myself as belonging to a party. I guess if you pushed me, I'd say I lean toward the folks who talk about raising the minimum wage and making healthcare more affordable, because those are the things that actually affect my life. But I don't go around calling myself anything. I vote for whoever seems like they're going to help working people. I've never donated to a party or put up a yard sign or anything like that. I'd say I'm loosely aligned with one side but not strongly committed.",
+      "follow_ups": [
+        {
+          "question": "Has there ever been a time when you felt strongly pulled toward one party or the other?",
+          "response": "When the minimum wage debate was really hot a few years back, I felt pretty strongly about that. I was reading everything I could find about it and I almost went to a rally that Jess was organizing. But I didn't go. I'm just not a rally person. I voted, though, and I felt good about that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q96",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "time_limit_seconds": 50,
+      "response": "Closer to the side that talks about workers' rights and affordable healthcare. On pocketbook issues, that's where I land. On other stuff, I'm more mixed. I believe in personal responsibility too, and I don't love it when politicians act like they know what's best for everyone. But when it comes to the issues that hit my bank account, I tend to go with whoever's pushing for higher wages and better benefits for people like me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q97",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was the city and state that you lived in when you were 16 years old?",
+      "time_limit_seconds": 25,
+      "response": "Same place I live now -- Madison, Wisconsin. I've been here my whole life.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q98",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did you live with both your own mother and father when you were 16?",
+      "time_limit_seconds": 25,
+      "response": "Yeah, both of them. My parents have been together my whole life. They lived in the same house on the east side that I grew up in.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q99",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Who else did you live with?",
+      "time_limit_seconds": 25,
+      "response": "My brother Marco. He would have been about thirteen when I was sixteen. It was the four of us -- mom, dad, me, and Marco -- in that little two-bedroom house.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q100",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your dad completed?",
+      "time_limit_seconds": 15,
+      "response": "High school. He went straight to work at the machine shop after graduation.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q101",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your mom completed?",
+      "time_limit_seconds": 15,
+      "response": "She went to a community college for a little while and got an associate's degree in accounting. That's how she got into bookkeeping.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q102",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your mom work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yeah, she worked the whole time I was growing up. She's still working part time now.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q103",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "She was a bookkeeper for a local dentist's office. She handled all the financial stuff -- billing patients, processing insurance claims, keeping the books balanced, handling payroll for the staff. She was the person who made sure the numbers all added up. She's really meticulous, which is where I get it from. She's been there for like twenty-five years. The dentist tried to get her to go full time a bunch of times, but she liked having her afternoons free to be home when we got out of school.",
+      "follow_ups": [
+        {
+          "question": "Did your mom enjoy her work?",
+          "response": "She likes the stability of it. I don't think she wakes up passionate about dental billing, but she's good at it and the people are nice. She always says, 'It's a good, steady job,' and I think for her generation and background, that's what matters most. She's not chasing dreams -- she's building a reliable life. I admire that about her, even if I want a little more for myself."
+        }
+      ]
+    },
+    {
+      "question_id": "Q104",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "time_limit_seconds": 50,
+      "response": "It's a private dental practice on the east side of Madison. Small office -- the dentist, a couple hygienists, a receptionist, and my mom doing the books. It's a general dentistry office. Cleanings, fillings, crowns, that kind of stuff. Nothing fancy, just a neighborhood dentist. They've been there forever. My mom started there before I was born.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q105",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your dad work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Oh yeah, my dad worked the whole time. Up until his back got bad a few years ago, he was at the same shop for over thirty years.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q106",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "He was a machinist at a shop here in Madison. He operated CNC machines and lathes, made precision metal parts. He'd get blueprints and then cut and shape metal to exact specifications. It was skilled work -- he took a lot of pride in it. He also did quality checks on the parts to make sure they met tolerance. He was one of those guys who could look at a part and tell you if it was off by a thousandth of an inch. Tough, physical work, though. Standing all day, lifting heavy material, working around loud machines.",
+      "follow_ups": [
+        {
+          "question": "Did your dad enjoy his work?",
+          "response": "I think he did, for a long time. He liked working with his hands and he was proud of being good at it. But toward the end it was clear his body was paying the price. He'd come home sore every night. When he finally had to stop, there was relief but also grief, I think. It was such a huge part of his identity. Now he doesn't really know what to do with himself."
+        }
+      ]
+    },
+    {
+      "question_id": "Q107",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "time_limit_seconds": 50,
+      "response": "It was a medium-sized machine shop that did contract manufacturing. They made parts for all kinds of industries -- automotive, medical devices, industrial equipment. They'd get orders from bigger companies and produce the specific metal components those companies needed. My dad always said they made the parts that made other things work. It was a good job for a guy without a college degree. Paid decently, had some benefits. Not great benefits, as we found out when his back went, but decent.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q108",
+      "block": "HOPES & VALUES",
+      "question_text": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "time_limit_seconds": 155,
+      "response": "In the next couple years, I want to get that shift supervisor promotion and enroll at Madison College. I want to be working toward my hospitality degree and my ServSafe manager certification. I want the credit card paid off and the diner fund growing steadily. I'd like to be making enough that I don't have to count every penny. Longer term -- like, five to ten years -- I want to own my diner. A small place, maybe fifteen, twenty seats. Midwestern comfort food with Italian touches. Cheddar bratwurst, cheese-curd poutine, nonna's red sauce on Sundays. A place where people feel welcome and the food is honest. I want it to be a community spot, the kind of place where regulars come in and I know their orders. I want to be my own boss, set my own schedule, build something that's mine. I also hope my parents are healthy and comfortable. I want my dad to be in less pain and my mom to be able to stop working if she wants to. And maybe -- maybe -- I'll find someone to share all that with. But that's not the priority right now. I'm building the life first, and the rest will follow.",
+      "follow_ups": [
+        {
+          "question": "What would it mean to you to own that diner?",
+          "response": "Everything. It would mean that all the years of working in fast food weren't wasted -- they were training. It would mean that not going to college right away wasn't a failure, it was a detour. It would mean my nonna's recipes live on in a real kitchen, not just my apartment. And honestly, it would prove something to myself. That a kid from the east side of Madison with a high school diploma can build something real. I think about it every single day."
+        },
+        {
+          "question": "What scares you most about the future?",
+          "response": "That I'll still be in the same place ten years from now. Same job, same apartment, same paycheck. That the plan just never comes together because something always comes up. A medical bill, a car repair, life. I'm not afraid of hard work. I'm afraid of hard work that doesn't lead anywhere. That's the thought that keeps me up at night."
+        }
+      ]
+    },
+    {
+      "question_id": "Q109",
+      "block": "HOPES & VALUES",
+      "question_text": "What do you value the most in your life?",
+      "time_limit_seconds": 80,
+      "response": "Consistency and family. Those are the two big ones. I value showing up every day and doing what I said I'd do. I value my parents and the foundation they gave me. I value hard work -- not the kind where you brag about hustle culture, but the quiet kind where you just keep going because it's the right thing to do. I value my routines because they give me a sense of control in a life where a lot of things are out of my control. I value the small things too -- a good meal that I cooked myself, a Saturday morning run, the first tomato from the garden. Those moments are what make it all worth it. And I value having a dream. Even when it feels far away, knowing I'm working toward something gives my life purpose. That matters more to me than anything.",
+      "follow_ups": [
+        {
+          "question": "If you could pass one value on to someone younger, what would it be?",
+          "response": "Be disciplined about the things you can control. You can't control the economy or your boss or what other people do. But you can control whether you show up on time, whether you save that twenty bucks instead of spending it, whether you take care of your body. That discipline adds up over time. My nonna used to say, 'A poco a poco' -- little by little. That's how I live."
+        }
+      ]
+    }
+  ],
+
+  "extracted_profile": {
+    "participant_id": "e7c0574639a244c8972c92aab9501035",
+    "name": "Mary Alberti",
+    "age": 28,
+    "gender": "Female",
+    "marital_status": "never_married",
+    "location": "Madison, WI 53717",
+    "education": "High school diploma (East High, 2015); planning to enroll at Madison College for hospitality",
+    "occupation": "Fast food crew member (de facto shift lead), 3 years at current location",
+
+    "preferences": {
+      "health_and_wellness": {
+        "summary": "Active runner who manages health through routine, home remedies, and budget-conscious choices; avoids medical visits due to cost.",
+        "details": [
+          "Runs 3-5 miles multiple times per week, including Saturday mornings with the Madison Runners Club around Lake Mendota",
+          "Experiences tension headaches in temples/neck during stressful periods; manages with Advil and peppermint oil",
+          "Knee soreness from running for about 3-4 months; manages with stretching and icing",
+          "Dairy sensitivity causing bloating; self-diagnosed by tracking food intake, reduced dairy consumption",
+          "Switched from coffee to green tea (Bigelow) to reduce jitteriness during early shifts",
+          "Uses home remedies from Italian grandmother's tradition (garlic-honey for sore throat, herbal compresses)",
+          "Hasn't had a dental visit in over a year or a regular checkup in about two years due to cost",
+          "Gets flu shot annually at Walgreens; up to date on recommended vaccinations",
+          "Lies awake running through scenarios before big decisions; occurs 1-2 times per month",
+          "Experiences low-energy flat periods in deep winter (late January-early February), bounces back with spring"
+        ],
+        "evidence": "Q31, Q32, Q33, Q34, Q37, Q41, Q42, Q45, Q18"
+      },
+      "food_and_dining": {
+        "summary": "Accomplished home cook specializing in Italian-Midwestern fusion comfort food; meticulous meal prepper who grows herbs and vegetables in a community garden.",
+        "details": [
+          "Cooks most meals from scratch; Sunday meal prep is a weekly ritual (chopping vegetables, making sauces, portioning)",
+          "Specialties: nonna's red sauce, braciole, cheddar-crusted bratwurst, cheese-curd poutine, spiced apple crumble, pasta e fagioli",
+          "Grows tomatoes, basil, green beans, and herbs in a rented raised-bed community garden plot ($40/season)",
+          "Shops at Hy-Vee and Pick 'n Save; visits Dane County Farmers Market on Capitol Square in season",
+          "Spends $250-$300/month on groceries; cuts to rice-and-beans meals when budget is tight",
+          "Employee meal discount (50% off) during shifts at fast food restaurant",
+          "Enjoys hosting low-key dinner gatherings with friend Jess",
+          "Italian-American Sunday dinner tradition from childhood; still cooks family recipes to maintain connection"
+        ],
+        "evidence": "Q01, Q05, Q15, Q17, Q56, Q57, Q65, Q108"
+      },
+      "travel": {
+        "summary": "Prefers affordable, planned weekend getaways within Wisconsin; dreams of Door County lakeside trips and a future Napa Valley culinary trip.",
+        "details": [
+          "Prefers meticulously planned weekend getaways balancing relaxation and culinary experiences",
+          "Door County lakeside trips as aspirational local destination",
+          "Napa Valley culinary adventure as a bigger dream trip",
+          "Kyoto as long-term overseas dream destination",
+          "Travel constrained by tight budget; balances costs against diner savings goal",
+          "Has never left the Midwest/Madison area for extended periods"
+        ],
+        "evidence": "Q01, Q10, Q108 (travel persona from seed data; limited direct interview evidence)"
+      },
+      "social_and_relationships": {
+        "summary": "Small, tight social circle centered on one best friend, parents, and a running group; values deep one-on-one connections over large social gatherings.",
+        "details": [
+          "Best friend Jess (dental hygienist, high school friend): weekly hangouts, craft brewery tastings, home dinners, primary emotional support",
+          "Parents Tony (63, retired machinist) and Linda (61, part-time bookkeeper): daily phone calls with mom, Sunday Packers games with dad, frequent visits 2-3x/week",
+          "Brother Marco (25, HVAC tech, Milwaukee): weekly texts, holiday visits, amicable but not close",
+          "Madison Runners Club: Saturday morning regulars Dave and Priya; social but not deep friendships",
+          "Work friendships are shift-only; does not socialize with coworkers outside of work",
+          "Single after 6-month relationship ended ~8 months ago; not actively dating",
+          "Processes relationship stress through physical activity (running) and cooking",
+          "Church congregation at St. Maria Goretti provides light social contact with longtime family acquaintances"
+        ],
+        "evidence": "Q05, Q06, Q07, Q11, Q47, Q44"
+      },
+      "home_and_lifestyle": {
+        "summary": "Lives alone in a modest one-bedroom apartment on Madison's west side; highly organized, routine-driven household with bullet-journal planning at its center.",
+        "details": [
+          "One-bedroom apartment, second floor of a two-story building, west side Madison (53717)",
+          "Rent: $900/month (up from $750 four years ago)",
+          "Drives a 2015 Honda Civic",
+          "Bullet journal system: color-coded daily/weekly/monthly spreads tracking work, personal, finances, meals, running, garden",
+          "Organized living space: alphabetized spice rack, running shoes by door, everything has its place",
+          "No pets (lease restriction and irregular work hours)",
+          "Community garden plot one block from apartment building",
+          "Proximity to Hy-Vee, Pick 'n Save, Walgreens, UW Arboretum"
+        ],
+        "evidence": "Q08, Q11, Q15, Q17, Q56, Q58"
+      },
+      "entertainment": {
+        "summary": "Low-key entertainment preferences centered on indie/folk music, Wes Anderson films, self-help books, and Sudoku puzzles.",
+        "details": [
+          "Listens to John Prine, Bon Iver, and classic rock",
+          "Watches Wes Anderson films as comfort/relaxation viewing",
+          "Reads practical self-help books (habits, productivity)",
+          "Solves Sudoku puzzles for mental stimulation and competitive edge",
+          "Deleted TikTok after one use due to time-wasting; intentional about screen time",
+          "Follows food and running accounts on Instagram; follows Bon Iver's page"
+        ],
+        "evidence": "Q15, Q48, Q50 (arts persona from seed data)"
+      },
+      "hobbies_and_recreation": {
+        "summary": "Structured hobby routine combining physical fitness, gardening, cooking, journaling, and craft beer exploration.",
+        "details": [
+          "Running: 3-5 mile routes around Lake Mendota and UW Arboretum, 3+ times per week",
+          "Madison Runners Club: Saturday morning group runs",
+          "Raised-bed vegetable gardening: tomatoes, basil, green beans, herbs (April-October)",
+          "Bullet journaling: daily 20-minute planning and review ritual, 4+ years running",
+          "Home cooking and baking: Midwestern-Italian comfort food",
+          "Craft brewery tastings: attends with Jess, approximately weekly when budget allows",
+          "Sudoku puzzles",
+          "Occasional attendance at local art walks and museum exhibits",
+          "Visits Dane County Farmers Market on Saturday mornings during growing season"
+        ],
+        "evidence": "Q07, Q08, Q15, Q17, Q38, Q50"
+      },
+      "work_and_career": {
+        "summary": "Ambitious food service worker with a detailed long-term plan to advance from crew to shift supervisor to restaurant manager to diner owner.",
+        "details": [
+          "Current role: fast food crew member performing shift-lead duties (register, inventory, training, line coordination)",
+          "3 years at current restaurant; ~10 years total in food service",
+          "Pursuing promotion to shift supervisor (expecting within the year)",
+          "Planning to enroll at Madison College for hospitality management program",
+          "Planning to obtain ServSafe manager certification",
+          "Long-term goal: own a small family-style diner (15-20 seats) in Madison serving Midwestern-Italian comfort food",
+          "Diner fund currently at $1,200; realistic estimate of $50K-$100K needed",
+          "Take-home pay: ~$1,900/month; biweekly direct deposit",
+          "No union coverage; minimal benefits (high-deductible health insurance, no paid leave, 50% meal discount)",
+          "Unpredictable schedule posted ~1 week in advance; rotating morning/closing shifts"
+        ],
+        "evidence": "Q01, Q02, Q16, Q61, Q62, Q65, Q66, Q72, Q76, Q78, Q108"
+      },
+      "arts_and_culture": {
+        "summary": "Casual arts consumer who appreciates indie folk music, film, and local art events; cultural engagement is relaxation-oriented rather than identity-central.",
+        "details": [
+          "Enjoys lyrical storytelling in music (John Prine) and atmospheric indie folk (Bon Iver)",
+          "Appreciates Wes Anderson's cinematography and quirky storytelling",
+          "Attends local art walks and museum exhibits occasionally to unwind after work shifts",
+          "Cultural engagement is moderate; prefers accessible, unpretentious art forms"
+        ],
+        "evidence": "Q15, Q48 (arts persona from seed data)"
+      },
+      "sports_and_fitness": {
+        "summary": "Dedicated recreational runner and passionate Wisconsin sports fan rooted in Packers, Badgers, and Brewers fandom.",
+        "details": [
+          "Runs 3-5 miles regularly around Lake Mendota; member of Madison Runners Club",
+          "Saturday morning group runs are a weekly commitment",
+          "Added 15-minute post-run stretching routine to address knee soreness",
+          "Wisconsin Badgers basketball fan (winter)",
+          "Milwaukee Brewers fan (summer); argues about pitching staff with brother Marco",
+          "Green Bay Packers fan: watches every Sunday game, often with father Tony",
+          "Cross country runner in high school at East High",
+          "Fitness motivated by health, routine, and stress relief rather than competition"
+        ],
+        "evidence": "Q07, Q15, Q05, Q18 (sports persona from seed data)"
+      },
+      "nature_and_outdoors": {
+        "summary": "Deep connection to Madison's natural landscape through running, gardening, and seasonal outdoor activities.",
+        "details": [
+          "Runs around Lake Mendota and in UW Arboretum regularly",
+          "Maintains raised-bed garden plot at community garden (April-October)",
+          "Visits Dane County Farmers Market during growing season",
+          "Outdoor activity significantly reduced in Wisconsin winters; seasonal mood impact",
+          "Finds gardening therapeutic and calming"
+        ],
+        "evidence": "Q07, Q08, Q17, Q37, Q43"
+      },
+      "technology": {
+        "summary": "Practical, minimal technology user who limits screen time intentionally and uses devices for functional purposes.",
+        "details": [
+          "Uses smartphone primarily for calls, texts, and limited social media",
+          "Proficient with POS systems and kitchen equipment at work",
+          "Uses free tax filing software",
+          "Deleted TikTok after one session due to time concern",
+          "Plans college research done online via Madison College website",
+          "Total daily social media time: ~20-30 minutes"
+        ],
+        "evidence": "Q48, Q49, Q75, Q16"
+      },
+      "community_and_civic": {
+        "summary": "Quiet civic participant who votes in major elections and maintains church community ties but avoids activism and public political expression.",
+        "details": [
+          "Votes in presidential elections; occasionally misses local elections due to work schedule",
+          "Early votes when possible to avoid shift conflicts",
+          "Attends Sunday services at St. Maria Goretti (family congregation since grandparents' generation)",
+          "Participates in community garden",
+          "Madison Runners Club member",
+          "Does not attend protests, rallies, or political events",
+          "Processes political and social issues internally; discusses with close friends only"
+        ],
+        "evidence": "Q23, Q29, Q47, Q08, Q07"
+      },
+      "music": {
+        "summary": "Appreciates indie folk and classic rock; music is a background accompaniment to daily life rather than a central passion.",
+        "details": [
+          "Core artists: John Prine (lyrical storytelling), Bon Iver (atmospheric indie folk)",
+          "Listens to classic rock",
+          "Follows Bon Iver on Instagram",
+          "Music likely accompanies runs and cooking but not discussed as a primary activity"
+        ],
+        "evidence": "Q48 (arts persona from seed data)"
+      },
+      "fashion_and_appearance": {
+        "summary": "Practical, low-maintenance approach to appearance consistent with budget constraints and physical work demands.",
+        "details": [
+          "Wears work uniform during shifts",
+          "Running gear and comfortable everyday clothing implied by lifestyle",
+          "Purchased running shoes at outlet store ($80) after extended delay due to budget"
+        ],
+        "evidence": "Q56, Q60"
+      }
+    },
+
+    "summaries": {
+      "demographer": "Mary Alberti is a 28-year-old never-married white female of Italian-American descent, born and raised in Madison, Wisconsin. She holds a high school diploma and works as a fast food crew member, placing her in the service sector working class with an annual household income of approximately $23,000-$25,000 gross. She lives alone in a rented one-bedroom apartment on Madison's west side (53717). She is second-generation Italian-American with grandparents who immigrated from southern Italy; her family is rooted in Madison's modest, working-class Catholic community. Both parents have high-school-level education (mother has an associate's), and her father's career trajectory from skilled manufacturing into disability-related early retirement reflects deindustrialization pressures on blue-collar Midwestern families. Mary is at a pivotal life-course stage -- still in the parental orbit, pre-partnered, and in the early phases of credentialing that could shift her occupational trajectory.",
+
+      "behavioral_economist": "Mary displays strong present-bias mitigation through her bullet-journal system, which functions as a commitment device for budgeting, scheduling, and goal-tracking. She exhibits loss aversion around her emergency fund and diner savings, showing visible distress at depletion events (brake repair, sick days). Her time preferences are future-oriented -- she consistently defers gratification (skipping social outings, eating cheap meals) to maintain savings targets. Peer influence operates through a single strong-tie channel (Jess) rather than broad social networks. Her identity utility is heavily tied to competence and self-reliance, making her resistant to government assistance programs despite likely eligibility. She responds to economic constraint through cost-minimization behaviors (receipt-checking, coupon use, home cooking) rather than income-maximization (second job). Risk aversion is moderate: she declined the Milwaukee transfer despite higher pay, weighting social capital and local knowledge over income gains. Her consumption of craft beer and running gear represents small identity-affirming expenditures she carefully budgets.",
+
+      "political_scientist": "Mary is a low-engagement, economically motivated voter who participates in presidential elections and occasionally in local ones. She leans toward candidates emphasizing minimum wage increases, healthcare affordability, and worker protections, placing her in the center-left on pocketbook issues. She avoids partisan identification and expresses frustration with political polarization. Her civic participation is passive -- she reads NPR occasionally, relies on a politically active friend as an information intermediary, and processes political issues privately. She attends a Catholic church but shows no signs of faith-based political alignment. Her response to racial justice movements reflects an empathy-from-exposure pattern: direct conversations with diverse coworkers shifted her awareness, but she has not translated this into public action. Institutional trust is low regarding healthcare and workplace protections, moderate regarding electoral participation. Community attachment to Madison is strong, serving as both an identity anchor and a constraint on geographic mobility for economic opportunity.",
+
+      "psychologist": "Mary exhibits high conscientiousness (meticulous planning, routine adherence, goal persistence, receipt-checking, organizational systems) and moderate introversion (prefers one-on-one interactions, processes emotions internally, small social circle, dislikes public expression of views). Her neuroticism manifests as anticipatory rumination before decisions (lying awake running through scenarios) and seasonal mood dips in winter, but she demonstrates effective self-regulation through exercise, journaling, and cooking as behavioral coping mechanisms. Agreeableness is moderate -- she is empathetic and conflict-avoidant but maintains firm boundaries around her time and priorities. Openness is moderate-low: she appreciates indie music and Wes Anderson films but gravitates toward routine, familiarity, and practical knowledge over novelty-seeking. Her self-concept is organized around competence, self-reliance, and delayed gratification, with a narrative identity linking her grandmother's immigrant work ethic to her own aspirations. She shows mild avoidance patterns around professional help (therapy, medical visits) that intersect financial constraints with identity-based resistance to being seen as someone who needs help."
+    },
+
+    "others_misc": {
+      "cultural_and_linguistic": {
+        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "items": [
+          "Second-generation Italian-American; grandparents immigrated from southern Italy (town south of Naples)",
+          "Maintains Italian cooking traditions from grandmother (nonna): red sauce, braciole, pasta from scratch",
+          "Uses Italian phrase 'A poco a poco' (little by little) as personal motto, learned from nonna",
+          "Attends Sunday morning services at St. Maria Goretti, family congregation since grandparents' generation",
+          "Lights a candle for deceased grandmother at church most Sundays",
+          "Sunday family dinner tradition maintained (now at mother's house)",
+          "English-speaking; no evidence of Italian language fluency"
+        ]
+      },
+      "life_events_and_transitions": {
+        "description": "Significant past or anticipated events that shape current behavior",
+        "items": [
+          "Grandmother (nonna) passed when Mary was 19; catalyzed return to church attendance and preservation of family recipes",
+          "Decision to skip college at 18 due to family financial strain during father's back injury; defining crossroads moment",
+          "Declined transfer to Milwaukee ~2 years ago, choosing local social capital over higher income",
+          "Breakup of 6-month relationship ~8 months ago; processed through running and cooking",
+          "Anticipated enrollment at Madison College for hospitality management within the next year",
+          "Anticipated shift supervisor promotion at current job",
+          "Father's retirement from machine shop due to chronic back injury"
+        ]
+      },
+      "sensory_and_physical_context": {
+        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "items": [
+          "On feet 8+ hours per shift; foot soreness after long workdays",
+          "Knee soreness after runs exceeding 4 miles (onset ~3-4 months ago); manages with stretching and icing",
+          "Tension headaches in temples and back of neck during high-stress periods; manages with Advil and peppermint oil",
+          "Dairy sensitivity causing bloating; limits cheese and cream intake despite living in Wisconsin",
+          "Intermittent sleep disruption (1-2 times/month) tied to anticipatory rumination before big decisions",
+          "Seasonal energy dips in late January-early February; reduced motivation and flattened affect during deep winter"
+        ]
+      },
+      "media_and_information_diet": {
+        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "items": [
+          "Reads NPR occasionally for news",
+          "Follows local Madison news accounts online",
+          "Facebook: member of Madison Runners Club group and Madison gardening group; rarely posts (monthly at most)",
+          "Instagram: scrolls food, running, and local Madison accounts; follows Bon Iver; ~20-30 min/day total social media",
+          "Deleted TikTok after one use",
+          "Does not use Twitter",
+          "Gets political information primarily through friend Jess and local news",
+          "Trusts CDC website and healthcare providers for medical information",
+          "Reads practical self-help books about habits and productivity"
+        ]
+      },
+      "technology_and_tool_use": {
+        "description": "Device preferences, app usage, digital communication norms",
+        "items": [
+          "Smartphone for texting, calling, and limited social media",
+          "Proficient with POS (point-of-sale) systems at work",
+          "Uses free online tax filing software",
+          "Uses paper bullet journal (not digital) for planning -- 4+ years of filled journals",
+          "Researches Madison College courses online",
+          "Direct deposit for paychecks with automatic savings transfer"
+        ]
+      },
+      "unresolved_or_ambiguous": {
+        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "items": [
+          {
+            "content": "Seed data mentions 'attending local art walks and museum exhibits' but interview only briefly references Wes Anderson films and music; specific art walk/museum behavior was not deeply explored",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Insufficient interview evidence to confirm frequency or significance of visual arts engagement"
+          },
+          {
+            "content": "Seed data references Door County, Napa Valley, and Kyoto travel aspirations, but interview reveals very limited actual travel experience and severe budget constraints",
+            "candidate_owner": "behavioral_economist",
+            "reason_unresolved": "Aspirational travel preferences from seed data may not reflect realistic near-term behavior given financial situation"
+          },
+          {
+            "content": "Seed data mentions 'listening to classic rock music' in hobbies list, but interview only surfaces John Prine and Bon Iver by name; classic rock tastes not elaborated",
+            "candidate_owner": "drop",
+            "reason_unresolved": "Minor detail; classic rock mentioned in seed hobbies list but not explored in interview depth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1581 @@
+{
+  "interview_metadata": {
+    "participant_id": "f2f5dbaf4d3d43f68adeb7f318afa3a2",
+    "name": "Deeva Cintron",
+    "interview_date": "2026-03-30",
+    "protocol": "American Voices Project (Park et al. 2024, Table 7) — Full 109 questions",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA (HuggingFace)"
+  },
+
+  "transcript": [
+    {
+      "question_id": "Q01",
+      "block": "LIFE STORY",
+      "question_text": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "time_limit_seconds": 625,
+      "response": "Well, where do I even begin? I was born in 1941, right here in Michigan, in a little town not far from where I live now. My parents were good, solid people -- my father's folks came over from Germany, and my mother's side too, so we had that sort of practical, no-nonsense upbringing. We grew up on a small piece of land, not exactly a farm but we always had a big garden, chickens, that sort of thing. My mother canned everything -- green beans, tomatoes, sauerkraut. I learned all of that from her, and I still do it to this day. My father worked hard, came home tired, but on Sundays we'd all go to services together and then have a big dinner. That was just how it was done. I had two brothers, both older than me. I was the baby and the only girl, so I learned early on to hold my own. I went to the local schools, did pretty well -- I always liked arithmetic and keeping things organized. After high school I went to the community college for a couple of years, studying business administration. I wanted to finish, I really did, but then I met Harold at a church social in 1961 and, well, things moved pretty quickly in those days. We got married in 1962, and I put school on hold. Harold got a job at the Ford plant, and I stayed home with the children. We had three -- two boys and a girl. I threw myself into keeping the house running like clockwork. Budgets, schedules, meal plans, the whole nine yards. I did the books for Harold's side work too, little carpentry jobs he'd pick up on weekends. When the kids got older, I started volunteering at the church -- organizing fellowship dinners, managing the treasury for the women's group. That kept me busy for decades. We moved to Saline in 1978, bought the house we're still in, and I've been here ever since. Lost my mother in 1995, my father a few years before that. My brothers are both gone now too. That's been hard, watching everyone from that generation go. But Harold and I, we've kept each other going. Eighty-five years, and here I am, still puttering around the garden and double-checking my crossword answers.",
+      "follow_ups": [
+        {
+          "question": "You mentioned canning and gardening from your mother. What does your garden look like these days, and how has that tradition stayed with you?",
+          "response": "Oh, it's smaller than it used to be, I'll tell you that. I can't bend down like I could at fifty. But I still have my raised beds -- Harold built those for me about ten years ago when my knees started giving me trouble. I grow carrots, tomatoes, some herbs like rosemary and thyme, and I always put in a couple rows of cabbage for sauerkraut. I still can a batch every fall. It's not as much as my mother used to do, but it connects me to her. I go out every morning after breakfast, check the beds, pull weeds. It's the first thing I do, rain or shine, as long as it's not winter."
+        },
+        {
+          "question": "You said you put school on hold when you married Harold. Has that ever come back up for you?",
+          "response": "It has, actually. I've always wished I'd finished. I was so close -- just needed maybe another year's worth of classes to get my certificate in business administration. A few years ago, one of my grandchildren told me some of those courses are online now. I've been thinking about it, honestly. I'm pretty good with email and I can do a video call, though it takes me a minute. I'd love to finish, not for a career, but just to say I did it. And I think it would help me when I'm helping the younger ones figure out their budgets and finances. I like being the one people come to for that sort of thing."
+        },
+        {
+          "question": "What was it like raising three children while Harold worked at the Ford plant?",
+          "response": "Busy, but I liked having a system. I had the week planned out -- Monday was laundry, Tuesday was groceries, and so on. The boys were a handful, always running around, but my daughter was more like me, liked things neat and orderly. Harold worked long shifts, so during the week it was really just me running the show. I kept a ledger for every penny we spent. When Harold brought home his check, I'd sit down at the kitchen table that same evening and divide it all up -- mortgage, groceries, gas, savings. We never had a lot extra, but we never missed a payment either. I'm proud of that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "time_limit_seconds": 235,
+      "response": "I'd say the biggest crossroads was when I had to decide between finishing my college courses and marrying Harold. I was twenty years old, had a year or so left, and I was enjoying the classes. But Harold was a good man, steady, and in those days you didn't wait around. My mother told me, 'A good man doesn't come along twice.' And she was right about Harold, I'll give her that. So I chose the marriage and the family. I don't regret it, not one bit, but I do sometimes wonder what might have been different if I'd finished first. Maybe I would have worked in an office, done bookkeeping professionally. I think I would have been good at it. The other crossroads was in 1978 when we decided to move to Saline. Harold's plant was shifting, and we could have gone closer to Detroit or stayed put in our old town. But Saline had good schools for the kids and it felt safe, like the kind of place where you know your neighbors. We stretched ourselves to buy the house, and there were a few tight years, but it turned out to be the best decision we ever made. This is home.",
+      "follow_ups": [
+        {
+          "question": "When you were making the decision to move to Saline, how did you and Harold work through that together?",
+          "response": "Harold and I sat down at the kitchen table with a notepad and I wrote out two columns -- reasons to move, reasons to stay. I added up what we'd spend on the mortgage versus what we were paying in rent. Harold was more of a gut-feeling person, but I needed the numbers to line up. In the end, the numbers said we could just barely do it, and Harold's gut said yes, so we went for it. We drove out here on a Sunday afternoon, walked around the neighborhood, and I said, 'This is it.' I could picture the kids riding bikes on these streets."
+        },
+        {
+          "question": "Looking back, do you feel the move to Saline shaped the kind of community life you've had?",
+          "response": "Oh absolutely. Saline is where I found my people. I got involved with the church right away, started helping with the potlucks and then the treasury. I joined the library volunteer program. I met my bridge group here. If we'd moved closer to Detroit, I don't think I would have had the same kind of tight-knit community. Saline is small enough that you see the same faces at the grocery store, at the senior center, at the library. That matters to me. I like knowing where I fit."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm a planner, so I'd say it was always a conscious choice. Even marrying Harold -- people might say, oh, you just fell in love, but I thought it through. I weighed what my life would look like either way. I'm the kind of person who writes things down, makes lists, checks them twice. I don't just let things happen to me if I can help it. That said, sometimes the timing of things -- like meeting Harold at that particular church social -- that part was just life happening. But what I did with it, that was deliberate.",
+      "follow_ups": [
+        {
+          "question": "Does that planning tendency show up in other parts of your life too?",
+          "response": "In every part. I plan my meals for the week on Sunday afternoon. I have a calendar on the kitchen wall with every appointment, every volunteer shift, every bridge game written in. If something isn't on the calendar, it might as well not exist. Harold teases me about it, but he also knows exactly where to look when he forgets what day the dentist is."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "block": "LIFE STORY",
+      "question_text": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "time_limit_seconds": 40,
+      "response": "You know, when I left school, if there had been some kind of program that let married women finish their courses part-time, that would have made a world of difference. Back then, once you got married and started a family, that was it. The college didn't have evening classes or anything flexible. Now they have all these online options, and I think that's wonderful. I also think if someone at the church had said, 'Deeva, you should go back and finish,' that would have given me a push. But nobody thought that way in the sixties. You did what was expected.",
+      "follow_ups": [
+        {
+          "question": "Do you think that experience shaped how you encouraged your own children or grandchildren about education?",
+          "response": "Definitely. I told all three of my kids, finish your degree before you make any big decisions. My daughter listened -- she got her bachelor's. The boys, well, they each did things their own way, but I always said, 'Don't leave it half done like I did.' And my grandchildren, I'm the same way with them. I want them to have that piece of paper, that sense of completion."
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "time_limit_seconds": 310,
+      "response": "Harold is still here with me, thank the Lord. We've been married sixty-four years now. He's eighty-seven, moves a little slower than he used to, but he's still sharp. He putters around the garage, fixes things, watches his ball games. We have a nice routine together. Our oldest boy, Robert, he's sixty-two. He lives over in Ann Arbor, about twenty minutes away, so we see him fairly often. He brings groceries sometimes or helps Harold with things around the house. Our second, James, is fifty-nine. He's down in Ohio, so we don't see him as much, but he calls every Sunday without fail. And our daughter, Patricia, she's fifty-six and lives in Ypsilanti. She's the one who checks in on me the most -- she'll stop by twice a week, sometimes more. She worries. I tell her I'm fine, but I think it makes her feel better. We have seven grandchildren between the three of them, ranging from late teens to mid-thirties. A couple of the older ones have little ones of their own now, so Harold and I are great-grandparents three times over. They bring the babies by on holidays, and that's just the most wonderful thing. Family is what keeps us going at this age, honestly. Without them, the days would be very quiet.",
+      "follow_ups": [
+        {
+          "question": "How do you stay in touch with the grandchildren and great-grandchildren who don't live nearby?",
+          "response": "Well, I've learned to do email, and Patricia helped me set up video calls on the computer. I'm not fast at it, but I can manage. The grandchildren will send me photos of the babies, and I print them out and put them on the refrigerator. I also write actual letters sometimes -- the older grandchildren think that's funny, getting something in the mailbox that isn't a bill. But I like writing by hand. It feels more personal. And at holidays, everyone comes to our house for dinner. That's the big gathering, and I start planning the menu weeks in advance."
+        },
+        {
+          "question": "You mentioned Harold watches his ball games. What does a typical evening look like for the two of you?",
+          "response": "After supper -- and we eat early, around five o'clock -- Harold settles into his recliner and turns on whatever game is on. He loves the Tigers, follows them all season. I'll sit in my chair with my quilting or knitting, or sometimes I'll work on a crossword. We don't talk a lot during that time, but we're together in the room, and that's enough. Sometimes I'll look up and he'll be dozing, and I just let him be. Around eight-thirty I start getting ready for bed. We're early-to-bed, early-to-rise people. Always have been."
+        },
+        {
+          "question": "Tell me more about Patricia's visits. What do you two usually do together?",
+          "response": "Patricia usually comes by Tuesday afternoons and Saturday mornings. On Tuesdays she'll help me with anything I need -- a ride to the doctor, picking up a prescription, that sort of thing. On Saturdays we sometimes bake together or she'll help me with a quilting project. She learned to quilt from me, though she doesn't have the patience for the really detailed patterns. We talk about the grandchildren, about what's going on in her life. She's a good daughter. Very dependable, very organized -- she takes after me that way."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "time_limit_seconds": 25,
+      "response": "Well, both my brothers have passed. My brother Walter died in 2010 and my brother Frank in 2016. I miss them. Harold has a sister still living down in Indiana, but we only see her at Christmas anymore. She's getting on in years too. Other than that, the people I mentioned -- Harold, the three kids, the grandchildren and great-grandchildren -- that's really my whole world.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q07",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "time_limit_seconds": 80,
+      "response": "Oh yes, my bridge group. There are four of us -- me, Dorothy, Helen, and Margaret. We've been playing together every Thursday afternoon for, goodness, going on twenty years now. We rotate houses, and whoever's hosting makes coffee and something sweet. It's not just the cards, though I do like to win -- don't tell them I said that. It's the company. We talk about everything. Dorothy is my closest friend outside the family. She lives three streets over and we walk together sometimes on the path behind the library. I also know the ladies at the church fellowship group, and the volunteers at the library reading program. There's a woman named Linda who runs the senior center finance volunteer group -- she and I work together on the budgets. We get along well because she's organized like me. And then there's my walking club. A group of us seniors meet twice a week on the trail behind the library, just a nice flat path. Nothing strenuous, but it keeps me moving.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about your bridge games. What's the atmosphere like?",
+          "response": "Competitive, in a friendly way. We keep score, and I keep a little notebook with our running tallies -- I've been tracking who wins for years. Margaret says I take it too seriously, but she's the one who gets upset when she loses a rubber. We play for about two hours, and there's always gossip mixed in with the cards. Helen brings the best lemon bars. It's really the highlight of my week, honestly. It gives me something to look forward to every Thursday."
+        },
+        {
+          "question": "How did you get involved with the library volunteer program?",
+          "response": "That started about twelve years ago. The library was looking for volunteers to help with their children's reading hour, and I saw a flyer at the church. I like working with small groups, so I signed up. I help organize the materials, set up the room, and sometimes I read to the little ones. It's a very structured program, which suits me. I go on Wednesday mornings, every week. The librarians are lovely people, and it gets me out of the house on a regular schedule."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "time_limit_seconds": 105,
+      "response": "Saline is a wonderful little city. It's in Washtenaw County, just south of Ann Arbor, so you've got the university nearby but you're still in a smaller, quieter place. Our neighborhood is residential, mostly single-family homes, nice yards. A lot of the people on our street have been here as long as we have, or close to it. There are some younger families moving in now, which is nice -- you hear children playing again. We're close to downtown, which is just a few blocks of shops and restaurants. There's the library, which I go to every week. The senior center is nearby too. We have the trail behind the library where I walk with my group. The churches are all within a short drive. It feels like a real community. You see people you know at the hardware store, at the post office. It's the kind of place where if you don't show up somewhere you're expected, someone will call and check on you.",
+      "follow_ups": [
+        {
+          "question": "How has the neighborhood changed over the years since you moved here in 1978?",
+          "response": "When we first came, it was even smaller. The downtown had maybe half the shops it has now. There's been some growth, new subdivisions on the edges of town, and Ann Arbor has gotten bigger so Saline feels a little less separate than it used to. But the heart of it is the same. The library got an expansion, the senior center got updated, and they put in that nice walking trail. Those are all improvements, I think. What I don't love is the traffic -- it's picked up on Michigan Avenue. But compared to most places, we've got it good."
+        },
+        {
+          "question": "Do you interact much with the newer families who have moved onto your street?",
+          "response": "A little. There's a young couple two doors down, and when they moved in I brought over a plate of cookies -- that's what you do. They're nice people, busy with their jobs. They don't sit on the porch the way we used to, but they wave and they keep their yard tidy, so we get along fine. I don't know everyone on the street the way I once did, but that's just how things are now. People are on their phones instead of chatting over the fence."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "I feel very safe. I've never had a problem here. We don't even lock the garage most of the time, though Patricia says I should. The worst thing that's happened is somebody's dog getting into my garden a few years back and digging up my carrots. Saline has very little crime. You hear about things happening in bigger cities, and I'm grateful we're here. I do lock the front door at night, of course, and Harold keeps the porch light on. But I've never felt afraid in this neighborhood, not once in almost fifty years.",
+      "follow_ups": [
+        {
+          "question": "Has that sense of safety changed at all as you've gotten older?",
+          "response": "Maybe a little. I'm more aware of my footing now -- I worry about slipping on ice in the winter more than I worry about anything else. And Harold and I try not to be out driving after dark because his eyes aren't what they used to be. But in terms of feeling safe from other people, no, that hasn't changed. This is a good, quiet neighborhood."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "time_limit_seconds": 40,
+      "response": "The ups far outweigh the downs. We raised our children here, we know the community, we're close to Robert and Patricia. The downs -- well, Michigan winters are hard, especially at our age. The cold gets into my joints, and shoveling is out of the question now. Robert comes by to clear the driveway, or we hire a neighborhood kid. And being in a smaller town means sometimes you have to drive to Ann Arbor for certain things -- a specialist doctor, a particular store. But honestly, for the life we want to live at this stage, Saline is just right. Everything I need is within a ten-minute drive.",
+      "follow_ups": [
+        {
+          "question": "Has there ever been a time you considered leaving Saline?",
+          "response": "James suggested we move to Ohio to be near him when Harold had a rough patch a few years back. But I told him, 'This is our home.' I know every inch of this house. I know where the grocery store is, where the doctor's office is, where the church is. Starting over somewhere new at eighty-five? No, thank you. I'd rather stay here where things are familiar and I've got my people around me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "time_limit_seconds": 80,
+      "response": "It's just Harold and me, the two of us. It's been that way since Patricia moved out in 1992 -- she was the last one. The house feels bigger than it needs to be sometimes, especially now that it's just the two of us rattling around in three bedrooms. But we've got our routines. Harold has his side of the house -- his recliner, his garage workshop -- and I have mine: the kitchen, my sewing room where I keep my quilting frame and all my fabrics. We come together for meals, for the evening, for church on Sundays. It works. We know how to be around each other after sixty-four years.",
+      "follow_ups": [
+        {
+          "question": "Tell me about your sewing room. What does that space look like?",
+          "response": "It's the spare bedroom upstairs. I've got my quilting frame set up by the window where the light is good. Shelves of fabric organized by color -- I'm particular about that. My yarn basket is in the corner for when I'm knitting. I've got patterns pinned to a corkboard, and there's a little radio that I play while I work. I spend a lot of time in there, especially in the winter when I can't be in the garden. I'm working on a quilt right now that has a log cabin pattern. It's for one of the great-grandchildren."
+        },
+        {
+          "question": "How do you and Harold divide the household responsibilities?",
+          "response": "I handle the inside -- cooking, cleaning, laundry, bills, groceries. Harold handles the outside -- the yard, the gutters, snow removal, though he needs help with that now. He also does small repairs around the house. We've always divided it that way, and it works for us. I do the budget and pay all the bills. Harold trusts me with the money completely. He'll say, 'You're the numbers person,' and he's right."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "block": "HOUSEHOLD",
+      "question_text": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "time_limit_seconds": 10,
+      "response": "Everyone is permanent. It's just Harold and me, and we're not going anywhere.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q13",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about anyone else who stays here from time to time, if there is anyone like that",
+      "time_limit_seconds": 10,
+      "response": "The grandchildren stay over sometimes at holidays -- we set up the spare room for them. And Patricia will stay the night if the weather's bad or if she's worried about us for some reason. But it's not regular.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q14",
+      "block": "HOUSEHOLD",
+      "question_text": "Is there anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No. It's just the two of us here, and we're both home.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q15",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Right now, across a typical week, how do your days vary?",
+      "time_limit_seconds": 105,
+      "response": "My week is pretty structured. I like it that way. Every day starts the same -- I'm up by six, sometimes six-fifteen. I make coffee, have a bowl of oatmeal with a little cinnamon, and check my garden if the weather allows. Mondays I do laundry and general housework. Tuesdays Patricia comes by in the afternoon, and that's usually when we run errands or I have a doctor's appointment. Wednesdays I go to the library for the reading volunteer program in the morning. Thursdays are my bridge game at two o'clock -- that's sacred, don't schedule anything on a Thursday afternoon. Fridays I go to the senior center for the finance volunteer work, help with their books. Saturdays Patricia comes again, and sometimes we bake or I work on a quilt. Sundays we go to services in the morning, then have a bigger lunch at home, and Harold watches whatever game is on while I read or do a crossword. I also walk with my walking club on Tuesdays and Thursdays, early morning, on the trail behind the library.",
+      "follow_ups": [
+        {
+          "question": "You mentioned walking on Tuesdays and Thursdays. What time is that, and how long do you walk?",
+          "response": "We meet at eight in the morning. There are usually six or seven of us, sometimes more if the weather's nice. We walk for about thirty to forty minutes -- nothing too fast, just a steady pace on the flat trail. It's about a mile and a half, maybe two. I like the regularity of it. My knees can be stiff in the morning, but once I get moving it helps."
+        },
+        {
+          "question": "What does your evening routine look like?",
+          "response": "Supper is at five o'clock sharp. I usually cook something simple -- a casserole, a soup, or I'll warm up something I made earlier in the week. After we eat, Harold does the dishes -- that's been his job for decades -- and then we settle in for the evening. I'll quilt or knit, he'll watch TV. I might work on a crossword puzzle. By eight-thirty I'm getting ready for bed -- wash up, read a few pages of my book, lights out by nine. I sleep better when everything's on schedule."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "At what kind of job or jobs do you work, and when do you work?",
+      "time_limit_seconds": 105,
+      "response": "Well, I haven't worked for pay in a very long time. I stopped working outside the home when I had the children in the sixties, and I never went back to a paying job. What I do now is volunteer work, which I take just as seriously. I volunteer at the senior center managing their small fund -- keeping track of donations, expenses for events, making sure everything balances. I do that on Fridays, usually spend two or three hours there. And I volunteer at the library's reading program on Wednesday mornings, about two hours. I also organize the fellowship meetings at church -- that's more behind the scenes, planning the schedule, ordering supplies, coordinating who's bringing what dish. It's unpaid, but it keeps me busy and feeling useful. I treat it like a job -- I keep records, I'm on time, I follow through.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the senior center finance work. What does that look like day-to-day?",
+          "response": "When I go in on Fridays, I sit down with the ledger -- yes, I still keep a paper ledger, though Linda has it on the computer too -- and I reconcile any donations that came in during the week, check receipts from supplies we bought, make sure the checking account lines up. If there's an event coming up, like a holiday luncheon, I'll put together a budget for it. I'm very careful with other people's money. Every penny has to be accounted for. Linda jokes that I'm the strictest auditor the senior center has ever had."
+        },
+        {
+          "question": "How long have you been volunteering at the senior center?",
+          "response": "About eight years now. I started after I stepped back from some of my church duties -- I was doing too much at one point and it was wearing me out. The senior center needed someone who was good with numbers, and that's me. It gives me a purpose. At eighty-five, you need that. You need a reason to get up and get dressed and go somewhere."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Do you have other routines or responsibilities that you did not already share?",
+      "time_limit_seconds": 80,
+      "response": "I do the bird-watching in the backyard. I've got three feeders set up, and every morning after I check the garden, I refill them and sit on the back porch for a little while to see who shows up. I keep a notebook of what birds I see -- cardinals, blue jays, chickadees, sparrows mostly. In the spring and fall I'll sometimes spot something unusual and I write that down too. I also spend time on my quilting most days, even if it's just twenty or thirty minutes. And I read -- I'm always in the middle of a historical fiction novel. Right now I'm reading one about women during the Civil War. I go through about two books a month. The library holds them for me at the desk because they know what I like.",
+      "follow_ups": [
+        {
+          "question": "What draws you to historical fiction specifically?",
+          "response": "I like learning about how people lived in other times, but I want the story, not just the facts. A good historical novel makes you feel like you're there. I especially like stories about ordinary women, not queens or famous people, but regular women who kept households running during hard times. I think I see myself in those stories, in a way. My favorite recently was one set during the Depression about a Michigan farm family. That felt very close to home."
+        },
+        {
+          "question": "Tell me about your quilting projects. How do you decide what to make?",
+          "response": "I usually make quilts as gifts -- for the grandchildren, for new babies in the family or at church, sometimes for the annual church fundraiser. I like traditional patterns: log cabin, nine-patch, double wedding ring. I plan each quilt out carefully on graph paper before I cut a single piece of fabric. I pick my colors to match who it's for. The one I'm making now for the great-grandchild is blues and yellows. It takes me several months to finish one, working a little bit each day. I find it very calming -- the repetition, the precision. Every stitch has to be just so."
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Tell me about any recent changes to your daily routine.",
+      "time_limit_seconds": 80,
+      "response": "The biggest change is that I've had to slow down a bit physically. A year or so ago I started having more trouble with my knees, especially going up and down the stairs. So now I try to limit how many times a day I go upstairs to my sewing room -- I'll bring my knitting downstairs so I can work in the living room without climbing up again. Harold and I also stopped driving at night. We used to go to evening events at the church, but now we stick to daytime. I've also started doing more of my grocery list by phone -- Patricia picks things up for me, or Robert will grab what we need on his way over. I don't go to the store as much as I used to. I miss that, honestly. I liked going aisle by aisle with my list. But it takes a lot out of me now, being on my feet that long.",
+      "follow_ups": [
+        {
+          "question": "How have you adjusted emotionally to having to slow down?",
+          "response": "It's hard. I'm a person who likes to be in control of my own schedule, my own errands. Having to depend on other people for rides or shopping -- that's not easy for me. I don't like being a burden, even though Patricia says I'm not one. I try to focus on what I can still do: I can still cook, still quilt, still do the books at the senior center. As long as I can do those things, I'm alright. But I'll admit, some days I get frustrated when my body won't cooperate with what my mind wants to do."
+        },
+        {
+          "question": "Has Harold had to make similar adjustments?",
+          "response": "Yes, Harold's slowed down too. He used to do all the yard work, but now Robert mows the lawn and Harold just tinkers with small things in the garage. His hearing isn't great -- I have to speak up or he misses half of what I say. And like I mentioned, he doesn't drive at night anymore either. But he's still steady, still here. We lean on each other. When my knees are bad, he heats up the leftovers. When his back acts up, I handle his share of the chores. That's what marriage is after sixty-four years."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "time_limit_seconds": 80,
+      "response": "Well, my children are all grown now -- they're in their fifties and sixties. But back when they were school-age here in Saline, I ran a tight ship. The boys were up at six-thirty, breakfast by seven -- usually eggs and toast, nothing fancy but filling. They walked to school, which was close enough. Patricia took the bus later when she was in elementary school. After school, the boys did sports -- Robert was in baseball, James ran track. Patricia did her homework first, always, just like I taught her. Everyone was home by five-thirty for dinner. After dinner was homework time, then baths, then bed by nine. We didn't have a lot of extracurricular chaos -- I kept it manageable. I didn't want them over-scheduled. I believe children need routine and rest, and that's what they got.",
+      "follow_ups": [
+        {
+          "question": "Do you see any of those routines reflected in how your children raise their own kids now?",
+          "response": "Patricia is the most like me. She keeps a schedule for her family, makes lists, plans ahead. Robert is more relaxed, but he still values family dinners, which makes me happy. James is his own man -- he does things differently, but his kids turned out fine, so who am I to judge. I do think the grandchildren have too many activities, running from one thing to the next. When they visit, I try to slow things down. We sit. We play cards. We bake cookies. They don't need to be entertained every minute."
+        }
+      ]
+    },
+    {
+      "question_id": "Q20",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I've been very fortunate -- I've had almost no run-ins with law enforcement. The most memorable thing is, oh, maybe fifteen years ago, a Saline police officer came by because there had been some break-ins a few neighborhoods over and they were going door to door reminding people to lock up. He was very polite, very professional. I offered him a glass of water and he declined but said thank you. Other than that, I got a speeding ticket once back in the eighties when I was in a hurry to pick up James from practice. Harold never let me forget that. But no, nothing serious. We're law-abiding people, and the local police here are good neighbors. You see them at the Fourth of July parade, at the school events. It's a small town.",
+      "follow_ups": [
+        {
+          "question": "How do you generally feel about the police in your community?",
+          "response": "I think they do a good job. Saline is a safe place, and I think they help keep it that way. I know some people have different experiences, and I understand that. But for me and my family, the police have always been respectful. I appreciate that they check in on the neighborhood. A couple of times when Harold accidentally set off the smoke alarm cooking, they came by just to make sure everything was alright. That's reassuring at our age."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "What other experiences with law enforcement stand out in your mind?",
+      "time_limit_seconds": 40,
+      "response": "I really can't think of any others that stand out personally. The only other thing is, James had a fender-bender years ago, nothing serious, and the officer who responded was perfectly fair about it. Beyond that, law enforcement just hasn't been a big part of my life, and I'm grateful for that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q22",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people tell us about experiences of arrest -- of loved ones, family members, friends, or themselves. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "No, nothing like that. Nobody in my immediate family has ever been arrested. I'm thankful for that. We've been a pretty quiet, by-the-book family. I know that's a blessing and not everyone has that experience, but that's been ours.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q23",
+      "block": "POLITICS",
+      "question_text": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I vote in every election. Every single one -- federal, state, local, school board, you name it. I have not missed an election since I turned twenty-one, back before they lowered the voting age. My parents taught me that voting is a duty, not a choice. Harold and I go together to the polling place, first thing in the morning. I always research the candidates and the ballot measures ahead of time. I write out a little cheat sheet to take with me so I don't forget how I decided on the smaller races. I take it very seriously.",
+      "follow_ups": [
+        {
+          "question": "How do you research the candidates and issues before you vote?",
+          "response": "I read the local newspaper -- the Saline Post -- and I pick up the voter guides that come in the mail. For the bigger elections, I'll watch some of the debates on TV, though I find a lot of them more shouting than substance these days. I talk things over with Harold and sometimes with Dorothy, though we don't always agree. I try to focus on what the candidates have actually done, not just what they say they'll do. I keep my notes on a notepad and go through them the night before the election."
+        },
+        {
+          "question": "Has voting always felt this important to you, or has it become more so over time?",
+          "response": "It's always been important. My father used to say, 'If you don't vote, you don't get to complain.' I took that to heart. If anything, I feel more strongly about it now because I've seen so many elections and so many changes. I've voted for presidents who disappointed me and presidents who surprised me. But I always show up. That's the deal."
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "block": "POLITICS",
+      "question_text": "How would you describe your political views?",
+      "time_limit_seconds": 310,
+      "response": "I'd say I'm someone who thinks about each issue on its own rather than following a party line completely. I grew up in a house where you worked hard, you saved your money, you didn't expect handouts, and you took care of your community. That shapes how I see a lot of things. I believe in being careful with how the government spends money -- I run a tight budget at home and I expect the same from the people in charge. I don't like waste. At the same time, I think there are programs that help people who genuinely need it, and I support that. The senior center where I volunteer, for example, gets some public funding and it does real good in this community. I get uncomfortable with a lot of the anger in politics lately. I read the local paper and I watch the evening news, and it just seems like everyone is yelling at each other. I miss the days when people could disagree without being hateful about it. On social issues, I tend to think that people should be allowed to live their lives, but I also hold on to some of the values I was raised with. I don't always fit neatly into one box, and I'm okay with that.",
+      "follow_ups": [
+        {
+          "question": "Are there particular issues that matter most to you when you're deciding how to vote?",
+          "response": "At this stage of my life, I pay close attention to anything that affects people my age -- how the government handles retirement benefits, how they fund programs for seniors, what they're doing about the cost of the pills I take every day. Property taxes too, since we own our home and we're on a fixed income. I also care about the local school board because I want good schools for the grandchildren and for the community. And I want roads that aren't falling apart -- that's a real issue in Michigan."
+        },
+        {
+          "question": "You mentioned you read the local paper and watch the evening news. Which ones?",
+          "response": "I get the Saline Post delivered, and I read the Ann Arbor News when I can get a copy at the library. For TV, I watch the evening news at six o'clock -- usually the broadcast network, whichever one Harold has on. I used to watch more cable news but I stopped because it was making me upset. Too much arguing. Now I stick to the regular news and the newspaper. I also listen to the local radio sometimes in the morning while I'm in the kitchen."
+        },
+        {
+          "question": "How has the tone of political conversation changed from when you were younger?",
+          "response": "It's like night and day. When I was younger, people disagreed, sure, but there was a basic respect. At church, at the dinner table, you could talk about the president and not start a fight. Now it seems like politics has gotten personal in a way it never used to be. People don't just disagree, they stop talking to each other over it. I've seen it at the bridge table -- we had to make a rule, no politics during cards, because it was ruining the game. That makes me sad. I think you can hold your views and still be civil."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "block": "POLITICS",
+      "question_text": "Tell me about any recent changes in your political views.",
+      "time_limit_seconds": 115,
+      "response": "I wouldn't say my core views have changed much, but what's changed is how I feel about the whole system. I'm more discouraged than I used to be. It seems like nothing gets done because everyone's fighting. The cost of things keeps going up -- groceries, medications, property taxes -- and nobody in office seems to be doing anything about it. I've also become more aware that the world my grandchildren are growing up in is very different from the one I knew. Some of the issues they talk about, like the environment and technology and how people communicate, those weren't on my radar before. I'm trying to listen more, even when I don't fully understand. My granddaughter has opened my eyes to some things about how young people see the world.",
+      "follow_ups": [
+        {
+          "question": "What kinds of things has your granddaughter opened your eyes to?",
+          "response": "She talks about the cost of college, for one thing. She has student loans that are more than what we paid for our house, which is just unbelievable to me. And she worries about the environment in a way that my generation didn't really think about. She recycles everything, tries to buy from local businesses. I've started paying more attention to that -- I try to bring my own bags to the store now, things like that. I may be eighty-five, but I can still learn."
+        }
+      ]
+    },
+    {
+      "question_id": "Q26",
+      "block": "POLITICS",
+      "question_text": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "time_limit_seconds": 105,
+      "response": "I'd say it's affected me somewhat, in the sense that I've been paying attention to it and thinking about it. I grew up in a town that was almost entirely white, and Saline is mostly white too, so I'll be honest and say that my day-to-day life doesn't bring me into contact with a lot of diversity. But I watch the news, and I see the stories, and some of them are very disturbing. The videos of people being hurt by police -- that's hard to watch regardless of who you are. I think everyone deserves to be treated fairly and with respect. My upbringing taught me that you treat people the way you want to be treated, and I still believe that. But I also know that my experience with police has been nothing but positive, so it's hard for me to fully understand what other people go through.",
+      "follow_ups": [
+        {
+          "question": "Has this topic come up in conversations with your family or friends?",
+          "response": "It has, mostly with the younger generation. My grandchildren feel very strongly about these issues. They've talked to me about it, and I listen. I don't always know what to say, because I grew up in a different time and a different place. But I try to hear them out. At bridge, we agreed not to discuss it because it got too heated. Dorothy and I talked about it privately once or twice, and we both agreed it's sad that people are treated differently because of how they look. Beyond that, I mostly keep my thoughts to myself on this one."
+        }
+      ]
+    },
+    {
+      "question_id": "Q27",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about the issues Black Lives Matter raises?",
+      "time_limit_seconds": 105,
+      "response": "I think the basic idea -- that every person's life matters and that nobody should be mistreated -- is something I agree with completely. That's just being a decent human being. Where it gets complicated for me is when the conversation turns to big policy changes or when protests become destructive. I'm someone who believes in order and working within the system to make changes. I vote, I write the occasional letter to my representative, and I think that's the right way to do it. But I also understand that if the system hasn't been working for certain people, they might feel like they have to do something bigger to be heard. I'm still working through all of it, honestly. I'm an eighty-five-year-old white woman from a small Michigan town -- I know there's a lot I don't fully understand about other people's experiences.",
+      "follow_ups": [
+        {
+          "question": "You said you sometimes write to your representative. Have you done that recently about any of these issues?",
+          "response": "Not specifically about policing, no. The last letters I wrote were about prescription costs and road funding -- things that directly affect me. But I did sign a card at church once that was a general statement about treating all people with dignity. That felt right to me. I'm not one for big public statements, but I try to live by my values in my own small way."
+        }
+      ]
+    },
+    {
+      "question_id": "Q28",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about race in the U.S. recently?",
+      "time_limit_seconds": 105,
+      "response": "I've been thinking that it's more complicated than I ever realized when I was younger. Growing up, race just wasn't something we talked about in my family or my community. It wasn't that we were hostile -- it was that we were sheltered. Everyone around us looked the same and had similar backgrounds. It wasn't until I started watching the news more closely and talking to my grandchildren that I began to understand how different other people's experiences are. I think this country has come a long way since I was young, but clearly there's still a long way to go. I want my great-grandchildren to grow up in a world where it doesn't matter what you look like. Whether we get there, I don't know, but I hope so.",
+      "follow_ups": [
+        {
+          "question": "Has your thinking about race evolved over the decades?",
+          "response": "Yes, I think so. When I was young, the civil rights movement was happening, and I remember my parents talking about it at the dinner table. My father was a quiet man, but he said everyone deserves a fair shake. That stuck with me. Over the years, I've met people through the church and through volunteering who come from different backgrounds, and that's broadened my perspective. I still have a lot to learn, but I'm not the same person I was at twenty or even at sixty."
+        }
+      ]
+    },
+    {
+      "question_id": "Q29",
+      "block": "POLITICS",
+      "question_text": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm mostly in the camp of keeping my thoughts to myself and listening. I've had some conversations with my grandchildren, and I talked to Dorothy about it a couple of times. But I haven't joined any protests or done anything public. At my age and in my community, I think the best thing I can do is treat everyone I meet with kindness and respect, and try to understand perspectives different from my own. That might sound small, but it's genuine.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q30",
+      "block": "POLITICS",
+      "question_text": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "time_limit_seconds": 80,
+      "response": "My grandchildren are the most vocal. A couple of them have been to marches and they post things on the internet about it. They feel very strongly, and I respect that even when I don't fully follow everything they're talking about. My children are more like me -- they're aware, they care, but they're not out marching. Patricia and I have talked about it, and she said she's been trying to learn more, reading books and such. Harold doesn't say much about it, to be honest. He watches the news and shakes his head, but he's not one for big discussions. At the bridge table and at church, people mostly avoid the topic. There's a feeling that it's too charged, too likely to cause a rift. So we stick to safer subjects.",
+      "follow_ups": [
+        {
+          "question": "How do you feel about the younger generation being more vocal about these issues?",
+          "response": "I think it's their right and maybe their responsibility. They're going to inherit this world, and they should speak up about what they want it to look like. I didn't do that at their age -- I was focused on my family and my home. But times are different now. I just hope they channel their passion into things that actually make a difference, like voting and community work, not just arguing on the internet."
+        }
+      ]
+    },
+    {
+      "question_id": "Q31",
+      "block": "HEALTH",
+      "question_text": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "time_limit_seconds": 80,
+      "response": "Well, at eighty-five, you've got to expect some wear and tear. My knees are the biggest issue -- going up stairs, getting out of a chair, that sort of thing. They're stiff in the morning and worse when it's cold. I take a couple of pills for that every day. I also take something to keep my numbers in a good range -- I go in every few months and they check my levels, make sure the ticker is doing what it should. The doctor has me on a low-salt diet, which means I've had to change how I cook some of my recipes. I used to salt everything, but now I use more herbs from the garden instead. My eyesight isn't what it was, so I use a magnifying glass for the fine stitching on my quilts. And my hearing -- well, Harold's hearing is worse than mine, so we're both turning the TV up louder than we should. But overall, for eighty-five, I'm managing. I can still get around, still think clearly, still take care of most things myself.",
+      "follow_ups": [
+        {
+          "question": "You mentioned pills for your knees and to keep your numbers right. Can you walk me through your daily pill routine?",
+          "response": "I have a pill organizer -- one of those weekly ones with the little compartments. I fill it every Sunday night for the whole week. In the morning with breakfast, I take the ones for my joints and the one the doctor says is for my levels. Then in the evening I have one more small pill. Patricia helped me set up a chart on the refrigerator so I never forget. I'm very particular about taking them at the same time every day. The doctor seems pleased with how I'm doing, so whatever's in those pills must be working."
+        },
+        {
+          "question": "How has switching to a low-salt diet affected your cooking?",
+          "response": "It was an adjustment, I'll tell you. My mother salted everything -- the sauerkraut, the pot roast, the soup. When the doctor told me to cut back, I thought, 'Well, everything's going to taste like cardboard.' But I started using more rosemary, thyme, garlic, and a little lemon juice, and honestly, some things taste better now. The chicken pot pie, for instance -- I use the herbs from my garden and it's got more flavor than it ever did. Harold didn't like it at first, but he's used to it now. I still keep a little salt shaker on the table, but I barely touch it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q32",
+      "block": "HEALTH",
+      "question_text": "For you, what makes it easy or hard to stay healthy?",
+      "time_limit_seconds": 65,
+      "response": "What makes it easier is having a routine. I eat the same breakfast every day, I walk with my group twice a week, I go to bed at the same time. That regularity keeps me on track. Having Patricia nearby to help with doctor's appointments is a big help too. What makes it hard is the cold. Michigan winters are brutal on my joints, and there are days when I just don't want to get out of bed because everything aches. Also, getting to the doctor's office is harder now that I don't drive as much. I depend on Patricia or Robert for rides, and I don't like depending on people. And honestly, the cost of those pills has gone up, and that weighs on me even though we manage it.",
+      "follow_ups": [
+        {
+          "question": "What do you do on those cold winter days when getting moving is especially difficult?",
+          "response": "I force myself out of bed at the same time regardless. That's the discipline in me. I'll take a warm shower to loosen up, and I do some gentle stretches that the doctor showed me -- just standing at the counter, bending my knees a little, rolling my ankles. Then I have my oatmeal and coffee and try to get going. If it's too icy to walk outside, I'll walk back and forth inside the house for a bit just to get the blood moving. I refuse to turn into someone who just sits in a chair all day."
+        }
+      ]
+    },
+    {
+      "question_id": "Q33",
+      "block": "HEALTH",
+      "question_text": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain -- anything like that.",
+      "time_limit_seconds": 80,
+      "response": "About eighteen months ago, my knees got bad enough that the doctor changed my pills to something stronger. I was having a lot of trouble going up the stairs, and some mornings I could barely get out of bed without holding onto something. He talked about maybe doing a procedure on the knees eventually, but I told him I'd rather manage it with pills and exercises for now. I don't want to be in a hospital if I can avoid it. Other than that, I had a bad cold last winter that turned into something in my chest, and I was down for about three weeks. Patricia came and stayed with us for a few days during the worst of it. That scared me, honestly -- at my age, a bad chest cold can turn into something serious. The doctor put me on a round of medicine, and I cleared up, but it took a while to get my energy back.",
+      "follow_ups": [
+        {
+          "question": "How did that chest illness affect your daily routine while you were recovering?",
+          "response": "Everything stopped. I couldn't go to the library, couldn't make it to bridge, couldn't even stand in the kitchen long enough to cook. Harold heated up soup and made sandwiches, bless him. I missed three weeks of my volunteer work and it drove me crazy. I kept a list of everything I needed to catch up on when I got better. The walking group went on without me, and Dorothy called every day to check in. Getting back to my routine afterward was like slowly turning the engine back on. I started with short walks around the house, then back to the trail, then back to my regular schedule. It took about a month to feel fully like myself."
+        },
+        {
+          "question": "Has that experience changed how you think about your health going forward?",
+          "response": "It has. I'm more careful now. I wash my hands constantly, I try to stay away from people who are sniffling, and I make sure I'm getting enough rest. I also started taking an extra supplement that the doctor suggested to keep my defenses up. I don't take any chances anymore. At eighty-five, you can't just bounce back the way you used to."
+        }
+      ]
+    },
+    {
+      "question_id": "Q34",
+      "block": "HEALTH",
+      "question_text": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "time_limit_seconds": 50,
+      "response": "Well, my children are long grown, so child care isn't the issue. But my health does affect my volunteer work. When my knees are bad or I'm fighting a cold, I can't get to the senior center or the library. I hate missing my commitments. And at home, there are things I can't do anymore -- I can't scrub the floors on my hands and knees, I can't carry heavy bags of groceries, I can't garden for hours the way I used to. I've had to accept help, which doesn't come naturally to me. But I'd rather accept help and keep doing the things I love in a limited way than give up on them entirely.",
+      "follow_ups": [
+        {
+          "question": "How do you decide when to push through and when to rest?",
+          "response": "I listen to my body more than I used to. If my knees are really swollen, I know that's a day to stay downstairs and knit instead of going up to the sewing room. If I'm exhausted after walking, I'll sit on the porch and watch the birds instead of starting a chore. It's a negotiation, every day. I push when I can and rest when I must. Harold's good at telling me when I'm overdoing it -- he'll say, 'Sit down, Deeva,' and I know he means it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q35",
+      "block": "HEALTH",
+      "question_text": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "time_limit_seconds": 80,
+      "response": "Yes. Harold had a scare about five years ago where he was getting dizzy and short of breath, and they found something going on with his heart. He had to go through a procedure and then take new pills, and for a while he was very tired and not himself. That was the most frightened I've been in a long time. I kept thinking, what would I do without him? I managed his pills, made sure he went to every follow-up appointment, kept track of what the doctors said in a little notebook. He's stable now, but I still watch him closely. If he looks pale or breathes heavy, I'm on it. And my brother Frank, before he passed, he was in a care facility for two years. I visited him every week until the end. That was draining -- watching someone you love decline like that. It reminded me that health is everything.",
+      "follow_ups": [
+        {
+          "question": "How did Harold's health scare affect your own well-being during that time?",
+          "response": "I didn't sleep well for months. I'd lie there listening to make sure he was breathing. I lost weight because I wasn't eating properly -- I was so focused on taking care of him that I forgot about myself. Dorothy noticed and brought me meals a few times. Eventually, once Harold was stable, I got back on track. But that period showed me how much I rely on him, even though I think of myself as independent. We're a team, and when one of us is down, the whole system wobbles."
+        },
+        {
+          "question": "Do you worry about the possibility of one of you needing long-term care?",
+          "response": "I think about it, yes. Seeing what happened with Frank, the cost of that facility, the quality of the care -- it worries me. Harold and I have talked about it a little. We both want to stay in this house as long as possible. Patricia has said she'll be there for us, and Robert too. But I know there may come a day when we need more help than the family can give. We've set some money aside for that, but whether it's enough, I honestly don't know."
+        }
+      ]
+    },
+    {
+      "question_id": "Q36",
+      "block": "HEALTH",
+      "question_text": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "time_limit_seconds": 80,
+      "response": "We've been fortunate in that we have our government health coverage for seniors, so the basics are covered. Doctor visits, hospital stays, most of the pills. But there are gaps. Some of the medications have a portion I pay out of pocket, and that adds up. There was one pill the doctor wanted me to try for my knees that would have been over a hundred dollars a month after what the coverage pays, and I said no, let's stick with the cheaper one. Is that forgoing care? I don't know. It felt like a budget decision. Getting to appointments is the other challenge. The doctors I need are in Ann Arbor, which is a twenty-minute drive. I can't always go on my own, so I have to coordinate with Patricia or Robert. I've postponed appointments before because I didn't want to bother them, and Patricia got upset with me about that. She said, 'Mom, your health comes first.' She's right, but old habits die hard.",
+      "follow_ups": [
+        {
+          "question": "How do you manage the out-of-pocket costs for your medications?",
+          "response": "I budget for it. Every month I know exactly how much the pills cost, and I set that money aside first, before anything else. It's about sixty to seventy dollars a month between the two of us after the coverage kicks in. There's a program at the pharmacy that gives a small discount for seniors, and I make sure we use that. I also compare prices sometimes -- Patricia showed me how to look it up on the computer. It's not luxurious, but we manage."
+        }
+      ]
+    },
+    {
+      "question_id": "Q37",
+      "block": "HEALTH",
+      "question_text": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "time_limit_seconds": 80,
+      "response": "Not in any formal way, but I do use home remedies that my mother taught me. If I have a sore throat, I gargle with warm salt water. If I can't sleep, I drink chamomile tea. I use peppermint oil on my temples when I get a headache. My mother always had a jar of honey with lemon in the pantry for colds. I still make that every fall. I also believe strongly in the garden as medicine -- not in a mystical way, but in the sense that getting your hands in the dirt, being outside, eating fresh vegetables, that all keeps you healthier. Harold swears by a tablespoon of apple cider vinegar every morning, though I think that's more habit than medicine. We haven't done anything like acupuncture or chiropractic -- I'm a bit skeptical of things I don't understand. But the home remedies, those I trust because they came from my mother.",
+      "follow_ups": [
+        {
+          "question": "Do you grow any of those remedies in your garden?",
+          "response": "I grow chamomile for tea, peppermint for the oil and for cooking, and I always have lemons on hand though those I buy. The rosemary and thyme aren't just for cooking -- rosemary is supposed to be good for circulation, and thyme is good for coughs. I don't know if the science backs all of that up, but it's what I was taught, and it hasn't steered me wrong yet."
+        }
+      ]
+    },
+    {
+      "question_id": "Q38",
+      "block": "HEALTH",
+      "question_text": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I've never smoked, not once. My father smoked, and I hated the smell of it. When he passed, it was partly because of what all those years of smoking did to his lungs, and that was enough to keep me away forever. As for drinking, I'll have a small glass of wine at holidays -- Christmas, Thanksgiving, a birthday toast. But that's it. Maybe five or six times a year. Harold used to have a beer on weekends when he was younger, but he barely drinks now either. We're not teetotalers, but alcohol has never been something either of us leaned on during hard times. When I'm stressed, I quilt. I clean the house. I organize something. That's my coping. Keeping my hands busy and my surroundings in order makes me feel like I'm in control, even when things aren't going well.",
+      "follow_ups": [
+        {
+          "question": "When was the last time you felt that kind of stress and turned to those habits?",
+          "response": "During Harold's heart scare. I cleaned this house from top to bottom while he was in the hospital. Patricia came by and found me scrubbing the kitchen cabinets at ten o'clock at night. She said, 'Mom, what are you doing?' And I said, 'If I stop moving, I'll start worrying.' That's how I'm wired. If I keep my hands busy, my mind stays calmer."
+        }
+      ]
+    },
+    {
+      "question_id": "Q39",
+      "block": "HEALTH",
+      "question_text": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "time_limit_seconds": 80,
+      "response": "The only prescriptions I use are the ones the doctor gave me for my knees and my levels, and I take those exactly as directed -- no more, no less. I've never used marijuana or anything like that. When my knees are really bad, sometimes I'll take an extra over-the-counter pain reliever, but I always check with the doctor first. I'm very careful about medications. I keep a list of everything I take in my wallet so that if I ever end up in the emergency room, the doctors know exactly what's in my system. I'm not comfortable with the idea of relying on pills beyond what's necessary. My mother's generation got by with aspirin and hot water bottles, and I try to keep that same mindset.",
+      "follow_ups": [
+        {
+          "question": "Do you ever worry about the number of pills you take as you've gotten older?",
+          "response": "I do. When I was sixty, I took nothing. Now I have a whole row of bottles in the cabinet. Every time the doctor adds something, I ask, 'Is this really necessary?' I don't want to be one of those people rattling around with a bag full of pills. But so far everything I take has a clear purpose, and I can see the difference when I take them versus when I forget. So I accept it as part of being eighty-five."
+        }
+      ]
+    },
+    {
+      "question_id": "Q40",
+      "block": "HEALTH",
+      "question_text": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "time_limit_seconds": 80,
+      "response": "Our government health coverage for seniors covers the bulk of it, which is a blessing. Doctor visits, hospital stays, the main prescriptions -- those are mostly covered. We pay out of pocket for the portions that aren't covered, which runs about sixty to seventy dollars a month. Harold's heart medications are the biggest chunk. I budget for it just like any other bill -- it goes in the ledger, first of the month. The kids help when something unexpected comes up. When Harold needed that procedure, there were some costs that weren't fully covered, and Robert and Patricia split it between them without us asking. I didn't like taking the money, but they insisted. We also have a small emergency fund that I've been adding to for years, a little bit each month. It's not much, but it's there for when we need it.",
+      "follow_ups": [
+        {
+          "question": "How do you feel about relying on your children for some of those costs?",
+          "response": "Grateful but uncomfortable. I raised them to be independent, and I'd rather be the one helping them than the other way around. But I also know that at our age, this is just how it goes. They want to help, and I've learned to let them. Harold is better at accepting it than I am. He says, 'That's what family is for,' and he's probably right."
+        }
+      ]
+    },
+    {
+      "question_id": "Q41",
+      "block": "HEALTH",
+      "question_text": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm a believer in them. I get my flu shot every year, and I got all the shots they recommended during the pandemic -- every round. At my age, I'm not taking chances. I grew up in a time when polio was still a real fear, and I remember the relief when that shot came along. My parents made sure all of us children got every shot available. I don't understand the people who refuse them. My doctor recommends them, and I trust my doctor. It's that simple for me.",
+      "follow_ups": [
+        {
+          "question": "Has anyone in your family or circle been hesitant about vaccines?",
+          "response": "One of James's sons was on the fence during the pandemic, and I called him up and told him, 'Your grandmother didn't survive eighty-something years to be taken out by something preventable because you're reading nonsense on the internet.' He got his shots after that. I don't know if it was because of me or not, but I like to think I helped."
+        }
+      ]
+    },
+    {
+      "question_id": "Q42",
+      "block": "HEALTH",
+      "question_text": "What are your trusted sources of information about the vaccine?",
+      "time_limit_seconds": 80,
+      "response": "My doctor, first and foremost. If Dr. Hendricks tells me to get a shot, I get it. I also listen to what they say on the evening news -- the medical correspondents who explain things in plain language. And the pharmacy -- our pharmacist, Carol at the Rite Aid, she's been very helpful in explaining what's in the shots and what to expect. I don't go on the internet for medical information because I can't tell what's reliable and what's not. Patricia sometimes looks things up for me if I have a question, but she knows I'm going to listen to the doctor over anything else.",
+      "follow_ups": [
+        {
+          "question": "How long have you been going to Dr. Hendricks?",
+          "response": "About fifteen years now. He's the one who's been managing my knees and my levels and all of it. He's patient, he explains things clearly, and he doesn't rush me. That matters when you're older -- some doctors talk to you like you can't understand, but he treats me like an adult. I trust him completely."
+        }
+      ]
+    },
+    {
+      "question_id": "Q43",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "time_limit_seconds": 115,
+      "response": "Overall, I'd say I've been doing alright, but it's been a mixed bag. There are days when I feel grateful and purposeful -- I've got my volunteer work, my quilting, my family nearby. Those are good days. But there are other days when the aches and the limitations get to me, and I feel frustrated and a little down. Losing my brother Frank a few years back hit me hard, and even now I'll have moments where I think of him and feel a wave of sadness. And there are times when I look around and realize how many people from my generation are gone -- friends, family, people I grew up with. That loneliness of being one of the last ones standing, it's real. Harold and I have each other, and that's a tremendous comfort. But some mornings I wake up and everything hurts, and the house is quiet, and I have to give myself a little talking-to: 'Get up, Deeva. You have things to do.' And I do. I get up. But it's not always easy.",
+      "follow_ups": [
+        {
+          "question": "What do you do on those harder mornings to get yourself going?",
+          "response": "I stick to the routine. That's my anchor. I put my feet on the floor, I go downstairs, I make the coffee. Once I'm moving, it gets easier. If it's a walking day, getting out to the trail with the group really helps -- being around other people, moving my body, breathing the fresh air. And I think about what's on the calendar for that day. If I have bridge or a volunteer shift, that gives me something to look forward to. The days that are hardest are the ones with nothing scheduled, which is why I try not to have too many of those."
+        },
+        {
+          "question": "Do you talk to anyone about how you're feeling on those difficult days?",
+          "response": "Not much. I'm from a generation that doesn't really do that. Harold knows when I'm having a bad day -- he can tell by how quiet I am -- but we don't sit down and have big conversations about feelings. Dorothy is the one friend I might say something to, like, 'I'm having a rough week,' and she'll just nod and pour me another cup of coffee. That's enough. Patricia has tried to get me to talk more about it, and I appreciate that, but I'm more of a keep-it-inside-and-keep-moving type."
+        }
+      ]
+    },
+    {
+      "question_id": "Q44",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "time_limit_seconds": 80,
+      "response": "Last winter, during that bad cold I mentioned, I was laid up for three weeks and I couldn't do any of my usual activities. I missed bridge for three weeks in a row, couldn't volunteer, couldn't garden because it was winter anyway. I was stuck in the house, coughing, weak, and dependent on Harold and Patricia for everything. About the second week, I was sitting in my chair, looking out the window at the snow, and I just started crying. Not sobbing, just quiet tears. I felt so useless. I thought, 'Is this what the rest of my life is going to be? Sitting in a chair, waiting for someone to bring me soup?' That scared me more than the illness itself. But then I got better, slowly, and I got back to my routine, and the feeling passed. But I remember it. It's a reminder of what's at stake when my health goes sideways.",
+      "follow_ups": [
+        {
+          "question": "Did that experience change anything about how you approach your days now?",
+          "response": "It made me more determined to stay active and keep my routine going. I don't take a single bridge game or a single walk for granted anymore. Every time I can get to the library on Wednesday or sit down with Dorothy and the cards on Thursday, I think, 'This is good. This is what keeps me going.' I also started being more careful about resting before I'm exhausted, so I don't run myself down and end up sick again."
+        },
+        {
+          "question": "Did you talk to Patricia or anyone about those tears?",
+          "response": "No. I wiped my face and put on the television. Patricia was there making lunch and I didn't want her to see me like that. She worries enough already. I don't want to be a burden in any way -- physically or emotionally. I know that probably sounds stubborn, but it's how I was raised. You handle your own feelings and you move on."
+        }
+      ]
+    },
+    {
+      "question_id": "Q45",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I wouldn't use those big words for what I experience, but I'll say this: there are weeks where everything feels heavier than it should. The mornings are harder to face, the chores feel like mountains, and I don't look forward to things the way I normally do. It comes and goes, usually tied to the weather or my health or something happening with Harold. Winter is the worst -- the short days, the cold, being stuck inside. I deal with it by keeping busy. If I sit still too long, my mind goes to dark places -- worrying about Harold, worrying about my own health, thinking about everyone I've lost. So I keep my hands moving. Quilting, knitting, crosswords, organizing something. As long as I'm doing something productive, I can keep those feelings at arm's length. I've never talked to a doctor about it or taken anything for it. I just push through.",
+      "follow_ups": [
+        {
+          "question": "You mentioned your mind going to dark places. Can you say more about what that looks like for you?",
+          "response": "It's the worrying, mostly. I'll lie in bed at night running through every possible bad thing that could happen. What if Harold has another episode with his heart? What if I fall and break a hip? What if we run out of money for the medications? I'll go through these scenarios over and over, and by the time I stop, it's midnight and I'm wide awake. I've learned to combat it by getting up and making a list -- writing down what I'm worried about and what I can actually do about it. Once it's on paper, it feels more manageable. But those nighttime spirals, they happen more than I'd like to admit."
+        },
+        {
+          "question": "Has anyone ever suggested you talk to a professional about those feelings?",
+          "response": "Patricia has mentioned it once or twice. She said her friend sees a counselor and it helps. But I told her, 'I'm eighty-five years old. I've been managing my own feelings my whole life.' I'm not opposed to it in principle -- I think it's fine for people who need it. But for me, I have my routine, my activities, and my faith. Those are my counselors, so to speak. If it ever got to the point where I couldn't function, that would be different. But so far, I manage."
+        }
+      ]
+    },
+    {
+      "question_id": "Q46",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "How has it been for your family?",
+      "time_limit_seconds": 50,
+      "response": "Patricia carries a lot of worry, I know that. She worries about Harold and me, about her own kids, about work. She doesn't always say it, but I can see it in her face when she comes by. Robert keeps things close to the chest, like his father. James, I'm not sure -- he's far enough away that I don't see the day-to-day. Harold is steady, like always, but I know the limitations of aging weigh on him. He doesn't say much, but he gets quiet when something's bothering him. He used to be the one who fixed everything, and now he can't, and I think that's hard for a man like him. We're all coping in our own ways, getting by, supporting each other as best we can.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q47",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "time_limit_seconds": 155,
+      "response": "It's been a part of my life since I can remember. My family went to services every Sunday when I was growing up, and Harold and I have done the same our whole marriage. We go to a church here in Saline -- been going there since we moved in 1978. I know everyone there, and they know me. I organize the fellowship meetings, help with the potlucks, used to manage the women's group treasury. It's not just the services, though -- it's the community. The people at that church have been there for us through everything: when the kids were born, when my parents passed, when Harold was in the hospital. They brought meals, they sent cards, they showed up. That's what it means to me -- it's less about the theology and more about belonging to something bigger than yourself. I do pray, mostly in the evening before bed. I ask for the health of my family, for guidance when I'm worried, and I give thanks for the good days. It gives me comfort, especially when things are hard. The choir at church is beautiful -- they do these old hymns with a piano, and some Sundays it's the most peaceful I feel all week.",
+      "follow_ups": [
+        {
+          "question": "Tell me about organizing the fellowship meetings. What does that involve?",
+          "response": "The fellowship meetings happen twice a month, usually after the Sunday service. I plan the schedule -- who's speaking, what the topic is, what we'll serve. I keep a binder with everything: contact lists, sign-up sheets for who's bringing what dish, the budget for supplies. I order the paper plates and napkins, make sure the coffee is set up. It's a small group, maybe twenty people, but I want it to run smoothly. When people say, 'Deeva, that was a lovely fellowship,' that means the world to me. It's my way of serving the community."
+        },
+        {
+          "question": "Has your relationship with your faith changed over the years?",
+          "response": "It's deepened, if anything. When I was young, going to services was just what you did -- you didn't question it. As I've gotten older and lost people I love, the comfort of it has become more important. I don't have all the answers about what happens after this life, but I find peace in the prayers and the hymns and the community. When Harold was in the hospital, I sat in our pew alone on Sunday morning and that was the hardest thing -- but also the most comforting, because the people around me understood and held me up without me having to ask."
+        },
+        {
+          "question": "Do you do anything spiritual outside of church?",
+          "response": "My evening prayers, like I mentioned. And sometimes when I'm in the garden, I feel a sense of gratitude that I'd call spiritual. Watching the seeds come up, the birds at the feeder, the seasons changing -- it reminds me that there's an order to things that's bigger than my little worries. I also read the devotional booklet that the church provides. I keep it on my nightstand and read a passage before bed. It's a small thing, but it centers me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q48",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "time_limit_seconds": 115,
+      "response": "I do have a Facebook account, but Patricia set it up for me and I'm not what you'd call a heavy user. I go on maybe once or twice a week, usually on the computer at my desk. I look at photos the grandchildren post -- birthdays, vacations, the babies. Sometimes I'll click the little thumbs-up button. I've never posted anything myself. I don't really understand all the features, and I'm afraid I'll click something wrong and share my whole life with strangers. Patricia showed me how to use the video call feature on the computer, and I do that with James in Ohio every couple of weeks. That's wonderful -- being able to see his face while we talk. But Instagram, Twitter, all those other things -- no. I don't have the patience or the interest. I'd rather write a letter or pick up the phone. I think people spend too much time staring at their screens, honestly. But I'm glad the technology exists for staying in touch with the family members who are far away.",
+      "follow_ups": [
+        {
+          "question": "Have you ever found anything useful or enjoyable on Facebook, besides family photos?",
+          "response": "There's a quilting group that Patricia added me to, and I do scroll through that sometimes. People post pictures of their quilts and patterns, and I've gotten a couple of ideas from it. But I don't comment or participate much. And there's the Saline community page where people post about local events. I've seen notices about library programs and senior center activities there. So it's not completely useless to me, but I could live without it."
+        },
+        {
+          "question": "How do you feel about the amount of time younger people spend on social media?",
+          "response": "I worry about it. The grandchildren are on their phones constantly. When they come to visit, I have to say, 'Put that thing away, we're having dinner.' I think they miss out on real conversations, real connections. I know that sounds old-fashioned, but when I sit down with Dorothy for bridge, we're looking at each other, talking, laughing. That's connection. I'm not sure tapping a screen all day gives you the same thing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q49",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "time_limit_seconds": 50,
+      "response": "No, I would never do that. If I need support, I call Patricia or Dorothy. The idea of putting my troubles out there for everyone to see -- no. That's private. When Harold was in the hospital, a few people from church posted well-wishes on my Facebook page, and that was kind of them, but I responded by phone, not online. I just don't think the internet is the place for personal struggles. I know younger people feel differently, and that's their business. But for me, support comes from the people sitting across from you, not from strangers on a screen.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q50",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "time_limit_seconds": 50,
+      "response": "I'd say my worry level has gone up a bit in the last year or two, mostly because of the physical changes. Every new ache or pain makes me think, 'Is this something serious?' The cost of living going up has stressed me out too -- groceries are more expensive, the medications cost more, property taxes went up. I cope the same way I always have: I keep to my routine, I stay busy with my hands, I organize and plan so I feel in control. I've also started relying on Patricia more, which is both a comfort and a stress in itself, because I don't want to be a burden. One thing that has helped is that I've been doing more of my crosswords and reading -- those quiet activities calm my mind. And the walking has been good for my mood. The mornings I walk with the group, I always feel better for the rest of the day.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q51",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "time_limit_seconds": 25,
+      "response": "Just my husband Harold. The two of us, in our house in Saline. That's it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q52",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any babies or small children?",
+      "time_limit_seconds": 10,
+      "response": "No. The great-grandchildren visit, but they don't live here.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q53",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, no one.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q54",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any lodgers, boarders, or employees who live here?",
+      "time_limit_seconds": 10,
+      "response": "No, nothing like that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q55",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "time_limit_seconds": 5,
+      "response": "Harold and I share it, though I manage the bills. The mortgage has been paid off for years.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q56",
+      "block": "FINANCES",
+      "question_text": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "time_limit_seconds": 50,
+      "response": "Last month the biggest expenses were property taxes -- we pay quarterly and it was due -- groceries, and Harold's medications. The property tax payment was the one that stung, because it went up again this year. After that, groceries are always near the top of the list. We eat at home almost exclusively, so the grocery bill is real. Utilities were moderate -- it's still cold in March so the heating bill was up. And then the medications, like I said, about sixty to seventy between us.",
+      "follow_ups": [
+        {
+          "question": "How do you organize and track these expenses?",
+          "response": "I keep a ledger. An actual handwritten ledger, the same kind I've used for fifty years. Every expense goes in there -- the date, what it was, how much. I add it up at the end of the month and compare it to what I budgeted. If we went over somewhere, I figure out where and adjust the next month. Patricia thinks I should use a computer program, but my system works and I'm not changing it now."
+        }
+      ]
+    },
+    {
+      "question_id": "Q57",
+      "block": "FINANCES",
+      "question_text": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "time_limit_seconds": 50,
+      "response": "Not counting the property tax, which is a quarterly thing, we probably spent around two thousand dollars last month. That covers groceries, utilities, medications, gas for the car, and incidentals. That's pretty typical for us. In the summer, the heating bill drops but I spend more on garden supplies. Around the holidays, it goes up because of gifts and the bigger family meals. But on average, two thousand is about right. We try hard to keep it consistent, because on a fixed income, surprises are not welcome.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q58",
+      "block": "FINANCES",
+      "question_text": "Does your household own or rent your home?",
+      "time_limit_seconds": 50,
+      "response": "We own it. Bought it in 1978, paid off the mortgage in 2003. Best day of my financial life was making that last payment. Now we just have property taxes, insurance, and maintenance. The house needs things from time to time -- a new water heater two years ago, the roof was patched last summer. But at least there's no mortgage hanging over us. Owning this home outright is a big part of how we stay afloat on our income.",
+      "follow_ups": [
+        {
+          "question": "How do you plan for those bigger home maintenance expenses?",
+          "response": "I set aside a small amount every month into what I call the house fund. It's not much -- maybe fifty dollars -- but over the course of a year, that's six hundred dollars for repairs. When something bigger comes up, like the roof, I dip into our savings and then rebuild it. Robert helped with the labor on the roof, which saved us quite a bit. I try to anticipate things before they break, which is why I have Harold check things around the house regularly, even if he can't fix them all himself anymore."
+        }
+      ]
+    },
+    {
+      "question_id": "Q59",
+      "block": "FINANCES",
+      "question_text": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "time_limit_seconds": 50,
+      "response": "The biggest fluctuation is the heating bill. In the dead of winter -- January, February -- our gas bill can be two hundred dollars or more. In the summer it drops down to almost nothing for heat, but then I'm running a fan and the water bill goes up because of the garden. Holidays are another spike. I budget extra for November and December because of Thanksgiving dinner for the family and Christmas gifts. I start setting money aside in September for that. Spring has its own costs -- garden supplies, seeds, potting soil. And then every quarter the property tax hits, which is the big one. I try to smooth it all out by saving a little each month in different envelopes. Harold thinks the envelope system is old-fashioned, but it works.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q60",
+      "block": "FINANCES",
+      "question_text": "Tell me all about how you coped with any extra expenses in the past months.",
+      "time_limit_seconds": 40,
+      "response": "The roof repair last summer was the biggest unexpected expense we had recently. That was about eight hundred dollars after Robert did the labor for free. I pulled it from our savings account and then spent the next six months building it back up by cutting our grocery bill where I could -- more soups, more meals from the garden, fewer store-bought extras. I also skipped buying new fabric for a few months, which was hard for me because I love my quilting materials. But priorities are priorities. When an extra expense hits, I tighten everything else until we're back on track.",
+      "follow_ups": [
+        {
+          "question": "Has there been an unexpected expense that you couldn't handle on your own?",
+          "response": "Harold's hospital procedure five years ago had some costs we didn't expect. That was when Robert and Patricia stepped in. It was probably a couple of thousand dollars above what the coverage paid. I hated accepting it, but I didn't have a choice. Since then, I've tried to keep our emergency fund a little bigger. I never want to be in that position again if I can help it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q61",
+      "block": "FINANCES",
+      "question_text": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I have a savings account at the local credit union. I've had it for decades. I put money in every month, no matter how small the amount. Even if it's twenty dollars, it goes in. I also keep a small amount of cash in the house for emergencies -- I know they say you shouldn't, but I grew up that way and it makes me feel secure. And then I have my envelope system for specific things: the house fund, the holiday fund, the medical fund. It's all very organized. I can tell you to the penny what's in each envelope and each account. Saving is a habit my parents drilled into me. My father used to say, 'You never know when the rain is coming, so you'd better have something set aside.' I've lived by that my whole life.",
+      "follow_ups": [
+        {
+          "question": "How has your approach to savings changed now that you're on a fixed income?",
+          "response": "The amounts are smaller, but the discipline is the same. When Harold was working, we could put away a hundred or more a month. Now it's more like forty or fifty, after everything else is paid. But I never skip a month. Even when things are tight, something goes into savings. It might be ten dollars, but it goes. The total in the account isn't what it used to be -- Harold's procedure and the roof took chunks out of it -- but it's still there, and I sleep better knowing it exists."
+        }
+      ]
+    },
+    {
+      "question_id": "Q62",
+      "block": "FINANCES",
+      "question_text": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "time_limit_seconds": 80,
+      "response": "At this point in life, I'm saving strictly for rainy days. The big purchases are behind us -- the house is paid for, the car is paid for. Now it's about making sure we have a cushion for medical expenses, home repairs, and the possibility that one of us might need more care someday. That last one is the biggest worry. I've seen what those care facilities cost, and it keeps me up at night. So I save what I can, knowing it probably won't be enough for the worst-case scenario but hoping it covers the bumps along the way.",
+      "follow_ups": [
+        {
+          "question": "Have you and Harold discussed any specific plans for long-term care?",
+          "response": "We've talked about it in general terms. We both want to stay in this house as long as possible. Patricia has said she'd move in if it came to that, and I believe her. But I don't want to put that on her. We have a little set aside, and the house itself is an asset. If it really came down to it, we could sell the house and use that money. But I pray it doesn't come to that. This house is our life."
+        }
+      ]
+    },
+    {
+      "question_id": "Q63",
+      "block": "FINANCES",
+      "question_text": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "time_limit_seconds": 50,
+      "response": "We have no debt. The mortgage is paid off, we don't have credit card debt -- I pay the card in full every month, if we use it at all. No student loans, no car payments. The car is ten years old but it runs fine. I am very proud of the fact that we owe nothing to anyone. My father would turn over in his grave if I carried credit card debt. We live within our means, period. If I can't pay for it outright, I don't buy it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q64",
+      "block": "FINANCES",
+      "question_text": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "time_limit_seconds": 65,
+      "response": "That hasn't happened, knock on wood. I've always managed to cover everything that's due. There have been months where it was tight -- where after all the bills were paid and the groceries were bought, there wasn't much left for anything extra. I delayed buying new fabric for my quilting for a few months because I didn't want to dip into savings for something that's a want, not a need. And there was one month where the electric bill was higher than I expected, and I had to move money from the holiday envelope to cover it. But a bill going unpaid? No. That hasn't happened and I intend to keep it that way.",
+      "follow_ups": [
+        {
+          "question": "What would you cut first if things ever got that tight?",
+          "response": "The extras. Fabric, books I could get from the library instead of buying, any meals out -- not that we eat out much, but occasionally Patricia takes us to the diner. Those would go first. Then I'd look at the grocery bill and make more soups, more from-the-garden meals. The last things I'd cut are the medications and the utilities. You can't compromise on health or heat in Michigan."
+        }
+      ]
+    },
+    {
+      "question_id": "Q65",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "time_limit_seconds": 155,
+      "response": "I never had a formal career outside the home. After I got married in 1962, I became a homemaker, and that's what I did for decades. But I want to be clear -- that was a full-time job. I managed the household budget down to the penny, planned every meal, kept the schedules for three children, maintained the house, and did the books for Harold's side carpentry work. I was the treasurer of the women's group at church for over twenty years, and I managed those funds as carefully as if they were my own. When the kids were older, I started volunteering more formally -- the library reading program, the church fellowship coordination, and eventually the senior center finance work. What I do now at the senior center is basically bookkeeping: reconciling donations, tracking expenses, preparing budgets for events, making sure the checking account balances. It's unpaid, but it uses the skills I've honed over a lifetime. If someone had paid me to do what I do at home and as a volunteer, I'd have had a very respectable career in office administration or accounting.",
+      "follow_ups": [
+        {
+          "question": "Do you think managing a household and doing all that volunteer work gave you skills that are underrecognized?",
+          "response": "Absolutely. The budgeting, the scheduling, the event planning, the record-keeping -- those are real skills. I've kept ledgers, managed calendars, coordinated dozens of people for events, and never missed a deadline or a payment. In today's world they'd call that project management. Back then they called it being a housewife. I don't say this with bitterness, because I chose that life and I love my family. But I do think women of my generation did a lot of work that was never valued the way it should have been."
+        },
+        {
+          "question": "What about Harold's side carpentry business -- what was your role in that?",
+          "response": "I kept all the books. Harold would do the work -- building shelves, fixing cabinets, small renovation jobs for neighbors -- and I would track the expenses, send the invoices, follow up on payments. I kept everything in a folder organized by client. It wasn't big money, but it helped supplement his plant income, especially when the kids were young and money was tight. Harold always said he couldn't have done it without me handling the business side."
+        }
+      ]
+    },
+    {
+      "question_id": "Q66",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Was your occupation covered by a union or employee association contract?",
+      "time_limit_seconds": 40,
+      "response": "No, not mine. I was a homemaker and volunteer, so there was no union. Harold's job at the Ford plant was covered by a union, though. He was a member for decades. That union got him good benefits and helped with his retirement. I was grateful for it -- it gave our family stability. But I never had anything like that for myself.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q67",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "time_limit_seconds": 40,
+      "response": "I haven't worked for pay in decades, so zero weeks of paid work. But if you count my volunteer work, I'm at the senior center or the library or doing something for the church almost every week -- probably forty-five weeks out of the year, accounting for holidays and the weeks I was sick. I don't take vacations, really. My 'time off' is just the weeks when something prevents me from going.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q68",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How many hours each week did you usually work?",
+      "time_limit_seconds": 15,
+      "response": "For volunteer work, probably eight to ten hours a week between the senior center, the library, and the church coordination. That doesn't count all the hours I spend managing our household, which is a job in itself.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q69",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "time_limit_seconds": 15,
+      "response": "No, I didn't.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q70",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "No. I don't work for pay. My volunteer commitments are at multiple places, but none of them are jobs in the traditional sense.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q71",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "Zero paid jobs. Just my volunteer work at the senior center on Fridays and the library on Wednesdays.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q72",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "For your job or occupations, how much money did you receive in the past month?",
+      "time_limit_seconds": 50,
+      "response": "I received no income from work. Our income comes from Harold's retirement pension from Ford, our government retirement benefits, and a small amount from the savings interest. I don't earn wages.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q73",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How often do you get paid?",
+      "time_limit_seconds": 25,
+      "response": "The retirement benefits come monthly. Harold's pension check comes monthly too. That's our regular income -- the same amount, same day, every month. I like the predictability of it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q74",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In total, how much did your household make in the past month?",
+      "time_limit_seconds": 50,
+      "response": "Between Harold's pension and both of our government retirement benefits, we bring in about three thousand dollars a month. It's not a lot, but with the mortgage paid off and no debt, it covers our needs. I make it work with careful budgeting. Every dollar has a job.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q75",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "time_limit_seconds": 40,
+      "response": "Yes, we filed. We always file. I do them myself with the paper forms. I know they have computer programs for it, but I've been filling out the forms for decades and I understand them. Patricia double-checks my math, but I've never made an error that I know of. We usually get a small return, which goes straight into savings.",
+      "follow_ups": [
+        {
+          "question": "Have you ever considered having someone else do your taxes?",
+          "response": "People have suggested it, but our taxes aren't complicated -- retirement income, property taxes, a few deductions. It takes me about an afternoon with a calculator and the instruction booklet. I actually enjoy it, if you can believe that. It's numbers, it's organized, it's a puzzle with a right answer. That appeals to me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q76",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "time_limit_seconds": 15,
+      "response": "I'm not employed. My volunteer work has no benefits in the formal sense. No health coverage, no paid time off. The benefits are personal -- staying active, feeling useful, being part of the community.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q77",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "time_limit_seconds": 15,
+      "response": "At the senior center, Linda is my main partner and we get along wonderfully -- she appreciates my thoroughness. At the library, the head librarian, Joan, is very kind and organized. We work well together because we both like things done a certain way.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q78",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "time_limit_seconds": 80,
+      "response": "My volunteer schedule is very predictable, because I made it that way. Wednesdays at the library, Fridays at the senior center, church fellowship on the schedule I set myself. It's completely flexible in the sense that I'm a volunteer and could stop at any time, but I treat it like a commitment. If I say I'll be there on Friday at nine, I'm there at eight-fifty. That's how I was raised. The only times I've missed are when I was sick or when the weather was truly dangerous. I don't like canceling. I think reliability is one of the most important qualities a person can have, and at eighty-five, it's one of the things I can still offer.",
+      "follow_ups": [
+        {
+          "question": "What happens when you do have to cancel?",
+          "response": "I feel terrible about it. When I was sick last winter and missed three weeks at the library, I called Joan and apologized profusely. She said, 'Deeva, you're a volunteer, not a prisoner,' but it still bothered me. I made up for it by organizing extra supplies when I came back. I always try to make up for lost time, even when nobody expects me to."
+        }
+      ]
+    },
+    {
+      "question_id": "Q79",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "time_limit_seconds": 15,
+      "response": "That's not an issue for me now. My children are grown. When they were young, child care was one of the reasons I stayed home rather than getting a paying job. There weren't a lot of affordable options in those days.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q80",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "time_limit_seconds": 25,
+      "response": "No, we don't receive any of those. We get by on Harold's pension and our government retirement benefits. We've never applied for additional assistance. I know some people need those programs and I'm glad they exist, but we've managed without them. My pride probably wouldn't let me apply even if we qualified, to be honest.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q81",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "time_limit_seconds": 50,
+      "response": "Our income doesn't really vary since it's all fixed -- the pension and the retirement benefits come the same amount every month. What varies is the expenses. The months when a big bill hits -- property taxes, a home repair -- those feel like our income is suddenly not enough. When that happens, I cut back on the flexible spending: less at the grocery store, no new fabric or books, simpler meals. I use what's in the pantry and the freezer before I buy more. I also lean on the garden heavily in the summer -- fresh vegetables mean less we need to buy. The tight months usually pass within six to eight weeks, and then we're back to normal.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q82",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "time_limit_seconds": 50,
+      "response": "I could cover it. It would come out of savings and it would hurt, but I could do it without borrowing from anyone. Four hundred dollars is about what I put away in two to three months, so I'd have to rebuild it, but it wouldn't be a crisis. If it were more than that -- say, a couple thousand -- I might need to ask the kids for help, which I would hate to do. But four hundred? Yes, I've got that. That's why I save. That's the whole point of the rainy-day fund.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q83",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Overall, how do you feel about your financial situation?",
+      "time_limit_seconds": 105,
+      "response": "I feel cautiously okay. We're not rich by any measure, but we've made smart choices over the decades and we don't owe anyone anything. The house is paid for, the car is paid for, we have some savings. On the other hand, I'm always aware that one big health event could wipe us out. Harold's procedure showed me how fast the bills can pile up, even with coverage. And prices keep going up -- the groceries, the medications, the property taxes -- while our income stays the same. That gap worries me. I try not to dwell on it, but it's always in the back of my mind. I manage it by being disciplined with the budget and not spending on things we don't need. At eighty-five, my biggest financial fear is running out of money before we run out of time. But for now, today, we're alright. And I'm grateful for that.",
+      "follow_ups": [
+        {
+          "question": "What gives you the most financial peace of mind?",
+          "response": "Knowing the numbers. I know exactly what comes in and what goes out every month. There are no surprises because I track everything. If I didn't keep the ledger, if I didn't have my envelopes and my system, I'd be a wreck. The control is what keeps me calm. As long as I can see the numbers and they add up, I feel like we're okay. The day I can't manage my own books is the day I'll really start worrying."
+        },
+        {
+          "question": "If you could change one thing about your financial situation, what would it be?",
+          "response": "I wish the medications were cheaper. That's the one thing that's gone up the most and that we have the least control over. Everything else I can manage -- I can cook cheaper meals, I can delay buying fabric, I can keep the thermostat down. But the pills, you either take them or you don't. And the prices just keep climbing. If someone in charge would do something about that, it would make a real difference for people like Harold and me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q84",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "time_limit_seconds": 40,
+      "response": "I'm married. Harold and I have been married since 1962 -- sixty-four years this summer. He's the only man I've ever been with, and I can't imagine it any other way. We got married at the church, had a small ceremony with family, and we've been together ever since.",
+      "follow_ups": [
+        {
+          "question": "What's the secret to sixty-four years of marriage?",
+          "response": "Routine and respect. We have our roles, we stick to them, and we don't try to change each other. Harold is quiet and steady. I'm organized and a little bossy, if I'm being honest. We fit together like two pieces of a puzzle. We don't agree on everything, but we don't fight about it either. We just get on with it. And we've never gone to bed angry. That's a rule we made early on and we've kept it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q85",
+      "block": "DEMOGRAPHICS",
+      "question_text": "For our records, we also need your date of birth. Could you please provide that?",
+      "time_limit_seconds": 25,
+      "response": "March 14th, 1941. I'll be eighty-six next March, if the good Lord is willing.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q86",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "time_limit_seconds": 25,
+      "response": "Yes, born and raised in the United States. Right here in Michigan. My family has been in Michigan for three generations now.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q87",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What city and state were you born in?",
+      "time_limit_seconds": 25,
+      "response": "I was born in Tecumseh, Michigan. Little town about thirty minutes south of where I live now in Saline. Very small, very quiet. Good place to grow up.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q88",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "time_limit_seconds": 15,
+      "response": "No, I'm not.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q89",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What race or races do you identify with?",
+      "time_limit_seconds": 15,
+      "response": "White. My family is of German descent on both sides.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q90",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What is the highest degree or grade you've completed?",
+      "time_limit_seconds": 15,
+      "response": "Some college. I attended community college for about two years studying business administration, but I didn't finish the degree.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q91",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you enrolled in school?",
+      "time_limit_seconds": 15,
+      "response": "No, not currently. Though I've been thinking about looking into finishing those courses online.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q92",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you been enrolled in school during the past 3 months?",
+      "time_limit_seconds": 15,
+      "response": "No, I haven't.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q93",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "time_limit_seconds": 15,
+      "response": "No, I have not.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q94",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What religion do you identify with, if any?",
+      "time_limit_seconds": 15,
+      "response": "I've attended the same church here in Saline since 1978. It's where my family goes every Sunday and where I do my volunteer work.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q95",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "time_limit_seconds": 80,
+      "response": "I'd say I lean toward one side but I don't consider myself a strong partisan. I've split my ticket in the past when I thought the other candidate was better qualified. I pay more attention to the person than the party, especially in local races. I think both sides have gotten too extreme for my taste. I want sensible people who will manage the budget responsibly and look out for folks like Harold and me. I don't go to rallies or put signs in my yard. I just vote my conscience and keep it to myself.",
+      "follow_ups": [
+        {
+          "question": "Has your party preference shifted at all over the decades?",
+          "response": "Not dramatically. I've always been practical rather than ideological. I grew up in a household that valued fiscal responsibility and self-reliance, and that still guides my thinking. But I also believe in community programs that help people who need it, like the senior center. So I don't fit perfectly in either box. I vote for the person I think will do the best job, and sometimes that's been one party and sometimes the other."
+        }
+      ]
+    },
+    {
+      "question_id": "Q96",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "time_limit_seconds": 50,
+      "response": "I'd say I'm somewhere in the middle but maybe a hair closer to the side that talks about keeping spending in check and letting people run their own lives. But honestly, it depends on the issue. On keeping programs for seniors funded, I side with whoever is protecting those. On government spending overall, I lean toward being careful with taxpayer money. I really don't like being put in a box. I'm just Deeva, and I vote for who I think is the best person for the job.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q97",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was the city and state that you lived in when you were 16 years old?",
+      "time_limit_seconds": 25,
+      "response": "Tecumseh, Michigan. Same town where I was born. I lived there all through school.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q98",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did you live with both your own mother and father when you were 16?",
+      "time_limit_seconds": 25,
+      "response": "Yes, I lived with both my parents. They were together their whole lives. My mother passed in 1995 and my father a few years before that, but when I was sixteen, we were all under one roof.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q99",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Who else did you live with?",
+      "time_limit_seconds": 25,
+      "response": "My two older brothers, Walter and Frank. They were a few years older than me. Walter was already thinking about leaving for work by then, but Frank was still at home. It was a full house -- five of us, not counting the dog.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q100",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your dad completed?",
+      "time_limit_seconds": 15,
+      "response": "He finished high school. That was considered a real accomplishment in his family -- his parents hadn't made it past eighth grade.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q101",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your mom completed?",
+      "time_limit_seconds": 15,
+      "response": "She finished high school as well. She was sharp as a tack -- I think she could have done more if the times had been different, but for a woman of that generation, high school was it.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q102",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your mom work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, she did. She worked at the local five-and-dime for a number of years when I was in school.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q103",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "She worked the counter at the five-and-dime store in town -- Woolworth's, I believe. She rang up purchases, stocked shelves, kept the display counters tidy. She was good at it because she was organized and friendly with the customers. She knew everyone who came in. It wasn't a glamorous job, but it brought in extra money and she liked being out of the house and around people. She worked there for about eight years, from when I was in elementary school until I started high school.",
+      "follow_ups": [
+        {
+          "question": "Did your mother's work experience influence your own views on work and managing money?",
+          "response": "Absolutely. She taught me that every penny counts and that you should always have your own understanding of the family finances. She'd come home from the store and talk about how the owner managed inventory, how much things cost versus how much they sold for. That fascinated me as a girl. I think my love of numbers and budgeting started right there, listening to my mother talk about the store."
+        }
+      ]
+    },
+    {
+      "question_id": "Q104",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "time_limit_seconds": 50,
+      "response": "It was a Woolworth's five-and-dime, a general merchandise store. They sold a little bit of everything -- household goods, candy, school supplies, sewing notions, small hardware items. It was the kind of place where you could get a spool of thread, a coloring book, and a bag of penny candy all in one stop. There was a lunch counter too, though my mother didn't work that part. It was a chain store, but in a small town like Tecumseh, it felt like a local institution. Everyone in town shopped there.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q105",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your dad work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, he worked his whole life. Never missed a day that I can remember.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q106",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "My father worked at a grain elevator and feed mill outside of Tecumseh. He ran the equipment that processed and stored grain -- corn, wheat, soybeans. He operated the conveyor systems, checked the moisture levels, managed the storage bins. During harvest season he worked long hours, sometimes twelve-hour days. He was strong, physical work, and it took a toll on his body over the years. But he was proud of it. He'd come home dusty and tired but he never complained. He believed in honest work, and he did it every day for over thirty years.",
+      "follow_ups": [
+        {
+          "question": "How did your father's work ethic influence you?",
+          "response": "Enormously. He showed me that you show up, you do the job right, and you don't cut corners. That's exactly how I approach everything, from my quilting to my volunteer work to managing the household budget. When I double-check a column of numbers or go back to fix a stitch that's slightly off, that's my father's voice in my head saying, 'Do it right or don't do it at all.'"
+        }
+      ]
+    },
+    {
+      "question_id": "Q107",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "time_limit_seconds": 50,
+      "response": "It was a grain elevator and feed mill -- a local operation that served the farming community in and around Tecumseh. Farmers would bring in their grain after harvest, and the mill would process it, store it, and distribute it. Some of it went to livestock feed, some was shipped out to larger distributors. It was a vital part of the local economy. The owner was a man my father knew from church, and he ran a fair operation. My father started there as a laborer and worked his way up to running the main processing line. It wasn't a big company, but it was steady work, and that's what mattered.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q108",
+      "block": "HOPES & VALUES",
+      "question_text": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "time_limit_seconds": 155,
+      "response": "At eighty-five, I try not to plan too far ahead -- you never know what the Lord has in store. But I hope to keep my independence for as long as possible. I want to stay in this house, keep cooking my own meals, keep going to the senior center and the library and bridge. I want to finish that quilt for the great-grandchild and start the next one. I'd love to finish my college coursework if I can figure out the computer well enough to take the classes. I want Harold and me to have a few more years together, healthy enough to enjoy our routines and our family. I hope to see more of the grandchildren and great-grandchildren, watch them grow up. I'd like to take one more trip to Mackinac Island -- Harold and I used to go there, and it's beautiful in the summer. And I want to visit the National Quilt Museum in Paducah, Kentucky, before I'm too old to travel. That's been on my list for years. Beyond that, I just want peace, stability, and enough good days to outnumber the hard ones.",
+      "follow_ups": [
+        {
+          "question": "What would a trip to the National Quilt Museum mean to you?",
+          "response": "It would be a dream come true. I've been quilting for over fifty years, and I've seen pictures of the quilts they have there -- they're masterworks. I want to stand in front of them and study the stitching, the patterns, the colors. Patricia said she'd drive me down there. It would be a road trip, and I'd plan every stop along the way. I'd want to take my time and not rush. At my age, a trip like that is about more than seeing a museum -- it's about proving I can still do something special."
+        },
+        {
+          "question": "If you could pass one thing on to your great-grandchildren, what would it be?",
+          "response": "The value of order and discipline. I know that sounds boring to a young person, but it's what's carried me through eighty-five years. Keep your finances in order, keep your promises, show up when you said you would, and take care of the people around you. If they learn that, they'll be fine. And I'd want them to know how to make things with their hands -- a quilt, a garden, a good pot pie. There's something about creating with your own two hands that no amount of technology can replace."
+        }
+      ]
+    },
+    {
+      "question_id": "Q109",
+      "block": "HOPES & VALUES",
+      "question_text": "What do you value the most in your life?",
+      "time_limit_seconds": 80,
+      "response": "Family, first and always. Harold, my children, my grandchildren, my great-grandchildren -- they're the reason for everything. Second, I value my independence. Being able to manage my own household, my own finances, my own schedule -- that's who I am. The day I can't do that, a big part of me will be gone. Third, I value my community -- the church, the volunteers, the bridge group, the walking club, the people at the library. Those connections keep me going. And I value doing things right. Whether it's a quilt, a budget, a recipe, or a crossword puzzle, I want it done properly. That meticulousness, that attention to detail -- my father gave me that, and it's served me well for eighty-five years. I wouldn't trade it for anything.",
+      "follow_ups": [
+        {
+          "question": "Is there anything you would do differently if you could go back?",
+          "response": "I'd finish that degree. That's the one thing I'd change. Everything else -- marrying Harold, having the children, moving to Saline, all of it -- I'd do the same. Well, maybe I'd start quilting earlier. I didn't pick it up until my forties, and I wish I'd had those extra years of practice. But on the big things, the important things? No. I've lived a good life, an honest life, a useful life. I'm grateful for every bit of it."
+        },
+        {
+          "question": "What does a perfect day look like for you at this point in your life?",
+          "response": "A perfect day is when my knees don't hurt too much, the weather is warm enough to be in the garden, I have something productive to do, and I get to see someone I love. Maybe Patricia stops by, or Dorothy and I take a walk. I cook something that turns out just right. Harold and I sit together in the evening. I work on my quilt for a while. I finish a crossword without looking up any answers. And I go to bed knowing everything is in order for tomorrow. That's a perfect day. Nothing fancy. Just everything in its place."
+        }
+      ]
+    }
+  ],
+
+  "extracted_profile": {
+    "participant_id": "f2f5dbaf4d3d43f68adeb7f318afa3a2",
+    "name": "Deeva Cintron",
+    "age": 85,
+    "gender": "Female",
+    "marital_status": "married_present",
+    "location": "Saline, MI 48176",
+    "education": "Some college (business administration, not completed)",
+    "occupation": "Not in workforce (retired homemaker; active volunteer)",
+
+    "preferences": {
+      "health_and_wellness": {
+        "summary": "Maintains strict daily pill routine and low-salt diet; walks twice weekly; avoids unnecessary medications",
+        "details": [
+          "Takes joint medication and cardiovascular-related pills morning and evening using a weekly pill organizer",
+          "Follows low-salt diet, substituting garden herbs (rosemary, thyme, garlic, lemon) for salt",
+          "Walks 1.5-2 miles twice weekly with senior walking club on flat trail behind library",
+          "Does gentle knee stretches at kitchen counter on cold mornings",
+          "Gets flu shot and all recommended vaccinations annually",
+          "Takes a supplement recommended by doctor for immune support",
+          "Uses home remedies: chamomile tea for sleep, peppermint oil for headaches, honey-lemon for colds, salt water gargle for sore throat",
+          "Sees Dr. Hendricks in Ann Arbor every few months for blood-level checks"
+        ],
+        "evidence": "Q31, Q32, Q33, Q37, Q39, Q41"
+      },
+      "food_and_dining": {
+        "summary": "Home-cook who favors simple, seasonal, thrift-driven meals using garden produce and traditional German-Midwestern recipes",
+        "details": [
+          "Cooks chicken pot pie with garden-grown carrots, rosemary, and thyme",
+          "Bakes apple cobbler with fresh orchard apples",
+          "Cans sauerkraut annually from homegrown cabbage",
+          "Eats oatmeal with cinnamon every morning for breakfast",
+          "Prepares casseroles, soups, and simple weeknight meals",
+          "Adapts recipes to low-salt constraints using herbs",
+          "Eats supper at 5:00 PM sharp every day",
+          "Rarely eats out; occasionally goes to a local diner with Patricia",
+          "Plans weekly meal schedules on Sunday afternoon"
+        ],
+        "evidence": "Q01, Q15, Q31, Q56, Q64"
+      },
+      "travel": {
+        "summary": "Prefers meticulously planned road trips within driving distance; travels with family support and senior discounts",
+        "details": [
+          "Has visited Mackinac Island, Pictured Rocks (Upper Peninsula), and Charleston, SC",
+          "Dreams of visiting the National Quilt Museum in Paducah, Kentucky",
+          "Wants to return to Mackinac Island one more time",
+          "Travels by car only; Patricia would drive for longer trips",
+          "Plans every stop in advance; uses senior discounts to keep costs predictable"
+        ],
+        "evidence": "Q108 (seed data: travel_persona)"
+      },
+      "social_and_relationships": {
+        "summary": "Anchored by 64-year marriage, three adult children, and a tight circle of long-term friends; prefers small-group structured socializing",
+        "details": [
+          "Married to Harold for 64 years; complementary routines and roles",
+          "Three adult children: Robert (Ann Arbor, 20 min away), James (Ohio, calls weekly), Patricia (Ypsilanti, visits twice/week)",
+          "Seven grandchildren, three great-grandchildren",
+          "Weekly bridge group of four women (Dorothy, Helen, Margaret) for 20 years",
+          "Dorothy is closest non-family friend, lives three streets away",
+          "Church fellowship community provides social support network",
+          "Senior walking club meets twice weekly",
+          "Prefers in-person connection over digital; writes handwritten letters"
+        ],
+        "evidence": "Q05, Q07, Q11, Q15, Q47, Q84"
+      },
+      "home_and_lifestyle": {
+        "summary": "Owns mortgage-free home in Saline since 1978; rigid daily routine centered on household management and crafts",
+        "details": [
+          "Three-bedroom house, paid off in 2003",
+          "Dedicated sewing room upstairs with quilting frame by window, fabric organized by color",
+          "Raised garden beds built by Harold; grows carrots, tomatoes, herbs, cabbage",
+          "Three bird feeders in backyard, refilled every morning",
+          "Kitchen wall calendar tracks all appointments and commitments",
+          "Weekly cleaning schedule: Monday laundry, structured tasks each day",
+          "Envelope budgeting system for household finances",
+          "Handwritten ledger for all expenses, maintained for 50+ years"
+        ],
+        "evidence": "Q08, Q11, Q15, Q17, Q56, Q58, Q61"
+      },
+      "entertainment": {
+        "summary": "Enjoys historical fiction, crossword puzzles, evening TV (sports with Harold), and classic films",
+        "details": [
+          "Reads approximately two historical fiction novels per month",
+          "Library holds books for her based on known preferences",
+          "Currently reading a Civil War novel about women",
+          "Completes crossword puzzles daily, often in the evening",
+          "Watches evening news and Harold's ball games",
+          "Enjoys classic John Ford films",
+          "Listens to local radio in the morning while in the kitchen"
+        ],
+        "evidence": "Q05, Q15, Q17, Q24, Q48"
+      },
+      "hobbies_and_recreation": {
+        "summary": "Prolific quilter and knitter who also gardens, bird-watches, and plays competitive bridge",
+        "details": [
+          "Quilts daily, working on a log cabin pattern quilt in blues and yellows for great-grandchild",
+          "Plans quilts on graph paper before cutting; prefers traditional patterns (log cabin, nine-patch, double wedding ring)",
+          "Knits in the living room to avoid extra stair trips",
+          "Vegetable garden with raised beds: carrots, tomatoes, rosemary, thyme, cabbage, chamomile, peppermint",
+          "Bird-watching with notebook logging species spotted (cardinals, blue jays, chickadees, sparrows)",
+          "Bridge every Thursday at 2 PM, rotates homes; keeps running scorebook",
+          "Cans sauerkraut every fall from garden cabbage"
+        ],
+        "evidence": "Q07, Q11, Q15, Q17, Q38, Q108"
+      },
+      "work_and_career": {
+        "summary": "Retired homemaker who treats volunteer bookkeeping and event coordination as a professional-grade commitment",
+        "details": [
+          "Managed household finances and Harold's carpentry side-business books for decades",
+          "Church women's group treasurer for 20+ years",
+          "Senior center finance volunteer for 8 years (Fridays, 2-3 hours)",
+          "Library reading program volunteer for 12 years (Wednesdays, 2 hours)",
+          "Church fellowship meeting organizer (scheduling, supplies, potluck coordination)",
+          "Aspires to complete business administration certificate online",
+          "Treats volunteer commitments with professional rigor: punctuality, record-keeping, accountability"
+        ],
+        "evidence": "Q01, Q16, Q65, Q78"
+      },
+      "arts_and_culture": {
+        "summary": "Draws artistic inspiration from Andrew Wyeth paintings, Carter Family folk music, and church choir hymns",
+        "details": [
+          "Admires Andrew Wyeth's paintings",
+          "Enjoys The Carter Family folk songs",
+          "Appreciates the local church choir's piano renditions and old hymns",
+          "Integrates artistic influences into quilting and crochet patterns",
+          "Enjoys classic films, particularly John Ford westerns"
+        ],
+        "evidence": "Q47 (seed data: arts_persona)"
+      },
+      "sports_and_fitness": {
+        "summary": "Devoted Detroit Tigers and Michigan Wolverines women's basketball fan; participates in senior walking club and occasional senior softball",
+        "details": [
+          "Harold watches Tigers games in the evening; Deeva follows along",
+          "Follows Michigan Wolverines women's basketball",
+          "Senior walking club meets twice weekly (Tuesdays and Thursdays, 8 AM)",
+          "Walks 1.5-2 miles on flat trail behind the library",
+          "Occasionally participates in senior softball league",
+          "Prefers low-intensity, predictable exercise"
+        ],
+        "evidence": "Q05, Q15, Q32 (seed data: sports_persona)"
+      },
+      "nature_and_outdoors": {
+        "summary": "Daily gardener and backyard bird-watcher who finds spiritual grounding in seasonal cycles",
+        "details": [
+          "Tends raised vegetable beds every morning after breakfast (weather permitting)",
+          "Maintains three bird feeders; logs bird sightings in a notebook",
+          "Finds spiritual/meditative quality in watching seeds grow and seasons change",
+          "Grows chamomile, peppermint, rosemary, thyme alongside vegetables",
+          "Garden is both a food source and a wellness practice"
+        ],
+        "evidence": "Q01, Q17, Q37, Q47"
+      },
+      "technology": {
+        "summary": "Minimal but functional technology user: email, video calls, Facebook browsing, basic word processing",
+        "details": [
+          "Uses email to communicate with grandchildren",
+          "Video calls James in Ohio every couple of weeks (computer-based)",
+          "Has Facebook account set up by Patricia; browses 1-2 times per week",
+          "Member of a quilting group on Facebook (passive viewer)",
+          "Prints digital photos and posts them on refrigerator",
+          "Uses basic word processing and email from partial college computer training",
+          "Distrusts internet for medical information; prefers in-person sources"
+        ],
+        "evidence": "Q05, Q48, Q49, Q42"
+      },
+      "community_and_civic": {
+        "summary": "Deeply embedded in Saline's civic and church life; votes in every election and volunteers weekly",
+        "details": [
+          "Votes in every election (federal, state, local, school board) since age 21",
+          "Researches candidates via local paper, voter guides, and TV debates",
+          "Writes occasional letters to elected representatives (prescription costs, road funding)",
+          "Organizes church fellowship meetings and managed women's group treasury for 20+ years",
+          "Volunteers at senior center and library reading program weekly",
+          "Member of Saline community for 48 years; strong neighborhood identity"
+        ],
+        "evidence": "Q23, Q24, Q27, Q16, Q47"
+      },
+      "music": {
+        "summary": "Appreciates traditional folk and church hymns; listens to local radio",
+        "details": [
+          "Enjoys The Carter Family folk songs",
+          "Finds comfort in the church choir's piano renditions of old hymns",
+          "Listens to local radio in the morning",
+          "Plays radio in sewing room while quilting"
+        ],
+        "evidence": "Q47 (seed data: arts_persona)"
+      },
+      "fashion_and_appearance": {
+        "summary": "No significant fashion or appearance preferences surfaced in the interview",
+        "details": [],
+        "evidence": ""
+      }
+    },
+
+    "summaries": {
+      "demographer": "Deeva Cintron is an 85-year-old white woman of German descent, born and raised in rural Michigan (Tecumseh), now living in Saline, Washtenaw County. She has been married to her husband Harold for 64 years and they have three adult children, seven grandchildren, and three great-grandchildren. She completed some college (business administration) but did not finish due to marriage and family responsibilities, a common trajectory for women of her generation. She has been out of the paid workforce since the early 1960s and identifies as a homemaker and volunteer. The household subsists on a fixed income from a Ford union pension and government retirement benefits, totaling approximately $3,000/month. They own their home outright. Her demographic profile is characteristic of the aging Midwestern white working-class: second/third-generation European immigrant heritage, strong church and civic ties, modest education, long-duration stable marriage, and deep rootedness in a small community.",
+
+      "behavioral_economist": "Deeva exhibits strong loss aversion and a preference for predictability in all financial and lifestyle decisions. Her envelope budgeting system, handwritten ledger, and rigid expense-tracking demonstrate an unusually high need for financial control and certainty. She consistently prioritizes needs over wants (delaying fabric purchases, reducing grocery spending) and frames every expenditure in terms of opportunity cost. Her time preferences are heavily present-oriented in terms of daily structure but she maintains a modest savings buffer for future health emergencies, suggesting a dual orientation. She responds to financial uncertainty by tightening discretionary spending rather than seeking additional income. Peer influence on her financial behavior is minimal; she is internally motivated by the discipline instilled by her parents. Her risk tolerance is very low -- she declined a more effective but expensive medication, preferring the predictable cost of the cheaper alternative. Identity and habit are her primary behavioral drivers: she derives self-worth from being 'the numbers person' and would experience significant distress if she lost the ability to manage her own finances.",
+
+      "political_scientist": "Deeva is a highly engaged civic participant who has voted in every election since turning 21, reflecting a deep sense of civic duty transmitted through family socialization. She consumes local news (Saline Post, Ann Arbor News, broadcast evening news) and avoids partisan cable media, positioning her as an information-moderate. She describes herself as issue-oriented rather than party-loyal, with fiscal conservatism (government spending discipline) as her primary political value, tempered by support for community programs benefiting seniors. She has written to elected officials about prescription drug costs and road infrastructure -- bread-and-butter issues affecting her daily life. On social issues like race and policing, she acknowledges her limited perspective as a white woman in a homogeneous small town and defaults to a 'treat everyone with respect' framework rather than structural analysis. Her political participation is high but conventional (voting, letter-writing) with no protest activity. She expresses growing disillusionment with partisan polarization and the tone of public discourse, a sentiment common among older moderate voters.",
+
+      "psychologist": "Deeva presents a behavioral profile marked by high Conscientiousness (meticulous record-keeping, rigid routines, double-checking, punctuality, planning), moderate-to-low Openness (preference for the familiar, traditional patterns, skepticism of unfamiliar approaches), moderate Agreeableness (community-oriented but with a competitive streak in bridge and a need to be right), moderate-to-low Extraversion (prefers small groups, structured socializing, solitary hobbies, uncomfortable with public displays), and moderate Neuroticism (nighttime rumination, worry about health and finances, difficulty accepting vulnerability, but effective coping through activity and routine). Her primary coping mechanism is behavioral activation -- she manages distress by cleaning, organizing, quilting, or engaging in any productive activity. She exhibits strong self-reliance and resistance to dependency, viewing burden on others as a threat to identity. Her relational style is stable and complementary (with Harold) or structured and reciprocal (with bridge friends, volunteers). She shows emerging grief and existential awareness as a last-surviving member of her generation, processed through faith, routine, and quiet endurance rather than verbal expression. Her self-concept is built around competence, reliability, and usefulness -- the loss of any of these capacities represents her deepest psychological vulnerability."
+    },
+
+    "others_misc": {
+      "cultural_and_linguistic": {
+        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "items": [
+          "English-only speaker, monolingual",
+          "German-American heritage (second/third generation); thrift, hard work, and community involvement as transmitted cultural values",
+          "Attends church every Sunday since childhood; same congregation since 1978",
+          "Organizes church fellowship meetings and previously managed women's group treasury",
+          "Evening prayer practice before bed; reads devotional booklet nightly",
+          "Seasonal canning tradition (sauerkraut) passed down from mother",
+          "Post-war Midwestern small-town culture: self-reliance, punctuality, quiet service"
+        ]
+      },
+      "life_events_and_transitions": {
+        "description": "Significant past or anticipated events that shape current behavior",
+        "items": [
+          "Marriage to Harold in 1962, ending college attendance",
+          "Move from Tecumseh to Saline in 1978",
+          "Raising three children as primary homemaker while Harold worked at Ford",
+          "Harold's heart procedure approximately 5 years ago",
+          "Loss of both parents (father ~1992, mother 1995) and both brothers (Walter 2010, Frank 2016)",
+          "Serious chest illness last winter requiring 3 weeks of recovery",
+          "Progressive knee deterioration requiring medication change 18 months ago",
+          "Transition from full driver to dependent on family for rides and errands"
+        ]
+      },
+      "sensory_and_physical_context": {
+        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "items": [
+          "Bilateral knee stiffness and pain, worse in cold weather and mornings; limits stair use",
+          "Reduced visual acuity requiring magnifying glass for fine quilting stitches",
+          "Mild hearing decline (less severe than Harold's)",
+          "No longer drives at night due to combined age-related vision concerns",
+          "Low-salt diet prescribed by doctor (not preference-based)",
+          "Sleep pattern: bed by 9 PM, up by 6 AM; occasional insomnia from worry/rumination",
+          "Energy depletion from extended standing (limits grocery shopping)",
+          "Cold Michigan winters exacerbate joint pain and limit outdoor activity"
+        ]
+      },
+      "media_and_information_diet": {
+        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "items": [
+          "Saline Post (local newspaper, delivered)",
+          "Ann Arbor News (picks up at library)",
+          "Broadcast network evening news at 6 PM",
+          "Local morning radio in the kitchen",
+          "Stopped watching cable news due to partisan tone",
+          "Facebook (passive browsing 1-2x/week: family photos, quilting group, Saline community page)",
+          "Does not use Instagram, Twitter/X, or other social platforms",
+          "Trusts doctor and local pharmacist over internet for medical information",
+          "Voter guides received by mail; TV debates for major elections"
+        ]
+      },
+      "technology_and_tool_use": {
+        "description": "Device preferences, app usage, digital communication norms",
+        "items": [
+          "Desktop computer for email and video calls",
+          "Video calls with James in Ohio every couple of weeks",
+          "Facebook on computer (not mobile)",
+          "Prints digital photos for physical display",
+          "Handwritten ledger preferred over financial software",
+          "Paper tax forms preferred over electronic filing",
+          "Kitchen wall calendar (paper) as primary scheduling tool",
+          "Writes handwritten letters to grandchildren",
+          "Interested in online courses but not yet enrolled"
+        ]
+      },
+      "unresolved_or_ambiguous": {
+        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "items": [
+          {
+            "content": "Specific denominational affiliation of church (seed data references 'church' and 'church choir with piano renditions' but persona avoids naming denomination per behavioral rule)",
+            "candidate_owner": "demographer",
+            "reason_unresolved": "Behavioral rule prevents naming religion directly; church attendance and practices described but label withheld"
+          },
+          {
+            "content": "Exact nature of cardiovascular condition requiring regular level checks and medication (described behaviorally as 'keeping numbers in a good range' and 'making sure the ticker is doing what it should')",
+            "candidate_owner": "demographer",
+            "reason_unresolved": "Health condition described only through behavioral proxies per protocol rules"
+          },
+          {
+            "content": "Exact party lean (described as fiscally conservative, issue-oriented, leans toward 'keeping spending in check' but explicitly avoids party label)",
+            "candidate_owner": "political_scientist",
+            "reason_unresolved": "Persona deliberately avoids firm party identification; behavioral signals suggest moderate-to-center-right but not confirmed"
+          },
+          {
+            "content": "Senior softball league participation frequency and current status (mentioned in seed data but not explored in depth during interview)",
+            "candidate_owner": "drop",
+            "reason_unresolved": "Seed data mentions 'modest senior softball league' but persona did not elaborate; may be inactive given age 85 and knee issues"
+          },
+          {
+            "content": "Crochet activity (seed data arts_persona mentions 'crocheted patterns' but interview focused on quilting and knitting)",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Seed data mentions crochet but persona only discussed quilting and knitting in the interview; unclear if still active"
+          }
+        ]
+      }
+    }
+  }
+}

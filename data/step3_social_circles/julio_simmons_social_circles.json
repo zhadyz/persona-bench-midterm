@@ -1,0 +1,195 @@
+{
+  "social_circle_metadata": {
+    "participant_id": "e7035edf5bc744c9912694a7d4b2a99c",
+    "participant_name": "Julio Simmons",
+    "generation_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
+  "social_circle": [
+    {
+      "name": "Marcus Chen",
+      "relationship": "best friend (from grad school)",
+      "demographics": {
+        "age": 50,
+        "gender": "Male",
+        "occupation": "Software Engineer at Paychex",
+        "location": "Rochester, NY",
+        "education": "M.S. in Computer Science, University of Rochester"
+      },
+      "background": {
+        "how_they_met": "Met in graduate school at the University of Rochester in the late 1990s. Marcus was in the computer science program while Julio was in computational science. They bonded over a shared love of weird music and tabletop RPGs.",
+        "years_known": 24,
+        "why_close": "Marcus is Julio's emotional lifeline and most stable anchor. He provides unconditional presence during Julio's worst moments without trying to fix or lecture. Their friendship is built on shared intellectual interests (coding, music, RPGs), mutual respect, and two decades of knowing each other through career changes, Julio's divorce, and mental health struggles. Marcus's stability (married, steady career, kids) complements Julio's volatility in a way that benefits both."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["dry humor", "emotionally steady", "pragmatic", "quietly generous"],
+        "interests": ["tabletop RPGs", "software engineering", "weird/experimental music", "craft beer", "cooking for the D&D group"],
+        "communication_style": "Deadpan and economical. Texts in short, complete sentences. Uses dry wit rather than emotional language. Won't give unsolicited advice but will show up at your door with Thai takeout when you're falling apart. Sends links to interesting articles or job leads without preamble -- just the URL and maybe a one-word comment."
+      },
+      "shared_activities": [
+        "Biweekly D&D campaign (every other Thursday at Marcus's house, ~2 years running; Julio is DM)",
+        "Occasional brunch or dinner together",
+        "Marcus forwards freelance leads from Paychex contacts",
+        "Shared media consumption -- recommending music, articles, shows",
+        "Marcus crashes on Julio's couch after late D&D sessions occasionally"
+      ],
+      "communication_frequency": "3-4x week (texts regularly, D&D every other Thursday, phone calls during rough patches)",
+      "recent_text_topics": [
+        "D&D campaign planning -- Julio sends world-building details and map previews for Marcus to react to between sessions",
+        "Grant application progress -- Marcus checked in after Julio's rejection last year and has been asking about the new Monroe County grant deadline in June",
+        "Freelance lead from Paychex -- Marcus forwarded a contact who needed data work, leading to Julio's recent infographic gig",
+        "A new album or song recommendation (shared link with minimal commentary)",
+        "Julio's cycling group restarting for the season -- Marcus teasing him about his lap-time tracking obsession"
+      ],
+      "evidence_from_interview": "Q07: 'My closest friend is Marcus. We met in grad school -- he was in the computer science program... We play in a D&D campaign every other Thursday night... Marcus is the person I call when I'm spiraling. He'll just listen, and then he'll say something deadpan that snaps me out of it.' Q07 follow-up: D&D group details, Marcus's house, wife Amy makes coffee. Q13: 'Marcus crashes on my couch maybe once every couple months after a late D&D session.' Q16 follow-up: 'Marcus will forward me a lead from someone at Paychex who needs a one-off project.' Q44: 'Marcus showed up at my door with takeout from a Thai place we like, and he just sat with me... He said, That sucks, and it doesn't mean your work sucks.' Q44 follow-up: 'Marcus is my lifeline, honestly. He doesn't try to problem-solve... He just shows up and is present.' Q01 follow-up: 'My friend Marcus has called me out on it more than once' (re: dating avoidance). Q109 follow-up: Names Marcus first among those who anchor him."
+    },
+    {
+      "name": "Greta Simmons-Novak",
+      "relationship": "younger sister",
+      "demographics": {
+        "age": 44,
+        "gender": "Female",
+        "occupation": "Nurse Practitioner",
+        "location": "Syracuse, NY",
+        "education": "Master of Science in Nursing (MSN)"
+      },
+      "background": {
+        "how_they_met": "Family -- Julio is five years older. They grew up together in the same Brighton household.",
+        "years_known": 44,
+        "why_close": "Despite geographic distance (Syracuse to Rochester, ~90 minutes), Greta is Julio's closest family ally. She combines genuine concern for his well-being with a healthcare professional's pragmatism. She is the one who intervened during Julio's worst stretch (January-February low point), driving up from Syracuse to stock his fridge and sit with him. She talked him into starting his prescription medication with the reframe 'You wouldn't refuse a cast for a broken arm.' There is an undercurrent of her worrying about him, which Julio finds both comforting and occasionally infantilizing."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["practical", "quietly compassionate", "responsible", "direct when necessary", "worrier (but manages it better than Julio)"],
+        "interests": ["healthcare advocacy", "cultural competency training at her clinic", "her children's activities (Milo's robotics, Sophie's dance)", "hiking when time allows", "reading"],
+        "communication_style": "Warm but careful. Asks 'How are you doing?' in a measured voice that Julio knows is really asking 'Are you eating, are you sleeping, are you okay.' Texts in full sentences, often checking in. After the January crisis, she texted Julio every day for a month. Uses voice calls for deeper conversations. Practical in communication -- will suggest concrete actions rather than abstract reassurance."
+      },
+      "shared_activities": [
+        "Monthly or bimonthly visits (Julio to Syracuse or Greta to Rochester)",
+        "Holiday gatherings at parents' house",
+        "Video calls where they discuss parents' care and aging concerns",
+        "Taking Milo and Sophie to the MOST (Museum of Science & Technology) or doing kitchen-table art projects during visits",
+        "Quiet conversations about family emotional patterns they're trying to break"
+      ],
+      "communication_frequency": "2-3x week (regular phone calls, texts, occasional video chat)",
+      "recent_text_topics": [
+        "Dad's knee -- ongoing concern about whether a revision surgery is needed and how to manage the cost; they've discussed the situation without reaching a plan",
+        "Julio's grant application timeline -- Greta asking about the Monroe County deadline and whether he's keeping up with the business plan",
+        "Milo's robotics project -- Julio and Milo video chat about Arduino circuits, and Greta relays updates",
+        "Retirement planning -- Greta has gently raised this topic, which Julio deflects; she floated the idea of Julio doing data management for the hospital system in Syracuse",
+        "Checking in on Julio's daily functioning -- subtly making sure he's maintaining his routines after the winter low"
+      ],
+      "evidence_from_interview": "Q05: 'I have a younger sister, Greta. She's forty-four, lives in Syracuse with her husband Paul and their two kids, Milo and Sophie. Milo's twelve and Sophie's nine. Greta's a nurse practitioner... She'll call and ask how I'm doing in this very careful voice, and I know she's really asking are you eating, are you sleeping, are you okay.' Q05 follow-up: details on Milo (Arduino kit) and Sophie (dance/theater). Q19: Milo in robotics club, Sophie in dance. Q30: 'My sister Greta is more quiet about it but she's implemented some changes in her practice -- she works in a clinic that serves a diverse patient population and she pushed for cultural competency training.' Q33: 'My sister noticed during a video call and drove up from Syracuse to check on me. She helped me get back on track -- made sure I had food in the fridge, stayed with me for a weekend.' Q33 follow-up: Greta's intervention described in detail. Q35 follow-up: Greta and Julio have had conversations about parents' aging. Q39 follow-up: 'My sister was actually the one who talked me off that ledge. She said You wouldn't refuse a cast for a broken arm.' Q62 follow-up: Greta floated the idea of Julio working for the Syracuse hospital system. Q108 follow-up: backup plan includes Greta's Syracuse job lead."
+    },
+    {
+      "name": "Priya Nair",
+      "relationship": "close friend and creative collaborator",
+      "demographics": {
+        "age": 38,
+        "gender": "Female",
+        "occupation": "Graphic Designer and Improv Performer",
+        "location": "Rochester, NY",
+        "education": "B.F.A. in Graphic Design"
+      },
+      "background": {
+        "how_they_met": "Met through the Rochester Fringe Festival. Priya dragged Julio to an improv workshop about four years ago, which led to him joining her improv troupe.",
+        "years_known": 5,
+        "why_close": "Priya is one of the few people who intuitively understands the art-science crossover that defines Julio's identity 'without needing it explained.' She occupies a different space in his social world than Marcus -- where Marcus provides steady emotional grounding, Priya provides creative energy and shared artistic language. She is attuned to Julio's stress signals and has learned to recognize when he's tightening up before improv, pulling him aside for breathing exercises. Their friendship is rooted in creative practice rather than shared history."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["energetic", "socially vocal", "empathetic", "creatively adventurous", "community-minded"],
+        "interests": ["improv theater", "graphic design", "visual art", "social justice advocacy", "community arts organizing", "the Rochester Fringe Festival"],
+        "communication_style": "Expressive and warm. Texts with enthusiasm -- occasional exclamation points, shares articles and flyers she's designed for community events. Vocal on social media about social issues and local activism. Uses memes and humor in conversation but can switch to deeply empathetic listening mode. Will pull someone aside for a quiet word if she senses something is off."
+      },
+      "shared_activities": [
+        "Improv troupe rehearsals every Monday night at the Avenue Blackbox Theatre",
+        "Performances at the Rochester Fringe Festival (annually in September) and smaller shows throughout the year",
+        "Conversations about art, design, creative coding, and the art-science intersection",
+        "Co-engagement on social and racial justice issues within their community circles"
+      ],
+      "communication_frequency": "2-3x week (Monday rehearsals, texting between sessions, occasional coffee or gallery visit)",
+      "recent_text_topics": [
+        "Planning for the next improv show -- scene ideas, rehearsal logistics, venue coordination",
+        "Julio's graphic novel project -- Priya has offered design feedback on page layouts and visual style",
+        "Rochester Fringe Festival 2026 planning -- discussion of what to submit for the September performance lineup",
+        "Social media cutback -- Julio mentioned reducing his Instagram time and Priya, who is very active online, has been checking in about whether he's feeling more grounded",
+        "A community arts event or flyer Priya designed that she shared for feedback"
+      ],
+      "evidence_from_interview": "Q07: 'There's also Priya, who I met through the Rochester Fringe Festival. She's an improv performer and a graphic designer. We're in the same improv troupe -- we rehearse on Monday nights at the Avenue Blackbox Theatre. Priya is one of the few people who gets the art-science thing without needing it explained.' Q07 follow-up: 'Priya dragged me to a workshop about four years ago.' Q11 follow-up: 'If I skip improv, I text Priya and make sure I at least have a phone call with someone that day.' Q29: 'I've had direct conversations with Marcus, Priya, and others about what we can do within our own small circles.' Q30: 'Priya has been vocal on social media about it -- she shares a lot of content from local activists and has used her graphic design skills to make flyers for community events.' Q45 follow-up: 'Priya sees it at improv sometimes -- she's learned to recognize when I'm tightening up and she'll pull me aside for a breathing exercise before we go on.'"
+    },
+    {
+      "name": "Eileen Simmons",
+      "relationship": "mother",
+      "demographics": {
+        "age": 75,
+        "gender": "Female",
+        "occupation": "Retired medical records clerk / health information technician",
+        "location": "Brighton (Rochester), NY",
+        "education": "Associate degree in Health Information Management, Monroe Community College"
+      },
+      "background": {
+        "how_they_met": "Family -- Julio's mother. She raised him in the Brighton house where she still lives with her husband Karl.",
+        "years_known": 49,
+        "why_close": "Eileen is Julio's weekly anchor to family life through the Sunday dinners she hosts. She is the emotional glue of the Simmons family -- she manages the household, monitors Karl's declining health, worries about Julio's unconventional lifestyle, and maintains connections with the extended family. Her relationship with Julio is characterized by consistent care expressed through cooking (pot roast, German apple cake) and gentle concern, even as she doesn't fully understand his work. She represents both comfort and the weight of family expectations Julio feels he hasn't met."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["meticulous", "nurturing", "anxious worrier", "persistent", "emotionally understated"],
+        "interests": ["gardening", "reading", "cooking traditional family recipes (German apple cake, pot roast)", "herbal remedies (echinacea, valerian root, chamomile)", "church holidays"],
+        "communication_style": "Warm but indirect. Expresses deep worry through euphemism ('your father had a hard week' instead of stating the problem directly). Asks about Julio's week at Sunday dinners and nods along even when his projects go over her head. Will change the subject when tension rises between Julio and Karl. Calls or is called on Wednesdays -- a structured 30-minute check-in. Still lights a candle for Julio at church, which he finds both touching and guilt-inducing."
+      },
+      "shared_activities": [
+        "Sunday dinners at the family home in Brighton (Julio drives over ~4pm, helps with dishes, leaves by 7pm)",
+        "Wednesday phone calls (structured ~30 minutes)",
+        "Holiday gatherings (Christmas Eve church service, Easter)",
+        "Julio occasionally drives Karl to medical appointments",
+        "Exchanging recipes and kitchen tips (Julio inherited her chamomile tea ritual)"
+      ],
+      "communication_frequency": "3-4x week (Sunday dinner in person, Wednesday phone call, plus occasional texts about Karl's health or household matters)",
+      "recent_text_topics": [
+        "Karl's knee -- updates on bad days, doctor appointment scheduling, discussion of whether a revision surgery is needed",
+        "Garden plans for spring -- Eileen shares what she's planting and Julio picks up flowers for his apartment at the market",
+        "Sunday dinner logistics -- what she's cooking, what time Julio should arrive",
+        "Extended family news -- updates about Uncle Frank in Buffalo, cousin Heinrich's vineyard",
+        "A well-intentioned but slightly tone-deaf check-in about whether Julio is 'seeing anyone nice'"
+      ],
+      "evidence_from_interview": "Q05: 'My parents are both still alive, both in their mid-seventies... Mom is sharper but she worries constantly, about dad, about me, about everything. I try to go over for dinner every Sunday. Mom makes a pot roast or sometimes this German apple cake recipe that's been in the family forever.' Q05 follow-up on Sunday dinners: detailed description of the ritual, Mom asking about his week, changing subject to Greta's kids when tension rises. Q17: 'I check in on my parents regularly beyond Sunday dinner. I'll call my mom on Wednesdays.' Q17 follow-up: 'The Wednesday call with Mom is structured -- thirty minutes, we catch up, she tells me about her garden or what she's reading.' Q35: concern about parents' declining health, watching mom carry more of the household burden. Q37: 'My mom is a big believer in herbal remedies -- she keeps a shelf of tinctures and teas.' Q42 follow-up: Dad got COVID shots 'because Mom insisted.' Q46: 'Mom carries worry like a second job... she picks at her nails.' Q47 follow-up: 'Mom is disappointed but resigned [about Julio leaving the church]. She still lights a candle for me.' Q101: Mom got her associate degree from MCC after Greta started kindergarten -- worked at Strong Memorial over 20 years."
+    },
+    {
+      "name": "Theo Vasquez",
+      "relationship": "friend and D&D group member",
+      "demographics": {
+        "age": 45,
+        "gender": "Male",
+        "occupation": "High School Physics Teacher",
+        "location": "Rochester, NY",
+        "education": "B.S. in Physics Education; M.Ed."
+      },
+      "background": {
+        "how_they_met": "Through Marcus and the D&D group. Theo joined the campaign approximately two years ago, likely connected via overlapping STEM community circles in Rochester. As a physics teacher and Julio a former adjunct who still does STEM outreach, they share a pedagogical sensibility.",
+        "years_known": 3,
+        "why_close": "Theo occupies the professional-creative contact slot in Julio's social circle. While their friendship is primarily structured around the D&D campaign, their shared commitment to STEM education creates a substantive bond beyond the game. Theo is one of the few people in Julio's life who is actively employed in education -- the field Julio loved and may return to -- making him a bridge between Julio's current identity and a possible future. Theo's response to the 2020 racial reckoning (incorporating diverse scientists into his curriculum) aligns with Julio's own equity-oriented values, reinforcing mutual respect."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["intellectually curious", "action-oriented", "socially progressive", "reliable", "good-humored"],
+        "interests": ["physics", "tabletop RPGs", "STEM education reform", "incorporating diverse scientists into curriculum", "sci-fi and speculative fiction"],
+        "communication_style": "Enthusiastic about ideas, especially science. Texts about interesting physics articles or teaching anecdotes. Engages in long tangential conversations during D&D breaks about quantum mechanics or education policy. Dependable communicator -- rarely cancels on the group. Uses humor and storytelling in conversation, influenced by his classroom teaching style."
+      },
+      "shared_activities": [
+        "Biweekly D&D campaign (every other Thursday at Marcus's house; Theo is a player, Julio is DM)",
+        "Conversations about STEM education, science outreach, and pedagogy",
+        "Occasional overlap at Rochester maker community events or science education circles",
+        "Shared interest in speculative science topics that feed into Julio's graphic novel research"
+      ],
+      "communication_frequency": "weekly (D&D every other Thursday in person, group chat messages in between about campaign and science topics)",
+      "recent_text_topics": [
+        "D&D campaign developments -- Theo's character arc decisions, Julio's world-building previews, group scheduling logistics",
+        "A physics article or video Theo shared that connects to Julio's quantum physics graphic novel research",
+        "Julio's workshop at Rochester Brainery -- Theo asked about how it went and whether any students from his school attended",
+        "Education system frustrations -- Theo venting about budget cuts or standardized testing, Julio commiserating from his adjunct experience",
+        "A new sci-fi book recommendation exchanged between sessions"
+      ],
+      "evidence_from_interview": "Q07 follow-up: 'It's me, Marcus, a guy named Theo who teaches high school physics, and a woman named Jess who's a librarian at the central branch. We've been running the same campaign for about two years now.' The D&D group is described as 'sacred' -- they almost never cancel. Q30: 'My D&D group -- Theo, the physics teacher, has been incorporating more diverse scientists into his curriculum, which I think is cool. Small things, but meaningful in context.' This shows Julio tracks and respects Theo's professional actions, indicating a relationship that extends beyond the gaming table into shared values around education and equity. Inference note: Theo's surname, age, and specific education details are generated to fill the professional/creative contact requirement. The interview establishes him as a named, recurring presence in Julio's most valued social ritual (D&D), with shared STEM education interests and progressive values, making him a plausible close contact."
+    }
+  ]
+}

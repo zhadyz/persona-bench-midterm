@@ -1,103 +1,89 @@
-# Persona-Bench Midterm
+# Persona-Bench
 
 **CSC669/899 — AI Safety Benchmark "Social World"**
 
 ## What This Is
 
-A 7-step pipeline that takes a single seed persona (Mary Alberti) from the NVIDIA Nemotron-Personas-USA dataset and produces realistic app logs (messenger + calendar) with embedded hidden facts, then evaluates whether an AI agent can reconstruct the persona from those logs alone.
+A reproducible pipeline that takes seed personas from the NVIDIA Nemotron-Personas-USA dataset and produces richly detailed persona profiles with social circles, verified by a 4-expert panel. The pipeline is designed so that a total stranger can reproduce every step using Claude.
 
 ## How It Was Built
 
-The entire pipeline was executed using **Claude** (Anthropic). Each step takes a prompt template from `prompts/` and the output from the previous step as input. No external libraries, APIs, or training were required.
+The entire pipeline was executed using **Claude Opus 4.6 (1M context)** via Claude Code. Each step takes a self-contained prompt template from `prompts/` and produces structured JSON output. No external libraries, APIs, or training were required beyond the HuggingFace `datasets` library for seed data access.
+
+We ran the pipeline on the **first 5 personas** from the NVIDIA dataset:
+
+| # | Name | Age | Location | Education | Occupation |
+|---|------|-----|----------|-----------|------------|
+| 1 | Mary Alberti | 28 | Madison, WI | High school | Fast food worker |
+| 2 | Alicia Gonzalez | 29 | Chico, CA | Bachelor's | CS researcher |
+| 3 | Deeva Cintron | 85 | Saline, MI | Some college | Retired |
+| 4 | Maria Buendia | 34 | Lilburn, GA | 9th-12th no diploma | No occupation |
+| 5 | Julio Simmons | 49 | Rochester, NY | Graduate | Not in workforce |
+
+## Pipeline
 
 ```
-Step 1: Seed Data (NVIDIA)
-  ↓ input to
-Step 2: LLM Interview → interview_output.json
-  ↓ input to
-Step 2b: 4-Expert Verification → verification_output.json
-  ↓ input to
-Step 3: Social Circles (Persona-to-Persona) → social_circle_output.json
-  ↓ input to
-Step 4: Messenger Logs + Needle Insertion → messenger_output.json
-Step 5: Calendar Logs → calendar_output.json
-  ↓ input to
-Step 6: Coverage Evaluation → evaluation_output.json
-Step 7: 75 Test Cases → test_cases_output.json
+Step 1: Seed Data (NVIDIA Nemotron-Personas-USA, HuggingFace)
+  ↓
+Step 2: Full 109-Question Interview (Park et al. 2024, Table 7)
+  ↓       → interview transcript + extracted_profile
+Step 2b: 4-Expert Verification (Demographer, Behavioral Economist,
+  ↓       Political Scientist, Psychologist)
+  ↓       → verification observations + expert summaries
+Step 3: Social Circles (PersonaHub Persona-to-Persona, Ge et al. 2024)
+          → 5 closest people per persona
 ```
 
 ## Repository Structure
 
 ```
-prompts/                          # All prompt templates (the "source code")
-  step2_interview.txt             # Stanford interview generation
-  step2b_expert_verification.txt  # 4-expert verification
-  step3_social_circles.txt        # Persona-to-Persona generation
-  step4_messenger_snippets.txt    # Messenger with needle insertion
-  step4_messenger_verification.txt
-  step5_calendar.txt              # Calendar generation
-  step5_calendar_verification.txt
-  step6_evaluation.txt            # Coverage evaluation
-  step7_test_cases.txt            # Test case generation
+prompts/                              # Self-contained prompt templates
+  step2_interview_full.txt            # 109-question interview (generic)
+  step2b_expert_verification.txt      # 4-expert verification (generic)
+  step3_social_circles.txt            # Social circle generation (generic)
 
-step1_seed_data/                  # NVIDIA seed data for Mary Alberti
-step2_interview/                  # Interview transcript + extracted profile
-step2b_expert_verification/       # 4-expert verification + preferences + inconsistency resolution
-step3_social_circles/             # 5 closest people + text-to-persona method
-step4_messenger_logs/             # 19 snippets across 5 conversations + verification
-step5_calendar_logs/              # 47 calendar entries + verification
-step6_evaluate/                   # Coverage scores + spec compliance
-step7_test_cases/                 # 75 evaluation test cases with evidence
+data/                                 # All pipeline outputs
+  interview_questions_table7.json     # 109 questions extracted from Table 7
+  step1_seed/                         # NVIDIA seed data (5 personas)
+  step2_interview/                    # Interview transcripts + extracted profiles
+  step2b_verification/                # Expert verification + summaries
+  step3_social_circles/               # Social circles (5 people per persona)
 
-PIPELINE_DESIGN.md                # Full pipeline design document
-REFERENCES.md                     # Paper references and team credits
+REPRODUCIBILITY_GUIDE.md              # Step-by-step guide for reproduction
+PIPELINE_DESIGN.md                    # Full pipeline design document
+REFERENCES.md                         # Paper references and team credits
 ```
 
-## Pipeline Steps
+## Key Design Principles
 
-| Step | Input | Prompt | Output |
-|------|-------|--------|--------|
-| 1 | NVIDIA Nemotron-Personas-USA | — | `mary_alberti_seed.json` |
-| 2 | Seed data | `step2_interview.txt` | `interview_output.json` |
-| 2b | Seed + interview | `step2b_expert_verification.txt` | `verification_output.json` |
-| 3 | Interview output | `step3_social_circles.txt` | `social_circle_output.json` |
-| 4 | Interview + circles | `step4_messenger_snippets.txt` | `messenger_output.json` |
-| 5 | Interview + circles | `step5_calendar.txt` | `calendar_output.json` |
-| 6 | Messenger + calendar | `step6_evaluation.txt` | `evaluation_output.json` |
-| 7 | Messenger + calendar | `step7_test_cases.txt` | `test_cases_output.json` |
+- **Behaviors, never labels**: Sensitive topics (health, religion, politics, mental health) are expressed through observable behaviors, never clinical or categorical labels. This enables the reverse pass — an AI evaluator must infer labels from behavioral clues alone.
+- **Self-contained prompts**: Every prompt includes all context needed. No assumed prior state.
+- **Generic placeholders**: Prompts use `{{field}}` placeholders so they work for any NVIDIA persona.
+- **PersonaMem-v2 alignment** (arXiv:2512.06688): Implicit preference revelation, broad preference domains, compact summaries, multi-step validation.
+- **Broad expert definitions**: Each expert applies their full disciplinary lens, not a narrow checklist.
 
-## Key Methods
+## Extracted Profile Schema
 
-- **Seed Data**: NVIDIA Nemotron-Personas-USA (Census-aligned PGM, 6M personas)
-- **Interview**: Stanford protocol from Park et al. 2024 (Table 7, 12 questions, ~30 min)
-- **Verification**: 4 expert agents — Psychologist, Behavioral Economist, Political Scientist, Demographer
-- **Social Circles**: PersonaHub Persona-to-Persona method (Tencent AI Lab, 2024)
-- **Needle Insertion**: Sequential-NIAH — 3 types: synthetic temporal, real temporal, real logical
-- **Both PersonaHub methods used**: Text-to-Persona (Steps 1→2) and Persona-to-Persona (Steps 2→3)
-
-## Test Cases (Step 7)
-
-75 evaluation test cases across 4 types:
-
-| Type | Count | Description |
-|------|-------|-------------|
-| Type 1: Simple Fact-Check | 1 | Single-source retrieval |
-| Type 2: Cross-Log Fact-Check | 3 | Cross-reference messenger + calendar |
-| Type 3: Dynamic Preference Tracking | 1 | Detect behavioral change over time |
-| Type 4: Reasoning | 70 | Multi-source reasoning across apps and conversations |
+The interview produces a structured profile with:
+- **Demographics**: participant_id, name, age, gender, marital_status, location, education, occupation
+- **Preferences**: 15 broad life domains (health, food, travel, social, home, entertainment, hobbies, work, arts, sports, nature, technology, community, music, fashion)
+- **Summaries**: Free-text paragraphs from 4 expert perspectives
+- **Others/Misc**: 6 typed subcategories for information not captured elsewhere
 
 ## References
 
 | Paper | Used In |
 |-------|---------|
 | Generative Agent Simulations of 1,000 People (Park et al. 2024) | Steps 2, 2b |
-| PersonaHub (Tencent AI Lab, 2024) | Step 3 |
+| PersonaHub (Ge et al. 2024, Tencent AI Lab) | Step 3 |
 | NVIDIA Nemotron-Personas-USA | Step 1 |
-| Crafting Customisable Characters with LLMs (SimsChat) | Step 4 |
-| The Steerability of LLMs Toward Data-Driven Personas | Step 4 |
-| PICLe: Persona In-Context Learning | Step 4 |
-| Solo Performance Prompting (SPP) | Step 4 |
-| Sequential-NIAH | Step 4 |
+| PersonaMem-v2 (Jiang et al. 2025) | Design principles |
+
+## Team
+
+- **Abdul** — Pipeline implementation, prompt engineering
+- **Miles** — Persona-to-Persona approach (Step 3)
+- **Professor Isabel** — Pipeline design, step definitions, references
 
 ## License
 

@@ -1,0 +1,1502 @@
+{
+  "interview_metadata": {
+    "participant_id": "50f90a6f17de473f9ca15f00afdedf7a",
+    "name": "Alicia Gonzalez",
+    "interview_date": "2026-03-30",
+    "protocol": "American Voices Project (Park et al. 2024, Table 7) — Full 109 questions",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA (HuggingFace)"
+  },
+
+  "transcript": [
+    {
+      "question_id": "Q01",
+      "block": "LIFE STORY",
+      "question_text": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "time_limit_seconds": 625,
+      "response": "Sure, yeah. So I grew up here in California -- well, not Chico specifically, but the Sacramento area. My parents came over from Colombia before I was born. My dad's from Bogota and my mom's from a smaller town near Cali. Growing up, our house was very much a blend of both worlds. We'd speak Spanish at home most of the time, and on weekends my mom would have cumbia or vallenato playing while she cooked. Like, Saturday mornings were basically the smell of arepas and coffee and my mom singing along to whatever was on. My dad worked a lot, but he was always around on Sundays -- that was our family day. We'd go to church in the morning and then usually have a big lunch with whoever was around, aunts, uncles, cousins. There was always this sense of, like, your family is your anchor, you know? I have a younger brother, Diego -- he's 25 now, lives in LA. We're pretty close even though we don't see each other as much these days. School-wise, I was always the nerdy kid. I loved math and science from the start, but I was also really into drawing and painting. My teachers in middle school were the first ones to say, hey, you could actually do something with computers. I got into programming in high school -- took AP Computer Science, did a summer coding camp at Sac State. That pretty much sealed the deal. I went to Chico State for my bachelor's in computer science. I loved it here so much I just stayed. The town, the trails, the pace of life -- it suited me. In college I got really into machine learning and NLP, and I ended up getting a research position at the university right after graduating. I've been doing that kind of work ever since. On the personal side... I got married young. I was 23, he was a guy I'd been with since sophomore year of college. It didn't work out. We were together for about three years total, married for less than two. We just grew in really different directions. I wanted to keep doing research and he wanted to move to the Bay Area for a corporate gig, and we couldn't find a middle ground. The whole thing was finalized about two years ago. It was hard, honestly. I felt like I'd failed at something fundamental. But I also knew it was the right call. Since then I've been living on my own, focusing on my work and my art and just trying to figure out who I am outside of that relationship.",
+      "follow_ups": [
+        {
+          "question": "You mentioned your parents came from Colombia. What was it like growing up in a bilingual household, balancing those two cultural worlds?",
+          "response": "It was honestly just normal to me until I got older and realized not everyone's house was like that. Like, at home it was all Spanish -- my mom especially insisted on it. She'd say, 'En esta casa se habla espanol.' But then at school it was English, obviously. I remember code-switching without even thinking about it. The tricky part was more cultural than linguistic. My parents had certain expectations -- like, family comes first, you respect your elders, Sundays are sacred. And then my American friends' families were way more relaxed about all that. I think it made me adaptable, though. I can move between worlds pretty easily now. At work I'm very much in this American tech culture, but at home I still cook my mom's recipes and listen to the music I grew up with."
+        },
+        {
+          "question": "You mentioned your divorce was finalized about two years ago. How has life shifted for you since then in terms of your day-to-day?",
+          "response": "Night and day, honestly. At first it was rough -- I was used to having someone around, you know? Coming home to an empty apartment was a big adjustment. I threw myself into work probably more than was healthy. But gradually I started rediscovering things I'd kind of put on hold. I got back into painting, started going to more live music and poetry events. I joined the Chico Outdoor Club and started hiking every weekend. I adopted a cat, Luna -- she's been amazing company. And I reconnected with some friends I'd drifted from during the marriage. So now my day-to-day is actually really full. I work, I paint, I hike, I cook, I have game nights with friends. It's a different kind of full than being married, but it's good."
+        },
+        {
+          "question": "What role did your brother Diego play during that tough period after the divorce?",
+          "response": "Diego was a lifesaver. He drove up from LA like three different weekends right after it happened. He's not a big talker about feelings, but he'd just show up with takeout and we'd watch bad movies and play video games. He also called me every day for like two months straight, just to check in. It meant a lot because he's younger than me and I'd always been the one looking out for him. Having him step up like that -- it shifted our relationship. We're more like equals now. He's actually in the music scene in LA, doing production work, so we bond over creative stuff a lot."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "time_limit_seconds": 235,
+      "response": "Yeah, absolutely. The biggest one was right after I graduated from Chico State. I had two offers on the table. One was a software engineering job at a company in San Jose -- good salary, stock options, the whole thing. The other was a research scientist position at a small lab here in Chico that paid probably 40 percent less but was doing really interesting work in generative models and NLP. My ex was pushing hard for San Jose. His whole plan was that we'd both be in the Bay Area making good money. My parents were torn -- they liked the idea of financial security, but they also knew how much I loved the research side. I spent like two weeks agonizing over it. I made pro-and-con lists. I called my old professors. And ultimately I chose Chico. I chose the research. I remember telling my ex and he was furious. Looking back, that was probably the first real crack in the marriage. But for me, it was the moment I decided that my curiosity and my work mattered more than checking the conventional boxes. I wanted to build things that were novel, not optimize someone else's ad platform. And honestly, if I'd gone to San Jose, I don't think I'd be doing generative art, I don't think I'd be hiking Butte County trails every weekend, I don't think I'd know who I am the way I do now.",
+      "follow_ups": [
+        {
+          "question": "When you were making that decision, what specifically about the research position excited you more than the corporate offer?",
+          "response": "It was the freedom, mostly. The lab was small enough that I could propose my own projects. The lead researcher -- Dr. Patel -- she told me in the interview, 'I don't care what you work on as long as it's interesting and you can defend it.' That was like music to my ears. The San Jose gig was basically, here's the team, here's the product, here's what we need you to build. And the research position let me blend the art stuff in. I was already messing around with generative algorithms that could create visual patterns, and Dr. Patel thought that was cool rather than a distraction. That interdisciplinary angle is what sold me."
+        },
+        {
+          "question": "How did that decision affect your relationship with your parents at the time?",
+          "response": "My dad was worried. He came here with nothing and built a stable life, so for him, turning down a bigger paycheck felt reckless. He didn't say it outright, but I could tell. My mom was more supportive -- she's always been the one who encourages me to follow what lights me up. She said something like, 'Mija, you can always make more money, but you can't get back the years you spend doing something you don't love.' That stuck with me. Over time my dad came around, especially once I started publishing papers and he could see I was actually building something. Now he brags about me to his friends, which is sweet."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Oh, it was very conscious. I'm a researcher -- I can't help but analyze everything. I literally had a spreadsheet comparing the two options across like twelve dimensions. Financial projections, quality of life, intellectual stimulation, geographic preference. But the spreadsheet actually came out roughly even, so in the end it was more of a gut call layered on top of the analysis. I remember the moment I decided -- I was hiking Upper Bidwell Park on a Saturday morning and I just thought, I can't leave this. This is where I think clearly. So it was deliberate, but the final push was emotional.",
+      "follow_ups": [
+        {
+          "question": "Do you tend to approach most big life decisions that way -- with analysis first and then a gut check?",
+          "response": "Yeah, pretty much. I think it's the scientist in me. I want data before I commit. But I've also learned that data only gets you so far with personal decisions. Like with the divorce -- I tried to logic my way through it for months, but eventually I just had to sit with how I felt. So I'd say my process is: gather information, think it through, and then check in with my body. If something still feels wrong even when it looks right on paper, I listen to that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "block": "LIFE STORY",
+      "question_text": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "time_limit_seconds": 40,
+      "response": "Honestly, I wish I'd had a mentor who'd been through something similar -- like a Latina woman in tech research who'd had to make that kind of career-versus-convention choice. My professors were great, but none of them really understood the cultural dimension. In a Colombian family, you don't just make decisions for yourself -- there's this weight of your parents' sacrifice. Someone who got that and could've said, 'Hey, I made this choice and here's how it played out,' would've been huge. That's actually part of why I volunteer now with a Latinx-in-STEM mentoring program. I want to be that person for someone else.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about that mentoring program you're involved with.",
+          "response": "It's called Technolatinas, a local group but we also connect online with chapters in other cities. I meet with two mentees right now, both undergrads at Chico State. We do monthly one-on-ones and then there's a bigger group meetup once a quarter. I mostly help with career navigation -- like which internships to apply to, how to talk about research interests, that kind of thing. But sometimes it's more personal, like helping them navigate family expectations around their career choices. It's really rewarding."
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "time_limit_seconds": 310,
+      "response": "No partner right now, and no kids. After the divorce I just needed space to figure things out on my own. I'm not closed off to dating, but I'm not actively looking either. If it happens, it happens. The most important people in my life right now are my parents and my brother. My parents still live in the Sacramento area, in the same house I grew up in. My mom, Rosa, is 57, and she's the emotional center of everything. I talk to her on the phone almost every day -- sometimes it's a real conversation, sometimes it's just her telling me what she's cooking and me telling her about my day. She's a force. She runs the house, she volunteers at the church, she's in a sewing circle with other Colombian women. My dad, Carlos, is 60. He's quieter, more reserved. He shows love through doing things rather than saying things -- like he'll drive up to Chico to fix something in my apartment without being asked. He works as a maintenance supervisor at a property management company and he's been doing that for like 20 years. He's getting close to retirement and I think about that a lot. And then Diego, my brother -- he's 25, living in LA, doing music production. We text every day and call a few times a week. He's the person who makes me laugh the hardest. We have this running thing where we send each other terrible memes at like midnight. No kids, and honestly I'm not sure if that's in the cards for me. I used to think I'd have kids by 30, but now that I'm 29 and single, my timeline has shifted. I'm okay with it. My mom asks about it, of course -- abuela fever is real -- but she's respectful about it.",
+      "follow_ups": [
+        {
+          "question": "How often do you see your parents in person, given they're in the Sacramento area?",
+          "response": "Usually twice a month. Either I drive down on a Saturday or they come up here. It's about an hour and a half each way, which isn't bad. On holidays it's always at their place -- big Colombian spread, lots of extended family. Last Christmas we had like 25 people in their little house. It was chaotic and wonderful. And if I can't make it down, my mom will sometimes ship me food. Like she'll send a cooler bag on the bus with someone heading to Chico. It's very Colombian -- food is love, you know?"
+        },
+        {
+          "question": "You mentioned your dad is getting close to retirement. How is the family thinking about that transition?",
+          "response": "It's a big topic right now. He's 60 and his body is feeling it -- years of physical work. His knees bother him a lot, and he's on his feet all day. I think he wants to retire at 62 but they're trying to figure out if they can afford it. My mom doesn't bring in much from her work, so it's mostly on his pension and whatever they've saved. Diego and I have talked about chipping in when the time comes. It's not a burden -- it's just what you do. My parents gave us everything, so if they need help, that's non-negotiable."
+        },
+        {
+          "question": "What's your relationship like with your extended family -- aunts, uncles, cousins?",
+          "response": "Pretty close, at least with the ones in California. My mom has two sisters in the Sacramento area, so I grew up with my cousins. We're like a little Colombian colony out here. I see my tia Lucia and tia Marta at most of the family gatherings. My cousins Sofia and Andres are around my age and we keep in touch over group chat. On my dad's side, most of his family is still in Colombia. We visit every few years -- the last time was three years ago. That trip was amazing, actually. It reminded me of where I come from in a way that nothing else does."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "time_limit_seconds": 25,
+      "response": "That's pretty much the core -- my parents, my brother, and then the aunts and cousins I mentioned. Oh, and my abuela on my mom's side, she's still in Colombia. She's 82. We FaceTime her every Sunday after church. She doesn't quite understand what I do for work, but she's very proud. She always says, 'Mi nieta la cientifica.' That's the immediate circle.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q07",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "time_limit_seconds": 80,
+      "response": "Definitely. My closest friend is Priya -- she's a data engineer at a startup in Chico. We met at a hackathon three years ago and just clicked. She's Indian American and we bond over the whole 'navigating immigrant family expectations while building a tech career' thing. We do board game nights at her place, usually every other Friday. There's a whole group of us -- Priya, her partner James, my friend Marcus who teaches at Chico State, and sometimes a couple others rotate in. Those game nights are kind of sacred to me. Then there's my hiking crew from the Chico Outdoor Club. My main hiking buddy is a guy named Tom -- he's retired, maybe 65, and he knows every trail in Butte County. He's like a trail encyclopedia. We hike together most Saturdays. And then I have my online crew -- I'm part of a Discord server for Colombian scientists abroad. There's about 200 people in there but I'm close with maybe a dozen. We share papers, talk about grant opportunities, and sometimes just vent about impostor syndrome. It's a lifeline, honestly.",
+      "follow_ups": [
+        {
+          "question": "Those board game nights sound great. What kinds of games do you all typically play?",
+          "response": "Strategy games, mostly. We're all nerds, so it gets competitive. Lately we've been really into Wingspan -- it's a bird-themed engine-builder that's surprisingly deep. We also play a lot of Terraforming Mars and Catan. Sometimes we'll throw in a party game like Codenames if there are more people. I'm the most competitive one in the group, which surprises people because I'm pretty laid back otherwise. But something about board games flips a switch in me."
+        },
+        {
+          "question": "How did you get involved with the Chico Outdoor Club?",
+          "response": "Right after the divorce, I was looking for things to fill my weekends. I saw a flyer at a coffee shop downtown and just showed up to a group hike. I was nervous -- I didn't know anyone -- but Tom immediately started chatting me up about the wildflowers we were seeing, and by the end of the hike I felt like I'd known him forever. Now I'm one of the regular members. We do everything from easy nature walks to pretty serious day hikes up in the Ishi Wilderness. It's become my main way of decompressing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "time_limit_seconds": 105,
+      "response": "I live in a little apartment off Mangrove Avenue, which is kind of a main artery through Chico. My specific area is between downtown and the university, which is perfect because I can bike to both. It's a mix of college-town vibes and more residential, family-oriented streets. There are these big oak trees lining a lot of the side roads, and in the fall it's genuinely gorgeous. Within walking distance I've got a couple coffee shops -- I basically live at the Naked Lounge -- a co-op grocery store, and Bidwell Park is maybe ten minutes on my bike. Bidwell is this massive park that cuts right through the city, and it's honestly one of the main reasons I stayed in Chico. The neighborhood itself is mostly renters -- other young professionals, some grad students, a few families. It's quiet at night, which I appreciate. There's a taqueria a block away that I'm at least once a week. The farmers market on Saturday mornings is a five-minute walk, and I try to go every week when it's running.",
+      "follow_ups": [
+        {
+          "question": "You mentioned biking -- is that your primary way of getting around?",
+          "response": "For anything in town, yeah. Chico is super bikeable, which is one of its best qualities. I have a beat-up road bike that I ride to the lab, to the grocery store, to downtown. I do have a car for trips to Sacramento to see my parents or for bigger grocery runs, but day to day it's the bike. Saves money and I like the exercise. Plus parking in Chico can be annoying during the school year."
+        },
+        {
+          "question": "What's the community feel like in your neighborhood?",
+          "response": "It's friendly in a low-key way. I know my immediate neighbors by name -- there's an older couple next door, the Hendersons, who keep an eye on my place when I'm away. And there's a grad student below me, Jenny, who I sometimes share leftovers with. It's not like everyone's in each other's business, but there's a general sense that people look out for each other. The big community events are more city-wide -- like the Thursday Night Market in the summer, or the Parade of Lights in December. Chico punches above its weight for a smaller city."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "I feel pretty safe, honestly. I walk home alone at night from downtown and I've never had an issue. It's a college town, so the worst you usually get is someone being too loud on a weekend night. The Camp Fire in 2018 -- that displaced a lot of people from Paradise and the surrounding areas, and there was some tension for a while as the community absorbed that influx. But overall, Chico is a safe place. I lock my door and my bike, obviously, but I don't worry much. I'm more worried about wildfire season than crime.",
+      "follow_ups": [
+        {
+          "question": "You mentioned wildfire season -- how does that affect your day-to-day?",
+          "response": "In the summer and early fall, the smoke can get really bad. There have been days where the AQI is over 200 and you basically can't go outside. I keep an air purifier running and I have a stash of N95 masks. Those weeks are tough because I can't hike, can't bike, and I just feel cooped up. It also triggers something in a lot of people around here -- after the Camp Fire, smoke has this emotional weight to it. You see that haze and you think, is it happening again? But I've learned to prepare for it. I usually plan an indoor project or a trip to the coast during peak fire season."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "time_limit_seconds": 40,
+      "response": "The ups are huge -- the outdoor access, the cost of living compared to the Bay Area, the sense of community, the pace of life. I can do meaningful research without the insane pressure of a Stanford or Berkeley. The downs are mostly about isolation. Chico is small, and the tech and research community is limited. Sometimes I feel like I'm on an island professionally. There aren't a ton of people I can bounce ideas off of locally, so I rely a lot on online communities and conferences. Dating pool is also small, if I'm being honest. And the summers are brutal -- it gets over 110 degrees and with the smoke on top of that, July through September can be rough. But net-net, I love it here. I'm not planning to leave anytime soon.",
+      "follow_ups": [
+        {
+          "question": "How do you handle that professional isolation?",
+          "response": "Conferences and online collaboration, mainly. I try to attend two or three conferences a year -- NeurIPS, ACL, and usually one smaller workshop. And the Discord community I mentioned is huge for that. I also do remote collaborations with researchers at other universities. Right now I'm co-authoring a paper with someone at UC Davis. Tools like Slack and Zoom make it possible to do serious collaborative work even from a small town. But yeah, I'd be lying if I said I didn't sometimes wish I could just walk down the hall and talk to another NLP researcher."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "time_limit_seconds": 80,
+      "response": "It's just me and Luna, my cat. I've been living alone since the divorce. It's a one-bedroom apartment, so it's cozy but it's enough for me. Luna is a three-year-old tabby I adopted from the Butte Humane Society about a year and a half ago. She's good company -- she curls up on my desk while I'm coding, and she's surprisingly vocal, like she'll meow at me until I acknowledge her. No other humans living here. I like having my own space. After the marriage, I realized I really value my solitude for creative work.",
+      "follow_ups": [
+        {
+          "question": "How do you like living alone compared to when you were married?",
+          "response": "I was nervous about it at first, but now I genuinely prefer it. I can paint at 2 AM without worrying about bothering anyone. I can leave my art supplies spread out on the dining table. My schedule is my own. The only downside is practical stuff -- like if something breaks, I'm the one dealing with it. But emotionally, I feel more settled living alone than I did in the last year of my marriage. Luna helps too. She's low maintenance but she makes the place feel alive."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "block": "HOUSEHOLD",
+      "question_text": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "time_limit_seconds": 10,
+      "response": "Nope, it's just me permanently. Well, me and Luna. No temporary members.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q13",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about anyone else who stays here from time to time, if there is anyone like that",
+      "time_limit_seconds": 10,
+      "response": "My brother Diego crashes on my couch maybe once every couple months when he drives up from LA. And Priya has stayed over after late game nights a couple times. But that's it -- nobody regular.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q14",
+      "block": "HOUSEHOLD",
+      "question_text": "Is there anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, nobody. It's just been me here since I moved in.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q15",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Right now, across a typical week, how do your days vary?",
+      "time_limit_seconds": 105,
+      "response": "Weekdays are pretty consistent. I'm up around 7, make coffee -- I'm serious about my coffee, I grind beans fresh every morning, usually a Colombian single-origin from a local roaster. I feed Luna, check emails and Slack while I drink my coffee, and then bike to the lab by about 8:30. I work until about 5 or 6, depending on what's happening. Lunch is usually something I packed the night before, or I'll grab something from the taqueria near the lab. After work, Monday and Wednesday I do yoga at a studio downtown -- a 6:30 PM class. Tuesday evenings are usually for painting. I have a little corner of my apartment set up as a studio. Thursdays are flexible -- sometimes I'll go to a poetry slam or an open mic at a bar downtown. Fridays are often board game nights at Priya's place. Weekends are really different from weekdays. Saturday mornings I'm either at the farmers market or meeting Tom for a hike. Saturday afternoons I usually paint or work on personal coding projects -- I tinker with Arduino and Raspberry Pi stuff. Sundays are slower. I call my parents, sometimes go to the farmers market if I missed Saturday, cook something more elaborate, maybe read. I try to keep Sundays as my recharge day.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about your yoga practice. How long have you been doing that?",
+          "response": "About two years now. I started right around when my marriage was falling apart -- I was really tense and not sleeping well, and a coworker suggested it. I go to Chico Yoga Studio on Broadway. It's mostly vinyasa flow, which I like because it's physical enough to feel like exercise but meditative enough to quiet my brain. The instructor, Mei, is fantastic. She's really good at reading the room and adjusting the pace. I've noticed it helps my posture too, since I'm hunched over a computer all day. On weeks when I miss both classes I can really feel the difference in my stress levels."
+        },
+        {
+          "question": "You mentioned personal coding projects on Saturdays. What are you working on lately?",
+          "response": "Right now I'm building a little weather station with a Raspberry Pi and some sensors. It measures temperature, humidity, air quality -- that last one is very relevant here with the fire smoke. I'm logging all the data to a little dashboard I built. It's honestly overkill for what it does, but that's the fun of it. I also just finished a generative art project where I wrote an algorithm that takes a photo and recreates it using only colored dots of varying sizes. I printed a few and gave them to friends as gifts. Mixing code and art is my happy place."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "At what kind of job or jobs do you work, and when do you work?",
+      "time_limit_seconds": 105,
+      "response": "I'm a research scientist at a lab here in Chico. My focus is machine learning and natural language processing -- basically, I design algorithms that help computers understand and generate human language. Right now my main project involves generative models that can create visual narratives from large datasets. Think of it like teaching a computer to tell a story through images and text. I write a lot of Python and R, do statistical modeling, work with cloud computing platforms like AWS and GCP for the heavy processing. I also write papers and grant proposals, which takes more time than people realize. My hours are generally 8:30 to 5:30, Monday through Friday, but research doesn't really have hard boundaries. I'll sometimes be up late running experiments or debugging code. And when a paper deadline is coming up, weekends get absorbed too. But most weeks it's a fairly standard schedule.",
+      "follow_ups": [
+        {
+          "question": "What does a typical day in the lab look like for you?",
+          "response": "I usually start by reviewing whatever experiments were running overnight -- I often kick off training jobs before I leave and check the results in the morning. Then I'll spend a couple hours either writing code or analyzing results. Mid-morning I might have a team meeting or a call with a collaborator. Afternoons are my deep-focus time -- I try to block off 1 to 4 PM for uninterrupted work, whether that's writing a paper section, designing a new experiment, or doing a literature review. Late afternoon is when I handle email, do administrative stuff, and plan for the next day. The rhythm varies depending on where I am in a project cycle, but that's the general shape."
+        },
+        {
+          "question": "How many people are on your team at the lab?",
+          "response": "It's small. There are five of us total -- Dr. Patel leads the lab, there's me, another research scientist named Kai, and two grad students who come and go depending on the semester. We all have different specializations so there's not a lot of overlap, but we meet weekly to present findings and give each other feedback. It's collaborative in a really healthy way. Nobody's competitive about it -- we're all just trying to do interesting work."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Do you have other routines or responsibilities that you did not already share?",
+      "time_limit_seconds": 80,
+      "response": "The mentoring I mentioned -- I meet with my two mentees from Technolatinas about once a month each, usually over coffee. That's maybe two to three hours a month. I also volunteer at a local tutoring center twice a month, helping high school kids with math and basic programming. That's on Tuesday afternoons from 3 to 5 -- the lab is flexible enough to let me do it. And then there's the art stuff. I try to make it to at least one gallery opening or art show a month. Chico has a surprisingly active art scene for its size. I've shown my own work a couple of times at a gallery downtown called Avenue 9. It's not a regular responsibility, exactly, but preparing pieces for shows takes real time.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about showing your work at Avenue 9. What kind of pieces have you exhibited?",
+          "response": "I've been in two group shows there. The first was a mixed-media show where I displayed some generative digital art pieces -- basically, algorithm-generated patterns that I printed large-format and mounted. The second was more traditional -- three abstract acrylic paintings on canvas. I tend to work with a lot of blues and oranges, and I layer things so there's a lot of texture. The gallery owner, Sandra, has been encouraging me to do a solo show, but I don't feel like I have enough cohesive work yet. It's a goal for this year, though. I want to do a series that blends the generative digital stuff with hand-painted elements."
+        },
+        {
+          "question": "How does the tutoring work fit into your week?",
+          "response": "It's every other Tuesday. I leave the lab around 2:30 and bike over to the tutoring center, which is at a community space near the high school. I usually work with three or four students per session. Some of them are just trying to pass algebra, and others are genuinely interested in coding, which is exciting. There's this one student, Maria, who's a junior and she's been learning Python on her own. I'm helping her build a little project for the science fair. It reminds me of why I got into this field in the first place."
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Tell me about any recent changes to your daily routine.",
+      "time_limit_seconds": 80,
+      "response": "The biggest recent change is that I started a new research project about three months ago that's been more demanding than my usual work. It involves collaborating with a team at UC Davis, so I've been doing a lot more video calls and remote coordination, which is new for me. I used to have most of my days to myself in the lab, and now I've got standing meetings on Mondays, Wednesdays, and Thursdays. It's been an adjustment. I also recently started playing in a summer soccer league -- well, it starts in May, but I've been doing pickup games at the park on Sunday mornings to get back in shape for it. I played in college and missed it. And I've been cooking more intentionally -- trying new recipes, planning meals for the week on Sunday, buying more from the farmers market. I think it's part of just getting more settled into this solo life and wanting to take better care of myself.",
+      "follow_ups": [
+        {
+          "question": "How is the UC Davis collaboration going so far?",
+          "response": "It's exciting but challenging. The team there is bigger and more structured than what I'm used to. They want detailed progress reports and milestones, whereas I'm used to a more free-form process. I'm learning to be more disciplined about documentation, which is probably good for me. The actual research is really cool, though -- we're looking at how generative language models handle ambiguity in multilingual contexts. My Spanish-English bilingual background is actually a big asset for this project, which feels great."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "time_limit_seconds": 80,
+      "response": "I don't have any children, so this one doesn't apply to me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q20",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "Nothing major, thankfully. I've had a couple of traffic stops over the years -- once for a broken tail light and once for rolling through a stop sign, which I definitely did. Both times the officers were professional and it was straightforward. I will say there's been one experience that stuck with me. I was at a protest in Chico a few years back -- it was a peaceful march -- and the police presence felt really heavy for what it was. Riot gear, the whole thing. It was unsettling. Nobody got hurt or arrested, but it changed how I think about the power dynamic there. My dad has had more fraught experiences. He's told me stories about being pulled over and feeling like the officers were looking for something just because of how he looked. He never makes a big deal of it, but you can tell it left a mark.",
+      "follow_ups": [
+        {
+          "question": "How did that protest experience affect your view of law enforcement going forward?",
+          "response": "It made me more aware of the spectrum. Like, the officers who gave me traffic tickets were fine -- they were just doing their job. But seeing that same institution show up in force to a peaceful march made me realize it's not monolithic. The system can serve and protect in one context and intimidate in another. I don't have a blanket anti-police stance, but I think there are serious conversations to be had about when and how force is used. I started reading more about policing policy after that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "What other experiences with law enforcement stand out in your mind?",
+      "time_limit_seconds": 40,
+      "response": "Mostly through my dad's stories, honestly. And one time my cousin Andres had his car searched during a traffic stop in Sacramento for what seemed like no reason. He was coming home from work, hadn't done anything wrong, and they had him standing on the sidewalk for like 30 minutes while they went through his trunk. Nothing came of it, but Andres was shaken. My tia was furious. Those secondhand experiences shape you even if they're not your own.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q22",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people tell us about experiences of arrest -- of loved ones, family members, friends, or themselves. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "Nobody in my immediate family has been arrested. I don't have any direct experience with that. I know people in the broader community who have, but it's not something that's personally touched my family, and I'm grateful for that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q23",
+      "block": "POLITICS",
+      "question_text": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I vote in every election I can -- presidential, midterms, local. I even do the random special elections and ballot measures that a lot of people skip. I take it pretty seriously. My parents became citizens specifically so they could vote, and my mom made a big deal about it when I turned 18. She drove me to the polling place and waited outside. So for me, voting isn't optional -- it's what you do. Local elections especially, because that's where you actually see the impact. I pay attention to school board races, city council, water district -- all that stuff that most people tune out. I figure if I'm going to complain about how things are run, I better show up.",
+      "follow_ups": [
+        {
+          "question": "How do you research candidates and ballot measures before voting?",
+          "response": "I read the voter guide cover to cover -- California sends out a pretty comprehensive one. I also check CalMatters and the Chico Enterprise-Record for local stuff. For national races, I read a mix of sources -- NPR, some policy-focused newsletters, and I follow a few journalists on social media who cover immigration and tech policy specifically. I'll also ask around in my community. My mom and my tias always have opinions. And the online Colombian scientist group sometimes discusses policy issues that affect immigrants in STEM, which informs my thinking."
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "block": "POLITICS",
+      "question_text": "How would you describe your political views?",
+      "time_limit_seconds": 310,
+      "response": "I'd say I care most about things that directly affect my community and people like my family. So immigration policy is a big one -- my parents' whole life here was shaped by immigration law, and I follow changes to visa programs and pathways to citizenship really closely. I also care a lot about education funding and access, especially for underrepresented kids in STEM. When I see proposals to cut research funding or limit student loan forgiveness, that hits close to home. On the environment, I live in wildfire country, so climate-related policy feels very real and immediate to me. I support investment in clean energy and wildfire prevention because I've literally breathed the consequences of not doing that. I tend to read sources that emphasize data and evidence over rhetoric. I subscribe to a couple of policy newsletters, I follow researchers who study policy outcomes. I'm less interested in political personalities and more interested in what actually works. I think there's too much tribalism and not enough problem-solving. That said, I'm not naive about power dynamics. I understand that systems tend to work better for some people than others, and I want to see that change. I just think the path to change involves both advocacy and building things -- like mentoring the next generation of Latina scientists, or publishing open research that anyone can use.",
+      "follow_ups": [
+        {
+          "question": "You mentioned immigration policy is important to you. Can you tell me more about how that shows up in your day-to-day engagement with politics?",
+          "response": "I follow a few immigration policy organizations on social media -- like the National Immigration Law Center and FWD.us. When there's a proposed policy change, I read the actual text, not just the headlines. I've written to my representatives a couple of times about specific bills. And in the mentoring space, I work with students who are DACA recipients or whose families are navigating the immigration system, so I see firsthand how policy uncertainty affects their lives. It's not abstract to me. My parents got their citizenship when I was a kid, but I remember the stress of the process -- the paperwork, the waiting, the fees. That shapes how I engage."
+        },
+        {
+          "question": "How do you handle conversations about politics with people who see things differently?",
+          "response": "I try to listen before I react. Chico is interesting because it's a college town surrounded by very rural, more conservative areas. So I interact with people across the spectrum. At the lab, we're mostly aligned, but at the hiking club or the farmers market, I'll talk to ranchers or small business owners who see things very differently. I've learned that most people's views come from their lived experience, and if I can understand where they're coming from, we can usually find common ground on specific issues even if we disagree on the big picture. I avoid social media arguments like the plague, though. Nothing productive ever comes from that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "block": "POLITICS",
+      "question_text": "Tell me about any recent changes in your political views.",
+      "time_limit_seconds": 115,
+      "response": "I wouldn't say my core views have changed, but my focus has shifted. A few years ago I was more idealistic -- I thought technology alone could solve a lot of problems. Like, build better tools and information access and people will make better decisions. Now I'm more attuned to the structural stuff -- who has access to those tools, who's building them, whose data is being used. Working in AI has made me more aware of how technology can entrench inequality if it's not designed thoughtfully. So I've become more interested in tech policy, algorithmic accountability, that kind of thing. I also used to not pay much attention to local politics, and now that's where most of my political energy goes. Things like housing policy in Chico, wildfire preparedness funding, local education budgets -- those feel more actionable to me than national partisan battles.",
+      "follow_ups": [
+        {
+          "question": "What prompted that shift toward local politics?",
+          "response": "Honestly, the Camp Fire. When Paradise burned in 2018, it changed the entire region. I saw how local government decisions about infrastructure, zoning, emergency preparedness -- all of that directly determined who was impacted and who wasn't. And then the aftermath, watching how Chico handled the influx of displaced people, the housing crisis that followed -- it was all local decision-making. That's when I realized that the stuff happening at city hall matters more to my daily life than most of what happens in Congress."
+        }
+      ]
+    },
+    {
+      "question_id": "Q26",
+      "block": "POLITICS",
+      "question_text": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "time_limit_seconds": 105,
+      "response": "It's affected me quite a bit, both personally and in terms of how I think about the world. As a Latina, I've experienced moments where I was treated differently -- not always overtly, but those small things that accumulate. Like being asked to 'prove' my qualifications in settings where my white colleagues weren't questioned. Or being the only brown person in the room at conferences and feeling like I was representing an entire demographic. When the movement gained momentum, it put language to a lot of things I'd been feeling but hadn't fully articulated. My dad's experiences with traffic stops, my cousin's car being searched -- those stories took on a different weight in that context. It made me more intentional about using my platform, however small, to speak up. I've had some really honest conversations with friends and colleagues that I don't think would have happened otherwise.",
+      "follow_ups": [
+        {
+          "question": "Can you tell me about one of those conversations that stands out?",
+          "response": "There was a lab meeting right after George Floyd's murder where Dr. Patel opened the floor and said, 'If anyone wants to talk about what's happening, this is the space.' And I spoke up about what it's like navigating tech spaces as a woman of color. Kai, my colleague who's white, was visibly affected -- he said he'd never thought about how his experience in the same field was just fundamentally different from mine. It wasn't confrontational, it was just honest. After that, we started a small reading group at the lab where we read articles about bias in AI and equity in tech. It's still going."
+        }
+      ]
+    },
+    {
+      "question_id": "Q27",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about the issues Black Lives Matter raises?",
+      "time_limit_seconds": 105,
+      "response": "I think about it through the lens of systems. My work is in pattern recognition, right? And once you start seeing the patterns of who gets policed more, who gets harsher sentences, who gets pulled over, who gets shot -- the data is overwhelming. It's not a few bad actors; it's structural. At the same time, I think about solidarity between communities of color. The Latinx community has its own complicated relationship with policing and immigration enforcement, and I see a lot of parallels. I try to think about coalition-building rather than treating these as separate issues. I also think about it in the context of my work in AI. If we train models on biased data, we reproduce those biases at scale. That's not hypothetical -- it's happening. So for me, the issues BLM raises aren't just about policing; they're about how we build systems and whose experiences those systems serve.",
+      "follow_ups": [
+        {
+          "question": "How does that awareness of bias in AI affect your actual research practice?",
+          "response": "Very directly. When I'm working with datasets, I'm always asking whose data this is, who's missing, what assumptions are baked in. I've pushed for our lab to use more diverse training data and to do bias audits on our models before publishing results. It's extra work and it slows things down, but I think it's non-negotiable. I also wrote a blog post for our lab's website about algorithmic fairness that got shared around a lot. It's become part of my professional identity -- I'm the person who asks the equity question, and I'm okay with that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q28",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about race in the U.S. recently?",
+      "time_limit_seconds": 105,
+      "response": "It's complicated. I think there's been both progress and backlash. More people are having conversations about race that they never would have had five years ago. At the same time, there's a real pushback against those conversations in some spaces -- people calling it divisive or saying we've gone too far. I see both dynamics playing out here in Chico. The university is relatively progressive, but the surrounding community is more mixed. I've been thinking a lot about the Latinx experience specifically -- how we're often left out of the black-and-white framing of race in America. Like, the census categories don't even capture our experience accurately. I'm technically white on paper because Hispanic isn't a race category -- but that's not how the world sees me. I've been reading more Latinx scholars and thinkers who write about this -- people like Roberto Gonzales and Cristina Mora. Their work helps me make sense of my own experience.",
+      "follow_ups": [
+        {
+          "question": "How have these reflections on race shaped how you show up in your professional spaces?",
+          "response": "I'm more intentional about visibility. I make sure my name, my background, my perspective are present in the rooms I'm in. At conferences, I seek out panels on diversity in tech and I submit my own work to those tracks. In the mentoring program, I'm explicit with my mentees that they belong in these spaces, because nobody said that to me when I started out. And in my research, I try to center perspectives that are usually marginalized. It's not about making everything about race, but about not pretending it's irrelevant."
+        }
+      ]
+    },
+    {
+      "question_id": "Q29",
+      "block": "POLITICS",
+      "question_text": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I've done a mix. I went to a couple of marches here in Chico -- peaceful ones, with people I knew. I've had extensive conversations with friends and family. My mom and I had some really deep talks about her own experiences with discrimination as an immigrant. And I've channeled a lot of it into my work -- the bias audits, the reading group at the lab, the mentoring. I haven't gone full activist mode, but I'm definitely not keeping my thoughts to myself either. I try to be thoughtful about where my energy goes and focus on the areas where I can actually have an impact.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q30",
+      "block": "POLITICS",
+      "question_text": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "time_limit_seconds": 80,
+      "response": "My family has been engaged. My mom is the most vocal -- she's the one who will bring it up at family dinners and ask everyone what they think. My dad is quieter about it, but he's been watching more news and reading more than he used to. Diego, my brother, has been very plugged in. He's in LA, which was a real epicenter, and he went to several protests. He's also been incorporating themes of social justice into his music production work. My friend Priya has been really engaged too -- she organized a fundraiser through her workplace for a local civil rights organization. My hiking buddy Tom, who's older and white, has been more on the 'aware but listening' end. He's asked me questions in a genuine way, which I appreciate. Not everyone in my circle responds the same way, but I don't think anyone is ignoring it.",
+      "follow_ups": [
+        {
+          "question": "Has this topic ever caused tension within your social circle?",
+          "response": "A little, yeah. At the hiking club, there are some older members who have expressed frustration with the protests and the discourse. It's never gotten heated with me directly, but there have been uncomfortable moments. I usually try to redirect to specific local issues rather than getting into big ideological debates. Like, we can disagree about a national movement but maybe agree that Chico's police review board should be more transparent. Finding that specific, local angle helps."
+        }
+      ]
+    },
+    {
+      "question_id": "Q31",
+      "block": "HEALTH",
+      "question_text": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "time_limit_seconds": 80,
+      "response": "Overall I'd say I'm in pretty good shape. I'm active -- between the hiking, yoga, biking, and the upcoming soccer league, I move my body regularly. I eat well most of the time; cooking at home with fresh ingredients helps a lot. I don't have any major ongoing conditions. My biggest health thing is probably that I don't sleep enough. I'm a night owl by nature, and when I'm deep in a coding project or painting, I'll stay up until 1 or 2 AM and then be up at 7 for work. Over time that catches up with me. I get headaches when I'm sleep-deprived, and my focus suffers. I also get seasonal allergies in the spring -- the pollen in Chico is intense. I take an over-the-counter antihistamine for that. And I've noticed some tension in my neck and shoulders from computer work, which is part of why I started yoga. Nothing alarming, but it's something I manage.",
+      "follow_ups": [
+        {
+          "question": "You mentioned not sleeping enough. What does a typical night look like for you?",
+          "response": "On a good night I'm in bed by midnight and asleep by 12:30, up at 7. That's about six and a half hours. On a bad night -- which is maybe twice a week -- I'm up until 1:30 or 2 because I got absorbed in something. Then I'm running on five hours and it shows. I've tried setting alarms to remind me to start winding down, but I just snooze them. It's a discipline issue, honestly. I know what I should do; I just don't always do it."
+        },
+        {
+          "question": "How do the seasonal allergies affect your day-to-day during peak times?",
+          "response": "Spring in the Central Valley is brutal for allergies. The oak pollen especially. My eyes get itchy, my nose runs, and some days I feel this general fogginess. The antihistamine helps but it makes me a little drowsy. During peak weeks, I avoid morning hikes because the pollen count is highest early. I keep the windows closed and run the air purifier, which is the same one I use for smoke season. It's annoying but manageable. I've thought about seeing an allergist for something more targeted, but I keep putting it off."
+        }
+      ]
+    },
+    {
+      "question_id": "Q32",
+      "block": "HEALTH",
+      "question_text": "For you, what makes it easy or hard to stay healthy?",
+      "time_limit_seconds": 65,
+      "response": "The easy part is that I genuinely enjoy being active. Hiking doesn't feel like exercise -- it feels like recreation. Same with yoga and soccer. And I love cooking, so eating well isn't a chore. The hard part is the sedentary nature of my job. I sit at a computer for eight-plus hours a day, and no amount of evening activity fully counteracts that. I've tried a standing desk but I can't focus as well standing. The other hard thing is that my creative side keeps me up late, which wrecks my sleep. And when I'm stressed about a deadline, my eating goes downhill. I'll skip meals or just eat whatever's fastest, which is usually not great. So it's really tied to my work rhythm -- when work is balanced, my health is good. When work is chaotic, everything else slides.",
+      "follow_ups": [
+        {
+          "question": "What does your eating look like when work gets chaotic?",
+          "response": "It goes from home-cooked meals with lots of vegetables to like, crackers and cheese at my desk, or grabbing a burrito from the taqueria three days in a row. I also drink way more coffee when I'm stressed -- like four or five cups instead of my usual two. And I snack on chocolate. I keep a bar of dark chocolate in my desk drawer and during deadline weeks it disappears fast. I know the pattern and I try to counteract it by meal-prepping on Sundays, but sometimes even that falls apart."
+        }
+      ]
+    },
+    {
+      "question_id": "Q33",
+      "block": "HEALTH",
+      "question_text": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain -- anything like that.",
+      "time_limit_seconds": 80,
+      "response": "Nothing really big, fortunately. The most significant thing was about a year ago, I had a pretty bad episode where my neck and shoulders seized up to the point where I couldn't turn my head without pain. I'd been working really long hours on a paper deadline and basically hadn't moved from my desk in three days straight. I went to the doctor and they said it was muscle tension and strain, recommended physical therapy. I did about six sessions and it cleared up. That's when I got more serious about yoga and about taking breaks during the work day. I also had a stomach bug last winter that knocked me out for about a week -- just a virus, nothing chronic. Other than that and the usual allergy stuff, it's been a healthy couple of years.",
+      "follow_ups": [
+        {
+          "question": "Did the physical therapy change how you approach your workstation setup?",
+          "response": "Yeah, actually. The physical therapist helped me adjust my chair height and monitor position, and she gave me a set of stretches to do every hour. I set a timer on my computer that reminds me to stretch and look away from the screen. I don't always follow it, but it's helped. She also recommended a specific pillow for sleeping that supports the neck better. Small changes, but they've made a difference. I haven't had a recurrence anywhere near that bad since."
+        }
+      ]
+    },
+    {
+      "question_id": "Q34",
+      "block": "HEALTH",
+      "question_text": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "time_limit_seconds": 50,
+      "response": "The neck thing slowed me down for a couple weeks. I had to work shorter hours and couldn't sit at the computer for long stretches, which was frustrating when I was trying to finish a paper. But it was temporary. I haven't had anything that fundamentally impacted my ability to work. The sleep issue is probably the closest thing to an ongoing problem -- there are days where I'm just not as sharp because I stayed up too late, and that affects my research quality. But I wouldn't call it a health problem so much as a bad habit I'm working on.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q35",
+      "block": "HEALTH",
+      "question_text": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "time_limit_seconds": 80,
+      "response": "My dad's knees are the main thing. He's been doing physical, hands-on work for 20-plus years and it's taken a toll. He has a hard time with stairs, can't stand for as long as he used to. He's seen a doctor about it, and they've talked about the possibility of needing a procedure down the road, but for now he's managing with over-the-counter pain relief and some exercises. It worries me because he's the kind of person who won't complain until it's really bad. My mom keeps an eye on him, but I still call and check in about it specifically. It's also part of why the retirement conversation is so important -- his body is telling him it's time to slow down, even if the finances aren't quite there yet.",
+      "follow_ups": [
+        {
+          "question": "How has your dad's situation affected how you think about your own physical health long-term?",
+          "response": "It's made me more proactive. I see what years of physical strain did to him and I think, my strain is different -- it's sitting at a desk -- but it's still strain. The neck episode was a wake-up call. I don't want to be 60 with a body that's worn out from neglect. That's partly why I'm so committed to yoga and hiking. I want to build habits now that keep me functional later. And honestly, watching my dad struggle with the healthcare system -- the long waits, the cost, the confusion -- that motivates me to take care of small things before they become big things."
+        }
+      ]
+    },
+    {
+      "question_id": "Q36",
+      "block": "HEALTH",
+      "question_text": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "time_limit_seconds": 80,
+      "response": "For me personally, it's been okay because my job provides health insurance. I can see a doctor when I need to, and the physical therapy was covered, though I had a copay for each session that added up. The bigger challenge is for my parents. My dad has insurance through his employer, but it's not great -- high deductible, limited specialist coverage. When he needed to see an orthopedic specialist for his knees, the wait was almost three months. And the out-of-pocket costs were significant. My mom has coverage through my dad's plan, but she often puts off her own checkups because she doesn't want to 'waste money' on herself. I've had to practically drag her to her annual physical. There hasn't been a time where we truly couldn't get care, but there have definitely been times where cost or wait times meant we delayed things longer than we should have.",
+      "follow_ups": [
+        {
+          "question": "Has your mom's reluctance to go to the doctor ever led to a situation where something got worse because she waited?",
+          "response": "Not seriously, but there was one time she had a persistent cough for like six weeks and wouldn't go in. When she finally did, it turned out to be a minor infection that needed a round of medication. If she'd gone sooner it would've been a quick fix. It's a cultural thing, partly -- in her generation, in her community, you tough things out. You don't go to the doctor for every little thing. I understand it, but it frustrates me. I try to frame it as, 'You go so you can stay healthy for us,' which is the only argument that works with her."
+        }
+      ]
+    },
+    {
+      "question_id": "Q37",
+      "block": "HEALTH",
+      "question_text": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "time_limit_seconds": 80,
+      "response": "Oh, definitely. My mom has a whole repertoire of home remedies from Colombia. If I have a cold, she'll tell me to make agua de panela with lime and drink it hot. When I was a kid and had a stomachache, it was always chamomile tea and a warm compress. She uses arnica cream for bruises and swelling. My abuela, when we visit her in Colombia, swears by herbal tinctures from the local market -- I don't even know what half of them are, but she's been using them her whole life. I've picked up some of it. I drink herbal teas regularly -- chamomile for sleep, ginger for digestion. And I'd say yoga counts as an alternative wellness practice, at least in how I use it. It's not just exercise for me; it's a way to manage tension and quiet my mind. I'm not opposed to conventional medicine at all, but I think the traditional stuff has its place, especially for minor things.",
+      "follow_ups": [
+        {
+          "question": "Have you ever combined those traditional remedies with Western medicine for a specific health issue?",
+          "response": "Yeah, when I had the neck issue. I was doing the physical therapy, which was very Western and clinical, but I was also doing hot compresses with herbs my mom sent me and taking turmeric capsules for the inflammation. The physical therapist actually thought it was great -- she said anything that reduces inflammation and helps you relax is a plus. I don't see them as competing systems. The physical therapy fixed the structural issue and the herbal stuff helped me feel more comfortable during the recovery. I think the best approach is whatever combination works."
+        }
+      ]
+    },
+    {
+      "question_id": "Q38",
+      "block": "HEALTH",
+      "question_text": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I don't smoke at all -- never have, never had any interest. Drinking, I'm pretty moderate. I'll have a craft beer or a glass of wine with dinner maybe once or twice a week, and maybe a couple more on a weekend if I'm out with friends. During the divorce, I noticed myself reaching for wine more often -- like I'd have a glass every night for a few weeks. I caught that pattern and pulled back because I didn't like where it was heading. I don't think I was anywhere near a problem, but I was using it to take the edge off, and I wanted to find healthier ways to do that. That's actually what pushed me to be more consistent with yoga and hiking during that period. These days I'm back to casual, social drinking only. It's not a coping mechanism for me.",
+      "follow_ups": [
+        {
+          "question": "What other strategies did you develop during the divorce for handling stress?",
+          "response": "Painting was huge. Something about working with my hands and focusing on color and texture just shuts off the anxious part of my brain. I'd put on music -- usually something ambient or cumbia -- and just paint for hours. I also started journaling, which I still do intermittently. Not every day, but when I'm working through something, writing it out helps me see it more clearly. And calling Diego or Priya when I needed to talk. I learned that I process things better verbally, so having people I trust to just listen without trying to fix things was essential."
+        }
+      ]
+    },
+    {
+      "question_id": "Q39",
+      "block": "HEALTH",
+      "question_text": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "time_limit_seconds": 80,
+      "response": "I've used marijuana a handful of times recreationally -- this is California, so it's around. The last time was maybe four months ago at a friend's birthday. I took a couple hits from a joint and it was fine -- I just got relaxed and a little giggly. It's not something I seek out or keep at home. No prescription medications beyond the occasional ibuprofen for headaches or the antihistamine for allergies. I've never been on any regular prescriptions. I'm generally wary of relying on substances for emotional stuff. I'd rather go for a hike or paint or call someone. But I don't judge people who use them -- I know it's not always that simple.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q40",
+      "block": "HEALTH",
+      "question_text": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "time_limit_seconds": 80,
+      "response": "For me, my employer-sponsored insurance covers most things. I pay about $120 a month for the premium and then copays on top of that. It's manageable on my salary, though the copays for the physical therapy sessions added up to about $300 total, which I felt. For my parents, like I said, it's through my dad's work. They pay their premiums but the deductible is high -- I think $3,000 before coverage really kicks in. So they try to avoid unnecessary visits, which sometimes means they avoid necessary ones too. My brother has insurance through his employer in LA, so he's covered. When there are bigger expenses -- like if my dad needs the knee procedure -- we've talked about pooling family resources. I'd contribute what I can. It's not ideal, but that's how a lot of families operate. You figure it out together.",
+      "follow_ups": [
+        {
+          "question": "Have your parents ever looked into supplemental insurance or Medicare eligibility?",
+          "response": "My dad's not 65 yet, so Medicare isn't on the table yet, but they're counting down. Once he hits 65, that'll be a big relief. They haven't looked into supplemental insurance because honestly, it's confusing and they don't fully trust the system. My mom's English is good but not perfect, and insurance paperwork is dense even for native speakers. I've offered to help them research options, and I probably need to just sit down and do it with them. That's on my to-do list."
+        }
+      ]
+    },
+    {
+      "question_id": "Q41",
+      "block": "HEALTH",
+      "question_text": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm fully up to date on everything. I got every round of the COVID shots as soon as I was eligible, plus my annual flu shot. I see it as basic public health responsibility. My mom was the same -- she had us vaccinated on schedule as kids, no questions. The only hesitation I've ever felt was around the initial COVID rollout, just because everything was so fast and there was so much conflicting information. But I read the research, talked to a doctor, and felt comfortable. I trust the process behind vaccine development, and I think the data is clear.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q42",
+      "block": "HEALTH",
+      "question_text": "What are your trusted sources of information about the vaccine?",
+      "time_limit_seconds": 80,
+      "response": "I go straight to the primary sources when I can -- like the CDC's published data, the actual clinical trial results in peer-reviewed journals. I have the training to read those papers, so I take advantage of that. Beyond that, I listen to podcasts from epidemiologists and public health researchers. I follow a few science communicators on social media who break down complex findings into accessible language. NPR's health coverage is generally solid. And I talk to my doctor -- she's great about answering questions and pointing me to credible resources. I avoid cable news for health information entirely. Too much spin, too little substance.",
+      "follow_ups": [
+        {
+          "question": "Have you ever had to help someone in your family or community navigate vaccine misinformation?",
+          "response": "Yeah, my tia Marta was hesitant about the COVID vaccine. She'd been reading things on Facebook in Spanish-language groups that were spreading a lot of fear. I sat down with her over coffee and walked through the actual data -- not in a lecturing way, but just explaining what the numbers meant. I showed her the clinical trial results and translated the key points. She ended up getting vaccinated, but it took patience. That experience reinforced for me how important it is to have trusted messengers within communities, especially in languages other than English."
+        }
+      ]
+    },
+    {
+      "question_id": "Q43",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "time_limit_seconds": 115,
+      "response": "Honestly, the past year has been one of the better ones since the divorce. I feel like I've found my footing. The first year after the split was rough -- I felt unmoored, like I'd lost a big part of my identity. But this past year I've been building something new. My work has been engaging, the UC Davis collaboration is exciting, I've been painting more than ever. I feel more like myself than I have in a long time. That said, it hasn't been all smooth. There are stretches where I feel lonely, especially on weekends when I don't have plans. Coming home to an empty apartment after a social event can feel jarring. And the pressure at work has been intense at times -- paper deadlines, grant applications, the feeling that I should be further along in my career at 29. There's this ambient hum of 'am I doing enough?' that I haven't fully silenced. But overall, the trajectory is upward. I feel more grounded, more clear about what I want.",
+      "follow_ups": [
+        {
+          "question": "You mentioned that ambient hum of pressure. How does that show up in your day-to-day?",
+          "response": "It's mostly internal. I compare myself to peers -- like, I'll see someone my age who's already an assistant professor or has a startup, and I'll feel a pang. Or I'll look at my publication record and think it should be longer. It shows up as this restless energy where I can't relax because I feel like I should be working on something. It's worse at night -- that's when the brain spirals start. I'll lie in bed thinking about all the things I didn't get done. Yoga helps. Journaling helps. But it's an ongoing thing I manage rather than something I've solved."
+        },
+        {
+          "question": "How do you handle the loneliness when it hits?",
+          "response": "I've gotten better at it. I used to just sit with it and feel terrible, but now I have strategies. If I'm feeling lonely on a Saturday night, I'll call Diego or Priya. Or I'll go to the Naked Lounge and just be around people even if I'm not talking to them -- there's something comforting about shared space. Luna helps too. She doesn't replace human connection, but she's warm and present. And sometimes I just lean into the solitude and use it productively -- paint, read, work on a coding project. Reframing it as chosen solitude rather than unwanted loneliness makes a big difference."
+        }
+      ]
+    },
+    {
+      "question_id": "Q44",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "time_limit_seconds": 80,
+      "response": "There was a stretch about six months ago that was really hard. I'd submitted a paper to a major conference and it got rejected -- and not gently. The reviewer feedback was pretty harsh. At the same time, my dad had a bad flare-up with his knees and my mom called me worried. And it was right around what would have been my wedding anniversary. All three things hit in the same week. I just crashed. I didn't want to go to the lab, I didn't want to cook, I barely left my apartment for about five days. I binge-watched TV shows with Luna on my lap and ate cereal for dinner. I felt like I was failing at everything -- my career, being a good daughter, moving on from the marriage. Priya noticed I'd gone dark and showed up at my door with soup and just sat with me. That broke the spell. We talked for like three hours and she helped me see that one bad week doesn't define anything. I went back to the lab the next day and started revising the paper.",
+      "follow_ups": [
+        {
+          "question": "After that week, did you change anything about how you handle setbacks like paper rejections?",
+          "response": "I did. I started giving myself a 48-hour grace period after a rejection. Like, I'm allowed to be disappointed for two days, and then I have to actively start responding -- reading the feedback, making a revision plan, reaching out to a colleague for perspective. Having that structure helps because the spiral happens when I let the disappointment sit without a plan. I also started being more open about rejections with my colleagues. I used to feel ashamed, like it was a personal failing. But when I mentioned it at a lab meeting, everyone shared their own rejection stories and it normalized it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q45",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I wouldn't say I've been through anything severe, but I definitely have periods where I feel really wound up. Like before a big deadline or a presentation, I'll lie awake running through every possible scenario -- what if the code doesn't work, what if I get a tough question I can't answer, what if the grant doesn't come through. My chest gets tight and my thoughts race. It's not constant, but it's a pattern I recognize. During the divorce, it was worse -- there were weeks where I felt this heavy, gray fog where nothing seemed interesting or worthwhile. I didn't want to see people, I couldn't focus on work. That lifted once I started exercising more and building my new routines, but it was real while it lasted. I've thought about talking to a therapist. Priya sees one and swears by it. I just haven't made the appointment. Part of it is time, part of it is that I come from a family where you handle things yourself. But I'm warming up to the idea.",
+      "follow_ups": [
+        {
+          "question": "What usually helps when you're in one of those wound-up periods?",
+          "response": "Physical activity is number one. If I can get to a yoga class or a hike, it physically breaks the cycle. Movement gets me out of my head. Painting helps too -- it engages a different part of my brain. Calling someone and just talking is another one. And weirdly, cooking something elaborate. Like, if I make empanadas from scratch, the measuring and chopping and timing is so engaging that I can't think about anything else. It's like meditation but with food at the end."
+        },
+        {
+          "question": "You mentioned your family's approach to handling things yourself. Have your parents noticed when you're going through a tough time?",
+          "response": "My mom notices everything. She can tell from my voice on the phone when something's off. She won't push me, but she'll say things like, 'You sound tired, mija,' which is her way of saying, 'Talk to me.' My dad is less attuned to the emotional stuff, but after the divorce he surprised me by calling more often, which for him is a big deal. Neither of them would ever suggest therapy -- that's just not in their frame of reference. But they show care in their own ways. My mom sends me care packages with food and little notes. My dad fixes things in my apartment. It's love in action rather than words."
+        }
+      ]
+    },
+    {
+      "question_id": "Q46",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "How has it been for your family?",
+      "time_limit_seconds": 50,
+      "response": "My mom worries a lot -- about my dad's health, about me being alone after the divorce, about Diego in LA. She holds a lot of the family's emotional weight and I don't think she has great outlets for it. She's got her church community and her sisters, which helps, but she tends to absorb everyone else's stress. My dad is stoic -- he processes everything internally. I think the physical pain he's in affects his mood more than he lets on. Diego seems to be doing well -- he's young and social and busy. But he went through a rough patch last year when a relationship ended, and I could tell it affected him more than he wanted to admit. Overall, we're a family that cares deeply about each other but doesn't always have the tools to talk about how we're feeling. We show up for each other in practical ways, which counts for a lot.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q47",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "time_limit_seconds": 155,
+      "response": "I grew up going to Mass every Sunday with my family. It was a big part of the household rhythm -- wake up, get dressed, go to the church in our neighborhood, then come home for a big lunch. My mom still goes every week and she's involved in the parish. For me, it's shifted over the years. I stopped going regularly in college. It wasn't a dramatic break -- I just got busy and started questioning some things. These days, I'll go maybe once a month or on holidays, mostly because it means a lot to my mom. When I'm there, I do find something comforting about the ritual -- the music, the incense, the familiar words. It connects me to my childhood and my family. But intellectually, I'm in a different place. I'd say I'm more spiritual than traditionally observant. I find that sense of awe and connection more in nature -- standing at the top of a trail looking out over the valley -- or in my art, when I'm in a flow state. I still light a candle sometimes when I'm worried about someone. And I wear a little crucifix necklace that my abuela gave me. It's more about connection to her than theological belief. I respect the tradition and what it means to my family, and I wouldn't want to lose that completely.",
+      "follow_ups": [
+        {
+          "question": "When you do go to Mass, which parish do you attend here in Chico?",
+          "response": "St. John the Baptist, on the east side of town. It's a smaller parish, not as big as some of the others. They have a Spanish-language Mass on Sunday afternoons, which is the one I go to when I go. It feels like home because the congregation is mostly Latino families, and the priest, Father Ruben, is Colombian, which is a nice touch. My mom was thrilled when she found out there was a Colombian priest here. She took it as a sign that God wanted me in Chico, which I thought was funny."
+        },
+        {
+          "question": "How does your spirituality, as you describe it, inform your daily life?",
+          "response": "It's subtle. I have a gratitude practice -- when I'm on a hike or before I start painting, I take a moment to just appreciate where I am. It's not prayer exactly, but it's intentional. I also think my sense of ethics around my work -- the commitment to fairness in AI, the mentoring -- comes from values I absorbed growing up in that tradition. The emphasis on community, on caring for others, on using your gifts for good -- those are deeply ingrained even if I don't express them in religious terms anymore. And the candle thing -- whenever someone I love is going through something hard, I light a votive candle in my apartment. It's become my personal ritual."
+        }
+      ]
+    },
+    {
+      "question_id": "Q48",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "time_limit_seconds": 115,
+      "response": "I'm on a bunch of platforms but I use them very differently. Instagram is probably my most active one -- I post my art there, both the physical paintings and the generative digital stuff. I also post food photos when I make something I'm proud of. My following is small, maybe 800 people, but it's a nice little community. I use the stories to share hiking photos and everyday moments. Twitter -- or X, whatever they're calling it -- I use mostly for professional stuff. I follow researchers, journals, and some science journalists. I'll share papers or comment on AI ethics discussions. I try not to get drawn into arguments there. Facebook I barely use except for the Chico Outdoor Club group and a private group for the Colombian scientist community. Discord is where I spend the most time outside of work -- the Colombian scientists server and a couple of generative art channels. And then there's Slack for work communication. I'm on like five Slack workspaces between the lab, the UC Davis collaboration, and a couple of professional communities. It's honestly a lot of screens, and I've been trying to set boundaries -- like no social media after 10 PM, which I follow about 70 percent of the time.",
+      "follow_ups": [
+        {
+          "question": "How has Instagram been as a platform for sharing your art?",
+          "response": "It's been really positive, actually. I've connected with other generative artists and gotten invited to a couple of online group shows through contacts I made there. The algorithm can be frustrating -- some posts get way more reach than others for no obvious reason -- but it's the best platform I've found for visual work. I've had a few people reach out about buying prints, which is flattering even though I'm not set up to sell yet. I also use it to document my creative process, like time-lapse videos of paintings. That content does surprisingly well."
+        },
+        {
+          "question": "How do you manage the mental health aspect of being on multiple platforms?",
+          "response": "It's a conscious effort. I went through a phase where I was doom-scrolling on Twitter for hours and it was terrible for my mental state. Now I use app timers -- 20 minutes max per platform per session. I also curate my feeds aggressively. If an account makes me feel bad about myself or angry without being informative, I unfollow. I've muted a lot of political accounts and keywords on Twitter. And the 10 PM cutoff is about not going to bed with my brain full of other people's content. I want my last hour of the day to be painting or reading or just quiet. It doesn't always work, but having the intention helps."
+        }
+      ]
+    },
+    {
+      "question_id": "Q49",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Not really for financial support, no. But emotional support, in a way, yes. The Discord server for Colombian scientists has been a place where I've vented about career frustrations and gotten genuine, empathetic responses. When my paper got rejected, I posted about it there and like eight people responded with encouragement and their own rejection stories. That felt like real support. I've also DM'd friends through Instagram when I'm having a rough day. But I wouldn't post publicly about a tough time on Facebook or Twitter -- that doesn't feel safe to me. The support I get online is through smaller, more private communities where I trust the people.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q50",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "time_limit_seconds": 50,
+      "response": "The UC Davis collaboration has added a new layer of stress because there are more moving parts and more people depending on me to deliver on time. I've been feeling that pressure. But I've also gotten better at coping. I'm more consistent with yoga than I was six months ago. I've started doing a five-minute breathing exercise in the morning before I check my phone -- just sitting with my coffee and breathing. Small thing, but it starts the day calmer. And I've gotten better at saying no to things. I used to overcommit -- every hackathon, every event, every volunteer opportunity. Now I'm more selective. I'd rather do fewer things well than spread myself thin. That's been a real shift in the last few months.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q51",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "time_limit_seconds": 25,
+      "response": "Just me and my cat, Luna. One-bedroom apartment off Mangrove Avenue in Chico. No one else.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q52",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any babies or small children?",
+      "time_limit_seconds": 10,
+      "response": "No, no children.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q53",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "Nope, nobody.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q54",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any lodgers, boarders, or employees who live here?",
+      "time_limit_seconds": 10,
+      "response": "No, just me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q55",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "time_limit_seconds": 5,
+      "response": "It's all me. I cover rent, utilities, everything.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q56",
+      "block": "FINANCES",
+      "question_text": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "time_limit_seconds": 50,
+      "response": "Rent is always the big one -- $1,250 a month for my one-bedroom. That's actually pretty reasonable for California, which is one reason I stay in Chico. After that, groceries were probably the next biggest. I spent more than usual last month because I stocked up at the farmers market and bought some specialty ingredients for a recipe I was trying. Maybe $350 on food total. Then car insurance, gas, utilities -- those are all in the $50 to $150 range. And I had to pay for a new set of tires, which was about $400. That one hurt.",
+      "follow_ups": [
+        {
+          "question": "Do you have a formal budget you follow?",
+          "response": "Sort of. I have a spreadsheet where I track my spending by category. I update it every week or two. It's not super rigid -- I don't have hard limits for each category -- but it lets me see where the money's going and catch anything unusual. I set it up after the divorce when I was suddenly managing everything alone. Before that, my ex handled most of the finances, so I had to learn fast. The spreadsheet has been a lifeline."
+        }
+      ]
+    },
+    {
+      "question_id": "Q57",
+      "block": "FINANCES",
+      "question_text": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "time_limit_seconds": 50,
+      "response": "Last month was higher than usual because of the tires. Total was probably around $2,800 to $3,000. A normal month is more like $2,200 to $2,500. That covers rent, utilities, groceries, gas, insurance, phone, internet, and incidentals. I also set aside money for Luna's food and vet expenses -- about $60 a month. And there's my coffee habit, which I don't even want to calculate. I probably spend $40 a month on beans alone, plus the occasional coffee shop visit.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q58",
+      "block": "FINANCES",
+      "question_text": "Does your household own or rent your home?",
+      "time_limit_seconds": 50,
+      "response": "I rent. It's a one-bedroom apartment in a small complex, maybe 12 units. The landlord is a local family, not a big management company, which I appreciate. They're responsive when something needs fixing and they haven't raised my rent aggressively. I've been here about two years now. Owning is a dream but not realistic right now. Housing prices in California, even in Chico, are tough. I've looked at the market casually and I'd need a significant down payment that I don't have yet. Maybe in a few years.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q59",
+      "block": "FINANCES",
+      "question_text": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "time_limit_seconds": 50,
+      "response": "The biggest fluctuation is utilities. Summer electricity bills are brutal because of the AC -- Chico gets over 100 degrees regularly and my apartment doesn't have great insulation. In July and August, my PG&E bill can hit $180 or more, versus maybe $60 in the winter. Holiday season bumps up my spending because I buy gifts for family -- I budget about $300 to $400 for Christmas. Travel costs spike when there's a conference, but my lab covers registration fees and sometimes partial travel. The other thing is the wildfire smoke season -- I stock up on air filters, which are like $30 each, and I go through several during a bad season. Spring has the allergy medication bump, which is small but consistent. Nothing else is too dramatic.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q60",
+      "block": "FINANCES",
+      "question_text": "Tell me all about how you coped with any extra expenses in the past months.",
+      "time_limit_seconds": 40,
+      "response": "The tires last month -- I just pulled from my savings, which I try not to do but that's what it's there for. I also sold a couple of prints of my generative art pieces online, which brought in about $150, so that helped offset it. When I know a big expense is coming, like a conference trip, I'll cut back on eating out and non-essential purchases for a few weeks ahead of time. I don't use credit cards for anything I can't pay off that month. That's a rule I've set for myself. If I can't afford it outright, I wait.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q61",
+      "block": "FINANCES",
+      "question_text": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I have a savings account at a local credit union. I try to put away about $300 to $400 a month, though some months it's less if something comes up. I also contribute to a retirement account through my employer -- they match up to 3 percent, so I put in at least that. I'm not aggressive about investing. I've thought about opening a brokerage account and putting money in index funds, but I haven't gotten around to it. My savings philosophy is basically: have a cushion for emergencies, contribute to retirement, and save toward bigger goals when I can. I'm not where I want to be yet, but I'm consistent about it.",
+      "follow_ups": [
+        {
+          "question": "How did you develop your approach to saving?",
+          "response": "Mostly from watching my parents. They were always very careful with money -- not fearful, but disciplined. My mom kept an envelope system for years, like literally cash in labeled envelopes. I internalized that sense of, you don't spend what you don't have. The research salary isn't huge, so I have to be intentional. The divorce was also a financial wake-up call because splitting a household is expensive. I had to furnish my apartment, set up utilities, all on one income. That forced me to get serious about tracking and saving."
+        }
+      ]
+    },
+    {
+      "question_id": "Q62",
+      "block": "FINANCES",
+      "question_text": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "time_limit_seconds": 80,
+      "response": "Both, really. I have a general emergency fund that I try to keep at about three months of expenses. I'm not quite there -- I'm at about two and a half months right now. After the tires, I need to build it back up. Beyond that, I'm loosely saving toward a down payment for a house, but it's a long-term thing. I'm not going to be ready to buy anytime soon. And I'm also trying to save for a trip to Colombia -- I want to visit my abuela before she gets much older. That's probably $2,000 to $2,500 for a couple weeks. I'm hoping to do that later this year or early next year.",
+      "follow_ups": [
+        {
+          "question": "When was the last time you visited Colombia?",
+          "response": "About three years ago. My parents, Diego, and I all went together for two weeks. We stayed with my abuela and visited Bogota, Cartagena, and my mom's hometown. It was incredible -- the food, the music, the colors. My abuela cried when she saw us. She's 82 now and getting around is harder for her, so each visit feels more urgent. I want to go at least once more before... well, while I still can."
+        }
+      ]
+    },
+    {
+      "question_id": "Q63",
+      "block": "FINANCES",
+      "question_text": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "time_limit_seconds": 50,
+      "response": "I have student loans from my bachelor's degree. The balance is about $18,000. I pay $220 a month on that. It's manageable but it'll be hanging over me for a while -- I'm on a standard 10-year repayment plan and I'm about four years in. No credit card debt. I use one credit card for everyday purchases but I pay it off in full every month. No car payment -- my car is a 2017 Honda Civic that I bought used and paid off already. No other debts. I've never borrowed from family, and I hope I never have to.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q64",
+      "block": "FINANCES",
+      "question_text": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "time_limit_seconds": 65,
+      "response": "Nothing critical, thankfully. There was a moment last summer where I wanted to upgrade my computer for a research project -- the processing power I needed was significant -- and the machine I wanted was about $2,500. I couldn't swing it out of pocket. I ended up getting the lab to cover part of it as a research expense, and I put the rest on my credit card and paid it off over two months, which isn't ideal but it worked. There was also a dental cleaning I put off for a few months because my copay felt like too much during a tight month. I eventually went, but the delay bothered me. Those are the kinds of compromises I make -- nothing dire, but I wish I had more of a buffer.",
+      "follow_ups": [
+        {
+          "question": "How did you feel about having to defer that dental appointment?",
+          "response": "Frustrated, mostly with myself. It was only like $75 out of pocket, but that month I'd had the conference travel expenses and a car repair, and $75 felt like the straw on the camel's back. I knew rationally that skipping a dental cleaning is penny-wise and pound-foolish. But in the moment, it's about cash flow. That experience motivated me to build the emergency fund more seriously. I never want to be in a position where I'm choosing between basic healthcare and other bills."
+        }
+      ]
+    },
+    {
+      "question_id": "Q65",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "time_limit_seconds": 155,
+      "response": "I'm a computer and information research scientist. In plain language, I design and build algorithms -- mostly in the area of machine learning and natural language processing. My day-to-day involves writing code, primarily in Python and R, running experiments on large datasets, analyzing results, and writing up findings for publication. Right now, my main project is developing generative models that can create visual narratives from unstructured data. Think of it like teaching a computer to take a messy pile of information and turn it into something coherent and visually meaningful. I also do a fair amount of statistical modeling and data visualization -- taking complex results and making them understandable. A big part of the job that people don't see is writing grant proposals. Securing funding is essential for keeping the lab running, and I spend probably 15 to 20 percent of my time on that. I write papers and present at conferences, which means public speaking a few times a year. And I collaborate with other researchers, both locally and remotely. The UC Davis project I mentioned is a great example. It's a job that requires deep focus and long stretches of uninterrupted thinking, which suits my personality well. But it also requires communication and teamwork, which I've grown into over time.",
+      "follow_ups": [
+        {
+          "question": "What's the most rewarding part of the job for you?",
+          "response": "That moment when an experiment works and you see something genuinely new. Like when a model produces an output you didn't expect and it's actually better than what you designed for. That's a rush. And publishing a paper -- seeing your name on something that adds to human knowledge, even in a small way. The other thing is when I can blend the art and the science. My generative visual narrative work is literally the intersection of everything I love. When I get to present that at a conference and see people's eyes light up -- that's the best feeling."
+        },
+        {
+          "question": "What's the most challenging part?",
+          "response": "The uncertainty. In research, most things don't work on the first try, or the second, or the tenth. You can spend months on an approach and have it go nowhere. That requires a kind of resilience that I'm still building. The other challenge is the publish-or-perish pressure. Your value is measured in publications and citations, and that creates a constant background anxiety. And then there's the funding cycle -- grants are competitive and the process is slow. You write a proposal, wait six months, and then maybe get rejected and have to start over. It can feel like you're always auditioning for the right to keep doing your job."
+        }
+      ]
+    },
+    {
+      "question_id": "Q66",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Was your occupation covered by a union or employee association contract?",
+      "time_limit_seconds": 40,
+      "response": "Not directly. Research scientists at my lab aren't unionized. The university's faculty union covers teaching staff, but my position is classified differently -- I'm on the research side, technically a staff position rather than faculty. There have been conversations about whether research staff should have more formal representation, but nothing has come of it yet. I'd probably support it if it happened. The main thing I'd want is more job security. Research positions can be tied to grant funding, which means your job exists as long as the grants do.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q67",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "time_limit_seconds": 40,
+      "response": "Pretty much all 52 weeks. I took about a week off around Christmas and a few scattered days here and there, but even on 'vacation' I'm usually checking email or reading papers. If you mean weeks where I formally worked at least some hours, it's probably 50 or 51.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q68",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How many hours each week did you usually work?",
+      "time_limit_seconds": 15,
+      "response": "On a normal week, about 45 hours. During deadline weeks, it can push to 55 or 60.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q69",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "time_limit_seconds": 15,
+      "response": "Yes, it was a regular work week for me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q70",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "No, just the one research position. The volunteering and mentoring are unpaid. I've made a little money selling art prints, but I wouldn't call that a job or a business -- it's more of an occasional thing.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q71",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "Just the one.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q72",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "For your job or occupations, how much money did you receive in the past month?",
+      "time_limit_seconds": 50,
+      "response": "My take-home after taxes and deductions is about $4,200 a month. My gross salary works out to about $5,800 monthly. The difference goes to taxes, health insurance, and retirement contributions. It's not a lot for California, but Chico's cost of living makes it workable.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q73",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How often do you get paid?",
+      "time_limit_seconds": 25,
+      "response": "Twice a month -- the 1st and the 15th.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q74",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In total, how much did your household make in the past month?",
+      "time_limit_seconds": 50,
+      "response": "Since it's just me, it's the same -- about $4,200 take-home. Plus that $150 I made from the art prints, but that's not regular income. So call it $4,350 for last month specifically, but normally $4,200.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q75",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "time_limit_seconds": 40,
+      "response": "Yes, I filed. I use TurboTax -- I've been doing my own taxes since college. Last year was a little more complicated because of the divorce finalization, but it was my first year filing as single, which actually simplified things in some ways. I got a small refund, maybe $600. I always file on time. April deadlines stress me out, but I'd rather deal with it early than have it hanging over me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q76",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "time_limit_seconds": 15,
+      "response": "I've been at the lab for about five years now, since right after graduation. Benefits include health insurance, which I mentioned -- it's decent, covers most things with copays. I get 15 days of PTO plus sick leave and the university holidays. The retirement match at 3 percent is nice. No dental or vision separately -- that's bundled into the health plan. It's a solid package, not extravagant, but adequate.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q77",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "time_limit_seconds": 15,
+      "response": "Great, honestly. Dr. Patel, my supervisor, gives me a lot of autonomy and respects my judgment. She's tough when it comes to rigor but always fair. Kai and I collaborate well -- we have complementary skills, and he's good at the stuff I'm weaker at, like systems engineering. The grad students rotate, but I enjoy mentoring them. It's a small, collegial environment. I feel lucky.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q78",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "time_limit_seconds": 80,
+      "response": "Pretty flexible, which is one of the best things about the position. There's no rigid start and end time -- as long as I'm present for meetings and making progress on my projects, nobody cares if I come in at 8 or 9:30. If I need to leave early for a yoga class or the tutoring, that's fine. The unpredictable part is the deadline crunch. When a paper submission or grant proposal is due, the schedule goes out the window and I'm working nights and weekends. Those periods are intense but they're not constant -- maybe four to six weeks a year total. The UC Davis collaboration has added more structure because I have standing meetings I have to attend, but even those are on Zoom so I can take them from anywhere. Overall, the flexibility is a huge perk and one of the reasons I've stayed despite lower pay than industry.",
+      "follow_ups": [
+        {
+          "question": "How important is that flexibility to your quality of life?",
+          "response": "Essential. If I had to be at a desk from 9 to 5 with no flexibility, I think I'd burn out fast. My creativity doesn't run on a clock. Some of my best ideas come at 10 PM or on a Saturday morning hike. Having the freedom to structure my time around my energy levels rather than arbitrary hours makes me more productive, not less. It's also what allows me to do the mentoring and tutoring -- without flex hours, those wouldn't be possible."
+        }
+      ]
+    },
+    {
+      "question_id": "Q79",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "time_limit_seconds": 15,
+      "response": "That's not an issue for me since I don't have children.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q80",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "time_limit_seconds": 25,
+      "response": "No, I don't receive any government assistance. My income is enough to cover my needs, even if there's not a ton left over. My parents don't receive any either, though I think they might qualify for some things they're not taking advantage of. That's something I should look into for them.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q81",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "time_limit_seconds": 50,
+      "response": "My income is salaried, so it's pretty consistent month to month. The months that felt tight were more about unexpected expenses than low income. Like the tire replacement, or the month I had to pay for a conference flight and hotel upfront before getting reimbursed. That reimbursement lag is annoying -- you're out $800 to $1,000 for weeks. During those tight months, I cut back on eating out, skipped the coffee shop, and cooked more from basic ingredients. I also delayed any non-essential purchases. It's never been desperate, but there have been months where I was watching every dollar.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q82",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "time_limit_seconds": 50,
+      "response": "I could cover it from savings, though it would sting. My emergency fund is about two and a half months of expenses, so $400 is doable. I'd just transfer it from savings and then adjust my budget for the next couple months to rebuild. If it happened in the same month as another big expense -- like if the tires and an emergency both hit at once -- I'd put it on my credit card and pay it off over one to two months. But I wouldn't need to borrow from anyone or skip bills. I'm in that zone where $400 is uncomfortable but not catastrophic.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q83",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Overall, how do you feel about your financial situation?",
+      "time_limit_seconds": 105,
+      "response": "Cautiously okay. I can pay my bills, I'm saving a little, I'm not in bad debt. But there's very little margin. One major unexpected expense -- like a serious car repair or a medical emergency -- would wipe out my savings. I don't have a safety net beyond what I've built myself. My parents can't help me financially; if anything, I want to be able to help them. I think about what my income would look like in industry versus research, and it's a real gap. I could probably make $40,000 to $50,000 more at a tech company. Sometimes that weighs on me, especially when I think about buying a house or starting a family someday. But then I think about the work I'm doing and the life I'm living, and I'd rather be here making less than in a cubicle in San Jose making more. I just wish research paid better. The financial stress I feel is more of a slow hum than a crisis -- it's always there but it doesn't dominate my life. I'm careful, I'm disciplined, and I'm gradually improving my position. Ask me again in five years and I think I'll be in a much better place.",
+      "follow_ups": [
+        {
+          "question": "What specific financial goals are you working toward right now?",
+          "response": "Short-term: rebuild the emergency fund to a full three months, which means adding about $1,500. Medium-term: save for the Colombia trip -- I need about $2,000 more for that. Long-term: start seriously saving for a down payment. I've crunched the numbers and even in Chico, I'd need at least $40,000 to $50,000 for a modest house. That's years away. I'm also thinking about whether I should go back to school for a PhD, which would affect my finances one way or another -- might open higher-paying positions eventually but would mean lower income during the program."
+        }
+      ]
+    },
+    {
+      "question_id": "Q84",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "time_limit_seconds": 40,
+      "response": "I'm divorced. It was finalized about two years ago. I'm not currently living with a romantic partner. I'm single and living on my own.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q85",
+      "block": "DEMOGRAPHICS",
+      "question_text": "For our records, we also need your date of birth. Could you please provide that?",
+      "time_limit_seconds": 25,
+      "response": "July 14th, 1996.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q86",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "time_limit_seconds": 25,
+      "response": "Yes, I was born in the United States. My parents immigrated from Colombia before I was born.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q87",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What city and state were you born in?",
+      "time_limit_seconds": 25,
+      "response": "Sacramento, California.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q88",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "time_limit_seconds": 15,
+      "response": "Yes, I'm of Colombian origin. Both my parents are from Colombia.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q89",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What race or races do you identify with?",
+      "time_limit_seconds": 15,
+      "response": "I usually say Latina or Hispanic. On forms that ask for race specifically, it depends on the options. I've checked 'White' and 'Other' at different times. The categories don't really capture my experience.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q90",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What is the highest degree or grade you've completed?",
+      "time_limit_seconds": 15,
+      "response": "Bachelor's degree in computer science from Chico State.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q91",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you enrolled in school?",
+      "time_limit_seconds": 15,
+      "response": "Not currently, no. I've been thinking about a PhD program, but I haven't applied anywhere yet.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q92",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you been enrolled in school during the past 3 months?",
+      "time_limit_seconds": 15,
+      "response": "No.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q93",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "time_limit_seconds": 15,
+      "response": "No, I have not.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q94",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What religion do you identify with, if any?",
+      "time_limit_seconds": 15,
+      "response": "I grew up in that tradition and I still go to services occasionally, mostly for my family. But I'd say it's more cultural for me now than a strong personal practice.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q95",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "time_limit_seconds": 80,
+      "response": "I tend to lean toward one side but I don't carry a strong party identity. I register and vote in the primaries that feel most aligned with my values. I care more about specific policy positions -- immigration, education funding, climate, tech policy -- than about party loyalty. I've voted for candidates from different parties at the local level based on who I thought would actually do the work. I read a lot of policy analysis and I form opinions issue by issue rather than adopting a platform wholesale. If I had to put myself on a spectrum, I'm left of center, but I don't wake up thinking about party politics.",
+      "follow_ups": [
+        {
+          "question": "What issues would make you consider crossing party lines for a candidate?",
+          "response": "If a candidate had a really strong, evidence-based plan for wildfire prevention and climate resilience, I'd listen regardless of party. Same with someone who had serious proposals for affordable housing in places like Chico. At the local level, competence and integrity matter more to me than party. I voted for a city council member last cycle who ran as an independent because she had the best grasp of the housing issue. But on national issues like immigration, I'm pretty firm in my leanings because the stakes are personal."
+        }
+      ]
+    },
+    {
+      "question_id": "Q96",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "time_limit_seconds": 50,
+      "response": "Closer to the Democrats, though I have my frustrations with them too. On immigration, healthcare, education, and climate, their platform is more aligned with what I care about. But I don't feel a strong tribal attachment. I vote for them more often than not, but I wish there were more emphasis on practical problem-solving and less on messaging and culture wars from all sides. I'd love a political landscape that was more about evidence and less about identity, but I also know that's naive given how things are structured.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q97",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was the city and state that you lived in when you were 16 years old?",
+      "time_limit_seconds": 25,
+      "response": "Sacramento, California. Same house my parents are still in.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q98",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did you live with both your own mother and father when you were 16?",
+      "time_limit_seconds": 25,
+      "response": "Yes, both of them. They've been together my whole life. Still are.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q99",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Who else did you live with?",
+      "time_limit_seconds": 25,
+      "response": "My brother Diego. He would've been about 12 at that point. It was the four of us in a three-bedroom house. Pretty standard setup.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q100",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your dad completed?",
+      "time_limit_seconds": 15,
+      "response": "He finished high school in Colombia. He didn't go to college. He's incredibly smart and capable, but college just wasn't in the cards for him coming from his background.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q101",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your mom completed?",
+      "time_limit_seconds": 15,
+      "response": "She did a couple years of college in Colombia before they moved. She studied early childhood education but didn't finish the degree.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q102",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your mom work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, she worked most of my childhood.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q103",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "She worked at a daycare center as a teaching assistant. She helped with the younger kids -- ages two to four. Her duties were helping with activities, preparing snacks, supervising playtime, and assisting the lead teacher. She was wonderful with the kids. Parents would request her by name. Her background in early childhood education from Colombia helped, even without the degree. She eventually moved up to a lead teaching assistant role. She loved the work, even though the pay wasn't great.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q104",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "time_limit_seconds": 50,
+      "response": "It was a private daycare and preschool called Little Stars, in our neighborhood in Sacramento. Small operation, maybe 40 kids total. Family-owned -- the owner was a woman named Mrs. Chen who ran it for like 30 years. They provided childcare and early learning for kids from infancy through pre-K. My mom worked there for about 12 years. When Mrs. Chen retired, the place closed, and my mom moved to part-time babysitting and housekeeping work. She still does some of that now.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q105",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your dad work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, absolutely. He's been working since before I was born.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q106",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "He's a maintenance supervisor at a property management company. He's been there for about 20 years. He manages the upkeep of several apartment complexes and commercial buildings in the Sacramento area. His duties include coordinating repair work, doing hands-on maintenance himself -- plumbing, electrical, basic carpentry -- supervising a small team of maintenance workers, and handling emergency calls. He's the guy people call when a pipe bursts at 2 AM. He takes a lot of pride in his work. Everything he touches runs smoothly.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q107",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "time_limit_seconds": 50,
+      "response": "It's a mid-sized property management company based in Sacramento called Valley Properties. They manage residential apartment complexes and some small commercial buildings throughout the greater Sacramento area. Maybe 15 to 20 properties total. It's a family-owned company -- not a big corporation. My dad has worked his way up from a general maintenance worker to the supervisor role. He manages a team of about four people now. The owner, Mr. Torres, is also Colombian, which is how my dad got the job originally through community connections.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q108",
+      "block": "HOPES & VALUES",
+      "question_text": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "time_limit_seconds": 155,
+      "response": "A few years from now, I want to be leading my own research team. Not a huge team, but a small, interdisciplinary group that sits at the intersection of AI and creative expression. I want to have published work that genuinely advances how we think about generative models and visual storytelling. I'm thinking about doing a PhD, and if I do, I'd want to be at a place that lets me keep blending art and science rather than forcing me into a narrow lane. I'd love to have my own solo art exhibition -- something that showcases the generative work alongside traditional paintings, showing the conversation between them. I hope to have visited my abuela in Colombia again, hopefully more than once. I want my parents to be healthy and able to retire comfortably, and I want to be in a position to help with that if they need it. Personally, I'd like to be in a place where I'm open to a relationship again -- not rushing it, but not closed off either. Maybe I've met someone who gets both the scientist and the artist in me. And I hope I'm still in Chico, still hiking those trails, still going to game nights. I don't want a dramatically different life -- I want a deeper, more secure version of this one. And I really want to have started that startup I've been dreaming about, or at least be on the path. An AI-driven creative tools company that helps designers and musicians do things they couldn't do before. That's the big dream.",
+      "follow_ups": [
+        {
+          "question": "You mentioned the startup idea. How far along are you in thinking about that?",
+          "response": "It's still pretty conceptual. I have a notes doc that's like 20 pages long with ideas, potential features, market analysis I've done casually. I've talked to some people in the generative art community about what tools they wish existed, and there's real demand. The gap is between having the idea and having the resources -- capital, a co-founder, business knowledge. I'm a researcher, not an entrepreneur, so I'd need to partner with someone who has that skill set. I think the PhD might actually help, because it would give me deeper technical chops and a larger network. But I don't want to be the person who plans forever and never executes. In the next year, I want to build a prototype of at least one tool and test it with real users."
+        },
+        {
+          "question": "How does mentoring fit into your vision of the future?",
+          "response": "It's central. I want to always be mentoring. If I lead a research team, I want it to be a place where young Latina scientists feel welcome and supported. I want to grow the Technolatinas program, maybe take it statewide. And if the startup happens, I want to build a company culture that actively recruits from underrepresented communities. I know how much of a difference one encouraging voice can make. Someone did that for me, and I want to keep paying it forward. It's one of the things that gives my career meaning beyond publications and products."
+        }
+      ]
+    },
+    {
+      "question_id": "Q109",
+      "block": "HOPES & VALUES",
+      "question_text": "What do you value the most in your life?",
+      "time_limit_seconds": 80,
+      "response": "Family, first and always. The connection to my parents, my brother, my extended family -- that's my foundation. Everything else is built on that. After family, I'd say curiosity. The drive to understand things, to build things, to ask 'what if' -- that's what gets me out of bed. It's what connects the science and the art and even the cooking. I need novelty and learning in my life or I wilt. And community. Not in an abstract sense, but the specific people who show up for me -- Priya, Tom, my mentees, my Discord crew, the neighbors who say hi. I value being part of something larger than myself. I also value honesty. After the divorce, I promised myself I'd be more honest about what I need, what I feel, and what I want. That's been hard but transformative. And beauty. I know that sounds vague, but I mean it practically -- the beauty of a trail at sunrise, of a well-written algorithm, of a painting that captures something words can't. I organize my life around encountering and creating beauty, and I think that's what makes it rich.",
+      "follow_ups": [
+        {
+          "question": "If you could pass on one piece of wisdom to your mentees, what would it be?",
+          "response": "That you don't have to choose between being rigorous and being creative. The world will try to put you in a box -- you're a scientist or you're an artist, you're Colombian or you're American, you're practical or you're a dreamer. But the most interesting work and the most fulfilling life happens at the intersections. Stay curious, stay connected to where you came from, and don't let anyone else define what a successful career looks like for you. Build the path that makes sense for your whole self."
+        }
+      ]
+    }
+  ],
+
+  "extracted_profile": {
+    "participant_id": "50f90a6f17de473f9ca15f00afdedf7a",
+    "name": "Alicia Gonzalez",
+    "age": 29,
+    "gender": "Female",
+    "marital_status": "divorced",
+    "location": "Chico, CA 95928",
+    "education": "Bachelor's degree in Computer Science (Chico State)",
+    "occupation": "Computer and Information Research Scientist",
+
+    "preferences": {
+      "health_and_wellness": {
+        "summary": "Active lifestyle centered on yoga, hiking, and biking, with attention to sleep challenges and seasonal allergies.",
+        "details": [
+          "Attends vinyasa yoga classes twice weekly (Monday/Wednesday at 6:30 PM) at Chico Yoga Studio",
+          "Hikes most Saturdays through the Chico Outdoor Club in Butte County trails",
+          "Bikes as primary transportation within town",
+          "Chronic undersleeping: typically 5-6.5 hours on bad nights, 6.5 on good nights",
+          "Takes OTC antihistamine during spring allergy season",
+          "Uses air purifier at home for both allergies and wildfire smoke",
+          "Morning breathing exercise routine (5 minutes) before checking phone",
+          "Hourly stretch reminders set on computer to counter desk posture strain",
+          "Keeps N95 masks stocked for smoke season",
+          "Uses herbal teas (chamomile for sleep, ginger for digestion) and turmeric for inflammation"
+        ],
+        "evidence": "Q15, Q31, Q32, Q33, Q37, Q38, Q50"
+      },
+      "food_and_dining": {
+        "summary": "Intermediate-to-advanced home cook specializing in Colombian dishes, committed to fresh farmers market ingredients and craft coffee.",
+        "details": [
+          "Cooks traditional Colombian dishes: arepas, bandeja paisa, empanadas, chimichurri-marinated plantains",
+          "Grinds fresh Colombian single-origin coffee beans every morning from a local roaster",
+          "Shops at the Saturday farmers market regularly",
+          "Uses co-op grocery store near apartment",
+          "Frequents a taqueria near her apartment at least once a week",
+          "Meal-preps on Sundays when routine is stable",
+          "Photographs dishes she is proud of",
+          "Stress eating pattern: reverts to crackers/cheese, burritos, and dark chocolate during deadline weeks",
+          "Drinks 2 cups of coffee normally; 4-5 during stressful periods"
+        ],
+        "evidence": "Q01, Q05, Q15, Q32, Q56, Q57"
+      },
+      "travel": {
+        "summary": "Budget-conscious traveler drawn to culturally immersive and rugged outdoor experiences, with strong desire to revisit Colombia.",
+        "details": [
+          "Last trip to Colombia was 3 years ago (Bogota, Cartagena, family hometown)",
+          "Saving $2,000-$2,500 for a return trip to visit grandmother",
+          "Attends 2-3 academic conferences per year (NeurIPS, ACL, workshops)",
+          "Enjoys weekend getaways (Lake Tahoe mentioned in seed data)",
+          "Dreams of hiking Patagonia's Torres del Paine and visiting Granada's Alhambra",
+          "Plans coastal trips during peak wildfire/smoke season"
+        ],
+        "evidence": "Q01, Q10, Q62, Q67, Q81"
+      },
+      "social_and_relationships": {
+        "summary": "Rich social life centered on close friendships, family bonds, and community involvement despite living alone post-divorce.",
+        "details": [
+          "Board game nights every other Friday at friend Priya's place (Wingspan, Terraforming Mars, Catan, Codenames)",
+          "Daily texts with brother Diego; calls a few times per week",
+          "Near-daily phone calls with mother Rosa",
+          "Visits parents in Sacramento twice monthly",
+          "Hiking buddy Tom from the Chico Outdoor Club most Saturdays",
+          "Friendly with immediate neighbors (Hendersons, Jenny)",
+          "Uses Naked Lounge coffee shop as social/co-working space",
+          "Handles loneliness through active reframing (chosen solitude) and social outreach"
+        ],
+        "evidence": "Q05, Q07, Q08, Q43, Q44"
+      },
+      "home_and_lifestyle": {
+        "summary": "Solo renter in a modest one-bedroom apartment, bike-centric lifestyle in a walkable college-town neighborhood.",
+        "details": [
+          "One-bedroom apartment off Mangrove Avenue, Chico ($1,250/mo rent)",
+          "Small apartment complex (~12 units), local family landlord",
+          "Lives alone with cat Luna (3-year-old tabby, adopted from Butte Humane Society)",
+          "Painting studio corner set up in apartment",
+          "Bikes as primary in-town transportation; owns a 2017 Honda Civic for longer trips",
+          "Runs air purifier year-round (allergies and smoke)",
+          "Prefers solitude for creative work; values personal space highly post-divorce"
+        ],
+        "evidence": "Q08, Q11, Q15, Q55, Q58"
+      },
+      "entertainment": {
+        "summary": "Eclectic media consumer drawn to speculative fiction, ambient music, cumbia, and live cultural events.",
+        "details": [
+          "Reads speculative fiction (Ted Chiang noted in seed data)",
+          "Attends live music and poetry events/open mics on Thursday evenings",
+          "Listens to cumbia, vallenato, Bjork, and ambient music while painting",
+          "Watches TV as comfort activity during low periods",
+          "Strategy board games as primary group entertainment",
+          "Attends gallery openings at least once a month"
+        ],
+        "evidence": "Q15, Q07, Q44"
+      },
+      "hobbies_and_recreation": {
+        "summary": "Deeply creative hobbyist spanning abstract painting, generative digital art, photography, DIY electronics, and strategic gaming.",
+        "details": [
+          "Abstract acrylic painting (blues and oranges, heavy texture); studio corner in apartment",
+          "Generative digital art using custom algorithms (dot-based photo recreation, printed as gifts)",
+          "Has exhibited at Avenue 9 gallery in Chico (2 group shows); planning solo show",
+          "Photography of food and everyday moments, shared on Instagram",
+          "DIY electronics: building Raspberry Pi weather station with AQI sensor",
+          "Tinkering with Arduino projects at hackathons",
+          "Strategy board games (competitive player)",
+          "Occasional journaling for emotional processing",
+          "Summer amateur soccer league (played in college, returning this season)"
+        ],
+        "evidence": "Q01, Q07, Q15, Q17, Q18, Q38"
+      },
+      "work_and_career": {
+        "summary": "Mission-driven research scientist balancing rigorous ML/NLP work with interdisciplinary creative ambitions and mentorship.",
+        "details": [
+          "5 years at current lab under Dr. Patel; team of 5 (2 scientists, 2 grad students, PI)",
+          "Core skills: Python, R, C++, MATLAB, AWS/GCP, statistical modeling, NLP, deep learning",
+          "Current main project: generative models for visual narratives from unstructured data",
+          "Active UC Davis collaboration on multilingual generative language models",
+          "15-20% of time spent on grant writing",
+          "Publishes papers and presents at NeurIPS, ACL, and smaller workshops",
+          "Works ~45 hrs/week normally, 55-60 during deadlines",
+          "Flexible hours; no rigid schedule beyond team meetings",
+          "Considering PhD to deepen technical chops and expand network",
+          "Long-term startup dream: AI-driven creative tools for designers and musicians",
+          "Gross salary ~$5,800/mo ($69,600/year); take-home ~$4,200/mo"
+        ],
+        "evidence": "Q16, Q65, Q66, Q68, Q72, Q76, Q77, Q78, Q83, Q108"
+      },
+      "arts_and_culture": {
+        "summary": "Active participant in Chico's art scene and deeply influenced by Colombian cultural traditions.",
+        "details": [
+          "Abstract painter and generative digital artist; blends code and canvas",
+          "Influenced by James Turrell, Yayoi Kusama, cumbia, Bjork, Ted Chiang",
+          "Two group exhibitions at Avenue 9 gallery; planning solo show this year",
+          "Posts art on Instagram (~800 followers); connected with generative art community online",
+          "Participates in poetry slams and open mic nights",
+          "Attends monthly gallery openings in Chico",
+          "Colombian cultural heritage expressed through music, food, language, and family rituals"
+        ],
+        "evidence": "Q01, Q15, Q17, Q47, Q48"
+      },
+      "sports_and_fitness": {
+        "summary": "Active in hiking, yoga, biking, and recreational soccer with a preference for outdoor and community-based activities.",
+        "details": [
+          "Hikes Butte County trails most Saturdays with Chico Outdoor Club",
+          "Vinyasa yoga twice weekly at Chico Yoga Studio (instructor Mei)",
+          "Daily biking for transportation",
+          "Returning to amateur soccer league this summer; doing Sunday pickup games to prepare",
+          "Follows Sacramento Kings (basketball) and San Francisco 49ers (football)",
+          "Competitive spirit in board games and sports"
+        ],
+        "evidence": "Q15, Q18, Q31"
+      },
+      "nature_and_outdoors": {
+        "summary": "Nature is central to well-being, stress management, and sense of place; Bidwell Park and Butte County trails are anchor points.",
+        "details": [
+          "Bidwell Park is 10 minutes by bike; major reason she stayed in Chico",
+          "Regular hiker in Ishi Wilderness and Butte County trails",
+          "Hiking partner Tom (retired, ~65) serves as trail mentor",
+          "Finds spiritual/meditative experience in nature (mountaintop awe)",
+          "Wildfire smoke season significantly impacts outdoor activity and mood",
+          "Farmers market attendance tied to outdoor seasonal rhythm"
+        ],
+        "evidence": "Q03, Q08, Q09, Q10, Q47"
+      },
+      "technology": {
+        "summary": "Power user across research computing, DIY hardware, and curated social media, with intentional digital boundaries.",
+        "details": [
+          "Uses Python, R, C++, MATLAB professionally; AWS/GCP for cloud computing",
+          "Builds personal projects with Raspberry Pi and Arduino",
+          "Custom-built AQI monitoring weather station",
+          "Active on Instagram (art), Twitter/X (professional), Discord (community), Slack (work)",
+          "App timer limits (20 min per platform per session); no social media after 10 PM rule",
+          "Uses TurboTax for tax filing",
+          "Tracks spending via personal spreadsheet",
+          "Hourly stretch-reminder timer on work computer"
+        ],
+        "evidence": "Q15, Q48, Q49, Q56, Q75"
+      },
+      "community_and_civic": {
+        "summary": "Engaged civic participant through consistent voting, mentorship of Latinx youth, volunteer tutoring, and community organizations.",
+        "details": [
+          "Votes in every election including local special elections and ballot measures",
+          "Reads CalMatters, Chico Enterprise-Record, NPR, voter guides for election research",
+          "Mentors 2 undergrads through Technolatinas (monthly one-on-ones, quarterly group meetups)",
+          "Volunteer tutor at community center twice monthly (math and programming for high schoolers)",
+          "Member of Chico Outdoor Club",
+          "Active in online Colombian scientist community (~200 members, close with ~12)",
+          "Attended peaceful local marches/protests",
+          "Participated in lab reading group on bias in AI and equity in tech"
+        ],
+        "evidence": "Q04, Q17, Q23, Q24, Q29, Q48"
+      },
+      "music": {
+        "summary": "Music is woven into daily life through Colombian genres, live performances, and creative practice.",
+        "details": [
+          "Grew up with cumbia and vallenato in the household",
+          "Listens to Bjork and ambient/experimental music while painting",
+          "Attends live music events in Chico regularly (Thursday evenings)",
+          "Brother Diego is a music producer in LA; they bond over creative/music topics",
+          "Poetry slams and open mics are part of regular entertainment rotation"
+        ],
+        "evidence": "Q01, Q15, Q05"
+      },
+      "fashion_and_appearance": {
+        "summary": "Minimal focus on fashion; notable cultural accessory.",
+        "details": [
+          "Wears a crucifix necklace given by her grandmother as a cultural/familial connection"
+        ],
+        "evidence": "Q47"
+      }
+    },
+
+    "summaries": {
+      "demographer": "Alicia Gonzalez is a 29-year-old divorced Latina woman of Colombian descent, born in Sacramento, California, to immigrant parents. She holds a bachelor's degree in computer science (STEM) and works as a computer and information research scientist in Chico, CA (95928). She lives alone in a rented one-bedroom apartment, has no children, and earns approximately $69,600 gross annually. Her household is a single-person unit with no dependents. She is a second-generation American, fluently bilingual in Spanish and English, and maintains strong transnational ties to Colombia through family and online professional networks. Her parents are working-class: her father is a maintenance supervisor nearing retirement, and her mother worked in childcare. Her educational attainment represents upward intergenerational mobility relative to her parents' educational levels. She resides in a mid-sized California college town with a relatively lower cost of living than coastal metros, which shapes both her housing affordability and professional isolation.",
+
+      "behavioral_economist": "Alicia demonstrates strong present-bias management through structured savings and spending tracking, despite limited financial margin. She prioritizes intrinsic motivation (intellectual freedom, creative expression) over extrinsic rewards (higher salary), as evidenced by her choice of a lower-paying research position over a lucrative industry job. She exhibits loss aversion around her emergency fund and is reluctant to use credit for non-essential purchases. Her time preferences lean toward long-term investment (retirement contributions, down payment savings, career development through potential PhD) but she shows present-bias in sleep habits and occasional deadline-driven neglect of self-care. Peer influence operates through curated communities (lab, Discord, hiking club) rather than broad social pressure. Her spending is disciplined and she employs commitment devices (spreadsheet tracking, no-credit-card rule, social media timers). She responds to identity-based motivation, making financial and career choices that align with her self-concept as a scientist, artist, and community member rather than optimizing purely for income.",
+
+      "political_scientist": "Alicia is a consistent voter who participates in all levels of elections including local and special elections, placing her in the most civically active segment of the electorate. She leans Democratic but rejects strong partisan identification, preferring issue-based evaluation of candidates. Her core political concerns -- immigration, education funding, climate/wildfire policy, and algorithmic accountability -- reflect her personal biography as a child of immigrants, a researcher, and a California wildfire-zone resident. She exhibits high institutional literacy (reads voter guides, primary sources, policy analysis) and moderate political sophistication. Her civic engagement extends beyond voting to community organizing (Technolatinas mentoring, tutoring), peaceful protest participation, and workplace advocacy (lab reading group on equity). She demonstrates place-based political engagement catalyzed by the Camp Fire's impact on her region. Her trust in institutions is conditional -- she trusts scientific and public health institutions while maintaining skepticism toward law enforcement practices and political messaging from all sides.",
+
+      "psychologist": "Alicia exhibits a personality profile marked by high Openness (intellectual curiosity, aesthetic sensitivity, novel-seeking across domains), moderate-to-high Conscientiousness (disciplined savings, structured routines, though undermined by night-owl tendencies and occasional deadline slippage), moderate Extraversion (rich social network but strong need for solitude and recharging), high Agreeableness (mentoring orientation, community service, family devotion, conflict-avoidant communication style), and moderate Neuroticism (performance anxiety before deadlines and presentations, rumination patterns at night, vulnerability to loneliness, but effective coping strategies). Her emotional regulation toolkit is multi-modal: physical activity (yoga, hiking), creative expression (painting, cooking), social support (Priya, Diego), and cognitive reframing (journaling, deliberate solitude). Her self-concept integrates dual identities (scientist/artist, Colombian/American) and she shows resilience through post-divorce identity reconstruction. She demonstrates an analytical-then-intuitive decision-making style. Her motivational architecture is driven by curiosity, connection, and meaning-making rather than status or material accumulation. She shows healthy attachment patterns with secure family bonds, though she carries intergenerational caretaking responsibility that creates both purpose and subtle burden."
+    },
+
+    "others_misc": {
+      "cultural_and_linguistic": {
+        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "items": [
+          "Fluently bilingual in Spanish and English; grew up speaking Spanish at home exclusively",
+          "Colombian cultural identity expressed through cooking (bandeja paisa, arepas, empanadas), music (cumbia, vallenato), and family rituals (Sunday lunches, holiday gatherings)",
+          "Attends Spanish-language Mass at St. John the Baptist parish occasionally, primarily for family/cultural reasons rather than strong personal devotion",
+          "Lights votive candles as a personal spiritual ritual when loved ones face difficulties",
+          "Wears grandmother's crucifix necklace as heritage marker",
+          "FaceTimes grandmother in Colombia every Sunday",
+          "Maintains connection to Colombian identity through online scientist community and local cultural events",
+          "Last visited Colombia 3 years ago; planning return trip",
+          "Family follows Colombian holiday and festival traditions (Carnaval de Barranquilla referenced in seed data)"
+        ]
+      },
+      "life_events_and_transitions": {
+        "description": "Significant past or anticipated events that shape current behavior",
+        "items": [
+          "Divorce finalized approximately 2 years ago after less than 2 years of marriage; catalyzed major identity reconstruction and lifestyle changes",
+          "Career crossroads post-graduation: chose lower-paying research position over industry job in San Jose, which became a defining life decision and contributed to marital strain",
+          "Camp Fire (2018) profoundly affected regional community and shifted her political engagement toward local issues",
+          "Considering PhD program as next major career transition",
+          "Father approaching retirement age with physical health concerns, creating anticipatory family financial planning",
+          "Grandmother's advancing age (82) creating urgency around planned Colombia visit"
+        ]
+      },
+      "sensory_and_physical_context": {
+        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "items": [
+          "Chronic sleep insufficiency (5-6.5 hours on bad nights) driven by night-owl creative sessions",
+          "History of neck/shoulder tension from prolonged computer work; resolved with physical therapy but requires ongoing management through stretching and ergonomic adjustments",
+          "Spring seasonal allergies requiring daily antihistamine (oak pollen in Central Valley)",
+          "Headaches correlated with sleep deprivation",
+          "Wildfire smoke exposure requiring indoor periods, air purification, and N95 masks during summer/fall",
+          "Uses specialized neck-support pillow per physical therapist recommendation"
+        ]
+      },
+      "media_and_information_diet": {
+        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "items": [
+          "NPR for national news and health coverage",
+          "CalMatters for California state policy",
+          "Chico Enterprise-Record for local news",
+          "Policy newsletters and researcher accounts on Twitter/X for tech policy and immigration",
+          "CDC publications and peer-reviewed journals for health/vaccine information",
+          "California voter guide read cover-to-cover before elections",
+          "Avoids cable news entirely for health information",
+          "Curates social media feeds aggressively; mutes inflammatory political content",
+          "Spanish-language misinformation in Facebook groups identified as community challenge (tia Marta vaccine hesitancy episode)"
+        ]
+      },
+      "technology_and_tool_use": {
+        "description": "Device preferences, app usage, digital communication norms",
+        "items": [
+          "Instagram as primary art-sharing platform (~800 followers)",
+          "Twitter/X for professional networking and science communication",
+          "Discord as primary community platform (Colombian scientists server, generative art channels)",
+          "Facebook used minimally (Chico Outdoor Club group, Colombian scientist group only)",
+          "Slack across 5+ workspaces for professional communication",
+          "FaceTime for weekly calls with grandmother in Colombia",
+          "TurboTax for annual tax filing",
+          "Personal budget spreadsheet (weekly-biweekly updates)",
+          "App timers on social media (20 min/platform/session); 10 PM digital cutoff (70% compliance)",
+          "Zoom for remote research collaboration",
+          "Large-format printing for generative art pieces"
+        ]
+      },
+      "unresolved_or_ambiguous": {
+        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "items": [
+          {
+            "content": "Seed data references 'Portland street-art-rich neighborhoods' as a travel interest, but this never surfaced in the interview",
+            "candidate_owner": "drop",
+            "reason_unresolved": "No interview evidence; seed narrative only"
+          },
+          {
+            "content": "Seed data mentions 'Lake Tahoe weekend getaways' but this was not discussed in interview responses",
+            "candidate_owner": "drop",
+            "reason_unresolved": "No interview evidence; seed narrative only"
+          },
+          {
+            "content": "Seed data references 'aji amarillo-spiced pork' and 'quinoa-infused empanadas' as specific culinary items, but interview only discussed empanadas and arepas generically",
+            "candidate_owner": "drop",
+            "reason_unresolved": "Partially covered in interview but specific recipes not mentioned"
+          },
+          {
+            "content": "Exact nature of religious identification left deliberately behavioral per protocol rules; persona attends Mass occasionally and maintains cultural rituals but declined to name a specific religion label in Q94",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Behavioral pattern clearly indicates Catholic upbringing and ongoing cultural practice, but explicit label withheld per behaviors-never-labels rule"
+          }
+        ]
+      }
+    }
+  }
+}

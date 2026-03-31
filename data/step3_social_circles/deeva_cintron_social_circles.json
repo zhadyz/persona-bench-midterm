@@ -1,0 +1,198 @@
+{
+  "social_circle_metadata": {
+    "participant_id": "f2f5dbaf4d3d43f68adeb7f318afa3a2",
+    "participant_name": "Deeva Cintron",
+    "generation_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
+  "social_circle": [
+    {
+      "name": "Harold Cintron",
+      "relationship": "husband",
+      "demographics": {
+        "age": 87,
+        "gender": "Male",
+        "occupation": "Retired (Ford Motor Company assembly/production worker, UAW member)",
+        "location": "Saline, MI",
+        "education": "High school diploma"
+      },
+      "background": {
+        "how_they_met": "Met at a church social in 1961 in their hometown area near Tecumseh, Michigan. Married in 1962.",
+        "years_known": 65,
+        "why_close": "Sixty-four-year marriage built on complementary roles, shared values of thrift and self-reliance, and deep mutual dependence. Harold is the steady, quiet counterpart to Deeva's organized, detail-oriented nature. They share a home, all meals, and an evening routine. As the last of their generation in both families, they are each other's primary anchor against the losses of aging."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["quiet and steady", "practical and hands-on", "emotionally reserved", "trusting of Deeva's judgment", "loyal"],
+        "interests": ["Detroit Tigers baseball", "garage workshop and small carpentry projects", "yard maintenance and home repairs", "watching evening ball games"],
+        "communication_style": "Very few words -- Harold communicates through actions rather than conversation. Says things like 'Sit down, Deeva' when she's overdoing it. Does not initiate long discussions about feelings. Would text in short, functional sentences if he texted at all (he does not). Prefers phone calls, and even those are brief. His style is warm but laconic -- a nod, a shared silence in the evening, heating up soup when Deeva is sick."
+      },
+      "shared_activities": [
+        "Daily meals together (breakfast, lunch at home, supper at 5 PM sharp)",
+        "Evening routine: Harold watches ball games in his recliner while Deeva quilts or does crosswords in her chair",
+        "Sunday church services together, followed by a larger lunch at home",
+        "Joint medical appointment coordination and pill management",
+        "Shared household responsibilities (Deeva inside, Harold outside)",
+        "Holiday family gatherings hosted at their home"
+      ],
+      "communication_frequency": "constant (cohabitating; together all day, every day)",
+      "recent_text_topics": [
+        "Harold does not text. Their communication is entirely in-person and continuous throughout each day -- coordinating meals, discussing the day's schedule from the kitchen wall calendar, Harold reminding Deeva to rest when her knees are bad",
+        "Recent recurring conversations: the property tax increase and how to absorb it, whether the garden beds need repair before spring planting, scheduling Harold's next follow-up appointment for his heart",
+        "Ongoing gentle negotiation about physical limitations: Harold's hearing loss requiring Deeva to speak louder, Deeva's knee pain limiting stair trips, mutual decisions about not driving at night"
+      ],
+      "evidence_from_interview": "Q05: 'Harold is still here with me, thank the Lord. We've been married sixty-four years now. He's eighty-seven, moves a little slower than he used to, but he's still sharp.' Q11: 'It's just Harold and me, the two of us... We come together for meals, for the evening, for church on Sundays.' Q15: Deeva describes their shared daily routine in detail. Q18: 'We lean on each other. When my knees are bad, he heats up the leftovers. When his back acts up, I handle his share of the chores.' Q35: Harold's heart scare five years ago and Deeva's role managing his recovery. Q84: 'Harold and I have been married since 1962 -- sixty-four years this summer. He's the only man I've ever been with.'"
+    },
+    {
+      "name": "Patricia Cintron",
+      "relationship": "daughter (youngest child)",
+      "demographics": {
+        "age": 56,
+        "gender": "Female",
+        "occupation": "Working professional (specific field not stated; described as organized and dependable)",
+        "location": "Ypsilanti, MI",
+        "education": "Bachelor's degree"
+      },
+      "background": {
+        "how_they_met": "Born to Deeva and Harold; youngest of three children and only daughter. Left the family home in 1992, the last child to move out.",
+        "years_known": 56,
+        "why_close": "Patricia is described as the child most like Deeva -- organized, list-making, dependable. She is the primary caregiver-support figure, visiting twice a week, driving Deeva to doctor's appointments, picking up groceries and prescriptions, helping with technology setup, and serving as an emotional check-in even when Deeva resists. She learned quilting from Deeva and they bake together. The closeness is rooted in both shared personality traits and Patricia's physical proximity (Ypsilanti is about 15 minutes from Saline)."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["organized and dependable", "nurturing but respectful of boundaries", "worrier", "proactive problem-solver", "takes after Deeva in temperament"],
+        "interests": ["quilting (learned from Deeva, though less patient with detailed patterns)", "baking", "reading about social issues", "family coordination and caregiving"],
+        "communication_style": "Texts in complete, clear sentences. Checks in frequently -- the kind of person who sends a quick 'How are you feeling today, Mom?' text or calls to confirm plans. Practical and direct but warm. Would leave voice messages if Deeva didn't pick up. Occasionally sends links to articles or medication price comparisons she looked up online. Uses emojis sparingly -- maybe a heart or a smiley face."
+      },
+      "shared_activities": [
+        "Tuesday afternoon visits: errands, doctor's appointments, prescription pickups",
+        "Saturday morning visits: baking together, quilting projects, general companionship",
+        "Occasional dinners at the local diner",
+        "Holiday meal planning and cooking together",
+        "Patricia drove Deeva's technology adoption: set up Facebook, taught video calls, printed medication charts",
+        "Planning a road trip to the National Quilt Museum in Paducah, Kentucky"
+      ],
+      "communication_frequency": "4-5 times per week (2 in-person visits plus phone calls and likely texts between visits)",
+      "recent_text_topics": [
+        "Coordinating this week's grocery list and whether Deeva needs a ride to Ann Arbor for Dr. Hendricks",
+        "Planning the spring garden: whether the raised beds need new soil and when to start seedlings indoors",
+        "The planned road trip to the National Quilt Museum -- Patricia researching routes and accessible hotels",
+        "Patricia gently checking in on Deeva's knee pain after a cold snap, and reminding her not to skip appointments to 'avoid being a bother'",
+        "Shared concern about rising property taxes and medication costs; Patricia looked up a pharmacy discount comparison online"
+      ],
+      "evidence_from_interview": "Q05: 'Our daughter, Patricia, she's fifty-six and lives in Ypsilanti. She's the one who checks in on me the most -- she'll stop by twice a week, sometimes more. She worries.' Q05 follow-up: 'Patricia helped me set up video calls on the computer... Patricia comes by Tuesday afternoons and Saturday mornings. On Tuesdays she'll help me with anything I need -- a ride to the doctor, picking up a prescription.' Q04: 'I told all three of my kids, finish your degree before you make any big decisions. My daughter listened -- she got her bachelor's.' Q19: 'Patricia is the most like me. She keeps a schedule for her family, makes lists, plans ahead.' Q33: 'Patricia came and stayed with us for a few days during the worst of it' (chest illness). Q36: Patricia got upset when Deeva postponed appointments to avoid being a bother. Q44: Deeva hid tears from Patricia during illness. Q108: 'Patricia said she'd drive me down there' (National Quilt Museum trip)."
+    },
+    {
+      "name": "Dorothy Krause",
+      "relationship": "closest friend (bridge partner, neighbor, walking companion)",
+      "demographics": {
+        "age": 82,
+        "gender": "Female",
+        "occupation": "Retired (likely former office or service worker; inferred from her organized nature and comfort with Deeva's world)",
+        "location": "Saline, MI (three streets from Deeva)",
+        "education": "High school diploma or some college (inferred from peer group and generation)"
+      },
+      "background": {
+        "how_they_met": "Met through the Saline community after Deeva moved there in 1978 -- likely through church, neighborhood proximity, or the bridge group that formed approximately 20 years ago. Dorothy lives three streets over, making her the closest non-family person geographically.",
+        "years_known": 20,
+        "why_close": "Dorothy is the sole person outside family to whom Deeva will disclose emotional vulnerability. When Deeva says she's 'having a rough week,' Dorothy responds not with probing questions but with quiet presence -- pouring another cup of coffee. During Harold's heart scare, Dorothy noticed Deeva wasn't eating and brought meals. This style of unspoken, practical care matches Deeva's own emotional language perfectly. They share the bridge table, the walking trail, and a mutual understanding of what it means to age in a small town."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["perceptive and quietly supportive", "good listener who doesn't push", "socially warm but not intrusive", "dependable", "pragmatic"],
+        "interests": ["bridge (20-year member of the Thursday group)", "walking on the library trail", "community involvement in Saline", "cooking and baking (brings food to friends in need)"],
+        "communication_style": "Speaks warmly and directly but knows when to be silent. The kind of friend who notices you've lost weight before you mention it. Would call on the phone rather than text -- her generation's preference. If she did text, it would be short and practical: 'Walking tomorrow? 8 am.' Comfortable with companionable silence. Not one for dramatic emotional displays but deeply loyal."
+      },
+      "shared_activities": [
+        "Thursday afternoon bridge game (20-year tradition, rotating homes with Helen and Margaret)",
+        "Walking together on the trail behind the library (part of the senior walking club, Tuesdays and Thursdays)",
+        "Occasional private walks just the two of them on the library path",
+        "Coffee and conversation during and after bridge games",
+        "Mutual support during health crises (Dorothy brought meals during Harold's scare; called daily during Deeva's chest illness)"
+      ],
+      "communication_frequency": "3-4 times per week (bridge on Thursday, walking club Tuesdays and Thursdays, plus phone calls)",
+      "recent_text_topics": [
+        "Dorothy likely communicates by phone rather than text. Recent phone topics: checking in after Deeva's recovery from the chest illness last winter and making sure she's back to full strength",
+        "Coordinating this Thursday's bridge hosting rotation -- whose turn it is, what to bake, whether Helen is bringing lemon bars",
+        "A quiet conversation about the rising cost of groceries and medications -- Dorothy and Deeva share the experience of fixed-income budgeting without making it dramatic",
+        "Brief mentions of grandchildren's lives and milestones; Dorothy may have grandchildren of similar ages",
+        "Mutually agreed avoidance of political topics after the bridge group's 'no politics' rule, though they privately discussed race and policing 'once or twice' and agreed it's sad that people are treated differently"
+      ],
+      "evidence_from_interview": "Q07: 'Dorothy is my closest friend outside the family. She lives three streets over and we walk together sometimes on the path behind the library.' Q23: 'I talk things over with Harold and sometimes with Dorothy, though we don't always agree.' Q26: 'Dorothy and I talked about it privately once or twice, and we both agreed it's sad that people are treated differently because of how they look.' Q33 follow-up: 'Dorothy called every day to check in' during Deeva's three-week chest illness. Q35 follow-up: 'Dorothy noticed and brought me meals a few times' during Harold's heart scare. Q43: 'Dorothy is the one friend I might say something to, like, \"I'm having a rough week,\" and she'll just nod and pour me another cup of coffee. That's enough.' Q49: 'If I need support, I call Patricia or Dorothy.'"
+    },
+    {
+      "name": "Robert Cintron",
+      "relationship": "eldest son",
+      "demographics": {
+        "age": 62,
+        "gender": "Male",
+        "occupation": "Working professional (specific field not stated; physically capable and available for hands-on help)",
+        "location": "Ann Arbor, MI (approximately 20 minutes from Saline)",
+        "education": "Did not complete a four-year degree (inferred: Deeva noted 'the boys each did things their own way' in contrast to Patricia finishing her bachelor's)"
+      },
+      "background": {
+        "how_they_met": "Born to Deeva and Harold; oldest of three children. Played baseball as a kid in Saline schools.",
+        "years_known": 62,
+        "why_close": "Robert is the practical-support son. He lives closest to his parents (20 minutes in Ann Arbor), brings groceries, mows the lawn, cleared the driveway in winter, did the labor on the roof repair for free, and split Harold's unexpected medical costs with Patricia. He is less emotionally demonstrative than Patricia -- Deeva describes him as keeping 'things close to the chest, like his father' -- but his steady physical presence is a critical lifeline for the aging couple's ability to remain in their home."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["quiet and dependable like Harold", "physically hands-on and capable", "keeps emotions to himself", "generous with time and labor", "relaxed compared to Deeva and Patricia"],
+        "interests": ["home repair and maintenance", "outdoor work (mowing, snow removal, roof repair)", "family dinners (values them, per Deeva)", "likely sports given his baseball background"],
+        "communication_style": "Probably texts in short, practical messages: 'Coming by Saturday, need anything from the store?' Doesn't initiate long emotional conversations. Shows care through actions -- showing up with groceries, fixing things, shoveling the driveway -- rather than words. Phone calls would be brief and to the point. More like Harold than Deeva in communication style."
+      },
+      "shared_activities": [
+        "Robert brings groceries and supplies on visits (multiple times per month)",
+        "Lawn mowing and yard maintenance at parents' house",
+        "Snow removal from driveway in winter",
+        "Home repair work (built raised garden beds ~10 years ago, patched the roof last summer)",
+        "Holiday family gatherings at the Cintron home",
+        "Occasional help with Harold's garage projects and heavier tasks"
+      ],
+      "communication_frequency": "2-3 times per week (a mix of in-person visits and brief phone calls or texts to coordinate)",
+      "recent_text_topics": [
+        "Coordinating this week's grocery run: what Deeva and Harold need from the store",
+        "Whether the raised garden beds need repair or new soil before spring planting season",
+        "The property tax increase -- Robert likely offered to help cover the difference, which Deeva would have declined",
+        "Scheduling a time to check the gutters and do seasonal maintenance on the house before warmer weather",
+        "Brief updates about his own children and family; Deeva asking after the grandchildren's activities"
+      ],
+      "evidence_from_interview": "Q05: 'Our oldest boy, Robert, he's sixty-two. He lives over in Ann Arbor, about twenty minutes away, so we see him fairly often. He brings groceries sometimes or helps Harold with things around the house.' Q10: 'Robert comes by to clear the driveway, or we hire a neighborhood kid.' Q18: Harold 'used to do all the yard work, but now Robert mows the lawn.' Q40: 'Robert and Patricia split it between them without us asking' (Harold's unexpected medical costs). Q46: 'Robert keeps things close to the chest, like his father.' Q58: 'Robert helped with the labor on the roof, which saved us quite a bit.' Q60: The roof repair cost $800 after Robert did the labor for free. Q19: 'Robert is more relaxed, but he still values family dinners, which makes me happy.'"
+    },
+    {
+      "name": "Linda Farrell",
+      "relationship": "volunteer partner and community contact (senior center finance work)",
+      "demographics": {
+        "age": 68,
+        "gender": "Female",
+        "occupation": "Senior center coordinator or administrator (manages the computer-based books alongside Deeva's paper ledger)",
+        "location": "Saline, MI",
+        "education": "Associate's degree or bachelor's degree (inferred from her role managing computerized financial records at the senior center)"
+      },
+      "background": {
+        "how_they_met": "Met approximately 8 years ago when Deeva began volunteering at the Saline Senior Center's finance program. Linda was already coordinating the center's financial operations and needed a volunteer with strong bookkeeping skills. They were paired together and have worked side-by-side every Friday since.",
+        "years_known": 8,
+        "why_close": "They share a deep appreciation for precision, accountability, and getting the numbers right. Deeva describes Linda as 'organized like me,' which is the highest compliment Deeva gives. Their bond is built on professional-grade mutual respect: Linda trusts Deeva's handwritten ledger as the authoritative check against the computer records. Linda jokes that Deeva is 'the strictest auditor the senior center has ever had,' and Deeva takes that as a badge of honor. Their friendship is structured around shared purpose rather than emotional intimacy -- a work friendship that gives Deeva a sense of competence and belonging outside the family circle."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["organized and detail-oriented", "competent with technology", "warm but professional", "good-humored", "respectful of experience and tradition"],
+        "interests": ["community service and nonprofit administration", "financial management and budgeting", "senior center programming and event planning", "likely involved in other Saline community organizations"],
+        "communication_style": "Professional and friendly -- the kind of person who sends a clear, well-organized email or text. Probably texts Deeva occasionally about Friday logistics: 'Got the donation receipts from Tuesday, will have them ready for you.' Comfortable bridging the technology gap -- she maintains the computer records while respecting Deeva's paper system. Uses humor to keep the working relationship light."
+      },
+      "shared_activities": [
+        "Friday morning finance volunteer work at the Saline Senior Center (2-3 hours weekly)",
+        "Reconciling donations, tracking expenses, balancing the checking account",
+        "Preparing budgets for senior center events (holiday luncheons, community gatherings)",
+        "Coordinating the annual financial review of senior center operations",
+        "Occasional conversation over coffee at the senior center between tasks"
+      ],
+      "communication_frequency": "weekly (every Friday in person at the senior center, plus occasional phone calls or messages to coordinate between sessions)",
+      "recent_text_topics": [
+        "Logistics for an upcoming senior center event: budget for supplies, who is handling the food order, confirming the venue setup",
+        "A batch of donation receipts that came in mid-week that need to be reconciled on Friday",
+        "Linda possibly forwarding a notice about changes to the senior center's public funding or a grant application deadline",
+        "Light banter about Deeva's meticulous ledger versus Linda's spreadsheet -- a running joke between them about analog vs. digital",
+        "Coordinating coverage when Deeva missed three weeks of Friday sessions during her chest illness last winter"
+      ],
+      "evidence_from_interview": "Q07: 'There's a woman named Linda who runs the senior center finance volunteer group -- she and I work together on the budgets. We get along well because she's organized like me.' Q16: 'When I go in on Fridays, I sit down with the ledger -- yes, I still keep a paper ledger, though Linda has it on the computer too -- and I reconcile any donations that came in during the week.' Q16: 'Linda jokes that I'm the strictest auditor the senior center has ever had.' Q77: 'At the senior center, Linda is my main partner and we get along wonderfully -- she appreciates my thoroughness.' Deeva has volunteered at the senior center for 8 years (Q16 follow-up), placing Linda as a consistent presence in her weekly routine for that duration."
+    }
+  ]
+}

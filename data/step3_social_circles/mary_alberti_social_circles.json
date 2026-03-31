@@ -1,0 +1,194 @@
+{
+  "social_circle_metadata": {
+    "participant_id": "e7c0574639a244c8972c92aab9501035",
+    "participant_name": "Mary Alberti",
+    "generation_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
+  "social_circle": [
+    {
+      "name": "Jessica Kowalski",
+      "relationship": "best friend (since high school)",
+      "demographics": {
+        "age": 28,
+        "gender": "Female",
+        "occupation": "Dental hygienist",
+        "location": "Madison, WI",
+        "education": "Associate's degree in dental hygiene"
+      },
+      "background": {
+        "how_they_met": "Met at Madison East High School, class of 2015. Were in the same grade and became close during sophomore or junior year. Stayed friends continuously through the decade since graduation while many of their high school peers moved away.",
+        "years_known": 14,
+        "why_close": "Jess is the single person Mary can 'totally be herself with' (Q07). They share a love of Madison's food and craft beer scene, have compatible but complementary personalities (Jess is more outgoing and politically vocal; Mary is more reserved and routine-driven), and have maintained weekly in-person contact for years. Jess serves as Mary's primary emotional support system, political information intermediary, and social anchor. Their bond is deepened by shared socioeconomic roots -- both working-class east side Madison kids who stayed local."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["outgoing and socially confident", "politically engaged and opinionated", "empathetic listener who knows when to just be present", "more spontaneous than Mary but still reliable"],
+        "interests": ["craft beer and Madison's food scene", "local politics and social justice", "dental health and wellness", "farmers market visits", "sending articles and news to friends"],
+        "communication_style": "Texts in full sentences with occasional exclamation points. Sends articles and news links frequently. Will send a funny meme or food photo to lighten the mood. Calls or comes over in person when things are serious. Does not use excessive slang but is warm and direct. Comfortable initiating emotional conversations that Mary might avoid on her own."
+      },
+      "shared_activities": [
+        "Weekly craft brewery tastings around Madison (trying flights, splitting cheese curds and pretzels)",
+        "Cooking dinner at Mary's apartment (Jess brings wine, Mary cooks)",
+        "Visiting the Dane County Farmers Market on Capitol Square on Saturday mornings",
+        "Occasional overnight stays (Jess crashes on Mary's couch about once a month after late tastings)",
+        "Sharing and discussing news articles, especially about local politics and workers' rights"
+      ],
+      "communication_frequency": "daily texts, weekly in-person hangouts, phone calls as needed for emotional support",
+      "recent_text_topics": [
+        "Mary's shift supervisor promotion timeline and frustration with management dragging their feet (ongoing since Mary has been documenting her contributions in her journal)",
+        "Spring garden plans -- what Mary is planting this season, when the community garden plots open",
+        "Madison College enrollment logistics -- Jess encouraging Mary to apply, discussing schedule flexibility",
+        "Craft brewery recommendations and planning their next Saturday tasting outing",
+        "Checking in on Mary's mood after the winter low-energy stretch; Jess gently suggesting therapy options with sliding-scale fees"
+      ],
+      "evidence_from_interview": "Q07: Mary names Jess as her best friend from high school, a dental hygienist who lives about ten minutes away. They get together at least once a week for craft brewery tastings or cooking dinner at Mary's place. 'She's the one person I can totally be myself with.' Q07 follow-up: Details their go-to activities (craft brewery flights, cheese curds, farmers market, winter dinners with wine). Q13: 'Jess crashes on my couch once in a while if we've been out late at a tasting.' Q23 follow-up: 'Jess is more into politics than I am, so she'll send me articles or tell me what's going on.' Q29: 'I've talked to Jess about it [race/policing issues] and I've listened to what my coworkers have to say.' Q30: 'Jess is really active about it. She posts stuff on social media, she's gone to a couple of local demonstrations. She's the one who sends me articles and gets me thinking about it.' Q30 follow-up: 'She knows I'm not as vocal as she is and she respects that.' Q38: Jess and Mary do craft brew tastings together; Jess also shared marijuana gummies once (Q39). Q43 follow-up: 'I called Jess one night and kind of unloaded. She was great about it -- she came over and we just watched a movie and ate popcorn. She didn't try to fix it, she just listened.' Q45 follow-up: 'Jess has mentioned it [therapy], actually. She's said there are people you can talk to, and some places do sliding scale fees.' Q49: 'If I need support, I call Jess or my mom.' Q95 follow-up: Jess organized a minimum-wage rally that Mary almost attended."
+    },
+    {
+      "name": "Linda Alberti",
+      "relationship": "mother",
+      "demographics": {
+        "age": 61,
+        "gender": "Female",
+        "occupation": "Part-time bookkeeper at a dental practice",
+        "location": "Madison, WI (east side)",
+        "education": "Associate's degree in accounting from a community college"
+      },
+      "background": {
+        "how_they_met": "Mother and daughter. Linda raised Mary in a two-bedroom house on the east side of Madison along with Mary's brother Marco.",
+        "years_known": 28,
+        "why_close": "Linda is Mary's daily touchstone and emotional anchor. They talk on the phone almost every day, even if briefly. Linda taught Mary the financial meticulousness (receipt-checking, budgeting) that now defines Mary's approach to life. Linda is Mary's 'biggest cheerleader' about the diner dream and actively sends her articles about people who opened restaurants later in life. They share the Italian-American cooking tradition and Sunday dinner ritual. Linda also provides practical support -- bringing food when Mary was sick, encouraging her to look into benefits and education options."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["meticulous and financially careful (origin of Mary's receipt-checking habit)", "quietly resilient and hardworking", "nurturing but practical -- shows love through action rather than sentiment", "worried about Mary being alone but supportive of her ambitions", "showing signs of exhaustion from caregiving burden for husband Tony"],
+        "interests": ["cooking (Italian-American family recipes, lasagna for Sunday dinners)", "managing household finances and negotiating medical bills", "following local sales and grocery deals", "church attendance at St. Maria Goretti", "reading articles about small business success stories"],
+        "communication_style": "Calls on her lunch break or expects Mary's call after her shift. Keeps conversations practical and warm -- what they're cooking, grocery sales, how Tony is doing. Texts occasionally with links to articles about restaurant owners. Uses proper grammar in texts, no slang. Expresses worry indirectly ('Are you dating anyone?'). Does not overshare emotions but her tiredness is starting to show."
+      },
+      "shared_activities": [
+        "Near-daily phone calls (usually during Linda's lunch break or after Mary's shift)",
+        "Sunday dinners at Linda's house (Linda makes lasagna or other Italian dishes)",
+        "Mary stops by the parents' house 2-3 times per week for coffee or to help with errands",
+        "Grocery shopping discussions and coupon/deal sharing",
+        "Holiday cooking together (Christmas dinner, Thanksgiving)",
+        "Mary picks up Tony's pharmacy refills and helps with yard work Linda can't manage alone"
+      ],
+      "communication_frequency": "daily phone calls (5-10 minutes), in-person visits 2-3 times per week",
+      "recent_text_topics": [
+        "Mary's Madison College enrollment plans -- Linda is excited and encouraging her to apply for financial aid",
+        "Tony's health -- how he's doing with his back, whether he's doing his walks, frustration with his stubbornness about leaving the house",
+        "Grocery deals at Hy-Vee and Pick 'n Save, what's on sale this week",
+        "An article Linda found about a woman who opened a diner at age 40 after working in fast food",
+        "Planning upcoming Easter/spring family dinner -- what to cook, whether Marco is coming home"
+      ],
+      "evidence_from_interview": "Q05: 'My mom, Linda, she's sixty-one now. She's still working part time doing bookkeeping. She's the one who taught me to be careful with money, to check every receipt. We talk on the phone almost every day, even if it's just for five minutes.' Q05 follow-up: 'She calls me on her lunch break usually, or I'll call her after my shift. We talk about normal stuff -- what we're cooking, what's on sale at the grocery store, how dad's doing. She worries about me being alone, keeps asking if I'm dating anyone. But she's also my biggest cheerleader about the diner idea. She'll text me articles about people who opened restaurants later in life.' Q02 follow-up: Linda was upset Mary didn't go to college but 'got kind of excited' when Mary mentioned her Madison College plan. Q17 follow-up: Mary checks on parents 2-3 times per week, picks up dad's pharmacy refills, stops by for coffee with mom. Q33 follow-up: 'My mom brought me chicken broth and crackers' when Mary was sick. Q43 follow-up: 'I also told my mom I was feeling kind of blah, and she said, \"It's February, everybody feels like that.\"' Q46: Mary notes Linda is 'tired, which is unlike her' from managing bills, insurance, and working part time. Q80: Linda has mentioned to Mary 'there's no shame in getting help' regarding government assistance. Q101: Linda has an associate's degree in accounting. Q103: She has worked at the same dental practice for about 25 years doing billing, insurance claims, payroll."
+    },
+    {
+      "name": "Tony Alberti",
+      "relationship": "father",
+      "demographics": {
+        "age": 63,
+        "gender": "Male",
+        "occupation": "Retired machinist (disability-related early retirement)",
+        "location": "Madison, WI (east side)",
+        "education": "High school diploma"
+      },
+      "background": {
+        "how_they_met": "Father and daughter. Tony raised Mary in the same east side Madison house where he still lives with Linda.",
+        "years_known": 28,
+        "why_close": "Tony and Mary share a quieter bond than Mary and Linda, expressed through shared activities rather than frequent conversation. Their primary ritual is watching Packers games together on Sundays during football season. Tony's pragmatic values ('Keep your head down and work hard,' 'You can always go later, but the bills are due now') deeply shaped Mary's worldview and her decision to skip college and enter the workforce. His back injury and forced retirement are a central emotional concern for Mary and directly motivate her desire to move into management rather than stay in physical labor long-term. Mary provides practical caregiving support -- pharmacy runs, yard work he can no longer do."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["quiet, stoic, and proud", "pragmatic and practical -- actions over words", "stubborn about accepting help or showing pain", "frustrated by forced retirement and loss of identity as a worker", "old-school values about self-reliance and toughing things out"],
+        "interests": ["watching Green Bay Packers, Milwaukee Brewers, and other sports on TV", "yard work (limited by back pain)", "sitting in his recliner with a heating pad", "following the news quietly"],
+        "communication_style": "Man of few words. Communicates affection through shared activity (watching the game together) rather than verbal expression. Texts rarely and briefly -- more likely to have Linda relay a message. When he does speak, it's direct and practical. Does not discuss emotions, politics, or personal struggles openly. Mary reads his pain from body language rather than his words."
+      },
+      "shared_activities": [
+        "Watching Green Bay Packers games together on Sundays during football season",
+        "Mary helping with yard work and physical tasks Tony can no longer manage",
+        "Mary picking up his pharmacy refills",
+        "Sunday family dinners at the parents' house",
+        "Occasional Brewers game discussions (though Marco is his primary baseball debate partner)"
+      ],
+      "communication_frequency": "2-3 times per week in person (when Mary visits the house); limited direct texting or calling -- communication often mediated through Linda",
+      "recent_text_topics": [
+        "Packers off-season news and draft speculation (their primary shared conversational topic)",
+        "Whether Tony is doing his daily walks as the physical therapist recommended",
+        "Yard work logistics -- what needs doing this spring and what Mary can help with on her day off",
+        "Brief check-ins relayed through Linda about how Mary's work is going"
+      ],
+      "evidence_from_interview": "Q05: 'My dad, Tony, he's sixty-three. He retired from the machine shop a couple years ago because of his back. He's home a lot now, tends to the yard, watches a lot of TV. He's a quiet guy, but we're close in our own way. We watch Packers games together on Sundays during the season -- that's kind of our thing.' Q02 follow-up: When Mary decided not to go to college, 'my dad understood. He's practical like that. He was like, \"You can always go later, but the bills are due now.\"' Q02 follow-up: Tony's back injury required extensive physical therapy, causing financial strain that directly shaped Mary's financial habits. Q17 follow-up: Mary helps parents 2-3 times per week -- 'My dad doesn't get around great with his back, so I'll pick up his refills at the pharmacy or help him with yard work he can't bend down for.' Q22: 'My dad always said, \"Keep your head down and work hard,\" and that's what we do.' Q35: Tony's back condition described in detail -- over 30 years at machine shop, chronic pain, can't mow lawn or lift heavy items, uses heating pad and OTC pain meds. Q35 follow-up: 'He does some light stretching that the physical therapist taught him. He's supposed to walk every day but he doesn't always do it.' Q46: 'My dad, he's hard to read, but I think he's frustrated. He was a guy who worked his whole life and now he's sitting around.' Q100: Tony has a high school diploma. Q106: He was a machinist operating CNC machines and lathes, making precision metal parts."
+    },
+    {
+      "name": "DeShawn Mitchell",
+      "relationship": "coworker at the fast food restaurant",
+      "demographics": {
+        "age": 24,
+        "gender": "Male",
+        "occupation": "Fast food crew member (same restaurant as Mary)",
+        "location": "Madison, WI",
+        "education": "Some college (did not complete degree)"
+      },
+      "background": {
+        "how_they_met": "They work at the same fast food restaurant in Madison. DeShawn likely started within the last two to three years, overlapping with Mary's tenure at the current location. They bonded during shifts through the shared grind of food service work.",
+        "years_known": 2,
+        "why_close": "DeShawn is the coworker Mary singled out by name when discussing meaningful workplace conversations. Their relationship is significant because DeShawn's candid sharing of his experiences as a Black man in Madison -- specifically his fear of police during walks home from closing shifts -- produced a genuine internal shift in Mary's understanding of racial inequality (Q26-Q27). While Mary describes her coworker relationships as 'friendly but not hanging out after work,' DeShawn occupies a distinct role as someone whose perspective has broadened her worldview. They share the daily camaraderie of managing rush hours together and the mutual respect of reliable coworkers in a demanding environment."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["open and candid about his experiences", "hardworking and dependable on shift", "socially aware and willing to have difficult conversations", "good-natured and collegial", "younger energy that balances the routine of food service work"],
+        "interests": ["music (likely hip-hop and contemporary genres)", "gaming or sports in off-hours", "staying connected with friends in Madison", "possibly pursuing further education or career advancement"],
+        "communication_style": "More casual and direct in texts. Uses some slang and abbreviations. Communicates mostly via text about shift-related topics -- schedule swaps, heads-up about busy days, quick jokes to break the monotony. Comfortable sharing personal experiences in conversation but does not overshare via text. Might send a funny meme or reaction GIF about work situations."
+      },
+      "shared_activities": [
+        "Working shifts together at the fast food restaurant, especially during rush hours",
+        "Break-room conversations during 15-minute breaks",
+        "Coordinating on inventory and line management during busy periods",
+        "Occasional shift-swap negotiations via text"
+      ],
+      "communication_frequency": "3-5 times per week via text (mostly work-related: schedule coordination, shift updates); in-person daily or near-daily during overlapping shifts",
+      "recent_text_topics": [
+        "Schedule changes and shift swaps -- checking if the other can cover or trade a shift",
+        "Venting about difficult customers or hectic rush-hour shifts",
+        "Mary's shift supervisor pursuit -- DeShawn likely knows about it and is supportive",
+        "Brief everyday check-ins before shifts: 'how busy is it today' type messages"
+      ],
+      "evidence_from_interview": "Q26 follow-up: 'There's this guy I work with, DeShawn, and he told me once that when he walks home from a closing shift, he gets nervous if a cop car slows down near him. And I was like, I've never once felt that way walking to my car. That really stuck with me. It's not that I didn't know stuff like that happened, but hearing it from someone I work with every day made it real, you know?' Q07: Mary mentions being 'friendly with a couple of my coworkers' but not hanging out outside work. Q26: 'At work, I've got coworkers from all different backgrounds, and some of them have told me about experiences that are way different from mine -- getting followed around in stores, getting stopped for no reason.' Q77: 'My coworkers are fine -- there's a good mix of people. I get along with most of them. We're not hanging out after work, but we've got good teamwork on shift.' NOTE: DeShawn is the only coworker Mary names explicitly across the entire 109-question interview, indicating he holds a distinct place in her workplace social world. His last name and some demographic details are inferred to create a plausible profile consistent with his described experiences and Madison's demographics."
+    },
+    {
+      "name": "Priya Venkatesh",
+      "relationship": "running club friend",
+      "demographics": {
+        "age": 32,
+        "gender": "Female",
+        "occupation": "Research associate at the University of Wisconsin-Madison",
+        "location": "Madison, WI (near campus)",
+        "education": "Master's degree in public health"
+      },
+      "background": {
+        "how_they_met": "Through the Madison Runners Club. Mary joined about two years ago after finding the group via a local Facebook post, and Priya was already a regular. They naturally fell into running next to each other during Saturday morning Lake Mendota loops and began chatting during runs.",
+        "years_known": 2,
+        "why_close": "Priya represents Mary's 'routine social thing' outside of family and Jess -- a friendship built on consistent shared physical activity rather than deep personal disclosure. They occupy the same pace tier in the running group and have developed an easy, comfortable rapport during Saturday runs. Priya brings a different perspective to Mary's life: she is college-educated, works in healthcare research, and comes from a different cultural background (Indian-American), broadening Mary's social exposure beyond her working-class Italian-American circle. Their friendship is still growing -- it is activity-based and not yet deeply personal, but the weekly consistency makes Priya one of the people Mary 'talks to most' in a given week."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["warm and approachable without being pushy", "disciplined about fitness routines (resonates with Mary's own discipline)", "intellectually curious but not condescending about education differences", "calm and steady presence during runs", "socially adaptable across different groups"],
+        "interests": ["running and fitness (trains for occasional half-marathons)", "public health and community wellness", "cooking (Indian cuisine -- has exchanged recipes with Mary)", "reading nonfiction", "exploring Madison's food scene"],
+        "communication_style": "Texts in complete, well-composed sentences. Friendly but not overly effusive. Sends occasional running-related links or weather updates before Saturday runs. Communication is mostly logistical and hobby-focused rather than deeply personal. May share a photo from a run or a new trail recommendation. Not a heavy social media user."
+      },
+      "shared_activities": [
+        "Saturday morning group runs with the Madison Runners Club around Lake Mendota (3-5 mile loops)",
+        "Pre- and post-run conversations about running, weather, upcoming races, and life updates",
+        "Occasional shared stretching after runs (both mindful of injury prevention)",
+        "Following each other in the Madison Runners Club Facebook group"
+      ],
+      "communication_frequency": "weekly in person (Saturday morning runs), occasional midweek texts about running plans or weather",
+      "recent_text_topics": [
+        "Saturday run logistics -- confirming meetup time, checking if the run is happening despite weather",
+        "Mary's knee soreness -- Priya may have offered stretching tips or suggested seeing a sports medicine clinic",
+        "Spring race calendar -- whether either of them is signing up for a local 5K or 10K",
+        "Recipe exchange -- Mary mentioned garden tomatoes or Italian dishes, Priya shared an Indian lentil recipe",
+        "General Madison happenings -- farmers market opening day, new trail conditions"
+      ],
+      "evidence_from_interview": "Q07: 'There's a group I run with -- the Madison Runners Club. I don't know everyone super well, but there are a few regulars I see on Saturday mornings when we do the Lake Mendota loop. There's this guy Dave and a woman named Priya who I always end up running next to. We chat about whatever during the run. It's nice having that routine social thing.' Q07 follow-up: 'I found them online, actually. I was already running on my own around the lake, and I saw a post about the Madison Runners Club on a local Facebook group. I showed up one Saturday and just kind of fell in with the group. That was about two years ago. I'm not the fastest, but I hold my own. I usually do three to five miles. It's good for my head, and it keeps me accountable because other people are expecting me to show up.' Q30: 'Most of my running club friends don't bring it up [politics] -- we talk about running, the weather, what races are coming up.' NOTE: Priya is named explicitly in Q07 as one of two running regulars Mary consistently runs alongside. Her last name, occupation, and some demographic details are inferred to create a plausible profile for a woman in Madison's running community near the UW campus. Her age, education, and cultural background are generated to fulfill the diversity constraint and reflect Madison's demographics (significant South Asian community connected to UW-Madison)."
+    }
+  ]
+}

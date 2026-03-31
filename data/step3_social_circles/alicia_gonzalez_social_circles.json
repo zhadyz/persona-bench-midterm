@@ -1,0 +1,199 @@
+{
+  "social_circle_metadata": {
+    "participant_id": "50f90a6f17de473f9ca15f00afdedf7a",
+    "participant_name": "Alicia Gonzalez",
+    "generation_date": "2026-03-30",
+    "model": "Claude Opus 4.6 (1M context)",
+    "method": "PersonaHub Persona-to-Persona (Ge et al., 2024)"
+  },
+
+  "social_circle": [
+    {
+      "name": "Rosa Gonzalez",
+      "relationship": "mother",
+      "demographics": {
+        "age": 57,
+        "gender": "Female",
+        "occupation": "Part-time babysitter and housekeeper (formerly daycare teaching assistant)",
+        "location": "Sacramento, CA",
+        "education": "Some college (early childhood education, incomplete degree, Colombia)"
+      },
+      "background": {
+        "how_they_met": "Mother-daughter; Rosa immigrated from Colombia with her husband Carlos before Alicia was born in Sacramento.",
+        "years_known": 29,
+        "why_close": "Rosa is the emotional center of the family. She instilled the bilingual, bicultural foundation that shapes Alicia's identity. Rosa encouraged Alicia to follow her passion for research over financial security ('Mija, you can always make more money, but you can't get back the years you spend doing something you don't love'). They share Colombian cultural practices -- cooking, music, church attendance -- and Rosa's daily phone calls are a cornerstone of Alicia's routine. Rosa also provided critical emotional support during the divorce and continues to be Alicia's primary family anchor."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["nurturing and emotionally expressive", "strong-willed and opinionated", "deeply community-oriented"],
+        "interests": ["Colombian cooking (arepas, empanadas, bandeja paisa)", "church volunteering at her Sacramento parish", "sewing circle with other Colombian women", "following news and politics (especially immigration policy)", "caring for family"],
+        "communication_style": "Calls rather than texts; prefers hearing Alicia's voice. Speaks in a warm, maternal register that mixes Spanish and English. Will open with a casual topic (what she is cooking) to check in emotionally. Picks up on vocal cues when Alicia is stressed ('You sound tired, mija'). Sends care packages with food and handwritten notes. Not a texter by nature, but will respond to family group chat messages with voice notes or brief replies."
+      },
+      "shared_activities": [
+        "Near-daily phone calls (sometimes substantial, sometimes just exchanging what each is cooking/doing)",
+        "In-person visits twice a month (Alicia drives to Sacramento or Rosa and Carlos come to Chico)",
+        "Holiday gatherings at the family home in Sacramento (Christmas with 25+ extended family)",
+        "Attending Spanish-language Mass together when Alicia visits",
+        "Cooking Colombian dishes together during visits",
+        "Family FaceTime calls with abuela in Colombia on Sundays"
+      ],
+      "communication_frequency": "daily",
+      "recent_text_topics": [
+        "Carlos's retirement planning -- ongoing family conversation about whether he can afford to retire at 62 given his knee problems and pension situation (Q05, Q35)",
+        "Alicia's upcoming Colombia trip -- Rosa is helping coordinate logistics for visiting abuela, who is 82 and whose health makes each visit feel more urgent (Q62)",
+        "Recipes and cooking -- Rosa recently shipped Alicia a cooler bag of food via someone heading to Chico; ongoing exchange of what they are each cooking (Q05, Q01)",
+        "Rosa's reluctance to schedule her own medical checkups -- Alicia has been pushing her to go to her annual physical (Q36)",
+        "Family group chat updates about cousin Sofia and tia Lucia in Sacramento"
+      ],
+      "evidence_from_interview": "Q05: 'My mom, Rosa, is 57, and she's the emotional center of everything. I talk to her on the phone almost every day -- sometimes it's a real conversation, sometimes it's just her telling me what she's cooking and me telling her about my day.' Q01: Saturday mornings described as 'the smell of arepas and coffee and my mom singing along.' Q02 follow-up: Rosa's pivotal career advice quoted directly. Q36: Alicia describes having to 'practically drag her to her annual physical.' Q45 follow-up: 'My mom notices everything. She can tell from my voice on the phone when something's off.' Q05 follow-up: Rosa ships food to Chico via the bus."
+    },
+    {
+      "name": "Diego Gonzalez",
+      "relationship": "younger brother",
+      "demographics": {
+        "age": 25,
+        "gender": "Male",
+        "occupation": "Music producer",
+        "location": "Los Angeles, CA",
+        "education": "Bachelor's degree (inferred from age and professional trajectory; field unspecified in interview)"
+      },
+      "background": {
+        "how_they_met": "Siblings; grew up together in the same Sacramento household.",
+        "years_known": 25,
+        "why_close": "Their relationship shifted during Alicia's divorce, when Diego drove up from LA three weekends in a row and called every day for two months straight (Q01 follow-up). This transformed them from a typical older-sister/younger-brother dynamic into an equal, mutual-support relationship. They bond over creative work -- his music production and her generative art -- and share a sense of humor expressed through midnight meme exchanges. Diego also went through his own breakup recently, and Alicia was there for him in return."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["warm but not verbally effusive about emotions", "creative and socially engaged", "loyal and action-oriented in showing care"],
+        "interests": ["music production (LA scene)", "social justice themes in music", "video games", "bad movies", "nightlife and social events in LA"],
+        "communication_style": "Texts constantly -- short, casual messages, memes, links to music he is working on or listening to. Not a phone-call initiator for long emotional conversations, but will pick up immediately when Alicia calls. Shows love through showing up (drove to Chico during the divorce) rather than saying the right thing. Sends memes at midnight as a running joke. Likely uses slang, emojis, and voice messages."
+      },
+      "shared_activities": [
+        "Daily texting and midnight meme exchanges",
+        "Phone calls several times per week",
+        "Diego visits Chico every couple of months (crashes on Alicia's couch)",
+        "Watching bad movies and playing video games together during visits",
+        "Bonding over creative projects -- sharing music demos and generative art experiments",
+        "Joint family calls and visits to parents in Sacramento",
+        "Planning the Colombia trip to visit abuela together"
+      ],
+      "communication_frequency": "daily",
+      "recent_text_topics": [
+        "Diego's music production work in LA -- sharing demos, discussing the creative process and industry challenges (Q01 follow-up, Q05)",
+        "Planning the family trip to Colombia to visit abuela before she gets much older (Q62)",
+        "Dad's retirement and knee problems -- Diego and Alicia have discussed chipping in financially when the time comes (Q05 follow-up)",
+        "Diego's recent breakup -- Alicia provided emotional support as he processed it, mirroring what he did for her during her divorce (Q46)",
+        "Social justice and BLM -- Diego attended several protests in LA and has been incorporating themes into his music; they discuss this regularly (Q30)"
+      ],
+      "evidence_from_interview": "Q01 follow-up: 'Diego was a lifesaver. He drove up from LA like three different weekends right after it happened. He's not a big talker about feelings, but he'd just show up with takeout and we'd watch bad movies and play video games... We're more like equals now.' Q05: 'We text every day and call a few times a week. He's the person who makes me laugh the hardest. We have this running thing where we send each other terrible memes at like midnight.' Q30: 'He's been very plugged in... He's also been incorporating themes of social justice into his music production work.' Q46: 'He went through a rough patch last year when a relationship ended.'"
+    },
+    {
+      "name": "Priya Kapoor",
+      "relationship": "best friend",
+      "demographics": {
+        "age": 30,
+        "gender": "Female",
+        "occupation": "Data engineer at a startup",
+        "location": "Chico, CA",
+        "education": "Bachelor's or Master's in Computer Science or related field (inferred from occupation as data engineer; not explicitly stated in interview)"
+      },
+      "background": {
+        "how_they_met": "They met at a hackathon in Chico three years ago and immediately connected over their shared experience of navigating immigrant family expectations while building tech careers (Q07).",
+        "years_known": 3,
+        "why_close": "Priya is Alicia's closest local friend and emotional confidante. They share the experience of being women of color in tech with immigrant family backgrounds (Priya is Indian American). Priya is the person Alicia calls when she is struggling emotionally, and Priya reciprocates -- she showed up at Alicia's door with soup during a five-day depressive episode (Q44). Priya hosts the biweekly board game nights that anchor Alicia's social life. She also organized a civil rights fundraiser at her workplace, showing shared civic values (Q30)."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["emotionally perceptive and proactive in offering support", "socially organized (hosts regular game nights)", "intellectually curious and civically engaged"],
+        "interests": ["board games (strategy games: Wingspan, Terraforming Mars, Catan)", "tech industry culture and startup life", "civil rights and social justice causes", "therapy and mental health advocacy"],
+        "communication_style": "Texts in full, thoughtful messages. Notices when Alicia goes quiet and reaches out proactively. Comfortable discussing emotions directly. Likely sends a mix of practical messages (game night logistics, food plans) and check-in messages. Has a partner (James), so some communications involve group planning. Sees a therapist and is open about it, which has influenced Alicia to consider therapy."
+      },
+      "shared_activities": [
+        "Board game nights every other Friday at Priya's place (with partner James, Marcus, and rotating others)",
+        "Mutual emotional support and long in-person conversations",
+        "Occasional sleepovers after late game nights (Q13)",
+        "Shared tech industry experiences and career discussions",
+        "Priya has stayed over at Alicia's apartment"
+      ],
+      "communication_frequency": "3-4x week",
+      "recent_text_topics": [
+        "Upcoming board game night logistics -- who is coming, what games to play, what food to bring (Q07)",
+        "Alicia's stress from the UC Davis collaboration and deadline pressures -- Priya is a sounding board for work frustrations (Q50)",
+        "Priya's encouragement for Alicia to try therapy -- Priya sees one and recommends it regularly (Q45)",
+        "Alicia's loneliness on quiet weekends -- Priya is one of the first people Alicia calls when feeling isolated (Q43 follow-up)",
+        "Planning and debriefing from social events, local happenings in Chico, and shared interests in civil rights organizing (Q30)"
+      ],
+      "evidence_from_interview": "Q07: 'My closest friend is Priya -- she's a data engineer at a startup in Chico. We met at a hackathon three years ago and just clicked. She's Indian American and we bond over the whole navigating immigrant family expectations while building a tech career thing.' Q44: 'Priya noticed I'd gone dark and showed up at my door with soup and just sat with me. That broke the spell. We talked for like three hours.' Q45: 'Priya sees one [a therapist] and swears by it.' Q30: 'My friend Priya has been really engaged too -- she organized a fundraiser through her workplace for a local civil rights organization.' Q13: 'Priya has stayed over after late game nights a couple times.' Q38 follow-up: 'Calling Diego or Priya when I needed to talk.'"
+    },
+    {
+      "name": "Tom Bridwell",
+      "relationship": "hiking buddy and older mentor figure",
+      "demographics": {
+        "age": 65,
+        "gender": "Male",
+        "occupation": "Retired (specific prior career not stated in interview; inferred as outdoor recreation or education-adjacent given deep trail knowledge)",
+        "location": "Chico, CA",
+        "education": "College degree (inferred from conversational sophistication and active intellectual engagement described in interview; not explicitly stated)"
+      },
+      "background": {
+        "how_they_met": "Alicia joined the Chico Outdoor Club shortly after her divorce, looking for activities to fill her weekends. Tom approached her on her first group hike and started talking about the wildflowers they were seeing. By the end of that hike, she felt like she had known him forever (Q07 follow-up).",
+        "years_known": 2,
+        "why_close": "Tom fills a unique role in Alicia's life as a non-family, non-peer source of calm companionship and outdoor knowledge. He is a 'trail encyclopedia' who knows every route in Butte County, and their Saturday hikes have become one of Alicia's primary decompression rituals. Tom is also a generationally and racially different voice in her circle (older, white, retired), which she values. He has asked Alicia genuine questions about race and her experiences as a Latina in tech, showing a willingness to listen and learn that she respects (Q30)."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["calm and conversational", "deeply knowledgeable about nature and local geography", "genuinely curious and open-minded despite generational differences"],
+        "interests": ["hiking and trail running in Butte County and Ishi Wilderness", "wildflowers, birding, and natural history", "local community events", "learning about perspectives different from his own"],
+        "communication_style": "Likely communicates primarily via text for logistical coordination (confirming Saturday hike times, trail conditions, weather). Speaks in an unhurried, descriptive style. Not a heavy social media user. Prefers in-person conversation during hikes. Probably sends straightforward, practical messages without much emoji or slang. May share nature photos or trail condition updates."
+      },
+      "shared_activities": [
+        "Hiking most Saturdays in Butte County (Ishi Wilderness, Upper Bidwell Park, and other local trails)",
+        "Chico Outdoor Club group hikes and events (ranging from easy nature walks to serious day hikes)",
+        "In-hike conversations spanning nature, local politics, Alicia's career, and broader social topics",
+        "Attending Chico community events (Thursday Night Market, local festivals)"
+      ],
+      "communication_frequency": "weekly",
+      "recent_text_topics": [
+        "Saturday hike planning -- which trail, what time to meet, weather and pollen conditions (Q15, Q31 follow-up on avoiding high-pollen morning hikes)",
+        "Spring wildflower reports and trail conditions in Butte County after winter rains",
+        "Upcoming Chico Outdoor Club group events and new trail discoveries",
+        "Alicia's Raspberry Pi weather station project -- Tom is interested in the AQI monitoring data given the wildfire smoke concern they share as Chico residents (Q15 follow-up)",
+        "Casual exchange about local politics and community developments in Chico (Q30 follow-up: Tom engages thoughtfully with local issues even when they disagree on broader topics)"
+      ],
+      "evidence_from_interview": "Q07: 'My main hiking buddy is a guy named Tom -- he's retired, maybe 65, and he knows every trail in Butte County. He's like a trail encyclopedia. We hike together most Saturdays.' Q07 follow-up: 'Tom immediately started chatting me up about the wildflowers we were seeing, and by the end of the hike I felt like I'd known him forever. Now I'm one of the regular members.' Q30: 'My hiking buddy Tom, who's older and white, has been more on the aware but listening end. He's asked me questions in a genuine way, which I appreciate.' Q30 follow-up: 'At the hiking club, there are some older members who have expressed frustration... I usually try to redirect to specific local issues.'"
+    },
+    {
+      "name": "Kai Lindstrom",
+      "relationship": "work colleague (fellow research scientist)",
+      "demographics": {
+        "age": 31,
+        "gender": "Male",
+        "occupation": "Research scientist (systems engineering and ML infrastructure)",
+        "location": "Chico, CA",
+        "education": "Master's degree or PhD in Computer Science or Computer Engineering (inferred from role as research scientist at a lab with complementary systems engineering skills)"
+      },
+      "background": {
+        "how_they_met": "They work together at the same small research lab in Chico under Dr. Patel. Kai was either already at the lab when Alicia joined five years ago or joined shortly after (Q16 follow-up, Q77).",
+        "years_known": 5,
+        "why_close": "They are the only two research scientists at a five-person lab, making them natural intellectual partners with complementary skills -- Alicia focuses on NLP and generative models while Kai handles systems engineering (Q77). Their relationship deepened significantly after the lab conversation about race following George Floyd's murder, when Kai was 'visibly affected' by Alicia's account of navigating tech as a woman of color, and they subsequently co-founded a lab reading group on bias in AI and equity in tech (Q26 follow-up). They collaborate daily in a 'small, collegial environment' that Alicia describes as 'collaborative in a really healthy way' (Q16 follow-up)."
+      },
+      "personality_mini_profile": {
+        "key_traits": ["technically rigorous with strong systems thinking", "empathetic and open to perspectives outside his own experience", "collaborative rather than competitive"],
+        "interests": ["systems engineering and ML infrastructure", "AI ethics and equity (through the lab reading group)", "technical problem-solving"],
+        "communication_style": "Communicates primarily through Slack and in-person lab conversations. Likely writes detailed, technically precise messages about work. Comfortable in intellectual discussions but was moved to genuine emotional engagement during the race conversation (Q26 follow-up). Probably shares research papers, code snippets, and debugging questions. Professional but warm tone reflective of the collegial lab culture."
+      },
+      "shared_activities": [
+        "Daily collaboration at the lab (code review, experiment design, results analysis)",
+        "Weekly lab meetings presenting findings and giving each other feedback (Q16 follow-up)",
+        "Co-facilitating the lab reading group on bias in AI and equity in tech (Q26 follow-up)",
+        "Grant proposal co-writing and paper collaboration",
+        "Mentoring rotating grad students together"
+      ],
+      "communication_frequency": "daily (workdays)",
+      "recent_text_topics": [
+        "The UC Davis multilingual generative language models collaboration -- coordinating shared lab resources and discussing experiment results (Q18)",
+        "Lab reading group selections -- articles on algorithmic fairness and bias auditing practices (Q26 follow-up, Q27 follow-up)",
+        "Upcoming paper deadline preparation and revision strategy following Alicia's recent rejection (Q44 follow-up: rejection stories were normalized at a lab meeting)",
+        "Grant proposal for the next funding cycle -- securing the lab's continued operation (Q65 follow-up)",
+        "Technical debugging and code-related problem-solving via Slack"
+      ],
+      "evidence_from_interview": "Q16 follow-up: 'There are five of us total -- Dr. Patel leads the lab, there's me, another research scientist named Kai, and two grad students... We all have different specializations so there's not a lot of overlap, but we meet weekly to present findings and give each other feedback. It's collaborative in a really healthy way.' Q77: 'Kai and I collaborate well -- we have complementary skills, and he's good at the stuff I'm weaker at, like systems engineering.' Q26 follow-up: 'Kai, my colleague who's white, was visibly affected -- he said he'd never thought about how his experience in the same field was just fundamentally different from mine... After that, we started a small reading group at the lab where we read articles about bias in AI and equity in tech. It's still going.'"
+    }
+  ]
+}

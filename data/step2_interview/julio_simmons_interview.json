@@ -1,0 +1,1557 @@
+{
+  "interview_metadata": {
+    "participant_id": "e7035edf5bc744c9912694a7d4b2a99c",
+    "name": "Julio Simmons",
+    "interview_date": "2026-03-30",
+    "protocol": "American Voices Project (Park et al. 2024, Table 7) — Full 109 questions",
+    "model": "Claude Opus 4.6 (1M context)",
+    "seed_source": "NVIDIA Nemotron-Personas-USA (HuggingFace)"
+  },
+
+  "transcript": [
+    {
+      "question_id": "Q01",
+      "block": "LIFE STORY",
+      "question_text": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "time_limit_seconds": 625,
+      "response": "Sure, yeah. I grew up right here in Rochester, actually. My dad worked at one of the old manufacturing plants -- Kodak-adjacent, tooling and die kind of work -- and my mom was in healthcare, a medical records clerk at Strong Memorial for most of my childhood. We were a middle-class family, German and Irish roots. My grandparents on my dad's side still made sauerkraut every fall, and my mom's side was all about the big Irish Christmas gatherings. I was always the kid taking things apart. I'd pull apart radios, build little circuits, but then I'd also spend hours drawing comic books in my room. I think my parents didn't quite know what to do with me because I was interested in everything but never seemed to settle on one thing.\n\nSchool was -- I did well academically, really well actually. I was in all the honors classes at Brighton High, did Science Olympiad, but I was also in the school play and the art club. I remember my guidance counselor telling me I needed to pick a lane, and that just made me dig in harder on doing all of it. I went to RIT for undergrad, studied applied mathematics, and then did a master's in computational science at the U of R. During grad school I got really into the intersection of data visualization and art -- I started using code to make visual pieces, which was pretty niche back in the early 2000s.\n\nI got married right after grad school. Her name was Diana. We were together about eight years. She was a social worker, very grounded, very practical. I think she loved my energy at first but eventually the constant project-jumping wore on her. I'd be up until three in the morning working on some installation piece, and then I'd crash for two days. We didn't have kids together, which -- I think that was actually a point of tension too. I kept saying 'not yet, not yet' because I was always in the middle of something. The divorce was finalized about six years ago. It wasn't ugly, but it left a mark.\n\nCareer-wise, I bounced around. I did a stint at a small data analytics firm here in Rochester, then I taught adjunct at RIT for a couple of semesters -- intro to computational modeling, a creative coding elective. I loved the teaching but the adjunct pay was brutal. I also did freelance data visualization work for a few nonprofits and small businesses. About three years ago I stepped out of the workforce entirely. I was running on fumes, honestly. I'd take on too many projects, get overwhelmed, couldn't sleep, and then I'd spiral into this place where I couldn't start anything at all. So I pulled back. I'm living off savings and some small freelance gigs now, trying to figure out the next chapter.\n\nThe big through-line, I think, is that I've always been pulled in a dozen directions at once. It's my greatest strength and the thing that trips me up the most.",
+      "follow_ups": [
+        {
+          "question": "You mentioned you'd be up until three in the morning and then crash for two days. Can you walk me through what one of those cycles actually looked like day to day?",
+          "response": "Yeah, so it usually starts with an idea. Like I'll be reading something about emergent patterns in data sets, and suddenly I can see the whole visual piece in my head -- the color palette, the interactivity, everything. And I just have to start. I'll open up my laptop and start coding in p5.js or Processing, and I genuinely lose track of time. I'll forget to eat, I won't check my phone. My chest gets tight but I push through it because the work is flowing. Then around two or three a.m. I'll realize I've been at it for ten or twelve hours straight, and I'll try to sleep but my mind is still racing -- I'm running through code logic, thinking about what I need to fix. So I'll maybe get three hours of sleep, get up, do another marathon session. And then after two or three days of that, my body just shuts down. I'll sleep twelve, fourteen hours. When I wake up I feel hollow, like the whole project was pointless. That's the hard part -- the crash isn't just physical, it's this wave of 'why did I bother.'"
+        },
+        {
+          "question": "You said the divorce left a mark. How has that shaped your life since then?",
+          "response": "It made me question whether I'm built to be in a long-term relationship, honestly. Diana and I are still on decent terms -- we'll text on birthdays, that kind of thing -- but the failure of it sits with me. I catch myself replaying conversations, things I should have said differently, times I chose a project over being present with her. I've gone on a few dates since then but I tend to pull back before anything gets serious. I'll start running through all the ways it could go wrong, lose sleep over it, and then just... not call back. I know that's a pattern. My friend Marcus has called me out on it more than once."
+        },
+        {
+          "question": "Tell me more about what Rochester was like growing up, and how it shaped you.",
+          "response": "Rochester in the eighties and nineties was this interesting place -- it was still a Kodak town, you know? There was this sense that engineering and making things mattered. My dad's whole social circle was guys who worked with their hands but also had this real pride in craftsmanship. And then you had the George Eastman Museum, the Memorial Art Gallery, a really strong music scene. So I grew up with this dual message: be practical, learn a trade, but also appreciate beauty and culture. I think that's where the polymath thing comes from. I couldn't separate the two. Rochester also has this scrappy quality -- it's not a glamorous city, it's cold as hell in winter, but people here build things and support each other. The maker community now is incredible. That's what keeps me here even when I think about leaving."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "time_limit_seconds": 235,
+      "response": "The biggest one was probably right after my master's. I had a job offer from a data firm in Boston -- good salary, benefits, the whole package. And at the same time, a professor at the U of R was starting this experimental lab that combined computational modeling with visual art installations. It was unfunded, basically a passion project, and he invited me to help build it out. Everyone told me to take the Boston job. My parents, Diana -- who was my girlfriend at the time -- my advisor. The Boston job was the safe play. But I couldn't stop thinking about the lab. I'd lie awake at night picturing the installations we could build, running through the math in my head. I physically could not let it go.\n\nSo I stayed in Rochester. I worked part-time at a bookstore to pay rent while we got the lab off the ground. It was exhilarating for about two years -- we built some really beautiful interactive pieces, got a small grant from NYSCA, showed work at the Rochester Fringe Festival. But then the funding dried up, the professor moved to a different university, and I was left with a very thin resume and no steady income. That's when I scrambled into the analytics job.\n\nLooking back, I don't regret staying. That lab experience is the foundation of everything I want to build now -- the makerspace idea, the grant proposals I'm writing, the graphic novel project. But it also set me on this path of financial instability that I'm still dealing with. Every time I'm up at two a.m. running budget numbers in my head, I think about what life would look like if I'd gone to Boston.",
+      "follow_ups": [
+        {
+          "question": "What was it about that lab experience specifically that you couldn't let go of?",
+          "response": "It was the first time someone said 'your weird combination of skills isn't weird -- it's exactly what we need.' That professor, Dr. Tanaka, he saw that my math brain and my art brain weren't in conflict, they were complementary. We were building installations where particle simulations responded to audience movement, and I was writing the physics engine and designing the visual aesthetic. I'd never felt so aligned in my work. It was like every part of me was being used. That feeling is addictive, and I've been chasing it ever since."
+        },
+        {
+          "question": "You mentioned Diana and your parents wanted you to take the Boston job. How did they respond when you chose to stay?",
+          "response": "My dad was quiet about it, which is his way of being disappointed. He's a practical guy -- he wanted me to have health insurance and a 401k. My mom tried to be supportive but I could tell she was nervous. Diana was actually the most understanding at first. She said she'd rather be with someone doing work they loved than someone who was miserable in a cubicle. But I think over the years, as the money stayed tight and I kept choosing passion projects over stability, that understanding wore thin. It became one of the fault lines in our marriage."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "block": "LIFE STORY",
+      "question_text": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Oh, it was conscious. Agonizingly conscious. I made a spreadsheet, if you can believe that -- a literal pros and cons list with weighted scores. The Boston job won on paper every single time. But every night I'd go back to the spreadsheet and change the weights, trying to make the lab option come out on top. Eventually I realized my gut had already decided and my brain was just trying to catch up. So I called the Boston firm and turned them down. My hands were shaking when I made that call. I remember sitting in my car afterward for twenty minutes just gripping the steering wheel.",
+      "follow_ups": [
+        {
+          "question": "That image of sitting in the car gripping the steering wheel -- what was going through your mind in that moment?",
+          "response": "Pure terror, honestly. Not about the lab -- about whether I'd just thrown away my financial future. I kept thinking about my dad, how hard he worked for stability, and here I was choosing the uncertain path. My heart was pounding so hard I could feel it in my throat. But there was also this strange lightness underneath the fear, like I'd finally stopped fighting myself. I sat there until my breathing slowed down, then I drove to the bookstore where I'd just picked up shifts and started my first day."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "block": "LIFE STORY",
+      "question_text": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "time_limit_seconds": 40,
+      "response": "Absolutely. If there had been some kind of bridge funding or fellowship for people working at the intersection of STEM and art, that would have changed everything. The lab died because we couldn't sustain it financially, not because the work wasn't valuable. I've looked into NSF grants, NEA grants, and there's this gap right in the middle where interdisciplinary work falls through the cracks -- too artsy for the science funders, too technical for the arts funders. A mentor who understood the grant landscape would have helped too. Dr. Tanaka was brilliant creatively but terrible at the business side, and I was too young to know what I didn't know.",
+      "follow_ups": [
+        {
+          "question": "Have you found any organizations or mentors since then that fill that gap?",
+          "response": "Somewhat. The Rochester maker community has been great -- there's a group called Maker's Row Rochester that does monthly meetups, and I've connected with a few people there who understand the art-science crossover. And I've been in touch with a program officer at NYSCA who's been helpful with my current grant application for the graphic novel series. But I still feel like I'm cobbling it together on my own most of the time. I spend a lot of evenings scrolling through grant databases, which is its own kind of stress spiral."
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "time_limit_seconds": 310,
+      "response": "No partner right now, and no children. Like I said, the divorce from Diana was about six years ago, and I haven't been in a serious relationship since. I go on dates occasionally -- I'm on Hinge, I'll match with someone, we'll get coffee -- but I tend to get in my own head about it. I'll come home after a good date and immediately start cataloguing everything I said wrong, wondering if I came on too strong about my projects or too aloof about normal stuff. By the time I've convinced myself to send a follow-up text, it's been three days and the moment has passed.\n\nMy parents are both still alive, both in their mid-seventies. Dad is Karl, mom is Eileen. They still live in the house I grew up in, over in Brighton. Dad's slowed down a lot since he retired -- his knees are bad from all those years on the factory floor, and he uses a cane now. Mom is sharper but she worries constantly, about dad, about me, about everything. I try to go over for dinner every Sunday. Mom makes a pot roast or sometimes this German apple cake recipe that's been in the family forever. Those dinners are important to me even when they're stressful -- Dad will ask me when I'm going to get a real job again, and I'll feel my jaw clench, but I keep going because they're getting older and I know this time matters.\n\nI have a younger sister, Greta. She's forty-four, lives in Syracuse with her husband Paul and their two kids, Milo and Sophie. Milo's twelve and Sophie's nine. Greta's a nurse practitioner -- she's the responsible one, the one who followed the expected path. We're close, but there's always been this undercurrent of her worrying about me. She'll call and ask how I'm doing in this very careful voice, and I know she's really asking 'are you eating, are you sleeping, are you okay.' I love her for it but sometimes it makes me feel like a project.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about those Sunday dinners. What does a typical one look like?",
+          "response": "I usually drive over around four. Mom will have the house smelling like whatever she's been cooking since noon. Dad will be in his recliner watching the Red Wings game or whatever's on, and he'll grunt a hello. We eat at the dining room table, which is this heavy oak piece that's been there my entire life. Mom will ask about my week, and I'll talk about whatever I'm working on -- a new painting, or a coding project -- and she nods along even though I know half of it goes over her head. Dad will eventually steer the conversation toward money or work, and I'll deflect, and Mom will change the subject to Greta's kids. After dinner I help with dishes and usually head out by seven. I drive home and sometimes I feel this warm glow from the connection, and other times I feel this tightness in my chest because I know I'm not living up to what they hoped for me."
+        },
+        {
+          "question": "What's your relationship like with Milo and Sophie?",
+          "response": "I love those kids. Milo is this curious, intense kid who reminds me a lot of myself -- he's into Minecraft and building elaborate Rube Goldberg machines. I got him a beginner Arduino kit for his birthday last year and we video chat sometimes while he works on projects. Sophie is more social, very into dance and theater. When I visit Syracuse, which is maybe every couple months, I'll take them to the MOST -- the Museum of Science and Technology -- or we'll do an art project together at Greta's kitchen table. I think being Uncle Julio is one of the roles I'm best at, honestly. There's no pressure, no expectations, just showing them cool stuff and watching their eyes light up."
+        },
+        {
+          "question": "You mentioned getting in your own head after dates. Can you describe what that inner experience is like?",
+          "response": "It's like a post-game analysis that never ends. I'll replay the whole conversation in my head, and every pause or awkward moment gets magnified. Did I talk too much about modular synths? Did she notice that I checked my phone when the grant notification came in? I'll physically pace around my apartment, and my stomach gets knotted up. Sometimes I'll draft a text message and then delete it four or five times. The rational part of my brain knows this is disproportionate, but the feeling is so visceral that I can't just think my way out of it. Eventually I'll do a twenty-minute meditation session or put on a Brian Eno record and try to reset, but by then the window for natural follow-up has usually closed."
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "time_limit_seconds": 25,
+      "response": "My mom has a brother, Uncle Frank, who lives in Buffalo. We see him at holidays. He's a retired electrician, big personality, always telling stories. And my dad's side -- most of them are back in the Finger Lakes area. There's a cousin, Heinrich, who I'm somewhat close with. He runs a small vineyard near Seneca Lake. We'll text about hiking trails and he'll send me bottles of his Riesling. Beyond that, the extended family is more of a holiday-and-weddings kind of connection.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q07",
+      "block": "FAMILY & RELATIONSHIPS",
+      "question_text": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "time_limit_seconds": 80,
+      "response": "My closest friend is Marcus. We met in grad school -- he was in the computer science program while I was in computational science, and we bonded over a shared love of weird music and tabletop RPGs. He's a software engineer at Paychex now, married, two kids. We play in a D&D campaign every other Thursday night with a few other guys -- that's honestly one of the social anchors of my week. Marcus is the person I call when I'm spiraling. He'll just listen, and then he'll say something deadpan that snaps me out of it.\n\nThere's also Priya, who I met through the Rochester Fringe Festival. She's an improv performer and a graphic designer. We're in the same improv troupe -- we rehearse on Monday nights at the Avenue Blackbox Theatre. Priya is one of the few people who gets the art-science thing without needing it explained. And then there's my ultimate frisbee crew -- it's a co-ed league at South Wedge Park on Saturday mornings. I'm closest with a guy named Derek and a woman named Lena from that group. We'll grab brunch after games at the South Wedge Diner.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the D&D campaign. What's that group dynamic like?",
+          "response": "It's me, Marcus, a guy named Theo who teaches high school physics, and a woman named Jess who's a librarian at the central branch. We've been running the same campaign for about two years now -- I'm the DM actually, which suits my need to build elaborate worlds. I spend way too much time prepping maps and storylines during the week. It's one of the few things that quiets my brain in a good way, because it's creative problem-solving with a deadline. We meet at Marcus's house, his wife Amy makes us coffee, and we play until about eleven. It's become this sacred thing -- we almost never cancel."
+        },
+        {
+          "question": "How did you get involved with the improv troupe?",
+          "response": "Priya dragged me to a workshop about four years ago. I was terrified -- improv is all about being in the moment and not controlling the outcome, which is basically my worst nightmare. But something about it clicked. It's like exposure therapy for my need to plan everything. I'm not the best performer in the group but I bring this weird encyclopedic knowledge that makes for interesting scene work. Like I'll pull in some obscure physics fact or historical reference and the audience loves it. We perform at the Fringe Festival every September and do smaller shows throughout the year."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "time_limit_seconds": 105,
+      "response": "I live in the 14618 zip code, which is the Brighton-Pittsford area, south side of Rochester. It's a quiet, residential neighborhood -- lots of older homes, mature trees, well-kept lawns. It's the kind of place where people actually wave at you when you walk by. I rent the upper floor of a converted two-family house. The landlord, Mr. Petrosian, lives downstairs. He's an older Armenian gentleman, very quiet, keeps to himself. The neighborhood is close to Twelve Corners, which is this little commercial hub with a coffee shop, a hardware store, a few restaurants. I can walk to the Twelve Corners library branch, which I do probably twice a week.\n\nIt's also not far from the Erie Canal towpath, which is huge for me -- I bike that path all summer with my cycling group. And the South Wedge, where I play frisbee, is a quick drive north. The Finger Lakes farmers' market is at the public market downtown, maybe fifteen minutes away. For a city that gets a bad rap, Rochester has a lot going on if you know where to look.",
+      "follow_ups": [
+        {
+          "question": "What's your relationship like with your landlord and your immediate neighbors?",
+          "response": "Mr. Petrosian is ideal for me, honestly. He's not intrusive but he's reliable. If something breaks, he fixes it within a day or two. We exchange pleasantries in the driveway, he brings me a plate of his wife's dolma once in a while, and that's about it. The neighbors on either side are families -- I know them by first name, we'll chat about snow removal or the raccoon that keeps getting into the trash. It's a friendly distance. I don't feel isolated but I also don't feel socially obligated, which suits me well."
+        },
+        {
+          "question": "You mentioned the Twelve Corners library. What do you do there?",
+          "response": "I go there to work, mostly. I bring my laptop and sit in the reading room for a few hours. There's something about being around other quiet people that helps me focus better than being alone in my apartment. I'll code, write grant applications, sketch. They also have a surprisingly good graphic novel section, which I browse regularly. And they host community events -- I've gone to a few local author talks and a digital literacy workshop. The librarians know me by name at this point."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "Very safe. Brighton is one of the quieter parts of the metro area. I'll walk to Twelve Corners after dark and not think twice about it. The biggest crime concern is probably porch pirates taking Amazon packages. It's a far cry from some of the neighborhoods closer to downtown that have real safety issues. I recognize that's partly a function of where I can afford to rent and partly just luck. I don't take it for granted.",
+      "follow_ups": [
+        {
+          "question": "Has there ever been a time you didn't feel safe in your neighborhood?",
+          "response": "Not from crime, no. There was one winter where a water main broke and the whole street was ice for about a week. I fell hard on the sidewalk and bruised my hip pretty badly. That's about as dangerous as it gets around here. I feel more unsafe inside my own head sometimes than I do on my actual street, if that makes sense."
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "block": "NEIGHBORHOOD",
+      "question_text": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "time_limit_seconds": 40,
+      "response": "The ups are the quality of life for the cost. Rochester is affordable, especially compared to the East Coast cities where a lot of my grad school friends ended up. I can rent a decent place, eat well, access cultural stuff -- the Eastman School concerts, the Memorial Art Gallery, the Fringe Festival -- without burning through my savings too fast. The downs are the winters, obviously. November through March can be brutal. Short days, gray skies, and I notice my energy drops way off. I have a full-spectrum lamp that I use every morning from October to April. And there's a brain-drain issue -- a lot of talented young people leave, so the creative community, while passionate, is small. Sometimes I feel like I'm in a bubble.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about how the winters affect you specifically.",
+          "response": "By February I'm a different person. I sleep more, eat more comfort food, and my motivation to work on projects craters. I'll sit down to code and just stare at the screen. The light therapy lamp helps -- I do thirty minutes every morning with my coffee. Hiking obviously drops off, so I lose that physical outlet. I try to compensate with the stationary bike in my living room, but it's not the same as being on the canal path with the sun on my face. The improv shows and the D&D nights become even more important in winter because they force me to leave the apartment."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "time_limit_seconds": 80,
+      "response": "It's just me. I live alone in the upper unit of the two-family house. Mr. Petrosian and his wife are downstairs but we have completely separate entrances and spaces. I have a cat, though -- Oliver. He's a big orange tabby I adopted from Lollypop Farm about three years ago, right around the time I left the workforce. He's good company. He sits on my desk while I work and headbutts my hand when he thinks I've been coding too long. Having another living thing in the space helps. There were stretches before Oliver where I'd go two or three days without speaking to anyone in person, and that wasn't great for me.",
+      "follow_ups": [
+        {
+          "question": "How has having Oliver changed your daily routine?",
+          "response": "He's an anchor point. I have to get up and feed him in the morning, so I can't just lie in bed until noon even on bad days. He needs his litter box cleaned, he needs play time -- I have this little laser pointer thing he goes nuts for. And he's weirdly attuned to my state. When I'm pacing or agitated, he'll come sit in my path and meow until I stop and pet him. It sounds silly, but that forced pause has genuinely helped me break out of spiraling moments more times than I can count."
+        },
+        {
+          "question": "You mentioned going days without speaking to anyone. How often does that happen now?",
+          "response": "Less than it used to. Between D&D every other Thursday, improv on Mondays, frisbee on Saturdays, and Sunday dinners with my parents, I have a decent scaffold of social contact. But during a bad week, I might cancel one or two of those things and then it's just me and Oliver from Monday to Thursday. When that happens, I notice it -- I get more in my head, I start second-guessing my projects, I sleep poorly. So I've learned to treat those commitments as non-negotiable, like taking medication. If I skip improv, I text Priya and make sure I at least have a phone call with someone that day."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "block": "HOUSEHOLD",
+      "question_text": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "time_limit_seconds": 10,
+      "response": "It's just me and the cat. Both permanent.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q13",
+      "block": "HOUSEHOLD",
+      "question_text": "Tell me about anyone else who stays here from time to time, if there is anyone like that",
+      "time_limit_seconds": 10,
+      "response": "Marcus crashes on my couch maybe once every couple months after a late D&D session if he's had a beer too many. And Greta and the kids have stayed over once or twice when they visited Rochester, but that's rare. No regular guests.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q14",
+      "block": "HOUSEHOLD",
+      "question_text": "Is there anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, it's just me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q15",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Right now, across a typical week, how do your days vary?",
+      "time_limit_seconds": 105,
+      "response": "Since I'm not working a traditional job, my days have a lot of variation, which is both freeing and dangerous for me because structure doesn't come naturally. I've tried to build a scaffold though. Most mornings I'm up by seven-thirty -- Oliver wakes me up. I feed him, make coffee, do thirty minutes with my light therapy lamp while reading or checking email. Then I meditate for about twenty minutes. I use a guided app, Insight Timer. After that, the morning is my creative block -- painting, coding, writing, whatever project is active. I try to protect nine to noon as deep-work time.\n\nAfternoons are more varied. Mondays I prep for improv rehearsal, which is at seven. Tuesdays and Wednesdays I'll go to the library to work on grant applications or do research. Thursdays are either D&D prep or game night itself. Fridays are my errand day -- groceries, farmers' market if it's open, sometimes I'll hit the art supply store. Saturdays are frisbee in the morning, and then I usually spend the afternoon doing something physical -- hiking in the Finger Lakes if weather permits, or the cycling group. Sundays are dinner at my parents' and then quiet time at home.\n\nThe pattern breaks when I'm in one of my intense creative phases, though. Then the schedule goes out the window and I'm working around the clock.",
+      "follow_ups": [
+        {
+          "question": "When you say you try to protect nine to noon as deep-work time, how successful are you at that?",
+          "response": "Honestly, maybe sixty percent of the time. The biggest saboteur is my own brain. I'll sit down to work on the graphic novel layouts and suddenly remember that I haven't responded to an email from Maker's Row about the next workshop, or I'll start Googling grant deadlines and fall down a rabbit hole. I've started using a pomodoro timer -- twenty-five minutes on, five minutes off -- which helps. On my best days I'll get three solid pomodoro cycles in that morning window and feel genuinely accomplished. On my worst days I'll rearrange my desk for two hours and call it productivity."
+        },
+        {
+          "question": "What does a day look like when the schedule goes out the window during an intense creative phase?",
+          "response": "Last month I was working on a data visualization piece for a local gallery show. I woke up at six with the whole concept crystallized, went straight to my laptop without eating, and coded for about eight hours straight. Skipped meditation, skipped lunch. Oliver was yelling at me by two p.m. so I finally fed him and made myself a sandwich. Then I went right back. By midnight I had a working prototype but I also had this intense jaw tension -- I'd been clenching my teeth the whole time without realizing it. I kept going until about three a.m., slept until noon the next day, and then spent the afternoon just lying on the couch feeling depleted. The piece turned out great, but the recovery cost was steep."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "At what kind of job or jobs do you work, and when do you work?",
+      "time_limit_seconds": 105,
+      "response": "I'm not employed in any traditional sense right now. My last regular job was about three years ago -- I was doing freelance data visualization and computational modeling for small organizations around Rochester. Before that, I adjuncted at RIT. Currently, I pick up occasional freelance gigs. A nonprofit might need a data dashboard built, or a local business wants infographics for a report. That brings in maybe five hundred to eight hundred dollars a month, varies widely. I also run occasional workshops through the Rochester maker community -- an intro to creative coding workshop, a data-as-art session -- and those sometimes have a small fee attached, maybe fifty to a hundred bucks. So there's no set work schedule per se. The work happens when the work comes in, and the rest of the time I'm working on my own projects -- the makerspace business plan, the grant applications, the graphic novel series -- which don't generate income yet but are the path I'm trying to build toward.",
+      "follow_ups": [
+        {
+          "question": "How do you find the freelance gigs? Is there a steady pipeline or is it unpredictable?",
+          "response": "Very unpredictable. It's mostly word of mouth. Someone at a Maker's Row meetup mentions that their nonprofit needs a visualization, and I'll raise my hand. Or Marcus will forward me a lead from someone at Paychex who needs a one-off project. I have a basic portfolio website but I haven't updated it in over a year, which I know is a problem. Every time I sit down to update it, I start redesigning the whole thing from scratch because I'm never satisfied with it, and then I get overwhelmed and close the laptop. It's a classic me pattern."
+        },
+        {
+          "question": "What were the workshops you mentioned like? Walk me through one.",
+          "response": "The last one I did was in February at the Rochester Brainery -- it's this community education space. I taught a two-hour Intro to Creative Coding workshop. About twelve people showed up, mostly adults in their twenties and thirties. I walked them through the basics of p5.js -- how to draw shapes, add color, make things respond to mouse movement. By the end, everyone had made a simple generative art sketch. I love teaching. I can see the moment when someone goes from confused to excited, and that lights me up. The prep is intense though -- I spend probably ten hours preparing for a two-hour workshop because I want every example to be polished and every contingency covered. My hands shake a little right before I start, but once I'm in it, I'm fine."
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Do you have other routines or responsibilities that you did not already share?",
+      "time_limit_seconds": 80,
+      "response": "I volunteer at the Rochester Museum & Science Center about twice a month. I help with their STEM outreach program -- usually Saturday afternoon drop-in sessions where kids can do hands-on science experiments. It's a mix of setting up equipment, explaining concepts, and just being an enthusiastic adult presence. I also do some informal mentoring -- there are a couple of college kids from RIT who've reached out to me about creative coding careers, and I'll meet them for coffee and talk through their portfolio or their job search. And I check in on my parents regularly beyond Sunday dinner. I'll call my mom on Wednesdays, and if dad has a doctor's appointment, I'll try to drive him since his mobility isn't great.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about the STEM outreach work. What does a typical session look like?",
+          "response": "We set up in the main hall with four or five activity stations. Last time I ran one on light and color -- prisms, diffraction gratings, a setup where kids could mix colored lights on a screen. I handle the station and just talk to whoever comes up. The age range is wild -- you get five-year-olds who want to touch everything and thirteen-year-olds who ask surprisingly deep questions about wave-particle duality. I try to meet each kid where they are. It's low-stakes and joyful, which is the opposite of how most of my week feels. After a session I usually feel recharged."
+        },
+        {
+          "question": "How do you manage the responsibility of checking in on your parents?",
+          "response": "It's a balance. I want to be there for them but I also notice that spending too much time worrying about them feeds into my overall tension. When my dad had a bad fall last year, I was basically on call for two weeks -- driving him to appointments, picking up prescriptions, helping mom with stuff around the house. I barely worked on my own projects that whole stretch and I felt my mood dip significantly. Now I try to be present but maintain some boundaries. The Wednesday call with Mom is structured -- thirty minutes, we catch up, she tells me about her garden or what she's reading, and then we hang up. It gives us both something to look forward to without it becoming all-consuming."
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "Tell me about any recent changes to your daily routine.",
+      "time_limit_seconds": 80,
+      "response": "The biggest change in the last few months is that I started the cycling group back up after winter. It runs from April through October, usually Sunday mornings on the Erie Canal towpath. We're just getting going again now, and having that back in my week is a big deal physically and mentally. I also recently started going to the Rochester Public Market on Saturday mornings before frisbee. I used to go sporadically, but I've made it a weekly thing -- I pick up produce, eggs from a local farm, sometimes flowers for the apartment. It sounds small but having that ritual has helped structure my weekends.\n\nI also cut back on my social media time about two months ago. I was spending too much time scrolling Instagram and Twitter, comparing myself to people who seemed to be accomplishing more, and it was wrecking my sleep. I moved the apps off my phone's home screen and set a thirty-minute daily limit. It's helped, though I still slip some nights.",
+      "follow_ups": [
+        {
+          "question": "What prompted you to cut back on social media specifically?",
+          "response": "There was one night in January where I was scrolling Instagram at one a.m. and saw a post from someone I went to grad school with -- she'd just gotten a tenure-track position and published a paper in Nature. And I was lying in bed in my apartment with no job, no publication, and a half-finished grant application on my desk. My chest got so tight I had to get up and do breathing exercises for twenty minutes before I could even think about sleeping. The next morning I looked at my screen time report and I'd averaged over two hours a day on social media. That was the wake-up call."
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "block": "DAILY ROUTINE & WORK",
+      "question_text": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "time_limit_seconds": 80,
+      "response": "I don't have children of my own. My niece and nephew -- Milo and Sophie -- I can speak to a bit from what Greta tells me. Milo is in seventh grade and is doing an after-school robotics club, which I think is fantastic. Sophie is in fourth grade and does dance two days a week. Greta runs a pretty tight ship -- they're up by six-thirty, school bus at seven-fifteen, and after-school activities run until five most days. But that's Greta's household, not mine.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q20",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "Nothing dramatic, thankfully. I've been pulled over twice in my life -- once for a busted tail light about ten years ago, and once for going forty in a thirty zone near Highland Park. Both times were pretty routine. The officer was professional, I was cooperative, I got a warning for the tail light and a ticket for the speeding. I paid the ticket and moved on. As a white guy in Brighton, I recognize that my experience with police is probably very different from what a lot of people go through. I've never felt targeted or harassed. My interactions have been brief and uneventful.",
+      "follow_ups": [
+        {
+          "question": "Has your awareness of other people's different experiences shaped how you think about policing?",
+          "response": "Definitely. A friend of Marcus's -- a Black man named Terrell who works in IT -- told us a story at a cookout about being pulled over four times in six months near Pittsford, and every time it was 'we got a report of a vehicle matching this description.' Four times. Same car, same route to work. That story sits with me. I know my experience isn't universal, and it's made me more thoughtful about assuming policing is fair just because it's been fair to me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "What other experiences with law enforcement stand out in your mind?",
+      "time_limit_seconds": 40,
+      "response": "I called the police once when I heard glass breaking in the alley behind my apartment. Turned out it was just some teenagers who knocked over a bottle recycling bin. The officer who came was polite, checked things out, and left. That's really it. My life hasn't intersected with law enforcement in any significant way. I'm pretty risk-averse by nature -- I follow the rules, I drive carefully, I keep a low profile.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q22",
+      "block": "LAW ENFORCEMENT",
+      "question_text": "Some people tell us about experiences of arrest -- of loved ones, family members, friends, or themselves. How about for you?",
+      "time_limit_seconds": 40,
+      "response": "No one in my immediate family or close friend circle has been arrested, as far as I know. My Uncle Frank got a DUI back in the nineties, which my parents talked about in hushed tones for years. That's the closest thing. It wasn't something we discussed openly -- in my family, that kind of thing gets buried under layers of 'we don't talk about that.'",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q23",
+      "block": "POLITICS",
+      "question_text": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I vote in every election. Federal, state, local -- the school board races, the county legislature, all of it. I've missed maybe one local election in my adult life, and it was because I was sick. I research candidates pretty thoroughly before I go in. I'll read the League of Women Voters guide, check candidates' websites, read local news coverage. Voting feels like one of the few things where I can take concrete action on issues I care about rather than just worrying about them. I usually vote early too -- I don't like the unpredictability of Election Day lines. Standing in a long line with that many people makes my neck tense up.",
+      "follow_ups": [
+        {
+          "question": "What issues tend to drive your voting decisions?",
+          "response": "Education funding is a big one -- I think public schools and libraries are the backbone of a healthy community. Environmental policy matters to me, especially around the Great Lakes region -- water quality in Lake Ontario and the Finger Lakes. Healthcare access is another one. Having been without employer insurance for three years, I'm very aware of how the system works for people who fall outside the standard employment model. And arts funding -- I pay attention to who supports the NEA and state arts council budgets, because those grants are lifelines for people like me."
+        },
+        {
+          "question": "You mentioned researching candidates thoroughly. What does that process look like for you?",
+          "response": "I'm a spreadsheet person, so yes, I make a spreadsheet. Candidate name, their positions on my key issues, endorsements, funding sources. I'll spend a whole evening on it before early voting opens. It actually calms me down, weirdly -- the act of organizing information gives me a sense of control. I cross-reference with local reporting from the Democrat and Chronicle and Rochester Beacon. For the smaller races where information is scarce, I'll even email candidates directly and see who responds. That tells me a lot about how accessible they'll be in office."
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "block": "POLITICS",
+      "question_text": "How would you describe your political views?",
+      "time_limit_seconds": 310,
+      "response": "I tend to focus on issues that affect everyday quality of life -- affordable healthcare, strong public schools, investment in arts and sciences, environmental protection. I read a lot of policy-oriented journalism. NPR is on in the morning while I make coffee. I follow a few local policy accounts on Twitter -- Rochester For All, which tracks city council issues, and a couple of state-level education advocacy groups. I also read the Finger Lakes Times and ProPublica for investigative stuff.\n\nI believe in a strong social safety net because I've seen what happens when it's not there -- not just for me, but for the families at the Science Center outreach programs who are clearly stretched thin. I think government has a role in making sure people can get healthcare, kids can get educated, and communities can access cultural resources. At the same time, I'm a bit skeptical of large institutions in general. I've seen too many good programs get choked by bureaucracy. The grant world is a perfect example -- so much potential energy wasted on paperwork and compliance rather than actual creation.\n\nI care deeply about climate policy. Living near the Finger Lakes, you see the effects of changing weather patterns -- the growing season is shifting, invasive species are showing up in the lakes, and the frequency of severe storms has increased noticeably in the twenty years I've been paying attention. I support aggressive action on emissions and renewable energy, and I try to live that in small ways -- I bike when I can, I buy local produce, I've reduced my meat consumption to a few times a week.\n\nOn social issues, I believe in equity and inclusion. I think about how the communities I move in -- the maker community, the art world, the STEM outreach -- can be more intentionally welcoming to people who don't look like me. I've pushed for scholarship spots in my workshops for people who can't afford the fee.",
+      "follow_ups": [
+        {
+          "question": "You mentioned being skeptical of large institutions. Can you give me a specific example of that?",
+          "response": "The grant application process. I spent three months last year preparing an application for a regional arts-science foundation. The application was forty-two pages, required a detailed budget, three letters of recommendation, a project narrative, an impact assessment, and a diversity statement. I submitted it and waited four months for a form rejection with zero feedback. Zero. I'd invested hundreds of hours into that application, and I have no idea why it was rejected or what I could improve. That experience crystallized my distrust. The institutions say they want innovation but the process selects for people who are good at paperwork, not necessarily good at the work itself."
+        },
+        {
+          "question": "How do your political views show up in your daily life beyond voting?",
+          "response": "I try to put money where my mouth is, even on a tight budget. I buy from the farmers' market instead of Walmart when I can. I donate small amounts -- ten, twenty dollars -- to local candidates and organizations like the Rochester Environmental Action League. I've signed up for a few phone banks for local elections, though I'm honestly terrible at calling strangers -- I get flustered and lose my script. The workshops I offer with scholarship spots are probably the most direct political action I take. Giving a kid from a low-income family access to creative coding tools feels like a concrete way to address the equity gap I keep reading about."
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "block": "POLITICS",
+      "question_text": "Tell me about any recent changes in your political views.",
+      "time_limit_seconds": 115,
+      "response": "I wouldn't say my core views have changed, but my relationship to the political system has shifted. I used to believe that if you just got the right people elected and the right policies passed, things would improve. Now I'm more focused on what can be built locally, outside of or alongside the formal political process. The makerspace idea is partly about that -- creating a community institution that doesn't depend on government funding alone. I've also become more attuned to how economic insecurity shapes political identity. Being out of the workforce has given me a visceral understanding of why people feel left behind by the system, even people whose policy preferences are very different from mine.",
+      "follow_ups": [
+        {
+          "question": "Has that understanding of economic insecurity changed how you engage with people who have different political views?",
+          "response": "Yeah, I think so. My dad is more conservative than I am, especially on fiscal issues. He thinks my generation is soft and that government programs create dependency. We used to argue about it, and I'd get this knot in my stomach and raise my voice. Now I try to listen more. I understand that his views come from his experience -- he worked hard, saved, built a stable life without a safety net, and he's proud of that. I still disagree with him on policy, but I can see the human experience underneath the position. Improv has actually helped with this -- it's trained me to say 'yes, and' instead of 'no, but.'"
+        }
+      ]
+    },
+    {
+      "question_id": "Q26",
+      "block": "POLITICS",
+      "question_text": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "time_limit_seconds": 105,
+      "response": "They've affected me a good amount, I'd say. I'm a white guy in a fairly white neighborhood, so I'm not experiencing the issues firsthand. But I've been paying close attention. I mentioned Terrell's story earlier -- hearing that from someone I know, not just reading about it, made it very personal. I also started noticing things at the Science Center -- how the demographics of the outreach sessions skew depending on which neighborhoods we're in, and how some of the Black and Brown families interact differently with authority figures who come through the space. It made me think harder about how I present myself as a volunteer -- am I coming across as approachable or as another institutional white guy telling their kids what to do?",
+      "follow_ups": [
+        {
+          "question": "How has that reflection changed how you show up at the Science Center?",
+          "response": "I made a conscious decision to listen more and instruct less. Instead of launching into an explanation of how a prism works, I'll ask the kid what they think is happening first. I try to let them lead. I also advocated for the outreach program to partner with community organizations in underserved neighborhoods rather than just running sessions in the museum, which is in a part of town that's not easily accessible for everyone. We've started doing pop-up science events at community centers in the Beechwood and Northeast neighborhoods, and the turnout has been encouraging."
+        },
+        {
+          "question": "Have these issues come up in your personal relationships?",
+          "response": "They have, and it's been complicated. My dad's generation doesn't really talk about race, and when the topic comes up at Sunday dinner, there's this uncomfortable silence. My mom will say something well-intentioned but tone-deaf, and I'll feel this tension between wanting to say something and not wanting to blow up dinner. With Marcus and my closer friends, the conversations are more open. After the protests in 2020, our D&D group actually paused a session to just talk for a couple hours. That was unusual for us -- we're usually in escapism mode -- but it felt necessary."
+        }
+      ]
+    },
+    {
+      "question_id": "Q27",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about the issues Black Lives Matter raises?",
+      "time_limit_seconds": 105,
+      "response": "I think about it through the lens of systems, which is how my brain works. I see policing, housing segregation, educational disparities, and wealth gaps as interconnected systems, not isolated problems. When I read about a police shooting, I don't just see a bad officer -- I see a system that's producing predictable outcomes. My data-analysis background makes me look at the statistics: disparities in traffic stops, use of force, incarceration rates. The patterns are clear in the data. At the same time, I'm cautious about reducing people's lived experiences to data points. Terrell's story isn't a statistic to me -- it's my friend being treated as a suspect on his way to work. I try to hold both of those perspectives.",
+      "follow_ups": [
+        {
+          "question": "Has your analytical approach to this ever been in tension with the emotional weight of the issue?",
+          "response": "All the time. I catch myself wanting to build a dashboard of racial disparities data because that's my comfort zone -- turning complex human suffering into clean visualizations. And then I check myself, because there's something uncomfortable about a white guy making art out of other people's pain. I've actually started and abandoned a data visualization project about policing disparities twice because I couldn't figure out how to do it responsibly. I want the data to speak, but I don't want to center myself in a narrative that isn't mine."
+        }
+      ]
+    },
+    {
+      "question_id": "Q28",
+      "block": "POLITICS",
+      "question_text": "How have you been thinking about race in the U.S. recently?",
+      "time_limit_seconds": 105,
+      "response": "Honestly, I've been thinking a lot about my own position in the racial landscape. Growing up German-Irish in Rochester, race wasn't something that was discussed in my house. We were just 'normal,' which of course is a racial position in itself -- it's just an invisible one when you're white. Reading Ta-Nehisi Coates and Ibram X. Kendi opened my eyes to how much of what I assumed was neutral is actually structured around whiteness. I've also been thinking about Rochester specifically -- it's one of the most segregated metro areas in the country, which blew my mind when I first saw that data. I drive from Brighton to the Northeast side for Science Center outreach and the change is stark within ten minutes. Same city, completely different worlds in terms of resources, infrastructure, safety. That keeps me up some nights, running through what could actually be done about it.",
+      "follow_ups": [
+        {
+          "question": "What are you reading or consuming that informs your thinking on this?",
+          "response": "I read Between the World and Me a few years ago and it really shook me. More recently I read The Color of Law by Richard Rothstein, which is about how government policy created residential segregation. That one hit close to home because you can see it playing out right here in Rochester. I listen to Code Switch, the NPR podcast, pretty regularly. And I follow some local journalists on Twitter who cover racial equity issues in Monroe County. I try to take in perspectives that aren't just academic -- community voices, local organizers, people doing the ground-level work."
+        }
+      ]
+    },
+    {
+      "question_id": "Q29",
+      "block": "POLITICS",
+      "question_text": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "time_limit_seconds": 50,
+      "response": "I've mostly talked about it with friends and taken some concrete actions through my volunteer work. I haven't been to a protest -- crowds that size trigger a lot of physical tension for me, the noise and the unpredictability. I know that sounds like a cop-out, and I've wrestled with it. What I have done is push for the Science Center outreach to be more intentionally present in underserved neighborhoods, and I've offered free workshop spots to kids from those communities. I've also had direct conversations with Marcus, Priya, and others about what we can do within our own small circles.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q30",
+      "block": "POLITICS",
+      "question_text": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "time_limit_seconds": 80,
+      "response": "It's a range. Marcus is probably the most engaged -- he and his wife Amy went to several protests in 2020 and they've been donating to local bail funds and community organizations. Priya has been vocal on social media about it -- she shares a lot of content from local activists and has used her graphic design skills to make flyers for community events. My sister Greta is more quiet about it but she's implemented some changes in her practice -- she works in a clinic that serves a diverse patient population and she pushed for cultural competency training for the staff.\n\nMy parents are a different story. My mom watches the news and feels sad about it but doesn't really know what to do. My dad gets uncomfortable when it comes up and tends to change the subject or make a comment about 'both sides.' I've learned not to push too hard with him. My D&D group -- Theo, the physics teacher, has been incorporating more diverse scientists into his curriculum, which I think is cool. Small things, but meaningful in context.",
+      "follow_ups": [
+        {
+          "question": "How do you navigate the difference between your dad's response and your own views?",
+          "response": "Carefully. I've learned that going head-to-head with him just entrenches us both. So I'll share a specific story instead of making a general argument. Like instead of saying 'systemic racism is real,' I'll tell him about the pop-up science event we did in the Beechwood neighborhood and how those kids had never been inside the Science Center even though it's a fifteen-minute drive away. He responds better to human stories than to data or abstract concepts. Sometimes I see him sit with it, and I think that's about as much as I can ask for."
+        }
+      ]
+    },
+    {
+      "question_id": "Q31",
+      "block": "HEALTH",
+      "question_text": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "time_limit_seconds": 80,
+      "response": "Physically, I'm in decent shape for forty-nine. The hiking, cycling, and frisbee help a lot. My weight fluctuates -- I tend to put on ten pounds in winter when I'm less active and eating more comfort food, and lose it again in the warmer months. My knees have started complaining after long hikes, which is new. I take glucosamine for that. Blood pressure is borderline -- my doctor has mentioned it at my last two physicals, so I'm watching my sodium and trying to keep the exercise consistent.\n\nThe bigger challenge is the stuff that doesn't show up on a chart. I have periods where I can't sleep for days -- not insomnia exactly, but my mind won't shut off. I'll lie there running through project timelines, financial scenarios, things I said in conversations three weeks ago. My jaw clenches at night -- I've cracked a molar from it, actually, so I wear a night guard now. And when the tension gets really bad, I get these headaches that start at the base of my skull and wrap around to my temples. I've mapped it to stress patterns pretty clearly -- they spike when I'm facing a deadline or a financial crunch.",
+      "follow_ups": [
+        {
+          "question": "You mentioned your blood pressure is borderline. What has your doctor recommended?",
+          "response": "She said to keep up the exercise, reduce sodium, and monitor it at home. I bought one of those wrist cuff monitors and I check it a couple times a week. It's usually around 135 over 85, which she said is 'keep an eye on it' territory. She mentioned that if it doesn't come down with lifestyle changes, we'd talk about other options. I've been more intentional about cooking with less salt and I swapped out a lot of my snacking -- I used to eat a lot of crackers and cheese while I worked, and I've switched to carrots and hummus. It's not as satisfying but it's made a difference."
+        },
+        {
+          "question": "Tell me more about the jaw clenching and the cracked molar. When did that happen?",
+          "response": "The molar cracked about a year and a half ago. I was eating a piece of crusty bread and just felt this sickening crack. My dentist took an X-ray and said the tooth had been weakened by long-term grinding. I had to get a crown, which was not cheap -- about twelve hundred dollars out of pocket after what my marketplace plan covered. That's when I started using the night guard. It's this plastic tray I got fitted for. I hate it -- it's uncomfortable and makes me feel like I'm suffocating a little when I first put it in. But it's better than cracking another tooth. I've noticed the headaches are less frequent since I started using it consistently."
+        }
+      ]
+    },
+    {
+      "question_id": "Q32",
+      "block": "HEALTH",
+      "question_text": "For you, what makes it easy or hard to stay healthy?",
+      "time_limit_seconds": 65,
+      "response": "What makes it easy is that I genuinely enjoy physical activity. Hiking isn't a chore -- it's one of the best parts of my week. Same with cycling and frisbee. I also enjoy cooking, so I eat relatively well when I'm in a stable routine. Having the farmers' market nearby is a big help -- beautiful produce that actually tastes like something.\n\nWhat makes it hard is inconsistency. When my mental state dips, the healthy habits are the first things to go. I'll skip the bike, eat frozen pizza three nights in a row, stay up until two a.m. coding instead of sleeping. And then the physical deterioration feeds the mental deterioration, which feeds more bad habits. It's a feedback loop. Financial stress makes it worse too -- when I'm worried about money, I buy cheap food instead of good food, and I skip the farmers' market. The other hard thing is not having employer insurance. Every doctor visit, every dental appointment, I'm doing the mental math on cost versus necessity, and sometimes necessity loses.",
+      "follow_ups": [
+        {
+          "question": "When you're in one of those dips, what helps you climb back out?",
+          "response": "Oliver, honestly. He forces a minimum level of functioning. Beyond that, the social commitments. If it's Thursday and I know Marcus and the crew are expecting me for D&D, I'll shower, put on real clothes, and drive to his house even if I feel terrible. And usually by the end of the night I feel better. The meditation practice helps too, but it's the hardest thing to maintain during a dip because sitting quietly with my own thoughts is the last thing I want to do when those thoughts are all catastrophic. I've found that body-scan meditations work better than pure mindfulness during bad stretches -- focusing on physical sensations gives my mind something concrete to anchor to."
+        }
+      ]
+    },
+    {
+      "question_id": "Q33",
+      "block": "HEALTH",
+      "question_text": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain -- anything like that.",
+      "time_limit_seconds": 80,
+      "response": "The biggest thing was the cracked molar I mentioned -- that was about eighteen months ago. The crown process was two visits and some significant discomfort. Beyond that, I tweaked my knee pretty badly on a hike at Watkins Glen last fall. I was coming down a steep section, my foot slipped on wet rock, and my knee torqued. I hobbled out and it swelled up significantly. I iced it for a week and it improved, but I probably should have seen someone about it. It still clicks sometimes when I go up stairs. I didn't get it looked at because I was trying to avoid the co-pay.\n\nAnd then there was a stretch last winter, January and February, where I basically couldn't function for about three weeks. The sleep issues were the worst they'd been in years -- I was getting maybe three or four hours a night, broken up. I lost about eight pounds because I wasn't eating regularly. My sister noticed during a video call and drove up from Syracuse to check on me. She helped me get back on track -- made sure I had food in the fridge, stayed with me for a weekend. That was a low point.",
+      "follow_ups": [
+        {
+          "question": "That three-week period sounds really difficult. Can you walk me through what a typical day looked like during that stretch?",
+          "response": "I'd lie in bed until Oliver's insistence forced me up around nine or ten. Feed him, make coffee, and then just sit at my desk staring at my laptop screen. I'd have a grant application open or a code project, but I couldn't make myself engage with any of it. The thoughts were all catastrophic -- I'm going to run out of money, I've wasted my life, nobody would notice if I just disappeared into this apartment. I'd pace, sit down, pace again. I'd eat maybe one meal a day, usually toast or cereal. In the evenings I'd try to watch something to shut my brain off but I couldn't follow plots. Nighttime was the worst because the quiet amplified everything. I'd lie there with my chest tight and my jaw clenched, sometimes for hours before falling asleep."
+        },
+        {
+          "question": "What was it like when Greta showed up?",
+          "response": "I was embarrassed. She walked in and I could see her cataloguing the apartment -- dishes in the sink, empty fridge, me in the same sweatshirt I'd been wearing for four days. But she didn't lecture me. She just started doing things. She went to Wegmans and stocked the fridge. She sat with me on the couch and we watched a dumb movie. She made me promise to call my doctor, which I did the following week. She texted me every day for a month after that. It was the most cared-for I'd felt in a long time, and also the most vulnerable. I don't like needing that kind of help."
+        }
+      ]
+    },
+    {
+      "question_id": "Q34",
+      "block": "HEALTH",
+      "question_text": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "time_limit_seconds": 50,
+      "response": "That's exactly why I'm not working right now, in a lot of ways. The cycles of intense productivity followed by complete shutdown make it really hard to hold a traditional job. When I was freelancing, I'd miss deadlines during the crash periods and then overcompensate by working around the clock to catch up, which just set up the next crash. And the sleep issues compound everything -- you can't think clearly, you can't problem-solve, you can't show up for meetings sharp when you've been awake since three a.m. running disaster scenarios in your head. So yeah, it's been a major factor in my being out of the workforce. I'm trying to build a work life that accommodates the way I function rather than forcing myself into a structure that breaks me.",
+      "follow_ups": [
+        {
+          "question": "What would that accommodating work life look like ideally?",
+          "response": "The makerspace. It would be my space, my schedule. I could teach workshops when I'm in a good stretch and focus on administrative stuff or personal projects when I'm not. I'd have collaborators who could cover for me if I need to step back for a few days. The income would come from multiple streams -- workshop fees, memberships, small grants, maybe some equipment rental -- so no single thing has to carry the whole load. That's the dream, anyway. Getting from here to there is the hard part, and the financial uncertainty of building it sometimes keeps me up at night, which is ironic."
+        }
+      ]
+    },
+    {
+      "question_id": "Q35",
+      "block": "HEALTH",
+      "question_text": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "time_limit_seconds": 80,
+      "response": "My dad, mainly. His knees have gotten progressively worse over the past five years -- he had both replaced about seven years ago, but one of them isn't holding up. He uses a cane, and there are days he can barely get up from his recliner. Watching this man who used to work ten-hour days on a factory floor struggle to walk to the mailbox is hard. Mom is managing, but she's carrying more of the household burden now, and she's seventy-five with her own aches and pains. I worry about them a lot. I'll be at my desk working and suddenly I'm thinking about what happens if Dad falls and Mom can't help him up, or what happens when they can't maintain the house anymore. Those thoughts can derail my whole afternoon.",
+      "follow_ups": [
+        {
+          "question": "Have you and Greta talked about a plan for your parents as they age?",
+          "response": "We've had the conversation a couple of times, but it's hard because nobody wants to say the difficult things out loud. Greta is more practical about it -- she's brought up the idea of them moving to a single-story apartment or an assisted living community, and Dad shut it down completely. He built the deck on that house with his own hands; he's not leaving. So for now the plan is me checking in weekly, Greta visiting monthly, and hoping nothing catastrophic happens in the meantime. I know it's not a real plan. Every time I think about putting together a more thorough one, I feel this weight in my chest and I end up doing something else instead."
+        },
+        {
+          "question": "How does worrying about your parents affect your own day-to-day?",
+          "response": "It's like a low-grade hum underneath everything else. I'll be in the middle of painting and my phone will buzz -- it's a text from Mom saying Dad's knee was bad today -- and suddenly my focus is gone. I'll spend the next hour Googling knee replacement revision surgeries and long-term care options in Monroe County. It feeds into the sleep issues too. Lying in bed at night, the worry about my parents merges with the worry about my finances and my career, and it all becomes this undifferentiated mass of tension that just sits in my body."
+        }
+      ]
+    },
+    {
+      "question_id": "Q36",
+      "block": "HEALTH",
+      "question_text": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "time_limit_seconds": 80,
+      "response": "Since I left the workforce, I've been on a marketplace plan. It's a silver tier plan with a decent premium that eats into my savings every month -- about four hundred and fifty dollars. The deductible is pretty high, so routine things are covered but anything significant comes with real out-of-pocket costs. The cracked molar crown was twelve hundred dollars after insurance. The knee I tweaked hiking -- I didn't get it looked at because I estimated the imaging and the specialist visit would be three to four hundred dollars, and I decided to just ice it and hope for the best. That's a gamble, and I know it.\n\nMy parents are on Medicare, which covers the basics, but Dad's knee situation has involved a lot of specialist visits and there's talk of a revision surgery that could have significant co-pays. Mom manages the medical paperwork, and every time I visit, there's a new stack of explanation-of-benefits forms on the dining room table that stresses her out.",
+      "follow_ups": [
+        {
+          "question": "How do you decide when to seek care versus when to wait it out?",
+          "response": "It comes down to a mental cost-benefit calculation that I'm not proud of. I'll think: is this likely to get worse if I ignore it, and if so, will the cost of treating it later be more than treating it now? The molar was an emergency -- I was in pain, I couldn't eat. The knee was more ambiguous. It was functional, just sore. So I waited. The blood pressure monitoring I do at home because the doctor visits have a co-pay, and if I can show her good numbers from home, I can space the check-ups further apart. It's not how healthcare should work, but it's the math I'm doing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q37",
+      "block": "HEALTH",
+      "question_text": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "time_limit_seconds": 80,
+      "response": "I wouldn't call it medicine exactly, but the meditation practice is significant for me. I started with a mindfulness course at the Zen Center on Arnold Park Boulevard about five years ago -- an eight-week program. I don't attend the center regularly anymore, but the daily practice stuck. I also use acupuncture a few times a year. There's a practitioner on Monroe Avenue that Marcus recommended. I go when the jaw tension and headaches are particularly bad, and it seems to help, though I couldn't tell you the mechanism. I spend about sixty dollars a session, which isn't covered by insurance.\n\nMy mom is a big believer in herbal remedies -- she keeps a shelf of tinctures and teas. Echinacea when she feels a cold coming on, valerian root for sleep. I'm skeptical of most of it from a scientific standpoint, but I keep a box of her chamomile blend in my kitchen because the ritual of making tea before bed does genuinely help me wind down, whether or not the chamomile is doing anything biochemical.",
+      "follow_ups": [
+        {
+          "question": "Tell me more about your meditation practice. What does it look like day to day?",
+          "response": "I aim for twenty minutes every morning after the light therapy lamp. I sit on a cushion on the floor of my living room -- I have a little corner set up with the cushion and a candle. I use the Insight Timer app, usually a body-scan guided meditation or just a simple timer with an interval bell. On good days, it genuinely quiets the mental chatter. On bad days, I spend twenty minutes cataloguing everything I need to do and then feeling guilty about not being present. But even on those days, I think it's better than not doing it. I've noticed that when I skip meditation for more than two or three days in a row, the jaw clenching and the racing thoughts get noticeably worse."
+        }
+      ]
+    },
+    {
+      "question_id": "Q38",
+      "block": "HEALTH",
+      "question_text": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I don't smoke and never have. Drinking -- I'll have a beer or two socially. At D&D night, Marcus usually has a six-pack of Genny Cream Ale and I'll have one or two. When I'm out for brunch after frisbee, I might have a Bloody Mary. But I've never been a heavy drinker, and I'm actually pretty careful about it because I've noticed that even two drinks messes with my sleep, and sleep is already the most fragile thing in my system. During the bad stretch last winter, I deliberately didn't drink at all because I knew it would make the spiraling worse. I'll occasionally have a glass of wine at home while cooking, but that's more about the ritual of cooking than about numbing anything.",
+      "follow_ups": [
+        {
+          "question": "You mentioned being deliberate about not drinking during tough stretches. How did you arrive at that awareness?",
+          "response": "Trial and error, honestly. There was a period after the divorce where I was having two or three drinks a night, not to excess but consistently. And I noticed my sleep got worse, my mood got worse, my productivity tanked. I started tracking it -- because of course I did, I track everything -- and the correlation was clear. A night with two drinks meant a worse next day. So I made a rule: no drinking alone when I'm in a low period. Social drinking in good times is fine. It's one of the few areas where my analytical brain actually serves my wellbeing."
+        }
+      ]
+    },
+    {
+      "question_id": "Q39",
+      "block": "HEALTH",
+      "question_text": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "time_limit_seconds": 80,
+      "response": "I take a low-dose prescription that helps with the sleep issues and the racing thoughts. I started it about two years ago after a particularly rough patch. I was resistant to it at first -- spent weeks researching it, reading studies, mapping out potential side effects on a spreadsheet. But my doctor was patient with me and said to try it for six weeks and see. It's helped. Not a miracle cure, but the baseline has come up. The really bad crashes are less frequent, and I can usually fall asleep within an hour instead of two or three.\n\nI've tried marijuana a handful of times -- edibles, never smoking. A friend offered a gummy at a party about a year ago. It was fine, relaxing, but it made me too foggy the next day to work, so I haven't made it a habit. No other substances. I take vitamin D supplements in the winter, fish oil for the blood pressure, and melatonin occasionally if the sleep is really bad, though I try not to rely on it.",
+      "follow_ups": [
+        {
+          "question": "How do you feel about taking the prescription now, two years in?",
+          "response": "I've made peace with it. I used to feel like it was an admission of failure -- like I should be able to handle this through meditation and willpower alone. My sister was actually the one who talked me off that ledge. She said something like, 'You wouldn't refuse a cast for a broken arm,' and that reframe stuck. I still monitor how I feel on it pretty closely. I keep a mood and sleep journal -- nothing elaborate, just a one to ten rating each morning and a note about how the night went. It helps me see patterns and gives me data to share with my doctor at check-ups."
+        }
+      ]
+    },
+    {
+      "question_id": "Q40",
+      "block": "HEALTH",
+      "question_text": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "time_limit_seconds": 80,
+      "response": "For me, it's the marketplace plan at four-fifty a month, plus out-of-pocket for dental and the acupuncture. The prescription is about thirty dollars a month after insurance. All told, healthcare is probably my second-biggest monthly expense after rent. I budget for it carefully, but unexpected things -- like the crown -- blow a hole in the plan.\n\nMy parents are on Medicare plus a Medigap supplemental plan that covers most of their routine care. But Dad's knee situation could get expensive if they decide to do the revision surgery. Greta and I have talked quietly about whether we'd need to chip in, which is a conversation I dread because I'm not in a position to contribute much right now.\n\nThe overall situation feels precarious. One major health event -- for me or for my parents -- could destabilize everything. I try not to let that thought consume me, but some weeks it's the first thing I think about when I wake up and the last thing on my mind before I fall asleep.",
+      "follow_ups": [
+        {
+          "question": "What would happen financially if you had a major health event right now?",
+          "response": "I'd burn through my savings in a few months. My emergency fund is thin -- maybe three to four months of expenses. A hospitalization or surgery would probably wipe that out. I'd have to ask my parents or Greta for help, which I hate even thinking about. Or I'd go into medical debt, which would make the makerspace timeline even more distant. The out-of-pocket maximum on my marketplace plan is about eight thousand dollars, which is essentially the entirety of my emergency fund. So that's the math that keeps me awake."
+        }
+      ]
+    },
+    {
+      "question_id": "Q41",
+      "block": "HEALTH",
+      "question_text": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "time_limit_seconds": 50,
+      "response": "I'm fully up to date on everything -- flu shot every fall, the updated COVID boosters, all of it. I trust the science. I've read the clinical trial data for the major vaccines, and the risk-benefit is clear to me. I also get the flu shot specifically because I visit my parents regularly and I don't want to be the one who brings something into their house when they're in their mid-seventies with existing health issues. The only thing I'd say is that I research each one before I go -- I read the CDC guidance and usually a couple of peer-reviewed papers. I want to understand what I'm putting in my body, not because I'm skeptical, but because understanding things is how I manage the discomfort of uncertainty.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q42",
+      "block": "HEALTH",
+      "question_text": "What are your trusted sources of information about the vaccine?",
+      "time_limit_seconds": 80,
+      "response": "The CDC and the WHO are my starting points. From there I'll look at primary literature on PubMed -- I have enough statistical training to read a clinical trial paper critically. I also follow a couple of epidemiologists on Twitter who explain the data in accessible terms. For context and analysis, I read Ars Technica's science coverage and STAT News, which does excellent health reporting. I'm skeptical of social media as a primary source, though I've found some good science communicators on YouTube -- like Kurzgesagt for explainer content. My filter is pretty simple: does this person or outlet cite primary sources and acknowledge uncertainty? If they're selling certainty, I don't trust them.",
+      "follow_ups": [
+        {
+          "question": "Have you had conversations with family or friends who are less trusting of vaccines?",
+          "response": "My dad is quietly skeptical -- he got his COVID shots because Mom insisted, but he grumbled about it. He grew up in an era where you just went to the doctor when something was wrong and didn't ask questions, and the whole idea of proactive vaccination feels like government overreach to him. I've learned not to argue statistics with him. Instead I just say, 'I want to keep visiting you and Mom, so I'm going to do what the doctors recommend.' That usually ends the conversation. A couple of people in my frisbee league have expressed some hesitation, and I'll share an article or two if they seem receptive, but I don't push. People have to come to information on their own terms."
+        }
+      ]
+    },
+    {
+      "question_id": "Q43",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "time_limit_seconds": 115,
+      "response": "The past year has been a mixed bag. There have been stretches of real creative flow -- I finished a series of acrylic paintings of the Finger Lakes that I'm proud of, I ran three workshops, and I made good progress on the graphic novel layouts. During those periods I feel purposeful and energized, like all the pieces of my life are clicking together. But there have also been significant low points. That three-week stretch in January and February that I mentioned was the worst. And even outside of that, there are weeks where I wake up with this heavy feeling and I have to fight just to maintain basic routines.\n\nOverall, I'd say I'm better than I was a year ago. The daily practice -- meditation, exercise, social commitments, the prescription -- is making a difference. But I still feel like I'm building a life on a tightrope. The financial uncertainty, the career uncertainty, the loneliness of living alone -- it all creates this background hum of tension that I can mostly manage but never fully silence. Some days I feel like a forty-nine-year-old man who has figured out nothing, and other days I feel like I'm on the verge of something meaningful. The oscillation is exhausting.",
+      "follow_ups": [
+        {
+          "question": "When you say you're on the verge of something meaningful, what does that feel like?",
+          "response": "It's this electric feeling in my chest -- the opposite of the tension. It usually hits when I'm in the middle of making something and I can see it working. Like when I got the particle simulation in my gallery piece to respond exactly the way I'd imagined, or when a kid at the Science Center has a genuine eureka moment. In those moments I think: this is why I made the choices I made. This is the path. And I feel almost giddy. But then the practical brain kicks in -- how are you going to pay rent, what's your five-year plan, you're almost fifty -- and the giddiness gets drowned out."
+        },
+        {
+          "question": "How do you handle the oscillation between those highs and lows?",
+          "response": "I try to ride them without overreacting in either direction. When I'm in a good stretch, I try not to take on too much or make promises I can't keep in a low stretch. When I'm low, I try to remember that it's temporary and to just maintain the basics -- feed the cat, eat a meal, show up for one social thing. The mood journal helps because I can look back and see that yes, I've felt this bad before and I came out the other side. It's empirical evidence that the feeling isn't permanent, and my data-brain finds that reassuring."
+        }
+      ]
+    },
+    {
+      "question_id": "Q44",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "time_limit_seconds": 80,
+      "response": "The grant rejection hit me hard. I'd spent three months on that application -- the forty-two-page one I mentioned. I'd put everything into it: the concept for the quantum physics graphic novel series, detailed budgets, a timeline, sample illustrations. When the form rejection came, I was at my desk and I just stared at the email for about ten minutes. Then I closed my laptop and didn't open it for three days. I canceled D&D, I didn't answer texts. I sat on my couch with Oliver and watched nature documentaries because they were the only thing that didn't require emotional investment.\n\nBy the third day, Marcus showed up at my door with takeout from a Thai place we like, and he just sat with me. He didn't try to fix it or give a pep talk. He said, 'That sucks, and it doesn't mean your work sucks.' We ate pad thai on the couch and watched Planet Earth, and something about being seen in that moment cracked the shell a little. The next day I started writing again. Not on the grant, but just in a journal, getting the frustration out. It took about two weeks to feel like myself again.",
+      "follow_ups": [
+        {
+          "question": "What was it about the rejection that hit so hard, beyond the practical setback?",
+          "response": "It confirmed the voice in my head that says I'm not good enough -- that the whole interdisciplinary thing is a fantasy and I should have taken the safe path decades ago. When you pour that much of yourself into something and it gets dismissed without any feedback, it feels like the universe is saying 'you don't matter.' Rationally, I know that's not true -- grant rejections are normal, everyone gets them. But the feeling doesn't respond to logic. It went straight to the core of my identity, and it took real time and real effort to rebuild the scaffolding."
+        },
+        {
+          "question": "What role do friends like Marcus play in pulling you back from those places?",
+          "response": "Marcus is my lifeline, honestly. He doesn't try to problem-solve, which is what I would do if the roles were reversed and it would make things worse. He just shows up and is present. There's something about another human being in the room that interrupts the spiral. The internal monologue can't sustain itself when someone is sitting next to you eating pad thai and making dry comments about how David Attenborough would narrate your emotional breakdown. He's the person who makes it impossible for me to fully disappear, and I think that might be the most important thing anyone does for me."
+        }
+      ]
+    },
+    {
+      "question_id": "Q45",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "time_limit_seconds": 80,
+      "response": "I've had an ongoing battle with my nervous system for as long as I can remember. When I was a kid, I was the one who couldn't sleep before the first day of school, who'd get stomachaches before tests even though I always did well. As an adult, it shows up as the jaw clenching, the sleepless nights, the obsessive replaying of conversations and scenarios. Before a big workshop, my hands shake and my mouth goes dry. Before opening a bank statement, my heart rate spikes. I've learned to function with it -- the meditation, the exercise, the prescription all help manage the volume. But it never fully goes away. It's like having a radio in the background that's always tuned to the disaster channel. Some days it's at a two and I can ignore it. Some days it's at an eight and it takes everything I have to get through the day.",
+      "follow_ups": [
+        {
+          "question": "When did you first become aware that this was a pattern and not just normal nervousness?",
+          "response": "Grad school. I was presenting my thesis research at a departmental colloquium, and I had what I can only describe as a full-body shutdown. My vision narrowed, I couldn't get words out, my hands were shaking so badly I couldn't hold my notes. I excused myself, went to the bathroom, and sat on the floor for twenty minutes until my breathing normalized. It wasn't about the material -- I knew it cold. It was the scrutiny, the possibility of being found inadequate. That was the moment I realized this wasn't something everyone dealt with."
+        },
+        {
+          "question": "How do you talk about these experiences with the people close to you?",
+          "response": "Selectively. Marcus knows the most -- he's been around for the worst of it. Greta understands it from a clinical standpoint, being in healthcare, so I can be pretty open with her. Priya sees it at improv sometimes -- she's learned to recognize when I'm tightening up and she'll pull me aside for a breathing exercise before we go on. My parents don't really understand it. Mom thinks I just need to 'relax more,' and Dad thinks willpower should handle it. I've stopped trying to explain it to them because the disconnect just adds another layer of frustration."
+        }
+      ]
+    },
+    {
+      "question_id": "Q46",
+      "block": "EMOTIONAL WELL-BEING",
+      "question_text": "How has it been for your family?",
+      "time_limit_seconds": 50,
+      "response": "My parents' generation doesn't really have a framework for emotional struggle -- you're supposed to push through and not complain. So Dad has aches and pains that I suspect go beyond the physical, but he'd never talk about it. Mom carries worry like a second job, and it shows in her body -- she has chronic tension in her shoulders and neck, and she picks at her nails. Greta manages well on the surface, but she calls me sometimes after a really hard day at the clinic and I can hear the weight in her voice. We're a family that functions but doesn't necessarily thrive emotionally. There's love, but there's not a lot of language for how we're actually feeling.",
+      "follow_ups": [
+        {
+          "question": "Do you wish that were different?",
+          "response": "Deeply. I sometimes imagine what it would be like if my dad could just say 'I'm scared about getting old' or if my mom could admit that she's overwhelmed. I think it would change the dynamic at those Sunday dinners. Instead, we talk around everything. The closest we get is Mom saying 'your father had a hard week' and me reading between the lines. I try to model something different -- when Greta asks how I'm doing, I try to answer honestly instead of saying 'fine.' It's not easy, but I figure if I can be the one who breaks the pattern, maybe it gives permission for everyone else."
+        }
+      ]
+    },
+    {
+      "question_id": "Q47",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "time_limit_seconds": 155,
+      "response": "I was raised going to services at a church on East Avenue -- my mom's side of the family has always been observant. We'd go most Sundays when I was a kid, and I did the whole progression through youth programs. I actually liked parts of it -- the music, the sense of community, the rituals. There was something grounding about the routine.\n\nAs I got older, I drifted away. By college, I wasn't attending regularly. I think the intellectual side of me had questions that the theological framework couldn't answer, and I couldn't reconcile the two. But I've never been hostile to it. I still go with my parents at Christmas and Easter -- partly for them, partly because the candlelight service on Christmas Eve still gives me goosebumps. There's an aesthetic and emotional resonance that I haven't entirely let go of.\n\nWhat's taken its place is the meditation practice and a kind of secular spirituality, if that makes sense. When I'm hiking at Watkins Glen and I come around a corner to a waterfall that's existed for thousands of years, I feel something that I'd call transcendent. When I'm deep in a creative flow state and the code or the painting is just working, there's a quality to that experience that borders on sacred. I don't attach a deity to it, but I don't dismiss it either. It's a sense of connection to something larger than my own anxious brain, and I think that's what religion tries to offer, however imperfectly.",
+      "follow_ups": [
+        {
+          "question": "Do you ever feel a pull to return to organized religious practice?",
+          "response": "Occasionally. There was a Sunday last fall when I drove past the church on East Avenue and almost pulled in. I was having a particularly lonely week, and I missed the sense of belonging. But I knew I'd feel like a fraud sitting there, half-believing at best. What I do miss is the community infrastructure -- the potlucks, the committees, the automatic social network. The maker community fills some of that void, but it's not quite the same. There's something about a community that gathers weekly around shared values, regardless of what those values are, that I haven't fully replicated."
+        },
+        {
+          "question": "How does your family feel about your drift from organized religion?",
+          "response": "Mom is disappointed but resigned. She still lights a candle for me, which I find both touching and slightly guilt-inducing. Dad was never as invested in the religious side -- he went to church because Mom wanted him to. He's more of a 'God helps those who help themselves' kind of guy. Greta is similar to me -- she goes on holidays but her real spirituality is expressed through her work in healthcare. We don't talk about it much. It's one of those topics that gets gently sidestepped at Sunday dinner."
+        }
+      ]
+    },
+    {
+      "question_id": "Q48",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "time_limit_seconds": 115,
+      "response": "I'm on a few platforms but my relationship with them is complicated. Instagram is the one I use most -- I post my paintings and digital art there, and I follow other artists, creative coders, and maker spaces. It's a good way to get my work seen and to discover inspiration. But it's also the platform that triggers the most comparison spiraling, so I've set a thirty-minute daily limit.\n\nTwitter I use mainly for news and professional networking. I follow NPR, ProPublica, a few local journalists, some data visualization people, and a couple of epidemiologists. I rarely post -- maybe a retweet once a week. I don't engage in arguments on there because the combative tone makes my chest tight.\n\nI have a Facebook account but I barely use it. It's mainly for the Rochester Makers group, which has an active page where people share project updates and workshop announcements. I also use it to see what Uncle Frank is up to in Buffalo, because he's one of those people who posts everything on Facebook.\n\nReddit I browse occasionally -- the r/creativecoding, r/dataisbeautiful, and r/tabletopRPG subreddits mostly. Discord too -- I'm in a creative coding server and a D&D homebrew server. Those feel more like communities than social media to me. The conversations are substantive and people actually help each other.",
+      "follow_ups": [
+        {
+          "question": "You mentioned the comparison spiraling on Instagram. Can you describe what that looks like?",
+          "response": "I'll open Instagram to post a painting, and the first thing in my feed is some twenty-eight-year-old creative coder with a massive following who just got commissioned by Google for a generative art installation. And I'll think: I was doing this work before this person was in high school, and they're getting Google commissions while I'm applying for local grants and getting rejected. Then I'll scroll more and see someone else's studio -- beautiful, well-lit, equipment everywhere -- and look around my cluttered apartment desk. The comparison engine kicks in and it just runs, burning fuel. That's usually when I close the app and go pet Oliver."
+        },
+        {
+          "question": "How do the Discord communities differ from other platforms for you?",
+          "response": "Discord feels more like being at a table with friends. The creative coding server has maybe two hundred active members, and we share work-in-progress screenshots, troubleshoot code problems, and have genuine technical discussions. Nobody is performing for an audience -- there's no follower count, no likes. It's just people geeking out about the same thing. The D&D server is similar -- we share homebrew rules, map designs, character art. I feel energized after spending time on Discord in a way that I never feel after Instagram or Twitter. It scratches the collaboration itch without the status competition."
+        }
+      ]
+    },
+    {
+      "question_id": "Q49",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "time_limit_seconds": 50,
+      "response": "Not really, no. I'm too private for that. The idea of posting about my struggles publicly makes my skin crawl. When I'm struggling, I pull inward -- I reach out to Marcus or Greta directly, through text or a phone call. The Discord communities are closer to a support network than Facebook or Twitter. There have been a couple of times in the creative coding server where I've vented about a project not working and people have been genuinely supportive. But it's more about technical camaraderie than emotional vulnerability. I don't think social media is the right venue for my emotional processing -- the performative aspect of it clashes with how I actually process things, which is slowly and privately.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q50",
+      "block": "RELIGION & SOCIAL MEDIA",
+      "question_text": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "time_limit_seconds": 50,
+      "response": "The social media cutback has helped noticeably. My evenings are calmer -- I'm reading more instead of scrolling. I re-read Ursula K. Le Guin's The Dispossessed last month, and it was the first time in ages I got lost in a book before bed instead of my phone. The meditation practice has become more consistent too -- I used to skip it whenever I was in a bad stretch, which is exactly when I need it most. Now I do it even on the hard days, even if it's just ten minutes instead of twenty. And the cycling starting back up has given me a physical outlet that I was missing all winter. Overall, I'd say the stress level is moderately better than it was six months ago, but the underlying sources of stress -- money, career direction, parents' health -- haven't changed. I'm managing the symptoms better but the conditions are the same.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q51",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "time_limit_seconds": 25,
+      "response": "Just me and my cat Oliver. I live alone in the upper unit of a two-family house in the Brighton area of Rochester.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q52",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any babies or small children?",
+      "time_limit_seconds": 10,
+      "response": "No, no children.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q53",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Anyone who usually lives here but is away -- traveling, at school, or in a hospital?",
+      "time_limit_seconds": 10,
+      "response": "No, it's just me full-time.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q54",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Any lodgers, boarders, or employees who live here?",
+      "time_limit_seconds": 10,
+      "response": "No, nobody like that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q55",
+      "block": "HOUSEHOLD CONFIRMATION",
+      "question_text": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "time_limit_seconds": 5,
+      "response": "Just me. I'm solely responsible for all my household expenses.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q56",
+      "block": "FINANCES",
+      "question_text": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "time_limit_seconds": 50,
+      "response": "Rent is always the biggest -- nine hundred and fifty a month for the upper unit. Then the health insurance premium at four-fifty. After that, last month had the quarterly car insurance payment, which was about two-eighty. Groceries ran maybe three hundred, three-fifty. And I had an acupuncture appointment, so that was sixty. Those are the big ones. Utilities were relatively low because we're heading into spring -- maybe a hundred and twenty total for gas and electric.",
+      "follow_ups": [
+        {
+          "question": "Does that feel manageable to you on your current income?",
+          "response": "It's tight. Between the savings I'm drawing down and the freelance income, I bring in maybe twelve to fifteen hundred a month, and my fixed expenses alone are around seventeen hundred. So I'm losing a few hundred dollars a month from savings. It's not sustainable long-term -- I can do the math -- but it's been sustainable enough month to month that I've been able to avoid making drastic changes. The grant I'm applying for would help significantly if it comes through, but I've learned not to count on that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q57",
+      "block": "FINANCES",
+      "question_text": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "time_limit_seconds": 50,
+      "response": "Last month was about two thousand two hundred, which is higher than average because of the quarterly car insurance. A more typical month is around nineteen hundred to two thousand. The big categories are rent at nine-fifty, health insurance at four-fifty, groceries at three to three-fifty, utilities at a hundred to a hundred fifty depending on season, gas for the car at sixty to eighty, my prescription at thirty, the cat food and litter at about forty, and then odds and ends -- art supplies, a book or two, the occasional dinner out after frisbee.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q58",
+      "block": "FINANCES",
+      "question_text": "Does your household own or rent your home?",
+      "time_limit_seconds": 50,
+      "response": "I rent. Nine-fifty a month for the upper floor of a two-family house. It's a good deal for the area -- Brighton can be more expensive, but Mr. Petrosian hasn't raised the rent in two years because I'm a quiet tenant who doesn't cause problems. The place is older -- the kitchen is small and the insulation could be better -- but it's mine, it's comfortable, and it's close to the things I need. I've thought about whether I'll ever own a home, and honestly, on my current trajectory, I don't see it. That's a thought I try not to dwell on.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q59",
+      "block": "FINANCES",
+      "question_text": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "time_limit_seconds": 50,
+      "response": "Winter is the expensive season. The heating bill can jump to two hundred and fifty or even three hundred in January and February -- the old house doesn't hold heat well. I also spend more on comfort food and less on fresh produce because the farmers' market is closed. Summer is cheaper on utilities but I spend more on activities -- gear for hiking and cycling, the occasional day trip to the Finger Lakes. The quarterly car insurance payments create spikes in March, June, September, and December. Holidays are modest -- I buy small gifts for my parents, Greta's family, and a few friends. Maybe two hundred total at Christmas. The biggest fluctuation is the freelance income side -- some months I get eight hundred from gigs, some months I get nothing. That unpredictability is what makes budgeting feel like trying to plan a hike in Rochester weather.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q60",
+      "block": "FINANCES",
+      "question_text": "Tell me all about how you coped with any extra expenses in the past months.",
+      "time_limit_seconds": 40,
+      "response": "The crown last year was the big one -- twelve hundred dollars. I pulled that straight from savings and felt sick about it for a week. For smaller unexpected expenses, I'll just cut elsewhere. If my car needs a repair, I'll eat rice and beans for two weeks and skip the farmers' market. I sold a painting last fall for four hundred dollars, which was a nice unexpected boost. I've also bartered a couple of times -- I built a website for a local artisan in exchange for some woodworking she did on my bookshelves. The maker community is good for that kind of thing. But I don't have a credit card to fall back on, which is a deliberate choice -- I know myself well enough to know that easy access to credit would be a problem for me.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q61",
+      "block": "FINANCES",
+      "question_text": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "time_limit_seconds": 80,
+      "response": "I have a savings account at M&T Bank with what I'd call my emergency fund. Without being too specific, it's enough to cover about three to four months of expenses, and it's been gradually declining because I'm drawing on it to cover the gap between my income and my costs. I'm not actively saving right now -- I'm in a slow drawdown. The goal is to get the makerspace off the ground before the savings run out, or to find a part-time position that covers the basics. I also have a tiny amount in a Roth IRA from when I was working full-time -- I haven't contributed to it in years, but it's there. Beyond that, I don't have investments or other savings vehicles. My financial situation is basically a countdown clock, and I try not to look at it too often because it triggers a spiral.",
+      "follow_ups": [
+        {
+          "question": "How often do you check the balance, and what's that experience like?",
+          "response": "I force myself to look once a month when I do my budget spreadsheet. I open the bank app, see the number, and my stomach drops a little even when it's exactly what I expected. Then I update the spreadsheet, calculate how many months I have left at current burn rate, and close the laptop. The whole process takes about twenty minutes and ruins the next hour. I've gotten better at not checking compulsively -- there was a phase where I was looking every day, and each time the balance was lower, my heart rate would spike. Monthly is the right cadence. It gives me enough data to plan without drowning in it."
+        }
+      ]
+    },
+    {
+      "question_id": "Q62",
+      "block": "FINANCES",
+      "question_text": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "time_limit_seconds": 80,
+      "response": "Right now, the savings are purely a buffer against disaster. I'm not saving for anything -- I'm spending down what I saved during my working years. The rainy day fund is essentially what's keeping me afloat. If I could start saving again, the first priority would be an actual emergency fund that I don't touch, and the second would be seed money for the makerspace -- I'd need probably thirty to fifty thousand to get a basic space set up with equipment, and I'm nowhere near that. Longer term, I think about retirement and get a cold feeling. I'm forty-nine with a small IRA and declining savings. That's a conversation with myself that I keep postponing.",
+      "follow_ups": [
+        {
+          "question": "What does postponing that conversation look like in practice?",
+          "response": "I'll open a retirement calculator website, start plugging in numbers, and then close the tab when the projected outcome appears. The numbers are not encouraging, and engaging with them too deeply sends me into a dark place. I tell myself that the makerspace, if it works, will generate income that I can start saving again. But I know that's optimistic. Greta has gently brought up retirement planning and I changed the subject. It's the one spreadsheet I can't bring myself to finish."
+        }
+      ]
+    },
+    {
+      "question_id": "Q63",
+      "block": "FINANCES",
+      "question_text": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "time_limit_seconds": 50,
+      "response": "I paid off my student loans about five years ago, which was a huge relief. I don't have credit card debt because I don't carry a credit card -- as I mentioned, that's intentional. I owe nothing to family or friends. The only recurring financial obligation beyond monthly bills is the car payment -- I have about eight months left on a used Subaru Outback that I bought three years ago. The payment is two-seventy a month. Once that's paid off, it'll free up some breathing room. So I'm not in debt in a traditional sense, but I'm also not accumulating anything. I'm in financial stasis at best, slow decline at worst.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q64",
+      "block": "FINANCES",
+      "question_text": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "time_limit_seconds": 65,
+      "response": "There was a stretch last fall where my car needed brake work -- about five hundred dollars. I didn't have the cash in my checking account that month because the freelance work had dried up for a few weeks. I had to transfer from savings to cover it, which is technically what the savings is for, but each time I do that, I feel the runway getting shorter. I also skipped the acupuncture appointments for two months when things were tight, which meant the headaches were worse, which meant I was less productive, which meant less freelance income. It's a vicious cycle.\n\nAnd there was the knee injury I mentioned -- I needed to see it but chose not to because I couldn't justify the expense. That's probably the clearest example of not being able to afford something I needed. The knee still clicks.",
+      "follow_ups": [
+        {
+          "question": "How does that decision about the knee sit with you now?",
+          "response": "It bothers me. I know it's a short-term savings, long-term gamble. If I need surgery later because I ignored it, that's going to cost orders of magnitude more than the imaging would have cost now. But in the moment, three to four hundred dollars felt like a wall. I told myself 'it's getting better on its own,' which is the story I tell myself about most things when the alternative is spending money I don't have. I'm aware of the self-deception. That awareness doesn't change the behavior."
+        }
+      ]
+    },
+    {
+      "question_id": "Q65",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "time_limit_seconds": 155,
+      "response": "My most recent steady work was as a freelance interdisciplinary facilitator and data visualization specialist. That's a mouthful, I know. In practice, it meant I helped organizations turn their data into visual stories -- interactive dashboards, infographics, data-driven art installations. A typical project might be a nonprofit that had survey data about community health outcomes, and I'd build an interactive visualization that let them explore the data in a way that was both rigorous and compelling. I'd do the data cleaning and analysis in Python or R, then build the visual layer in p5.js or D3.\n\nBefore the freelance work, I adjuncted at RIT, teaching Intro to Computational Modeling and a Creative Coding elective. The teaching involved lecture prep, grading, office hours, and a lot of one-on-one mentoring with students who were struggling or who wanted to go deeper. I loved the mentoring most.\n\nThe workshop facilitation is something I still do occasionally. I design and lead hands-on sessions where participants learn creative coding, data visualization, or DIY science projects. The most important duty there is making complex technical material accessible and exciting, which is a translation skill that I think I'm genuinely good at.\n\nNow, my 'occupation' is really a portfolio of unpaid or low-paid activities: writing grant applications, developing the makerspace business plan, working on the graphic novel series, volunteering at the Science Center, and picking up the odd freelance gig. It's not an occupation in the Bureau of Labor Statistics sense, but it's full-time work.",
+      "follow_ups": [
+        {
+          "question": "What was your favorite project you worked on as a data visualization specialist?",
+          "response": "I did a project for a local environmental group that was tracking water quality data in the Finger Lakes. They had years of sampling data -- pH levels, nutrient concentrations, invasive species counts -- and it was all in spreadsheets that nobody was looking at. I built an interactive map where you could click on any sampling point and see the trends over time, with the data overlaid on satellite imagery of the lakes. When we presented it at a community meeting, people could actually see their lake changing. One woman started crying because she could see the algae bloom patterns matching what she'd been observing from her dock for years. That moment -- data becoming understanding, becoming emotion -- that's what I'm about."
+        },
+        {
+          "question": "Why did the adjunct teaching end?",
+          "response": "The department cut the creative coding elective due to low enrollment -- it was a niche course and they needed the slot for a required course. And the computational modeling section was given to a full-time faculty member who needed the load. I wasn't let go in any dramatic way; the courses just didn't exist for me to teach anymore. I tried to get other adjunct sections but the pipeline was full. The pay was also untenable long-term -- about three thousand per course per semester, no benefits. Teaching two courses, I was making less than if I'd worked at Target, and with more hours. I loved the classroom but the economics didn't work."
+        }
+      ]
+    },
+    {
+      "question_id": "Q66",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Was your occupation covered by a union or employee association contract?",
+      "time_limit_seconds": 40,
+      "response": "No, none of my work has been union-covered. As an adjunct, there was an adjunct union at RIT that I technically could have joined, but it was nascent and didn't have much bargaining power when I was there. The freelance work is obviously completely unprotected. No benefits, no collective bargaining, no safety net beyond what I build for myself. It's the trade-off of the freedom I wanted.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q67",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "time_limit_seconds": 40,
+      "response": "If we're counting paid work only, maybe twenty to twenty-five weeks out of the past fifty-two had some paid work in them -- a freelance gig, a workshop with a fee, that kind of thing. But most of those were just a few hours of work, not full weeks. If we're counting the unpaid work I do on my projects, grant applications, and volunteering, I work every week, all year. But in terms of work-for-pay, it's sporadic.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q68",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How many hours each week did you usually work?",
+      "time_limit_seconds": 15,
+      "response": "Paid work, maybe five to ten hours in a good week, zero in a bad one. Total including my personal projects and volunteering, I'd say thirty to forty hours. I'm always working on something -- it's just rarely for money.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q69",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "time_limit_seconds": 15,
+      "response": "No, not this past week. I was working on the graphic novel layouts and grant writing, but nothing paid.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q70",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "Not currently. When I was more active with freelancing, I'd sometimes juggle two or three small projects at once, but they weren't jobs in the traditional sense -- just separate client projects running concurrently.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q71",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "time_limit_seconds": 25,
+      "response": "One small freelance gig -- I built some infographics for a local nonprofit's annual report. That was about eight hours of work spread over two weeks. And I ran one workshop at the Rochester Brainery, but the fee for that was modest.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q72",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "For your job or occupations, how much money did you receive in the past month?",
+      "time_limit_seconds": 50,
+      "response": "The infographic project paid four hundred dollars, and the workshop brought in about a hundred and twenty after the venue's cut. So roughly five hundred and twenty dollars last month from paid work. That's actually a decent month for me -- some months it's two hundred or nothing.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q73",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "How often do you get paid?",
+      "time_limit_seconds": 25,
+      "response": "It's irregular -- project by project. The nonprofit paid me on completion, so I got a check when I delivered the final files. The workshop payment came within a week of the event. There's no regular pay schedule. I track everything in a spreadsheet.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q74",
+      "block": "OCCUPATION DETAILS",
+      "question_text": "In total, how much did your household make in the past month?",
+      "time_limit_seconds": 50,
+      "response": "It's just my income, so about five hundred and twenty from the work, plus I transferred about five hundred from savings to cover the gap. Total money available was about a thousand and twenty. That's what I had to work with for the month. The savings transfer isn't income, obviously, but it's what keeps the lights on.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q75",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "time_limit_seconds": 40,
+      "response": "Yes, I filed. I use TurboTax Self-Employed edition because of the freelance income. It's a bit of a headache because I have to track all the 1099 income, deductions for home office space, art supplies, software subscriptions, mileage to workshops and the Science Center. My effective tax rate is low because my income is low, and I usually get a small refund because of the estimated quarterly payments I make. Last year's refund was about three hundred dollars, which went straight into savings.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q76",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "time_limit_seconds": 15,
+      "response": "I don't have a traditional workplace or employer. No benefits whatsoever -- no health insurance through work, no paid time off, no sick days, no retirement contributions. Everything is self-funded. My health insurance is through the marketplace. That's been the case for about three years.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q77",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "time_limit_seconds": 15,
+      "response": "Since I don't have a traditional workplace, the closest equivalent would be my relationships with freelance clients and the maker community. Clients have generally been positive -- I deliver quality work and I communicate clearly. The maker community is wonderful -- collaborative, supportive, non-hierarchical. No boss, no coworkers in the conventional sense, but a network of peers I respect.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q78",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "time_limit_seconds": 80,
+      "response": "Maximum flexibility, minimum predictability -- that's the deal. I set my own hours entirely, which sounds ideal until you realize that means there's no external structure to lean on. When a freelance gig comes in, I work on the client's timeline, but otherwise I set my own priorities. The flexibility is what I need for my health -- I can take a slow morning when I haven't slept, I can take a break for a long hike when the weather's good. But the unpredictability of income means I can never fully relax into the flexibility. It's a strange kind of freedom that comes with a constant undercurrent of worry. Am I working enough? Am I working on the right things? Should I be pitching more clients instead of painting? Those questions are always running in the background.",
+      "follow_ups": [
+        {
+          "question": "If you could design the ideal work structure for yourself, what would it look like?",
+          "response": "Part-time anchor plus creative freedom. Something like teaching two courses a semester at a university -- enough to cover the basics with benefits -- and the rest of the week for my own projects. Or the makerspace running with enough revenue that I'm teaching three workshops a week, doing admin one day, and having two days for personal creative work. The key is a predictable baseline income that takes the survival anxiety off the table, combined with enough autonomy that I'm not in a cubicle watching the clock. I had a taste of that balance during the lab years, and it was the most productive and stable I've ever been."
+        }
+      ]
+    },
+    {
+      "question_id": "Q79",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "time_limit_seconds": 15,
+      "response": "That hasn't been a factor for me since I don't have children. My constraints around work are more about my own health patterns and the mismatch between what I do well and what the traditional job market rewards.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q80",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "time_limit_seconds": 25,
+      "response": "No, I don't. I looked into some programs when things were especially tight last year, but my savings put me above the asset limits for most of them. It's this frustrating middle zone where you have enough saved that you don't qualify for assistance, but you're spending it down fast enough that you can see the cliff coming. I do get the marketplace health insurance subsidy, which brings my premium down from what it would be at full price. That's the only government benefit I receive.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q81",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "time_limit_seconds": 50,
+      "response": "Last November and December were rough -- I had zero freelance income for about six weeks. The holiday season isn't great for my kind of work; organizations are closing out budgets, not starting new projects. I cut everything nonessential: no dining out, no art supply purchases, I even paused my Spotify subscription. I cooked almost exclusively from pantry staples -- rice, beans, pasta, whatever vegetables were cheap at Aldi. I sold a couple of paintings through the Makers' Row holiday craft fair, which brought in about three hundred. And I dipped into savings more heavily than usual. By January I was back to a trickle of income, but those two months were tight enough that I felt the stress physically -- the jaw clenching was at its worst, and my sleep cratered.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q82",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "time_limit_seconds": 50,
+      "response": "I could cover it from savings, but it would hurt. Four hundred dollars is almost a month's gap funding for me -- it would mean my savings clock moves forward by a month. Emotionally, a surprise four-hundred-dollar expense would send me into a mini-spiral. I'd have a night of bad sleep, do some catastrophic math in my head, and then transfer the money and try to move on. If my savings were depleted and I couldn't cover it, I'd probably call Greta or my parents, which would be deeply uncomfortable. I've been fortunate that it hasn't come to that yet, but I can feel that possibility getting closer.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q83",
+      "block": "WORKPLACE & TAXES",
+      "question_text": "Overall, how do you feel about your financial situation?",
+      "time_limit_seconds": 105,
+      "response": "It's the thing that keeps me up at night more than anything else. I feel like I'm running a controlled experiment in how long someone can survive on passion and savings before the math becomes untenable. The rational part of me knows I need to either generate more income or reduce expenses, and the creative part of me keeps saying 'just a little more time and the makerspace will work.' I oscillate between those two voices constantly.\n\nWhat makes it especially hard is that I chose this. Nobody forced me out of the workforce -- I stepped out because the cycle of burnout was destroying me. So there's no one to blame, which means all the frustration turns inward. Why can't I just function in a normal job? Why did I have to pick the financially riskiest possible path? Those questions are unproductive but persistent.\n\nThe silver lining is that Rochester is affordable enough that my savings stretch further than they would in most cities. And I've gotten very good at living lean -- I cook, I don't buy much, I find free entertainment. The financial situation is objectively precarious, but I've built enough of a routine around frugality that it doesn't feel like crisis mode on a daily basis. It's more like a low-grade chronic condition -- always there, usually manageable, occasionally debilitating.",
+      "follow_ups": [
+        {
+          "question": "What would financial security look like for you?",
+          "response": "Honestly? Thirty-six thousand dollars a year and employer health insurance. That's it. That would cover my current expenses with a little left over for savings. It's not a lavish number. It's what a first-year teacher makes. But it would mean I could stop the countdown clock in my head and actually focus on building something without the constant survival calculus. The makerspace, if it works at a modest scale, could generate that. Or a part-time teaching position with benefits. Either one would transform my mental state as much as any meditation practice."
+        }
+      ]
+    },
+    {
+      "question_id": "Q84",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "time_limit_seconds": 40,
+      "response": "Divorced. The divorce was finalized about six years ago. I'm not currently living with a romantic partner and I'm not in a relationship. I date casually -- I'm on Hinge -- but nothing has developed into anything serious since the divorce.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q85",
+      "block": "DEMOGRAPHICS",
+      "question_text": "For our records, we also need your date of birth. Could you please provide that?",
+      "time_limit_seconds": 25,
+      "response": "October 14th, 1976.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q86",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "time_limit_seconds": 25,
+      "response": "Yes, I was born in the United States. Born and raised right here in Rochester.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q87",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What city and state were you born in?",
+      "time_limit_seconds": 25,
+      "response": "Rochester, New York.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q88",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "time_limit_seconds": 15,
+      "response": "No.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q89",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What race or races do you identify with?",
+      "time_limit_seconds": 15,
+      "response": "White. German-Irish background.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q90",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What is the highest degree or grade you've completed?",
+      "time_limit_seconds": 15,
+      "response": "Master's degree. I did my undergrad in applied mathematics at RIT and my master's in computational science at the University of Rochester.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q91",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Are you enrolled in school?",
+      "time_limit_seconds": 15,
+      "response": "No, not currently enrolled.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q92",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you been enrolled in school during the past 3 months?",
+      "time_limit_seconds": 15,
+      "response": "No.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q93",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "time_limit_seconds": 15,
+      "response": "No, I have not.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q94",
+      "block": "DEMOGRAPHICS",
+      "question_text": "What religion do you identify with, if any?",
+      "time_limit_seconds": 15,
+      "response": "I was raised going to church, but I don't actively practice anymore. I'd say I'm not really affiliated with any particular tradition at this point. I still go with my parents on the big holidays, but that's more about family than belief.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q95",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "time_limit_seconds": 80,
+      "response": "I tend to vote for candidates who support the things I care about -- education, the arts, environmental protection, healthcare access. If you look at my voting record, it's consistently in one direction, but I don't carry a party card or attend any party meetings. I'd say I lean strongly in that direction but I don't define myself by party membership. I've voted for the occasional candidate from outside my usual lean in local races when they had better ideas on specific issues. I think of myself as issue-driven rather than party-driven, though the issues I care about tend to cluster pretty clearly.",
+      "follow_ups": [
+        {
+          "question": "Has that always been the case, or was there a time when you identified more strongly with a party?",
+          "response": "In my twenties and thirties I was more ardently partisan. I volunteered for campaigns, put up yard signs, the whole thing. As I've gotten older and especially since leaving the workforce, I've become more cynical about party machinery and more focused on what actually gets done at the local level. The city council races in Rochester affect my daily life more than the national stage, and at the local level, party affiliation sometimes matters less than competence and community connection."
+        }
+      ]
+    },
+    {
+      "question_id": "Q96",
+      "block": "DEMOGRAPHICS",
+      "question_text": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "time_limit_seconds": 50,
+      "response": "Closer to the Democratic Party, without question. The issues I prioritize -- healthcare, education, arts funding, environmental policy, social equity -- align much more with that platform. But I have frustrations with the party too. I think they're often better at messaging than delivering, and the bureaucratic inefficiency I see in grant processes and government programs sometimes makes me sympathize with the conservative critique, even if I disagree with the proposed solutions. I'd call myself a critical ally rather than a loyal partisan.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q97",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was the city and state that you lived in when you were 16 years old?",
+      "time_limit_seconds": 25,
+      "response": "Rochester, New York. Same house in Brighton that my parents still live in.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q98",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did you live with both your own mother and father when you were 16?",
+      "time_limit_seconds": 25,
+      "response": "Yes, I lived with both of them. Mom, Dad, and my sister Greta, who would have been eleven at the time.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q99",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Who else did you live with?",
+      "time_limit_seconds": 25,
+      "response": "Just my immediate family -- Mom, Dad, and Greta. We had a dog for a while, a German Shepherd named Fritz, but that's it for household members.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q100",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your dad completed?",
+      "time_limit_seconds": 15,
+      "response": "Dad finished high school and then did a trade certificate -- a two-year program in tool and die making. He went straight into the workforce after that.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q101",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What's the highest degree or grade your mom completed?",
+      "time_limit_seconds": 15,
+      "response": "Mom got an associate degree in health information management from Monroe Community College. She was proud of that -- she went back to school after Greta started kindergarten.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q102",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your mom work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, she worked for most of my childhood. She was at Strong Memorial Hospital for over twenty years.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q103",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "She was a medical records clerk, which later got fancier titles as the system went digital -- health information technician, something like that. Her main duties were organizing and maintaining patient files, making sure records were complete and accurate, coding diagnoses and procedures for billing, and later helping with the transition from paper to electronic health records in the mid-2000s. She was meticulous -- very detail-oriented, good with systems. I think I get some of my spreadsheet tendencies from her, actually.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q104",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "time_limit_seconds": 50,
+      "response": "Strong Memorial Hospital, which is part of the University of Rochester Medical Center. It's a major research hospital and trauma center -- one of the biggest employers in the Rochester area. They do everything from primary care to specialized surgery to medical research. It's an enormous institution. Mom spent her whole career there and retired about five years ago with a decent pension, which has been a stabilizing force for my parents' finances.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q105",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "Did your dad work for pay for at least a year while you were growing up?",
+      "time_limit_seconds": 15,
+      "response": "Yes, my entire childhood. He was a working man through and through.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q106",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "time_limit_seconds": 50,
+      "response": "He was a tool and die maker -- precision machining. His work involved reading engineering blueprints, setting up and operating machines like lathes and milling machines, creating the tools, dies, and molds used to manufacture parts. Tolerances had to be incredibly tight, sometimes to a thousandth of an inch. He was proud of his craft -- he could look at a blueprint and visualize the finished piece, and his hands could produce it to spec. It was skilled, physical, detail-oriented work. He came home tired every day but with this quiet satisfaction that I envied as a kid.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q107",
+      "block": "CHILDHOOD & PARENTS",
+      "question_text": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "time_limit_seconds": 50,
+      "response": "He worked at a manufacturing plant in the Kodak orbit -- not Kodak directly, but a supplier. The company made precision components for optical and imaging equipment. They also did contract manufacturing for other industries -- automotive parts, medical devices. It was a mid-size shop, maybe a hundred employees. The Rochester manufacturing sector was much bigger in the eighties and nineties, and Dad was part of that ecosystem. The company downsized significantly in the 2000s as manufacturing moved overseas, and Dad took early retirement around 2012. He was one of the lucky ones who got out with a pension.",
+      "follow_ups": []
+    },
+    {
+      "question_id": "Q108",
+      "block": "HOPES & VALUES",
+      "question_text": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "time_limit_seconds": 155,
+      "response": "The big dream is the makerspace. I picture a physical space in Rochester -- maybe in the South Wedge or the Neighborhood of the Arts -- with workbenches, 3D printers, a screen-printing setup, computers loaded with creative coding software, and a little gallery wall for showing work. A place where a retired engineer and a fifteen-year-old artist can be at adjacent stations and learn from each other. I'd run workshops there, bring in guest facilitators, host open-build nights. The graphic novel series would launch from there -- I'd have a corner of the space dedicated to illustration, and maybe I could run a small press operation for community-produced zines and art books.\n\nFinancially, I hope to be stable. Not wealthy, just stable. I want the countdown clock in my head to stop. I want to go to the doctor when I need to without doing the math first. I want to contribute to retirement again. I want to take my niece and nephew on a trip to the Adirondacks without worrying about the gas money.\n\nPersonally, I hope to be less alone. I'm not necessarily hoping for a romantic partner, though I wouldn't rule it out. More than that, I want a community around me that I've helped build -- people who come to the makerspace, students I've mentored, collaborators on interdisciplinary projects. I want to feel like what I do matters to people beyond just me.\n\nAnd I want to keep making things. Paintings, code, music, workshops, the graphic novel. As long as I'm making things, I feel like I'm alive in a way that nothing else replicates. The hope is that eventually, the making and the living and the earning all align. They haven't yet, but I'm not done trying.",
+      "follow_ups": [
+        {
+          "question": "What's the first concrete step you're taking toward the makerspace?",
+          "response": "I have a business plan draft that's about seventy percent done. I'm working on cost projections for equipment and lease space. I've identified three possible locations and I've talked to two landlords informally. The next step is the grant application -- there's a community development grant through Monroe County that I'm targeting with a submission deadline in June. I'm also going to do a series of pop-up workshops in different venues around Rochester over the summer to build an audience and prove demand. Each of those steps makes me feel both closer to the goal and more terrified that it won't work. But the alternative is doing nothing, and I know where that leads."
+        },
+        {
+          "question": "If the makerspace doesn't work out, what's your backup plan?",
+          "response": "I've thought about this at three a.m. more times than I'd like to admit. The backup is probably trying to get back into adjunct teaching, or looking for a part-time data analyst position with a flexible employer. Some of the local nonprofits hire part-time data people. It wouldn't be the dream, but it would stop the bleeding. Greta has also floated the idea of me doing data management work for the hospital system where she works in Syracuse, which would mean moving, which would mean leaving Rochester and everything I've built here. I don't want to think about that yet. But the option exists."
+        }
+      ]
+    },
+    {
+      "question_id": "Q109",
+      "block": "HOPES & VALUES",
+      "question_text": "What do you value the most in your life?",
+      "time_limit_seconds": 80,
+      "response": "Creation. The act of making something that didn't exist before -- a painting, a piece of code, a workshop experience, a D&D campaign. That's the core of who I am. Everything else -- the anxiety, the financial stress, the loneliness -- is context. The creation is the text.\n\nClose behind that is connection. Not broad social connection -- I'm not a networker or a schmoozer. I mean the deep, specific connections: Marcus bringing pad thai when I'm falling apart, Milo's face when his Arduino circuit works, a kid at the Science Center understanding for the first time how light bends. Those moments of genuine contact between people are what make the rest of it bearable.\n\nAnd learning. I have to be learning something or I feel like I'm dying. Last week I was reading about quantum entanglement for the graphic novel research, and I got that electric feeling in my chest -- the good kind, not the anxious kind. That feeling of encountering a new idea and feeling your understanding of the world shift slightly. I want to keep having that for the rest of my life.\n\nIf I can create, connect, and learn, I can handle the rest of it. The days when all three happen are the best days I have.",
+      "follow_ups": [
+        {
+          "question": "Of those three, which one are you most afraid of losing?",
+          "response": "Connection. Creation and learning I can do alone -- I've proven that during the worst stretches. But without the people who anchor me, the creation becomes hollow and the learning becomes escapism. Marcus, Greta, my parents while they're still here, the community I'm trying to build -- if that scaffolding collapsed, I don't know what I'd do. That fear is probably why I treat my social commitments as non-negotiable even when I want to cancel. Every Thursday D&D night and every Monday improv rehearsal is an act of defiance against the part of me that wants to disappear into my apartment and never come out."
+        }
+      ]
+    }
+  ],
+
+  "extracted_profile": {
+    "participant_id": "e7035edf5bc744c9912694a7d4b2a99c",
+    "name": "Julio Simmons",
+    "age": 49,
+    "gender": "Male",
+    "marital_status": "divorced",
+    "location": "Rochester, NY 14618",
+    "education": "Master's degree in Computational Science (University of Rochester); B.S. in Applied Mathematics (RIT)",
+    "occupation": "Not in workforce; occasional freelance data visualization/creative coding; workshop facilitator",
+
+    "preferences": {
+      "health_and_wellness": {
+        "summary": "Active outdoorsman who manages cyclical stress-related physical symptoms through structured routines including meditation, exercise, and acupuncture.",
+        "details": [
+          "Daily 20-minute guided meditation using Insight Timer app (body-scan preferred during difficult periods)",
+          "Uses a full-spectrum light therapy lamp 30 minutes every morning October through April",
+          "Takes glucosamine for knee pain, fish oil for blood pressure, vitamin D in winter",
+          "Monitors blood pressure at home with wrist cuff (typically ~135/85)",
+          "Wears a custom night guard for jaw clenching/grinding",
+          "Visits acupuncturist on Monroe Avenue for jaw tension and headaches (~$60/session, a few times per year)",
+          "Keeps a daily mood and sleep journal (1-10 rating plus notes)",
+          "Low-dose prescription medication for sleep and racing thoughts (started ~2 years ago, $30/month)",
+          "Marketplace silver-tier health insurance ($450/month premium)",
+          "Reduced sodium intake; switched snacking from crackers/cheese to carrots/hummus"
+        ],
+        "evidence": "Q31, Q32, Q33, Q37, Q39, Q45"
+      },
+      "food_and_dining": {
+        "summary": "Experimental home cook who sources local ingredients and treats cooking as a creative practice, with budget-conscious fallbacks during lean periods.",
+        "details": [
+          "Shops weekly at Rochester Public Market and Finger Lakes farmers' market for produce and eggs",
+          "Specialty pantry items: agar-agar, kelp powder, fresh herbs, miso, Sichuan peppercorns",
+          "Signature dishes: miso-glazed black cod, sous-vide duck breast with cherry-balsamic reduction, homemade Sichuan pepper chocolate truffles",
+          "Sources heirloom tomatoes from local farms",
+          "Falls back to rice, beans, pasta, and Aldi vegetables during financially tight months",
+          "Brunch at South Wedge Diner after Saturday frisbee games",
+          "Reduced meat consumption to a few times per week (environmental motivation)",
+          "Occasional glass of wine while cooking; Genny Cream Ale at D&D nights"
+        ],
+        "evidence": "Q15, Q38, Q56, Q81, Q10"
+      },
+      "travel": {
+        "summary": "Regional traveler with purposeful, curiosity-driven trips constrained by budget; prefers nature and maker/art destinations.",
+        "details": [
+          "Frequent hiker in the Finger Lakes region, especially Watkins Glen trails",
+          "Explored Adirondack park remote cabins",
+          "Weekend trip to Portland, Maine for maker festivals",
+          "Visited MoMA immersive art installations in NYC",
+          "Visits sister in Syracuse every couple of months",
+          "Wish list: Kyoto art cafes, Burning Man",
+          "Budget constraints keep most travel regional",
+          "Drives a Subaru Outback (8 months left on payments)"
+        ],
+        "evidence": "Q01, Q05, Q08, Q108"
+      },
+      "social_and_relationships": {
+        "summary": "Deeply values a small, tight-knit social circle; treats scheduled social commitments as critical anchors against isolation.",
+        "details": [
+          "Best friend Marcus (from grad school): D&D every other Thursday, emotional lifeline",
+          "Close friend Priya (Fringe Festival): improv troupe, creative collaborator",
+          "Co-ed ultimate frisbee league: close with Derek and Lena",
+          "D&D group: Marcus, Theo (physics teacher), Jess (librarian) -- Julio is DM",
+          "Sunday dinners with parents Karl and Eileen in Brighton",
+          "Wednesday phone calls with mother",
+          "Video chats with nephew Milo about Arduino projects",
+          "On Hinge but struggles with follow-through after dates due to post-date rumination cycles",
+          "Treats social commitments as non-negotiable: 'like taking medication'"
+        ],
+        "evidence": "Q05, Q07, Q11, Q15, Q44, Q109"
+      },
+      "home_and_lifestyle": {
+        "summary": "Lives alone with a cat in a modest rental, maintaining a structured but flexible domestic routine oriented around creative work.",
+        "details": [
+          "Rents upper floor of two-family house ($950/month) in Brighton/14618",
+          "Landlord Mr. Petrosian downstairs -- quiet, reliable, exchanges pleasantries",
+          "Orange tabby cat Oliver adopted from Lollypop Farm ~3 years ago",
+          "Home office/studio at desk; meditation corner with cushion and candle",
+          "Stationary bike in living room for winter exercise",
+          "Walks to Twelve Corners library twice a week for focused work",
+          "Pomodoro timer for productivity; spreadsheets for budgeting, candidate research, tracking",
+          "Frugal: no credit card (deliberate), pauses subscriptions when tight"
+        ],
+        "evidence": "Q08, Q11, Q15, Q56, Q58, Q60"
+      },
+      "entertainment": {
+        "summary": "Prefers independent and cerebral media; reads speculative fiction and popular science; watches nature documentaries and independent films.",
+        "details": [
+          "Reads speculative fiction (Ursula K. Le Guin's The Dispossessed recently reread)",
+          "Reads popular science books (quantum physics research for graphic novel)",
+          "Independent film screenings",
+          "Nature documentaries (Planet Earth as comfort viewing)",
+          "Graphic novels (browses library's collection regularly)",
+          "Influences: Brian Eno (ambient music), Yayoi Kusama, Alan Moore",
+          "Listens to NPR mornings, Code Switch podcast",
+          "Kurzgesagt YouTube for science communication"
+        ],
+        "evidence": "Q01, Q44, Q48, Q50"
+      },
+      "hobbies_and_recreation": {
+        "summary": "Prolific creative hobbyist spanning visual art, music composition, improv theater, tabletop gaming, and puzzle-solving.",
+        "details": [
+          "Acrylic landscape painting inspired by Finger Lakes (completed a series in past year)",
+          "Digital illustration using p5.js and Processing",
+          "Experimental ambient music on modular synthesizer (Brian Eno influence)",
+          "Improv theater with Rochester Fringe troupe (Monday night rehearsals, Avenue Blackbox Theatre)",
+          "Dungeon Master for biweekly D&D campaign (~2 years running, elaborate world-building)",
+          "Tabletop RPG sessions every other Thursday at Marcus's house",
+          "Puzzle-solving: escape rooms and advanced Sudoku",
+          "Creative coding as both hobby and professional skill"
+        ],
+        "evidence": "Q01, Q07, Q15, Q43, Q48"
+      },
+      "work_and_career": {
+        "summary": "Former adjunct and freelancer building toward a community makerspace; driven by interdisciplinary mission but constrained by financial precarity.",
+        "details": [
+          "Last steady employment ~3 years ago (freelance data visualization)",
+          "Former adjunct at RIT: Intro to Computational Modeling, Creative Coding elective",
+          "Current freelance: $500-800/month variable, project-based",
+          "Runs occasional workshops at Rochester Brainery ($100-120 per session)",
+          "Developing business plan for community makerspace (70% complete)",
+          "Working on grant application for quantum physics graphic novel series",
+          "Mentors RIT students informally over coffee",
+          "Portfolio website exists but unupdated for over a year",
+          "Skills: Python, MATLAB, R, p5.js, Processing, D3, Max/MSP, scientific writing"
+        ],
+        "evidence": "Q16, Q65, Q71, Q72, Q78, Q108"
+      },
+      "arts_and_culture": {
+        "summary": "Deeply embedded in Rochester's cultural scene; attends galleries, museums, and live performances; sees art and science as inseparable.",
+        "details": [
+          "Attends Eastman School concerts and Memorial Art Gallery exhibitions",
+          "Active participant in Rochester Fringe Festival (performs improv, showed interactive installations)",
+          "Visits George Eastman Museum",
+          "Participated in Dr. Tanaka's experimental art-science lab (post-grad school)",
+          "Creating a quantum-physics graphic novel series (illustration + narrative)",
+          "Influences: Yayoi Kusama (surrealism), Alan Moore (graphic narrative), Brian Eno (ambient textures)",
+          "Plans gallery shows for data-driven art installations",
+          "Attended local author talks at Twelve Corners library"
+        ],
+        "evidence": "Q01, Q02, Q10, Q43, Q65, Q108"
+      },
+      "sports_and_fitness": {
+        "summary": "Regular participant in group and individual physical activities; fitness serves both physical health and mental stability.",
+        "details": [
+          "Co-ed ultimate frisbee league at South Wedge Park (Saturday mornings)",
+          "Summer community cycling group on Erie Canal towpath (April-October, Sunday mornings)",
+          "Avid hiker: Watkins Glen, Finger Lakes region trails",
+          "Stationary bike at home during winter months",
+          "Follows Rochester Red Wings (minor league baseball) and Rochester Americans (hockey)",
+          "Competitive edge: tracks cycling lap times, pushes for improvement"
+        ],
+        "evidence": "Q05, Q15, Q18, Q31, Q32"
+      },
+      "nature_and_outdoors": {
+        "summary": "Finds the Finger Lakes region spiritually and creatively restorative; hiking is a primary coping mechanism and artistic inspiration.",
+        "details": [
+          "Weekly hiking during warmer months, primarily Finger Lakes region",
+          "Watkins Glen trails are a favorite destination",
+          "Finger Lakes landscapes inspire acrylic paintings",
+          "Erie Canal towpath for cycling",
+          "Explored Adirondack park remote cabins",
+          "Experiences transcendence in natural settings ('borders on sacred')",
+          "Attentive to environmental changes: shifting growing seasons, invasive species in lakes, storm frequency"
+        ],
+        "evidence": "Q10, Q15, Q24, Q47, Q108"
+      },
+      "technology": {
+        "summary": "Proficient across multiple programming languages and creative coding platforms; uses technology as both tool and artistic medium.",
+        "details": [
+          "Primary languages: Python, MATLAB, R",
+          "Creative coding: p5.js, Processing, Max/MSP",
+          "Data visualization: D3.js",
+          "Uses modular synthesizer for music composition",
+          "Light therapy lamp, blood pressure monitor (wrist cuff)",
+          "Insight Timer app for meditation",
+          "Pomodoro timer for productivity",
+          "Set 30-minute daily screen time limits on social media apps",
+          "Arduino projects with nephew Milo",
+          "TurboTax Self-Employed for tax filing"
+        ],
+        "evidence": "Q15, Q16, Q18, Q31, Q48, Q65"
+      },
+      "community_and_civic": {
+        "summary": "Engaged community volunteer and civic participant who votes in every election and contributes through STEM outreach and maker community building.",
+        "details": [
+          "Volunteers at Rochester Museum & Science Center STEM outreach (~twice monthly)",
+          "Pushed for outreach pop-ups in underserved neighborhoods (Beechwood, Northeast)",
+          "Active in Maker's Row Rochester monthly meetups",
+          "Offers scholarship spots in workshops for those who cannot afford fees",
+          "Votes in every election (federal, state, local, school board)",
+          "Researches candidates via League of Women Voters guide, local journalism",
+          "Small donations to local candidates and Rochester Environmental Action League",
+          "Has done phone banking for local elections (despite discomfort)",
+          "Workshop facilitator at Rochester Brainery"
+        ],
+        "evidence": "Q17, Q23, Q24, Q26, Q29, Q65"
+      },
+      "music": {
+        "summary": "Composes experimental ambient music on modular synth; listens to a range from ambient to eclectic; uses music as emotional regulation tool.",
+        "details": [
+          "Composes ambient textures on modular synthesizer (Brian Eno influence)",
+          "Listens to Brian Eno records to reset during stress spirals",
+          "Appreciates Rochester's live music scene",
+          "Had Spotify subscription (paused during financial crunch, reinstated)",
+          "Musical composition is part of broader creative practice alongside visual art and coding"
+        ],
+        "evidence": "Q01, Q05, Q43, Q81"
+      },
+      "fashion_and_appearance": {
+        "summary": "Minimal attention to fashion; pragmatic and low-key in personal presentation.",
+        "details": [
+          "Noted wearing the same sweatshirt for four days during a low period",
+          "Dresses up enough to leave the house for social commitments",
+          "No evidence of strong fashion preferences or spending on appearance"
+        ],
+        "evidence": "Q33"
+      }
+    },
+
+    "summaries": {
+      "demographer": "Julio Simmons is a 49-year-old white male of German-Irish descent, born and raised in Rochester, NY (14618/Brighton area). He holds a master's degree in computational science from the University of Rochester and a B.S. in applied mathematics from RIT, placing him in the upper tier of educational attainment. Despite this, he is currently not in the workforce, having left steady employment approximately three years ago due to cyclical burnout. He is divorced (finalized ~6 years ago), lives alone, and has no children. His household is a single-person rental unit at $950/month. His parents (mid-70s) are nearby in Brighton; his sister (44) lives in Syracuse with her family. His socioeconomic trajectory represents downward mobility relative to his educational credentials: he draws down savings to supplement sporadic freelance income of $500-800/month, placing his effective household income well below the poverty threshold for Monroe County despite his professional qualifications. He represents a growing demographic of highly educated individuals who have exited the traditional labor market due to misalignment between their skill profiles and available employment structures.",
+
+      "behavioral_economist": "Julio exhibits classic present-bias in his career decisions, consistently choosing intrinsically rewarding creative work over financially optimal alternatives (turning down the Boston job, choosing the unfunded lab, leaving the workforce). His loss aversion manifests not around financial losses per se, but around identity loss -- he would rather deplete savings than take a job that compromises his interdisciplinary identity. He shows sophisticated self-awareness of his behavioral patterns (tracking mood, sleep, spending in spreadsheets) but limited ability to override them. His financial decision-making is risk-tolerant on the income side (accepting irregular freelance income) but risk-averse on the debt side (no credit card, paid off student loans). He engages in mental accounting that separates 'survival money' from 'project money' and shows strong reciprocity norms (bartering, offering scholarship spots). His consumption patterns are highly responsive to emotional state -- he defaults to cheap comfort food during low periods and invests in quality local ingredients during stable periods. His time preferences are unusual: he can delay gratification on large goals (makerspace, graphic novel) but struggles with impulse control during creative flow states, sacrificing sleep and meals for immediate creative satisfaction.",
+
+      "political_scientist": "Julio is a consistent voter across all election levels with strong civic engagement habits including candidate research, small-dollar donations, and occasional phone banking. He leans strongly toward the Democratic Party but identifies as issue-driven rather than partisan, with primary concerns in education funding, environmental policy, healthcare access, and arts funding. His political orientation reflects progressive Midwestern values inherited from his Rochester upbringing, modulated by personal experience of economic precarity that has made him more empathetic to those who feel left behind by institutions. He exhibits moderate institutional skepticism, particularly toward bureaucratic grant processes, but maintains trust in scientific institutions (CDC, peer-reviewed research). His civic participation extends beyond voting to community-level action: STEM outreach in underserved neighborhoods, workshop scholarships, and advocacy within his volunteer organizations. He is attentive to racial equity issues and has taken concrete, if modest, steps to address them within his sphere of influence. His political engagement has shifted from partisan activism in his youth toward localized, pragmatic community building.",
+
+      "psychologist": "Julio presents a complex behavioral profile characterized by high Openness (voracious intellectual curiosity, comfort with abstraction, aesthetic sensitivity), moderate-to-high Conscientiousness in structured domains (spreadsheet tracking, research rigor) but poor self-regulation under emotional distress, moderate Extraversion (values deep connection but becomes depleted by crowds and social unpredictability), low-to-moderate Agreeableness (competitive streak, critical self-evaluation, willingness to disagree), and notably low Emotional Stability (chronic somatic stress responses, ruminative thought patterns, catastrophic thinking under uncertainty). His coping architecture relies on a carefully maintained scaffold of external commitments (D&D, improv, frisbee, Sunday dinners) that serve as forced behavioral activation against withdrawal tendencies. He uses intellectualization and data-tracking as emotion regulation strategies, which are partially effective but can become avoidant when applied to existential concerns (retirement planning, relationship vulnerability). His self-concept is organized around the identity of 'maker/creator,' and threats to this identity (grant rejection, financial inability to create) produce the most severe emotional dysregulation. His relational pattern shows secure attachment to a small inner circle but avoidant tendencies in romantic contexts, likely linked to the divorce and reinforced by ruminative post-interaction processing. Creativity and flow states function as both his greatest resource and his greatest vulnerability, as they can trigger unsustainable intensity cycles followed by depletion."
+    },
+
+    "others_misc": {
+      "cultural_and_linguistic": {
+        "description": "Languages, cultural practices, religious/spiritual observance patterns, heritage markers",
+        "items": [
+          "German-Irish heritage with specific cultural practices (grandmother's sauerkraut tradition, Irish Christmas gatherings)",
+          "German family apple cake recipe maintained across generations",
+          "Raised attending church on East Avenue; attends Christmas Eve and Easter services with parents",
+          "Secular spirituality expressed through nature (hiking as transcendence) and creative flow states",
+          "Eight-week mindfulness course at Zen Center on Arnold Park Boulevard (~5 years ago)",
+          "Mother lights candles for him at church",
+          "English only; no indication of other language proficiency",
+          "Dog named Fritz (childhood, German Shepherd) reflects German heritage naming"
+        ]
+      },
+      "life_events_and_transitions": {
+        "description": "Significant past or anticipated events that shape current behavior",
+        "items": [
+          "Chose unfunded art-science lab over stable Boston job offer (post-grad school) -- foundational career decision",
+          "Lab closure when Dr. Tanaka left the university -- loss of ideal work environment",
+          "Divorce from Diana finalized ~6 years ago after 8-year marriage",
+          "Left workforce ~3 years ago due to cyclical burnout",
+          "Three-week functional shutdown in January-February 2026; sister intervened",
+          "Major grant rejection (40+ page application, zero feedback) -- identity-level blow",
+          "Father's declining mobility (cane use, potential knee revision surgery)",
+          "Adopted cat Oliver ~3 years ago coinciding with workforce exit",
+          "Cracked molar from jaw grinding (~18 months ago, $1,200 crown)"
+        ]
+      },
+      "sensory_and_physical_context": {
+        "description": "Non-clinical physical factors: chronic pain, mobility, sleep, dietary practices tied to non-preference reasons",
+        "items": [
+          "Chronic jaw clenching/grinding requiring night guard; cracked molar history",
+          "Tension headaches from base of skull to temples, correlated with stress",
+          "Knee pain/clicking after hiking injury at Watkins Glen (untreated)",
+          "Sleep disturbance: racing thoughts, 3-4 hour nights during bad stretches",
+          "Weight fluctuates ~10 lbs seasonally (winter gain, summer loss)",
+          "Borderline blood pressure (~135/85)",
+          "Energy and motivation significantly affected by Rochester winters (short days, gray skies)",
+          "Physical tension response to crowds, unpredictable environments, and scrutiny"
+        ]
+      },
+      "media_and_information_diet": {
+        "description": "News sources, social media platforms, entertainment formats, information-seeking behavior",
+        "items": [
+          "NPR (morning radio), Code Switch podcast",
+          "ProPublica, Ars Technica (science), STAT News (health)",
+          "Democrat and Chronicle, Rochester Beacon, Finger Lakes Times (local)",
+          "Twitter/X: follows Rochester For All, policy accounts, epidemiologists, data viz professionals",
+          "Instagram: posts art, follows artists/creative coders/makerspaces (30-min daily limit)",
+          "Facebook: minimal use, Rochester Makers group page",
+          "Reddit: r/creativecoding, r/dataisbeautiful, r/tabletopRPG",
+          "Discord: creative coding server (~200 active members), D&D homebrew server",
+          "YouTube: Kurzgesagt for science communication",
+          "PubMed for primary research literature",
+          "League of Women Voters guide for election research",
+          "Books: Ta-Nehisi Coates, Ibram X. Kendi, Richard Rothstein (The Color of Law), Ursula K. Le Guin"
+        ]
+      },
+      "technology_and_tool_use": {
+        "description": "Device preferences, app usage, digital communication norms",
+        "items": [
+          "Laptop as primary work device (coding, grant writing, illustration)",
+          "Insight Timer app for guided meditation",
+          "Pomodoro timer for focus sessions",
+          "Hinge dating app",
+          "Blood pressure wrist cuff monitor",
+          "Light therapy lamp (daily October-April)",
+          "TurboTax Self-Employed",
+          "M&T Bank app (checked monthly for budget spreadsheet)",
+          "Portfolio website (exists but unupdated >1 year)",
+          "Moved social media apps off phone home screen; set 30-min daily limits",
+          "Prefers Discord for community interaction over broadcast social media"
+        ]
+      },
+      "unresolved_or_ambiguous": {
+        "description": "Information that could not be confidently assigned to preferences or summaries",
+        "items": [
+          {
+            "content": "Seed data mentions 'competitive drive' and desire to 'position themselves as a thought-leader' but interview voice is more self-deprecating and uncertain; competitive streak mentioned but not dominant",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Tension between seed professional_persona's confident framing and interview's more vulnerable, self-doubting presentation; may reflect public vs private self"
+          },
+          {
+            "content": "Seed uses they/them pronouns in professional_persona and sports_persona but he/him in cultural_background and career_goals; interview consistently uses he/him",
+            "candidate_owner": "demographer",
+            "reason_unresolved": "Pronoun inconsistency in seed data; interview defaulted to he/him based on 'sex: Male' field and cultural_background text"
+          },
+          {
+            "content": "Exact nature of prescription medication not specified in interview (behavioral description only per protocol rules)",
+            "candidate_owner": "psychologist",
+            "reason_unresolved": "Deliberately omitted clinical specifics per behaviors-never-labels rule; likely an anxiolytic or SSRI based on described effects on sleep and racing thoughts"
+          },
+          {
+            "content": "Seed mentions 'mindfulness meditation to manage his anxiety' explicitly; interview describes the same practice without using the clinical term",
+            "candidate_owner": "drop",
+            "reason_unresolved": "Successfully converted to behavioral description in transcript; no residual information lost"
+          }
+        ]
+      }
+    }
+  }
+}
