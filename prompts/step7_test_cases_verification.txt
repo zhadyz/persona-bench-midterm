@@ -1,0 +1,176 @@
+SYSTEM:
+
+You are verifying test cases for the Persona-Bench benchmark. Your job is to check whether
+each test case is fair, answerable, correctly grounded, and properly calibrated.
+
+This is inspired by OpenAI's SWE-bench Verified methodology: 93 developers reviewed 1,699
+samples on two criteria (problem clarity + test correctness), using a 0-3 severity scale.
+68.3% of samples were rejected. We apply the same pattern to our benchmark.
+
+────────────────────────────────────────────────────────────────
+INPUTS
+────────────────────────────────────────────────────────────────
+
+1. TEST CASES FILE: {persona}_test_cases.json
+   - Contains 70 test cases with question, ground_truth, type, evidence_type
+
+2. CORRECTED EXTRACTED PROFILE: data/step2b_verification/{persona}_verification.json
+   - The "corrected_extracted_profile" section is the source of truth
+   - Contains: preferences (15+ categories), summaries (4 experts), others_misc (6 categories)
+
+3. RAW APP LOGS: {persona}_app_logs.json
+   - The messenger conversations + calendar events (strip metadata)
+   - This is what the LLM under test would actually see
+
+────────────────────────────────────────────────────────────────
+HOW HIDDEN FACTS ARE EXTRACTED FROM THE PROFILE
+────────────────────────────────────────────────────────────────
+
+The corrected_extracted_profile has three sections. Each contains "hidden facts" —
+specific claims about the persona that test cases should verify.
+
+1. PREFERENCES (15+ categories, e.g., health_and_wellness, food_and_dining, etc.)
+   - Each category has a "summary" and a "details" array
+   - Each item in "details" is one hidden fact
+   - Example: "Shops weekly at Rochester Public Market (Saturday mornings before frisbee)"
+   - This becomes a test case: "Where does Julio buy groceries, and what day?"
+
+2. EXPERT SUMMARIES (demographer, behavioral_economist, political_scientist, psychologist)
+   - These are dense paragraphs. Decompose each into discrete testable claims.
+   - Method: read each sentence/clause. If it makes a specific claim about the persona's
+     behavior, values, patterns, or decisions, that's a hidden fact.
+   - Example from behavioral_economist:
+     "Julio exhibits classic present-bias in career decisions, consistently choosing
+      intrinsically rewarding creative work over financially optimal alternatives"
+     → Hidden fact: prioritizes creative work over financial stability
+     → Test case: "What evidence suggests Julio prioritizes meaningful work over money?"
+   - Example from psychologist:
+     "His Conscientiousness is domain-dependent: high in structured analytical tasks
+      but markedly impaired during emotional dysregulation"
+     → Hidden fact: conscientiousness varies by context
+     → Test case: "How does Julio's productivity pattern change during stress periods?"
+   - A typical expert summary yields 5-8 discrete hidden facts.
+
+3. OTHERS_MISC (6 subcategories, each has an "items" array)
+   - cultural_and_linguistic: heritage, language, religious practices
+   - life_events_and_transitions: divorce, career exits, health crises, family changes
+   - sensory_and_physical_context: chronic pain, sleep, somatic stress responses
+   - media_and_information_diet: news sources, social media habits, trust hierarchy
+   - technology_and_tool_use: apps, devices, digital communication norms
+   - unresolved_or_ambiguous: items that couldn't be confidently categorized
+   - Each "item" is one hidden fact, same as preferences.
+
+────────────────────────────────────────────────────────────────
+VERIFICATION CRITERIA (4 checks per test case)
+────────────────────────────────────────────────────────────────
+
+For each test case, score on four criteria using the 0-3 severity scale:
+
+CRITERION 1: ANSWERABLE FROM LOGS (reverse inferability)
+  0 = Strong evidence exists in the raw app logs (multiple sources)
+  1 = Some evidence exists but thin (only 1 mention)
+  2 = Only vague/indirect evidence exists (theme present but no specifics)
+  3 = No evidence in the logs at all (unfair question — must fix or remove)
+
+  Method: Search the raw app logs for keywords related to the test case.
+  Then attempt to answer the question using ONLY the logs.
+  If you cannot answer, it's severity 2-3.
+
+CRITERION 2: GROUND TRUTH IS CORRECT
+  0 = Ground truth exactly matches the corrected extracted profile
+  1 = Ground truth is accurate but slightly incomplete
+  2 = Ground truth has a factual error or significant omission
+  3 = Ground truth contradicts the corrected extracted profile
+
+  Method: For each claim in the ground_truth field, find the corresponding
+  statement in the corrected_extracted_profile. Flag any mismatches.
+
+CRITERION 3: NOT A DUPLICATE
+  0 = Completely unique reasoning path
+  1 = Overlaps slightly with another test case but tests different aspect
+  2 = Substantially overlaps with another test case
+  3 = Effectively identical to another test case (same evidence, same answer)
+
+  Method: Compare the expected_evidence field across all test cases.
+  Flag pairs where >50% of cited evidence overlaps.
+
+CRITERION 4: DIFFICULTY IS CALIBRATED
+  0 = Type label matches actual difficulty perfectly
+  1 = Slightly miscalibrated (e.g., labeled medium but actually medium-hard)
+  2 = Significantly miscalibrated (e.g., labeled easy but requires 3+ sources)
+  3 = Completely wrong label (e.g., labeled Type 1 but requires full corpus synthesis)
+
+  Difficulty is defined by number of sources needed:
+  - Type 1 (easy): 1 source
+  - Type 2 (medium): 2 sources
+  - Type 3 (medium-hard): temporal comparison across multiple dates
+  - Type 4 (hard): 3+ sources, full corpus synthesis
+
+────────────────────────────────────────────────────────────────
+SEVERITY SCALE
+────────────────────────────────────────────────────────────────
+
+  0 = No issue
+  1 = Minor issue (keep the test case)
+  2 = Significant issue (flag for review — may need revision)
+  3 = Severe (reject or must fix before including in benchmark)
+
+A test case is "VERIFIED" if all 4 criteria score 0-1.
+A test case is "FLAGGED" if any criterion scores 2.
+A test case is "REJECTED" if any criterion scores 3.
+
+────────────────────────────────────────────────────────────────
+OUTPUT FORMAT
+────────────────────────────────────────────────────────────────
+
+{
+  "metadata": {
+    "persona": "{name}",
+    "verification_date": "YYYY-MM-DD",
+    "total_test_cases": 70,
+    "model_used": "model name",
+    "source_files": {
+      "test_cases": "{persona}_test_cases.json",
+      "profile": "data/step2b_verification/{persona}_verification.json",
+      "app_logs": "{persona}_app_logs.json"
+    }
+  },
+  "summary": {
+    "verified": N,
+    "flagged": N,
+    "rejected": N,
+    "overall_pass_rate": "X%"
+  },
+  "evaluations": [
+    {
+      "test_case_id": "TC-01",
+      "type": "type_1_simple_fact_check",
+      "criterion_1_answerable": { "score": 0, "evidence_found": "description of what was found in logs" },
+      "criterion_2_ground_truth": { "score": 0, "notes": "matches profile exactly" },
+      "criterion_3_duplicate": { "score": 0, "overlaps_with": [] },
+      "criterion_4_calibration": { "score": 0, "actual_sources_needed": 1 },
+      "verdict": "VERIFIED|FLAGGED|REJECTED",
+      "notes": "any additional observations"
+    }
+  ],
+  "recommendations": [
+    "List of actionable fixes for FLAGGED and REJECTED test cases"
+  ]
+}
+
+────────────────────────────────────────────────────────────────
+PROCESS
+────────────────────────────────────────────────────────────────
+
+1. Read the corrected_extracted_profile completely.
+2. Read the raw app logs (messenger + calendar, stripped of metadata).
+3. Read all 70 test cases.
+4. For each test case:
+   a. Score Criterion 1: search logs for evidence, attempt to answer from logs only
+   b. Score Criterion 2: compare ground_truth to profile
+   c. Score Criterion 3: check for overlap with other test cases
+   d. Score Criterion 4: count actual sources needed, compare to type label
+   e. Assign verdict: VERIFIED / FLAGGED / REJECTED
+5. Produce summary statistics and recommendations.
+6. Target: a well-constructed benchmark should have >70% VERIFIED rate.
+   If <50% are VERIFIED, the app logs likely need more concrete detail.
